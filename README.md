@@ -42,8 +42,8 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 
 ##### what this patch does
 
-This patch only replaces the original Japanese with the English translation. The developer seems to already try to include English languages that remain empty in both versions of the game.
-There might be a way to include English as a new languages natively, this is for the future version of the patch.
+This patch only replaces the original Japanese with the English translation. The developer seems to already be trying to include English language that remains empty in both versions of the game.
+There might be a way to include English as a new languages natively for a future version of the patch.
 
 
 ##### Contact 
