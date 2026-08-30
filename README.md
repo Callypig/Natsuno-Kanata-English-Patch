@@ -48,11 +48,13 @@ There might be a way to include English as a new language natively for a future 
 
 ##### Contact 
 
-I'll use my personal information for the time being, I don't really know how much engagement this game could have. If necessary, I'll create a Discord dedicated to this patch.
+I'll use my personal information for the time being, I don't really know how much engagement this game could have. If necessary, I'll create a dedicated Discord for this patch.
 
 discord: calypig
 
 
 ##### Credits
+
+you must pray for me.
 
 [Natsuno Kanata website](https://natsuno-kanata.online)
