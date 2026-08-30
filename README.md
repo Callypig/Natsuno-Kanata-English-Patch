@@ -45,3 +45,8 @@ There might be a way to include English as a new languages natively, this is for
 I'll use my personal information for the time being, I don't really know how much engagement this game could have. If necessary, I'll create a Discord dedicated to this patch.
 
 discord: calypig
+
+
+##### Credits
+
+[Natsuno Kanata website](https://natsuno-kanata.online)
