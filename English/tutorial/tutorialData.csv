@@ -1,0 +1,14 @@
+id,_message<jpn>,message<eng>,_button<jpn>,button<eng>
+story00,物語を進める<br><br>探索中に<red>エピソード進行条件</red>を満たすと、探索直後にエピソードが発生します。<br><br>また、すでにエピソード進行条件を満たしていれば、「物語」画面の右下のボタンから<red>物語を進める</red>ことができます。<br>現在のエピソード進行条件も、同じく「物語」画面の右下で確認できます。,<PLEASE_TRANSLATE>,とじる,<PLEASE_TRANSLATE>
+-,,,,
+house00,「収納棚」について<br><br>探索で見つけた荷物を、<red>収納棚</red>にしまっておくことができます。<br>探索で荷物として所持できる道具の数には限りがあるため、収納棚にしまっておくと安心です。,<PLEASE_TRANSLATE>,次へ,<PLEASE_TRANSLATE>
+house01,「クラフト」について<br><br>探索で集めた道具、食材を使って、新たな道具や料理を<red>クラフト</red>することができます。<br>クラフトのレシピの一覧は、「クラフト」ボタンから確認できます。,<PLEASE_TRANSLATE>,とじる,<PLEASE_TRANSLATE>
+-,,,,
+exproler00,「再生」について<br><br><red>エピソード</red>を選択し、<red>探索</red>に向かうことができます。<br>探索の先で、<red>エピソード進行条件</red>を満たすことでエピソードが発生します。,<PLEASE_TRANSLATE>,次へ,<PLEASE_TRANSLATE>
+exproler01,探索地について<br><br>一度訪れたことのある探索地は、<red>出発地</red>として登録され、その場所から探索を始められるようになります。<br>（ただし、一部出発地として登録されない探索地もあります）,<PLEASE_TRANSLATE>,とじる,<PLEASE_TRANSLATE>
+-,,,,
+endless00,夏の彼方<br><br>エンディング後コンテンツ「<red>夏の彼方</red>」が開放されました。<br>物語が終わっても、彼女たちの世界はこのコンピュータの中で続いていきます。<br>夏の旅路を、いつまでもともに続けることができます。,<PLEASE_TRANSLATE>,次へ,<PLEASE_TRANSLATE>
+endless01,未開放要素<br><br>「夏の彼方」では、<red>本編で未開放のエピソード</red>を見たり、<br><red>エンディング後コンテンツ専用</red>のアイテムやエピソードを収集することができます。,<PLEASE_TRANSLATE>,次へ,<PLEASE_TRANSLATE>
+endless02,キャンプ地<br><br>「夏の彼方」では、探索していると「<red>キャンプ地</red>」にたどり着くことがあります。<br>キャンプ地では、<red>ミニエピソード</red>を見ることができる「<red>蒐集品</red>」など、珍しい道具が見つかることがあります。<br>キャンプ地を巡りながら、どこまでも旅は続いていきます。,<PLEASE_TRANSLATE>,次へ,<PLEASE_TRANSLATE>
+endless03,日めくり報酬<br><br>エンディング後、1日に1度「<red>日めくり報酬</red>」が配布されます。<br>「日めくり報酬」では、毎日ランダムなアイテムを1つ受け取ることができます。<br>（「日めくり報酬」でのみ入手可能な要素はありません）,<PLEASE_TRANSLATE>,とじる,<PLEASE_TRANSLATE>
+-,,,,

@@ -1,0 +1,11 @@
+id,_name<jpn>,name<eng>,_description<jpn>,description<eng>
+chatty,お喋り好き,<PLEASE_TRANSLATE>,誰かとお喋りするのが好き。なんでもないことも、報告したり相談したりしてしまう。<br>（探索している間、<red>意見</red>を求めてくることが多くなる）,<PLEASE_TRANSLATE>
+timidity,臆病,<PLEASE_TRANSLATE>,人一倍注意深い。<br>（調べる前に<red>観察</red>することで、危険があるかどうか見分けられる）,<PLEASE_TRANSLATE>
+curiosity,好奇心,<PLEASE_TRANSLATE>,どんなものにだって興味を惹かれる。<br>（探索している間、周囲からいろんなものを自発的に<red>発見</red>できる）,<PLEASE_TRANSLATE>
+easy-going,能天気,<PLEASE_TRANSLATE>,どんなことも気にしない。<br>（<red>防御力</red>が上昇する）,<PLEASE_TRANSLATE>
+swordsman,剣道有段,<PLEASE_TRANSLATE>,背中の竹刀が何よりも手に馴染む。<br>（武器を装備していないとき、<red>攻撃力</red>が上昇する）,<PLEASE_TRANSLATE>
+tidy,整頓上手,<PLEASE_TRANSLATE>,整理整頓が得意。<br>（持てる<red>荷物</red>の数が増える）,<PLEASE_TRANSLATE>
+crafter,器用,<PLEASE_TRANSLATE>,手先が器用。<br>（探索中に材料が揃うと、<red>クラフト</red>することがある）,<PLEASE_TRANSLATE>
+courage,度胸,<PLEASE_TRANSLATE>,心の内の勇気で、積極的に探索する。<br>（探索している間、周囲からいろんなものを自発的に<red>発見</red>できる）,<PLEASE_TRANSLATE>
+collector,収集癖,<PLEASE_TRANSLATE>,いろんなものを集めるのが大好き。<br>（探索中、「荷物」として所持しているアイテムを懐に入れ、別のアイテムと<red>交換</red>することがある）,<PLEASE_TRANSLATE>
+-,,,,

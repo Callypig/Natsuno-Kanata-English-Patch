@@ -1,0 +1,13 @@
+id,_name<jpn>,name<eng>,_description<jpn>,description<eng>
+exitKey00,門の鍵,<PLEASE_TRANSLATE>,どこかの門の鍵。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+exitKey01,くすんだ鍵,<PLEASE_TRANSLATE>,どこかの鍵。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+-,,,,
+objectKey00,金庫の鍵,<PLEASE_TRANSLATE>,拾った鍵。どこかの金庫で使えるかも。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+objectKey01,電子カードキー,<PLEASE_TRANSLATE>,拾ったカード。電子ロックを解除するものらしい。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+objectKey02,奇妙なかたちの宝石,<PLEASE_TRANSLATE>,不自然なかなちの宝石。何かに使えるかも。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+objectKey03,ダイヤル錠の番号のメモ,<PLEASE_TRANSLATE>,番号が書かれたメモ。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+objectKey04,石膏の薬指,<PLEASE_TRANSLATE>,石膏でできた指。どこかから外れたものみたい。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+objectKey05,金庫の番号のメモ,<PLEASE_TRANSLATE>,番号が書かれたメモ。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+-,,,,
+fuel00,車の燃料,<PLEASE_TRANSLATE>,車を動かすための燃料。<br>（探索地を出ると、破棄されます）,<PLEASE_TRANSLATE>
+-,,,,

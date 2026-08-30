@@ -1,0 +1,11 @@
+id,_name<jpn>,name<eng>,_description<jpn>,description<eng>
+weapon00,壊れかけの,<PLEASE_TRANSLATE>,今にも壊れそう。,<PLEASE_TRANSLATE>
+weapon01,音の響く,<PLEASE_TRANSLATE>,威力は高いけれど、他のより音がうるさい。音につられて敵が寄ってくることも。,<PLEASE_TRANSLATE>
+weapon02,反動の大きな,<PLEASE_TRANSLATE>,威力は高いけれど、反動が大きすぎて自分自身もダメージを受ける。,<PLEASE_TRANSLATE>
+weapon03,初心者向けの,<PLEASE_TRANSLATE>,威力は控えめだけど、壊れにくい。,<PLEASE_TRANSLATE>
+durable01,丈夫な,<PLEASE_TRANSLATE>,丈夫で、使っても壊れない（あと1回）,<PLEASE_TRANSLATE>
+durable02,丈夫な,<PLEASE_TRANSLATE>,丈夫で、使っても壊れない（あと2回）,<PLEASE_TRANSLATE>
+durable03,丈夫な,<PLEASE_TRANSLATE>,丈夫で、使っても壊れない（あと3回）,<PLEASE_TRANSLATE>
+durable04,丈夫な,<PLEASE_TRANSLATE>,丈夫で、使っても壊れない（あと4回）,<PLEASE_TRANSLATE>
+durable05,丈夫な,<PLEASE_TRANSLATE>,丈夫で、使っても壊れない（あと5回）,<PLEASE_TRANSLATE>
+-,,,,

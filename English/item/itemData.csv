@@ -1,0 +1,262 @@
+id,_name<jpn>,name<eng>,_ruby<jpn>,ruby<eng>,_description<jpn>,description<eng>
+heal00,包帯,<PLEASE_TRANSLATE>,ほうたい,<PLEASE_TRANSLATE>,傷口を覆う包帯。使用すると体力を40回復。,<PLEASE_TRANSLATE>
+heal01,救急箱,<PLEASE_TRANSLATE>,きゅうきゅうばこ,<PLEASE_TRANSLATE>,手当をするための道具が揃えた箱。使用すると体力を80回復。,<PLEASE_TRANSLATE>
+-,,,,,,
+cooking00,サンドイッチ,<PLEASE_TRANSLATE>,さんどいっち,<PLEASE_TRANSLATE>,ハムをパンで挟んだサンドイッチ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking01,ハンバーグ,<PLEASE_TRANSLATE>,はんばーぐ,<PLEASE_TRANSLATE>,コンビーフを砕いて玉ねぎと一緒に練ったハンバーグ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking02,串焼き肉,<PLEASE_TRANSLATE>,くしやきにく,<PLEASE_TRANSLATE>,串に刺した肉を直火で焼いた一品。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking03,コンソメスープ,<PLEASE_TRANSLATE>,こんそめすーぷ,<PLEASE_TRANSLATE>,インスタントのコンソメスープ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking04,おにぎり,<PLEASE_TRANSLATE>,おにぎり,<PLEASE_TRANSLATE>,手に塩をかけて握ったおにぎり。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking05,焼きおにぎり,<PLEASE_TRANSLATE>,やきおにぎり,<PLEASE_TRANSLATE>,香ばしい焦げ目をつけたおにぎり。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking06,オムレツ,<PLEASE_TRANSLATE>,おむれつ,<PLEASE_TRANSLATE>,ふんわり焼き上げたオムレツ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking07,たまごサンド,<PLEASE_TRANSLATE>,たまごさんど,<PLEASE_TRANSLATE>,砕いたゆで卵を挟んだサンドイッチ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking08,肉煮込み,<PLEASE_TRANSLATE>,にくにこみ,<PLEASE_TRANSLATE>,じっくり時間をかけた肉を煮込んだ一品。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking09,玉ねぎスープ,<PLEASE_TRANSLATE>,玉ねぎすーぷ,<PLEASE_TRANSLATE>,玉ねぎをたっぷり使ったスープ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking10,焼き魚,<PLEASE_TRANSLATE>,やきざかな,<PLEASE_TRANSLATE>,木の串を刺して、焚き火で焼いた魚。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking11,白身魚のオーブン蒸し,<PLEASE_TRANSLATE>,しろみざかなのおーぶんむし,<PLEASE_TRANSLATE>,時間をかけて蒸した魚料理。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking12,ホットサンド,<PLEASE_TRANSLATE>,ほっとさんど,<PLEASE_TRANSLATE>,ハムをパンで挟んで焼き上げたサンドイッチ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking13,オニオンリング,<PLEASE_TRANSLATE>,おにおんりんぐ,<PLEASE_TRANSLATE>,薄切りの玉ねぎを油で揚げた一品。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking14,フライドポテト,<PLEASE_TRANSLATE>,ふらいどぽてと,<PLEASE_TRANSLATE>,細く切ったじゃがいもを油でカラッと。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking15,たまごかけごはん,<PLEASE_TRANSLATE>,たまごかけごはん,<PLEASE_TRANSLATE>,白米にたまごを乗せて、さっとかき混ぜただけの簡単な料理。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking16,ハムエッグ,<PLEASE_TRANSLATE>,はむえっぐ,<PLEASE_TRANSLATE>,ハムと一緒に焼いた目玉焼き。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking17,魚のコンソメ煮,<PLEASE_TRANSLATE>,さかなのこんそめに,<PLEASE_TRANSLATE>,白身魚をコンソメで煮詰めた料理。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking18,ピザトースト,<PLEASE_TRANSLATE>,ぴざとーすと,<PLEASE_TRANSLATE>,パンにチーズをたっぷりかけて焼き上げた。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking19,肉巻きチーズ,<PLEASE_TRANSLATE>,にくまきちーず,<PLEASE_TRANSLATE>,チーズに薄切り肉を巻いて、じっくり焼き上げた料理。溶けたチーズが食欲をそそる。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking20,チーズサンド,<PLEASE_TRANSLATE>,ちーずさんど,<PLEASE_TRANSLATE>,チーズをビスケットで挟んだ一品。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking21,じゃがいものポタージュ,<PLEASE_TRANSLATE>,じゃがいものぽたーじゅ,<PLEASE_TRANSLATE>,じゃがいものスープ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking22,じゃがチーズ焼き,<PLEASE_TRANSLATE>,じゃちーずやき,<PLEASE_TRANSLATE>,溶けたチーズとじゃがいもを絡めた一品。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking23,肉じゃが,<PLEASE_TRANSLATE>,にくじゃが,<PLEASE_TRANSLATE>,肉やじゃがいもを煮込んだ家庭料理。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+cooking24,ポテトサラダ,<PLEASE_TRANSLATE>,ぽてとさらだ,<PLEASE_TRANSLATE>,潰したじゃがいもと野菜のサラダ。<br>使用すると体力を{0}回復、空腹度を{1}回復。,<PLEASE_TRANSLATE>
+-,,,,,,
+biscuit00,乾パン,<PLEASE_TRANSLATE>,かんぱん,<PLEASE_TRANSLATE>,保存用のビスケット。<br>使用すると空腹度を15回復。,<PLEASE_TRANSLATE>
+biscuit01,チョコレートバー,<PLEASE_TRANSLATE>,ちょこれーとばー,<PLEASE_TRANSLATE>,保存用のチョコレート。<br>使用すると空腹度を15回復。,<PLEASE_TRANSLATE>
+biscuit02,ぶどう味のゼリー飲料,<PLEASE_TRANSLATE>,ぶどうあじのぜりーいんりょう,<PLEASE_TRANSLATE>,飲むタイプのゼリー。無果汁。<br>使用すると空腹度を15回復。,<PLEASE_TRANSLATE>
+-,,,,,,
+gun00,ハンドガン,<PLEASE_TRANSLATE>,はんどがん,<PLEASE_TRANSLATE>,遠距離武器。装備して使う。専用の弾薬がなければ使えない。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+gun01,ショットガン,<PLEASE_TRANSLATE>,しょっとがん,<PLEASE_TRANSLATE>,遠距離武器。装備して使う。専用の弾薬がなければ使えない。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+gun03,ライフル,<PLEASE_TRANSLATE>,らいふる,<PLEASE_TRANSLATE>,遠距離武器。装備して使う。専用の弾薬がなければ使えない。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+gun04,サブマシンガン,<PLEASE_TRANSLATE>,さぶましんがん,<PLEASE_TRANSLATE>,遠距離武器。装備して使う。専用の弾薬がなければ使えない。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+-,,,,,,
+hammer00,金づち,<PLEASE_TRANSLATE>,かなづり,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0},<PLEASE_TRANSLATE>
+hammer01,クギバット,<PLEASE_TRANSLATE>,くぎばっと,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+hammer02,鉄パイプ,<PLEASE_TRANSLATE>,てつぱいぷ,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+hammer03,バール,<PLEASE_TRANSLATE>,ばーる,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+hammer04,ガラスの破片,<PLEASE_TRANSLATE>,がらすのはへん,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0}<br>このままでは使いづらいし、すぐに壊れてしまう。何かと組み合わせれば、もっと役に立つかも。,<PLEASE_TRANSLATE>
+hammer05,包丁,<PLEASE_TRANSLATE>,ほうちょう,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0}<br>このままでは使いづらいし、すぐに壊れてしまう。何かと組み合わせれば、もっと役に立つかも。,<PLEASE_TRANSLATE>
+hammer06,お手製の槍,<PLEASE_TRANSLATE>,おてせいのやり,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1}<br>包丁と木の棒でつくった、お手製の槍。,<PLEASE_TRANSLATE>
+hammer07,穴のあいたフライパン,<PLEASE_TRANSLATE>,あなのあいたふらいぱん,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1}<br>穴があいてしまったフライパン。料理には使えないけれど、ちょうどいい重さで、武器になりそう。,<PLEASE_TRANSLATE>
+hammer08,ゴルフクラブ,<PLEASE_TRANSLATE>,ごるふくらぶ,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1},<PLEASE_TRANSLATE>
+hammer09,お手製スラッパー,<PLEASE_TRANSLATE>,おてせいすらっぱー,<PLEASE_TRANSLATE>,近接武器。装備して使う。攻撃 + {0} + {1}<br>先端に重りの入ったこん棒。,<PLEASE_TRANSLATE>
+-,,,,,,
+ammo00,ハンドガンの弾,<PLEASE_TRANSLATE>,はんどがんのたま,<PLEASE_TRANSLATE>,「ハンドガン」で使う弾薬。,<PLEASE_TRANSLATE>
+ammo01,ショットガンの弾,<PLEASE_TRANSLATE>,しょっとがんのたま,<PLEASE_TRANSLATE>,「ショットガン」で使う弾薬。,<PLEASE_TRANSLATE>
+ammo02,ライフルの弾,<PLEASE_TRANSLATE>,らいふるのたま,<PLEASE_TRANSLATE>,「ライフル」で使う弾薬。,<PLEASE_TRANSLATE>
+ammo03,マガジン,<PLEASE_TRANSLATE>,まがしん,<PLEASE_TRANSLATE>,「サブマシンガン」で使う弾薬。,<PLEASE_TRANSLATE>
+-,,,,,,
+armor00,軍手,<PLEASE_TRANSLATE>,ぐんて,<PLEASE_TRANSLATE>,防具。装備して使う。防御 + {0} + {1},<PLEASE_TRANSLATE>
+armor01,甲手,<PLEASE_TRANSLATE>,こて,<PLEASE_TRANSLATE>,防具。装備して使う。防御 + {0} + {1},<PLEASE_TRANSLATE>
+armor02,防弾ベスト,<PLEASE_TRANSLATE>,ぼうだんべすと,<PLEASE_TRANSLATE>,防具。装備して使う。防御 + {0} + {1},<PLEASE_TRANSLATE>
+armor100,サンタのワンピース,<PLEASE_TRANSLATE>,さんたのわんぴーす,<PLEASE_TRANSLATE>,防具。装備して使う。防御 + {0}<br>サンタクロースをモチーフにした衣装。<br>（装備して探索に行くと衣装が反映されます）,<PLEASE_TRANSLATE>
+armor101,小悪魔なワンピース,<PLEASE_TRANSLATE>,こあくまなわんぴーす,<PLEASE_TRANSLATE>,防具。装備して使う。防御 + {0}<br>小悪魔をモチーフにした衣装。<br>（装備して探索に行くと衣装が反映されます）,<PLEASE_TRANSLATE>
+-,,,,,,
+material00,木材,<PLEASE_TRANSLATE>,もくざい,<PLEASE_TRANSLATE>,捨てられていた木材。何かの材料になるかも。,<PLEASE_TRANSLATE>
+material01,鉄くず,<PLEASE_TRANSLATE>,てつくず,<PLEASE_TRANSLATE>,捨てられていた鉄くず。何かの材料になるかも。,<PLEASE_TRANSLATE>
+material02,布切れ,<PLEASE_TRANSLATE>,ぬのきれ,<PLEASE_TRANSLATE>,捨てられていた布切れ。何かの材料になるかも。,<PLEASE_TRANSLATE>
+material03,電子部品,<PLEASE_TRANSLATE>,でんしぶひん,<PLEASE_TRANSLATE>,捨てられていた電子部品。何かの材料になるかも。,<PLEASE_TRANSLATE>
+material04,火薬,<PLEASE_TRANSLATE>,かやく,<PLEASE_TRANSLATE>,乾いた火薬。弾薬の材料に使えるかもしれない。,<PLEASE_TRANSLATE>
+material11,燃料油,<PLEASE_TRANSLATE>,ねんりょうあぶら,<PLEASE_TRANSLATE>,よく燃える油。このままでは使いようがない。,<PLEASE_TRANSLATE>
+material12,細い糸,<PLEASE_TRANSLATE>,ほそいいと,<PLEASE_TRANSLATE>,少し絡まった細い糸。それなりの長さがある。<br>何かに使えるかも。,<PLEASE_TRANSLATE>
+material13,ロープ,<PLEASE_TRANSLATE>,ろーぷ,<PLEASE_TRANSLATE>,頑丈なロープ。簡単には千切れない。<br>何かの材料になるかも。,<PLEASE_TRANSLATE>
+-,,,,,,
+cookingTool00,ダッチオーブン,<PLEASE_TRANSLATE>,だっちおーぶん,<PLEASE_TRANSLATE>,蓋つきの分厚い鍋。ずいぶん使い込まれている。,<PLEASE_TRANSLATE>
+cookingTool01,スキレット,<PLEASE_TRANSLATE>,すきれっと,<PLEASE_TRANSLATE>,鋳鉄製の小さなフライパン。,<PLEASE_TRANSLATE>
+cookingTool02,ホットサンドメーカー,<PLEASE_TRANSLATE>,ほっとさんどめーかー,<PLEASE_TRANSLATE>,フライパンを向かい合わせに重ねたような構造をした、ホットサンドをつくるための器具。,<PLEASE_TRANSLATE>
+-,,,,,,
+food00,塩蔵肉の缶詰,<PLEASE_TRANSLATE>,えんぞうにくのかんづめ,<PLEASE_TRANSLATE>,塩漬けにした牛肉の缶詰。貴重なたんぱく源。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food01,コンソメの素,<PLEASE_TRANSLATE>,こんそめのもと,<PLEASE_TRANSLATE>,固形タイプのコンソメスープの素。ちょっと湿気ている。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food02,米,<PLEASE_TRANSLATE>,こめ,<PLEASE_TRANSLATE>,少し古くなった米。でもまだ食べられる。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food03,たまご,<PLEASE_TRANSLATE>,たまご,<PLEASE_TRANSLATE>,鶏の卵。たぶんまだ食べられる。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food04,ハム,<PLEASE_TRANSLATE>,はむ,<PLEASE_TRANSLATE>,燻製にした豚肉。独特の風味がある。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food05,玉ねぎ,<PLEASE_TRANSLATE>,玉ねぎ,<PLEASE_TRANSLATE>,大きめの玉ねぎ。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food06,ライ麦パン,<PLEASE_TRANSLATE>,らいむぎぱん,<PLEASE_TRANSLATE>,ライ麦でつくられた黒パン。ちょっと固い。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food07,小さな魚,<PLEASE_TRANSLATE>,ちいさなさかな,<PLEASE_TRANSLATE>,小さな生魚。食べられそう。<br>使用すると空腹度を1回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food08,スライスチーズ,<PLEASE_TRANSLATE>,すらいすちーず,<PLEASE_TRANSLATE>,薄切りのチーズ。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+food09,じゃがいも,<PLEASE_TRANSLATE>,じゃがいも,<PLEASE_TRANSLATE>,まだ土のついた大きなじゃがいも。<br>使用すると空腹度を5回復するけれど、どうせなら調理してから食べたい。,<PLEASE_TRANSLATE>
+-,,,,,,
+bell00,空き缶,<PLEASE_TRANSLATE>,あきかん,<PLEASE_TRANSLATE>,空っぽの缶。遠くに投げることで注意を引き、現在の部屋で会敵しなくなる。<br>ただし戦闘中は使用できない。,<PLEASE_TRANSLATE>
+bell01,空き瓶,<PLEASE_TRANSLATE>,あきびん,<PLEASE_TRANSLATE>,空っぽの瓶。遠くに投げることで注意を引き、現在の部屋で会敵しなくなる。<br>ただし戦闘中は使用できない。,<PLEASE_TRANSLATE>
+bell02,電子ブザー,<PLEASE_TRANSLATE>,でんしぶざー,<PLEASE_TRANSLATE>,大きな音が鳴る電子ブザー。遠くに投げることで注意を引き、現在の部屋で会敵しなくなる。<br>ただし戦闘中は使用できない。,<PLEASE_TRANSLATE>
+film00,ポラロイドフィルム,<PLEASE_TRANSLATE>,ぽらろいどふぃるむ,<PLEASE_TRANSLATE>,「ポラロイドカメラ」用のフィルム。,<PLEASE_TRANSLATE>
+-,,,,,,
+tool00,懐中電灯,<PLEASE_TRANSLATE>,かいちゅうでんとう,<PLEASE_TRANSLATE>,道具。所持して特定のものを調べると、勝手に使ってくれる。<br>懐中電灯の明かりで<red>収納や棚など</red>を調べれば、<red>安全に</red>物資を探し出すことができる。,<PLEASE_TRANSLATE>
+tool01,ドライバー,<PLEASE_TRANSLATE>,どらいばー,<PLEASE_TRANSLATE>,道具。所持して特定のものを調べると、勝手に使ってくれる。<br><red>ネジ</red>で絞められたものを調べると、今まで見つけられなかったものが見つかるかも。,<PLEASE_TRANSLATE>
+tool02,キーピック,<PLEASE_TRANSLATE>,きーぴっく,<PLEASE_TRANSLATE>,道具。所持して特定のものを調べると、勝手に使ってくれる。<br><red>机や台など</red>を調べると、引き出しに取りつけられた単純な鍵なら開けられる。,<PLEASE_TRANSLATE>
+tool03,釣り竿,<PLEASE_TRANSLATE>,つりざお,<PLEASE_TRANSLATE>,道具。所持して特定のものを調べると、勝手に使ってくれる。<br><red>川辺や海辺など</red>を調べると、釣りをすることができる。,<PLEASE_TRANSLATE>
+attack00,火炎瓶,<PLEASE_TRANSLATE>,かえんびん,<PLEASE_TRANSLATE>,油を染み込ませた布を入れた瓶。敵に20ダメージを与えることができる。,<PLEASE_TRANSLATE>
+attack01,手製爆弾,<PLEASE_TRANSLATE>,てせいばくだん,<PLEASE_TRANSLATE>,火薬とガラス片からつくったお手製の爆弾。敵に20ダメージを与えることができる。,<PLEASE_TRANSLATE>
+attack02,閃光発音筒,<PLEASE_TRANSLATE>,せんこうはつおんとう,<PLEASE_TRANSLATE>,爆発音と閃光を放ち、一時的に敵を無力化する。<br>（戦闘中の敵の行動を一時的に止めることができる。また、敵の「溜め」を解放する）,<PLEASE_TRANSLATE>
+camera00,ポラロイドカメラ,<PLEASE_TRANSLATE>,ぽらろいどかめら,<PLEASE_TRANSLATE>,撮影するとすぐに現像されるインスタントカメラ。<br>「ポラロイドフィルム」があれば、遠くにある<red>キャンプ地</red>の写真を撮ることができる。,<PLEASE_TRANSLATE>
+dismantle00,分解キット,<PLEASE_TRANSLATE>,ぶんかいきっと,<PLEASE_TRANSLATE>,道具を分解するための工具をまとめたキット。<br>道具を<red>クラフト前の材料</red>に戻すことができる。使用すると消費される。,<PLEASE_TRANSLATE>
+trap00,くくり罠,<PLEASE_TRANSLATE>,くくりわな,<PLEASE_TRANSLATE>,ロープでつくった簡単な罠。<br>所持して探索に行くと、罠を設置して敵を排除できる。,<PLEASE_TRANSLATE>
+trap01,まきびし,<PLEASE_TRANSLATE>,まきびし,<PLEASE_TRANSLATE>,割れたガラスでつくったまきびし。<br>所持して探索に行くと、罠を設置して敵を排除できる。,<PLEASE_TRANSLATE>
+craft00,携帯工作台,<PLEASE_TRANSLATE>,けいたいこうさくだい,<PLEASE_TRANSLATE>,小さな工作台。簡易なものだけれど、材料さえあれば道具をつくることができる。<br>（探索中に、所持品から<red>道具</red>を<red>クラフト</red>することができます）,<PLEASE_TRANSLATE>
+craft01,携帯調理器,<PLEASE_TRANSLATE>,けいたいちょうりき,<PLEASE_TRANSLATE>,小さな調理台。簡易なものだけれど、材料さえあれば料理することができる。<br>（探索中に、所持品から<red>料理</red>を<red>クラフト</red>することができます）,<PLEASE_TRANSLATE>
+-,,,,,,
+box00,食材の詰まった箱,<PLEASE_TRANSLATE>,しょくざいのつまったはこ,<PLEASE_TRANSLATE>,中身の入った小さな包み。それなりの重みがあって、何か入っていそう。<br>収納棚に持ち帰って、開けてみよう。,<PLEASE_TRANSLATE>
+box02,鉄の弾薬箱,<PLEASE_TRANSLATE>,てつのだんやくばこ,<PLEASE_TRANSLATE>,中身の入った小さな包み。それなりの重みがあって、何か入っていそう。<br>収納棚に持ち帰って、開けてみよう。,<PLEASE_TRANSLATE>
+box03,中身の見えない黒い袋,<PLEASE_TRANSLATE>,なかみのみえないおもいふくろ,<PLEASE_TRANSLATE>,中身の入った小さな包み。それなりの重みがあって、何か入っていそう。<br>収納棚に持ち帰って、開けてみよう。,<PLEASE_TRANSLATE>
+-,,,,,,
+passCode00,数字の書かれたメモ,<PLEASE_TRANSLATE>,すうじのかかれためも,<PLEASE_TRANSLATE>,「{0}」と書かれたメモ。,<PLEASE_TRANSLATE>
+postcard00,絵はがき,<PLEASE_TRANSLATE>,えはがき,<PLEASE_TRANSLATE>,どこかの風景が描かれた絵はがき。油絵具で描かれているみたい。<br>描かれている場所を目指したら、誰かに会えるかも。<br>（条件を満たすと、収納棚で<red>使う</red>ことができるようになります）,<PLEASE_TRANSLATE>
+postcard100,カボチャの描かれた絵はがき,<PLEASE_TRANSLATE>,かぼちゃのかかれたえはがき,<PLEASE_TRANSLATE>,どこかの風景が描かれた絵はがき。油絵具で描かれているみたい。<br>描かれている場所を目指したら、誰かに会えるかも。<br>（条件を満たすと、収納棚で<red>使う</red>ことができるようになります）,<PLEASE_TRANSLATE>
+-,,,,,,
+music00,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music01,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music02,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music03,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music04,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music05,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music06,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music07,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music08,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+music09,カセットテープ,<PLEASE_TRANSLATE>,かせっとてーぷ,<PLEASE_TRANSLATE>,古いカセットテープ。「<red>{0}</red>」が収録されているらしい。<br>（所持して探索すると、BGMが変更されます）<br>（「カセットテープ」を複数所持している場合は、ランダムに抽選されます）,<PLEASE_TRANSLATE>
+-,,,,,,
+bag00,ショルダーバッグ,<PLEASE_TRANSLATE>,しょるだーばっぐ,<PLEASE_TRANSLATE>,荷物を入れるかばん。もっていると荷物の所持上限が <red>{0}つ</red> 増える。<br>（かばんは、同時に1つまでしか効果を得られません）,<PLEASE_TRANSLATE>
+bag01,手づくりナップサック,<PLEASE_TRANSLATE>,てづくりなっぷさっく,<PLEASE_TRANSLATE>,荷物を入れるかばん。もっていると荷物の所持上限が <red>{0}つ</red> 増える。<br>（かばんは、同時に1つまでしか効果を得られません）,<PLEASE_TRANSLATE>
+bag02,ボストンバッグ,<PLEASE_TRANSLATE>,ぼすとんばっぐ,<PLEASE_TRANSLATE>,荷物を入れるかばん。もっていると荷物の所持上限が <red>{0}つ</red> 増える。<br>（かばんは、同時に1つまでしか効果を得られません）,<PLEASE_TRANSLATE>
+-,,,,,,
+map00,食料庫の地図,<PLEASE_TRANSLATE>,しょくりょうこのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map01,武器庫の地図,<PLEASE_TRANSLATE>,ぶきこのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map02,食料庫の地図,<PLEASE_TRANSLATE>,しょくりょうこのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map03,武器庫の地図,<PLEASE_TRANSLATE>,ぶきこのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map04,収容施設の地図,<PLEASE_TRANSLATE>,しゅうようしせつのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map05,倉庫の地図,<PLEASE_TRANSLATE>,そうこのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map06,病院の地図,<PLEASE_TRANSLATE>,びょういんのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map07,収容施設の地図,<PLEASE_TRANSLATE>,しゅうようしせつのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map08,映画館の地図,<PLEASE_TRANSLATE>,えいがかんのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map09,公民館の地図,<PLEASE_TRANSLATE>,こうみんかんのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map10,劇場の地図,<PLEASE_TRANSLATE>,げきじょうのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。<red>{1}</red>から出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+map100,暖炉のある小屋の地図,<PLEASE_TRANSLATE>,だんろのあるこやのちず,<PLEASE_TRANSLATE>,「{0}」までの道のりが記された地図。探索に出発して、<red>{2}件</red>進んだところに{3}があるらしい。<br>（地図を持って探索に向かうと、目的地にたどり着くことができる）<br>（目的地にたどり着くと地図は消費される）,<PLEASE_TRANSLATE>
+-,,,,,,
+photo00,町の写真,<PLEASE_TRANSLATE>,まちのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo01,都会の写真,<PLEASE_TRANSLATE>,とかいのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo02,森の写真,<PLEASE_TRANSLATE>,もりのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo03,公園の写真,<PLEASE_TRANSLATE>,こうえんのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo04,草原の写真,<PLEASE_TRANSLATE>,そうげんのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo05,山の写真,<PLEASE_TRANSLATE>,やまのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo06,海辺の写真,<PLEASE_TRANSLATE>,うみべのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+photo07,線路の写真,<PLEASE_TRANSLATE>,せんろのしゃしん,<PLEASE_TRANSLATE>,「<red>{0}</red>」の写った写真。この写真を持って、あと<red>{1}回</red>探索するとたどり着くことができそう。<br>（目的地にたどり着くと写真は消費される）,<PLEASE_TRANSLATE>
+-,,,,,,
+letter00,誰かの書き置き,<PLEASE_TRANSLATE>,だれかのかきおき,<PLEASE_TRANSLATE>,誰かのメモが書かれた紙切れ。<br>あと<red>{0}件</red>進んだところに、<red>{1}</red>を置いてきたらしい。<br>今もまだ、そこに残されたままかもしれない。,<PLEASE_TRANSLATE>
+letter01,誰かの書き置き,<PLEASE_TRANSLATE>,だれかのかきおき,<PLEASE_TRANSLATE>,誰かのメモが書かれた紙切れ。<br>あと<red>{0}件</red>進んだところに、<red>{1}</red>を置いてきたらしい。<br>今もまだ、そこに残されたままかもしれない。,<PLEASE_TRANSLATE>
+letter02,誰かの書き置き,<PLEASE_TRANSLATE>,だれかのかきおき,<PLEASE_TRANSLATE>,誰かのメモが書かれた紙切れ。<br>あと<red>{0}件</red>進んだところに、<red>{1}</red>を置いてきたらしい。<br>今もまだ、そこに残されたままかもしれない。,<PLEASE_TRANSLATE>
+letter03,誰かの書き置き,<PLEASE_TRANSLATE>,だれかのかきおき,<PLEASE_TRANSLATE>,誰かのメモが書かれた紙切れ。<br>あと<red>{0}件</red>進んだところに、<red>{1}</red>を置いてきたらしい。<br>今もまだ、そこに残されたままかもしれない。,<PLEASE_TRANSLATE>
+-,,,,,,
+mission00,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+mission01,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+mission02,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+mission03,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+mission04,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+mission05,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+mission06,依頼のメモ,<PLEASE_TRANSLATE>,いらいのめも,<PLEASE_TRANSLATE>,誰かの依頼が書かれたメモ。<br><red>{0}</red>を<red>{1}こ</red>届けてほしいらしい。お礼に<red>{2}</red>を用意していると書いてある。<br>（指定された品を所持していると、収納棚から<red>届ける</red>ことができます）,<PLEASE_TRANSLATE>
+-,,,,,,
+journey00,真っ白な地図,<PLEASE_TRANSLATE>,まっしろなちず,<PLEASE_TRANSLATE>,<red>{0}</red>だけが描かれていて、ほかは真っ白な地図。<br>（「収納棚」から<red>出発</red>して、<red>車の燃料</red>を集めながら何件探索できるか挑戦します）<br>（GameOverになった場合、空腹で探索を中断した場合は記録されません）,<PLEASE_TRANSLATE>
+record00,手描きの小さな地図,<PLEASE_TRANSLATE>,てがきのちいさなちず,<PLEASE_TRANSLATE>,<red>{0}</red>が真っ白な地図を手に旅をして、自分で描いた地図。<br><red>{1}件</red>探索した記録。,<PLEASE_TRANSLATE>
+record01,手描きのそこそこの地図,<PLEASE_TRANSLATE>,てがきのそこそこのちず,<PLEASE_TRANSLATE>,<red>{0}</red>が真っ白な地図を手に旅をして、自分で描いた地図。<br><red>{1}件</red>探索した記録。,<PLEASE_TRANSLATE>
+record02,手描きの大きな地図,<PLEASE_TRANSLATE>,てがきのおおきなちず,<PLEASE_TRANSLATE>,<red>{0}</red>が真っ白な地図を手に旅をして、自分で描いた地図。<br><red>{1}件</red>探索した記録。,<PLEASE_TRANSLATE>
+-,,,,,,
+parts00,ハンドガン強化パーツ,<PLEASE_TRANSLATE>,はんどがんきょうかぱーつ,<PLEASE_TRANSLATE>,ハンドガンの威力を上げるためのパーツ。<br>ハンドガンと組み合わせることで、武器の攻撃力を&nbsp;<red>+5</red>&nbsp;する。,<PLEASE_TRANSLATE>
+parts01,ハンドガン強化パーツ+,<PLEASE_TRANSLATE>,はんどがんきょうかぱーつぷらす,<PLEASE_TRANSLATE>,ハンドガンの威力を上げるためのパーツ。<br>ハンドガンと組み合わせることで、武器の攻撃力を&nbsp;<red>+10</red>&nbsp;する。,<PLEASE_TRANSLATE>
+parts02,ショットガン強化パーツ,<PLEASE_TRANSLATE>,しょっとがんきょうかぱーつ,<PLEASE_TRANSLATE>,ショットガンの威力を上げるためのパーツ。<br>ショットガンと組み合わせることで、武器の攻撃力を&nbsp;<red>+5</red>&nbsp;する。,<PLEASE_TRANSLATE>
+parts03,ハンドガン保護パーツ,<PLEASE_TRANSLATE>,はんどがんほごぱーつ,<PLEASE_TRANSLATE>,ハンドガンを保護するパーツ。<br>特徴「<red>丈夫な</red>」を付与することができる。<br>（すでに「特徴」をもっている道具には使用できません）,<PLEASE_TRANSLATE>
+parts04,ハンドガン保護パーツ+,<PLEASE_TRANSLATE>,はんどがんほごぱーつぷらす,<PLEASE_TRANSLATE>,ハンドガンを保護するパーツ。<br>特徴「<red>丈夫な</red>」を付与することができる。<br>（すでに「特徴」をもっている道具には使用できません）,<PLEASE_TRANSLATE>
+parts05,ショットガン保護パーツ,<PLEASE_TRANSLATE>,しょっとがんほごぱーつ,<PLEASE_TRANSLATE>,ショットガンを保護するパーツ。<br>特徴「<red>丈夫な</red>」を付与することができる。<br>（すでに「特徴」をもっている道具には使用できません）,<PLEASE_TRANSLATE>
+parts06,ショットガン保護パーツ+,<PLEASE_TRANSLATE>,しょっとがんほごぱーつぷらす,<PLEASE_TRANSLATE>,ショットガンを保護するパーツ。<br>特徴「<red>丈夫な</red>」を付与することができる。<br>（すでに「特徴」をもっている道具には使用できません）,<PLEASE_TRANSLATE>
+-,,,,,,
+memory-main01,古い新聞の束,<PLEASE_TRANSLATE>,ふるいしんぶんのたば,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main02,保存食セット,<PLEASE_TRANSLATE>,ほぞんしょくせっと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main03,固形燃料の備蓄,<PLEASE_TRANSLATE>,こけいねんりょうのびちく,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main04,燃料の詰まったポリタンク,<PLEASE_TRANSLATE>,ねんりょうのつまったぽりたんく,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main05,何かの研究資料の山,<PLEASE_TRANSLATE>,なにかのけんきゅうしりょうのやま,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main06,未開封の電池でいっぱいの箱,<PLEASE_TRANSLATE>,みかいふうのでんちでいっぱいのはこ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main07,時計が生えてきた感染者の屍,<PLEASE_TRANSLATE>,とけいがはえてきたかんせんしゃのしかばね,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main08,赤い花が生えてきた感染者の屍,<PLEASE_TRANSLATE>,あかいはながはえてきたかんせんしゃのしかばね,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main09,黒板が生えてきた感染者の屍,<PLEASE_TRANSLATE>,こくばんがはえてきたかんせんしゃのしかばね,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main10,上半身がゼリー状の感染者の屍,<PLEASE_TRANSLATE>,じょうはんしんがぜりーじょうのかんせんしゃのしかばね,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main11,身体中から芽が出た感染者の屍,<PLEASE_TRANSLATE>,からだじゅうからめがはえたかんせんしゃのしかばね,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main12,血管が銅線に変わった感染者の屍,<PLEASE_TRANSLATE>,けっかんがどうせんにかわったかんせんしゃのしかばね,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main13,乾麺のたくさん入った箱,<PLEASE_TRANSLATE>,かんめんのたくさんはいったはこ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main14,未開封の洗濯用洗剤,<PLEASE_TRANSLATE>,みかいふうのせんたくようせんざい,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main15,飲料水の大きなボトル,<PLEASE_TRANSLATE>,いんりょうすいのおおきなぼとる,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main16,中身の入った燃料タンク,<PLEASE_TRANSLATE>,なかみのはいったねんりょうたんく,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main17,鎮痛剤,<PLEASE_TRANSLATE>,ちんつうざい,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main18,薬品の詰まった箱,<PLEASE_TRANSLATE>,やくひんのつまったはこ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main19,鎮痛剤の瓶,<PLEASE_TRANSLATE>,ちんつうざいのびん,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-main20,得体のしれない薬,<PLEASE_TRANSLATE>,えたいのしれないくすり,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-kiko00,動物の足跡,<PLEASE_TRANSLATE>,どうぶつのあしあと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-kiko01,動物の抜け毛,<PLEASE_TRANSLATE>,どうぶつのぬけげ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-kiko02,動物の食事の跡,<PLEASE_TRANSLATE>,どうぶつのしょくじのあと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-shino00,見覚えのある景色,<PLEASE_TRANSLATE>,みおぼえのあるけしき,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-shino01,写真と似た景色,<PLEASE_TRANSLATE>,しゃしんとにたけしき,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-shino02,写真に写っている景色,<PLEASE_TRANSLATE>,しゃしんにうつっているけしき,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-akane00,鎮痛剤の瓶,<PLEASE_TRANSLATE>,ちんつうざいのびん,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-akane01,薬が詰まったケース,<PLEASE_TRANSLATE>,くすりがつまったけーす,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-akane02,誰かの研究ノート,<PLEASE_TRANSLATE>,だれかのけんきゅうのーと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-minamo00,学校の場所が書かれた地図,<PLEASE_TRANSLATE>,がっこうのばしょがかかれたちず,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-minamo01,近所の高校のチラシ,<PLEASE_TRANSLATE>,きんじょのこうこうのちらし,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-minamo02,道場生募集のパンフレット,<PLEASE_TRANSLATE>,どうじょうせいぼしゅうのぱんふれっと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-hinase00,金属製のパーツ,<PLEASE_TRANSLATE>,きんぞくせいのパーツ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-hinase01,何かの部品,<PLEASE_TRANSLATE>,なにかのぶひん,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-hinase02,オイルまみれのパーツ,<PLEASE_TRANSLATE>,おいるまみれのぱーつ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-itsuka00,助けを求める張り紙,<PLEASE_TRANSLATE>,たすけをもとめるはりがみ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-itsuka01,最近まで人がいた跡,<PLEASE_TRANSLATE>,さいきんまでひとがいたあと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-itsuka02,避難先を書き記したメモ,<PLEASE_TRANSLATE>,ひなんさきをかきしるしためも,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-meguru00,真新しい絵筆,<PLEASE_TRANSLATE>,まあたらしいえふで,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-meguru01,真っ白なキャンバス,<PLEASE_TRANSLATE>,まっしろなきゃんばす,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-meguru02,古びたイーゼル,<PLEASE_TRANSLATE>,ふるびたいーぜる,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-kiko10,動物の足跡,<PLEASE_TRANSLATE>,どうぶつのあしあと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-kiko11,動物の抜け毛,<PLEASE_TRANSLATE>,どうぶつのぬけげ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-kiko12,動物の食事の跡,<PLEASE_TRANSLATE>,どうぶつのしょくじのあと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-shino10,景色のよく見える場所,<PLEASE_TRANSLATE>,けしきのよくみえるばしょ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-shino11,町を見下ろせる場所,<PLEASE_TRANSLATE>,まちをみおろせるばしょ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-shino12,山々が連なる景色,<PLEASE_TRANSLATE>,やまやまがつらなるけしき,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-akane10,鎮痛剤の瓶,<PLEASE_TRANSLATE>,ちんつうざいのびん,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-akane11,薬が詰まったケース,<PLEASE_TRANSLATE>,くすりがつまったけーす,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-akane12,誰かの研究ノート,<PLEASE_TRANSLATE>,だれかのけんきゅうのーと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-minamo10,水の溜まっている井戸,<PLEASE_TRANSLATE>,みずのたまっているいど,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-minamo11,野菜の種が入った袋,<PLEASE_TRANSLATE>,やさいのたねがはいったふくろ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-minamo12,使い古された竹刀,<PLEASE_TRANSLATE>,つかいふるされたしない,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-hinase10,ポリタンク,<PLEASE_TRANSLATE>,ぽりたんく,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-hinase11,燃料の入った容器,<PLEASE_TRANSLATE>,ねんりょうのはいったようき,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-hinase12,車のバッテリー,<PLEASE_TRANSLATE>,くるまのばってりー,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-itsuka10,助けを求める張り紙,<PLEASE_TRANSLATE>,たすけをもとめるはりがみ,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-itsuka11,最近まで人がいた跡,<PLEASE_TRANSLATE>,さいきんまでひとがいたあと,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-itsuka12,避難先を書き記したメモ,<PLEASE_TRANSLATE>,ひなんさきをかきしるしためも,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-meguru10,真新しい絵筆,<PLEASE_TRANSLATE>,まあたらしいえふで,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-meguru11,真っ白なキャンバス,<PLEASE_TRANSLATE>,まっしろなきゃんばす,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-meguru12,古びたイーゼル,<PLEASE_TRANSLATE>,ふるびたいーぜる,<PLEASE_TRANSLATE>,エピソード進行アイテム<br>&lt;{0}&gt;,<PLEASE_TRANSLATE>
+memory-any00,頭の大きな木彫りの羊,<PLEASE_TRANSLATE>,きぼりのひつじ,<PLEASE_TRANSLATE>,エピソード進行アイテム。エピソード進行条件を<red>スキップ</red>することができます。<br>（一部、スキップできないエピソードもあります）,<PLEASE_TRANSLATE>
+memory-any01,三毛猫のぬいぐるみ,<PLEASE_TRANSLATE>,みけねこのぬいぐるみ,<PLEASE_TRANSLATE>,エピソード進行アイテム。エピソード進行条件を<red>スキップ</red>することができます。<br>（一部、スキップできないエピソードもあります）,<PLEASE_TRANSLATE>
+memory-any02,電子オルゴールの木箱,<PLEASE_TRANSLATE>,でんしおるごーるのきばこ,<PLEASE_TRANSLATE>,エピソード進行アイテム。エピソード進行条件を<red>スキップ</red>することができます。<br>（一部、スキップできないエピソードもあります）,<PLEASE_TRANSLATE>
+-,,,,,,
+coin00,油絵具のチューブ,<PLEASE_TRANSLATE>,あぶらえのぐのちゅーぶ,<PLEASE_TRANSLATE>,チューブの油絵具。20号と書かれている。<br>誰かほしがっている人がいるかも。,<PLEASE_TRANSLATE>
+-,,,,,,
+collection01,穏やかな丘の描かれた絵,<PLEASE_TRANSLATE>,おだやかなおかのえがかれたえ,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection02,弾けそうなギター,<PLEASE_TRANSLATE>,ひけそうなぎたー,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection03,吸血鬼の恋を描いた小説,<PLEASE_TRANSLATE>,きゅうけつきのこいをえがいたしょうせつ,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection04,タイトルの読めないレコード,<PLEASE_TRANSLATE>,たいとるのよめないれこーど,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection05,真っ白な帆を広げたボトルシップ,<PLEASE_TRANSLATE>,まっしろなほをひろげたぼとるしっぷ,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection06,曲名のわからないオルゴール,<PLEASE_TRANSLATE>,きょくめいのわからないおるごーる,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection07,押し花のしおりが挟まった詩集,<PLEASE_TRANSLATE>,おしばなのしおりがはさまったししゅう,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection08,書き始めたばかりの日記帳,<PLEASE_TRANSLATE>,かきはじめたばかりのにっきちょう,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection09,割れて動かない腕時計,<PLEASE_TRANSLATE>,われてうごかないうでどけい,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection10,自由に育った小さなプランター,<PLEASE_TRANSLATE>,じゆうにそだったちいさなぷらんたー,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection11,精巧なロケットの模型,<PLEASE_TRANSLATE>,せいこうなろけっとのもけい,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection12,電源の切れたガラケー,<PLEASE_TRANSLATE>,でんげんのきれたがらけー,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection13,おばけが主役の絵本,<PLEASE_TRANSLATE>,おばけがしゅやくのえほん,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection14,上品なティーカップ,<PLEASE_TRANSLATE>,じょうひんなてぃーかっぷ,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection15,無骨なガスランタン,<PLEASE_TRANSLATE>,ぶこつながすらんたん,<PLEASE_TRANSLATE>,蒐集品　No.{0}<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection100,プレゼントの入った赤い靴下,<PLEASE_TRANSLATE>,ぷれぜんとのはいったあかいくつした,<PLEASE_TRANSLATE>,蒐集品　（クリスマス限定）<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection101,板チョコの詰まった箱,<PLEASE_TRANSLATE>,いたちょこのつまったはこ,<PLEASE_TRANSLATE>,蒐集品　（バレンタイン限定）<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+collection102,オバケのキャンディー,<PLEASE_TRANSLATE>,おばけのきゃんでぃー,<PLEASE_TRANSLATE>,蒐集品　（ハロウィン限定）<br>（収納棚で選択することで、<red>ミニエピソード</red>を見ることができます）,<PLEASE_TRANSLATE>
+-,,,,,,

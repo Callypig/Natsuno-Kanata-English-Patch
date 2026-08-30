@@ -1,0 +1,5 @@
+id,_name<jpn>,name<eng>,_describe<jpn>,describe<eng>
+enemy00,感染者,<PLEASE_TRANSLATE>,<button>{0}</button>の前に、感染者が立っている。まだ気づかれていないらしい。,<PLEASE_TRANSLATE>
+furniture00,倒れた棚,<PLEASE_TRANSLATE>,<button>{0}</button>の手前に棚が倒れていた。,<PLEASE_TRANSLATE>
+furniture01,ひっくり返った机,<PLEASE_TRANSLATE>,<button>{0}</button>のすぐ前で、机がひっくり返っている。,<PLEASE_TRANSLATE>
+furniture02,家具のバリケード,<PLEASE_TRANSLATE>,家具を積み重ねたバリケードが<button>{0}</button>への道を阻んでいる。,<PLEASE_TRANSLATE>
