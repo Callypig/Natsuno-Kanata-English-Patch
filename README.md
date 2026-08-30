@@ -1,4 +1,7 @@
 # Natsuno-Kanata - Beyond The Summer English Patch
+
+<img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Title.png" width=100%>
+
 ## Introductions
 
 English translation patch for the game [Natsuno-Kanata — Beyond the Summer.](https://store.steampowered.com/app/1684660/natsunokanata__beyond_the_summer/)  (Free version of the game),
@@ -18,6 +21,8 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 2.Open it, browse to your game file where the .exe of the game is located, and then install.
 
 3.You will also be able to change font and other option
+
+<img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/title_akane00.png" align="right">
 
                     (Screenshots)
 
