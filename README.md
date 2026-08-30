@@ -25,8 +25,8 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/InstallerScreenShot.jpg">
 
 
-##### Manual Setup <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
-
+##### Manual Setup 
+  <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
 
 
 
