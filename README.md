@@ -22,16 +22,21 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 
 3.(Later on, new features would be added for the setup)
 
-<img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right">
 <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/InstallerScreenShot.jpg">
 
 
 
 ##### Manual Setup
 
+<img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
+
 1.In [Released](https://github.com/Callypig/Natsuno-Kanata-English-Patch/releases) download the app.asar game file
 
+
+
 2.Replace the file located in {YourDirectory}steamapps\common\natsuno-kanata\ressources
+
+
 
 ## Informations
 
