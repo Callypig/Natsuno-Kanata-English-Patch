@@ -22,9 +22,7 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 
 3.(Later on, new features would be added for the setup)
 
-<img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/title_akane00.png" align="right">
-
-
+<img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/title_akane00.png" align="right" alt="Background">
 <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/InstallerScreenShot.jpg">
 
 
