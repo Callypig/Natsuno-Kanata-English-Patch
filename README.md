@@ -18,7 +18,7 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 
 1.In [Released](https://github.com/Callypig/Natsuno-Kanata-English-Patch/releases) Download Natsuno-Kanata ENG Patcher.exe
 
-2.Open it, browse to your game file where the .exe of the game is located, and then install.
+2.Open it, select the folder containing the game's executable (should already be detected).
 
 3.(Later on, new features would be added for the setup)
 
