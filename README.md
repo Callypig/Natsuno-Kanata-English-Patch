@@ -16,11 +16,11 @@ Feedback would be really welcome, the translation is still being reviewed and ma
 ##### Quick Setup (Recommended)
 
 
-1.In [Released](https://github.com/Callypig/Natsuno-Kanata-English-Patch/releases) Download xxxxxxx.exe
+1.In [Released](https://github.com/Callypig/Natsuno-Kanata-English-Patch/releases) Download Natsuno-Kanata ENG Patcher.exe
 
 2.Open it, browse to your game file where the .exe of the game is located, and then install.
 
-3.You will also be able to change font and other option
+3.(Later on, new features would be added for the setup)
 
 <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/title_akane00.png" align="right">
 
