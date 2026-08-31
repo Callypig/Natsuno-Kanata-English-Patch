@@ -9,7 +9,7 @@ this patch is currently only available for the original version of the game, ano
 
 The patch contains only the translated prologue as a test, the other chapters will come in a few days. 
 
-Feedback would be really welcome, the translation is still being reviewed and may not be completely accurate for now.
+Feedback is very welcome. The translation is still under review and may not be completely accurate for now.
 
 ## Install
 
