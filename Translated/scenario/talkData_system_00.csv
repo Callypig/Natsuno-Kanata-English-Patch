@@ -1,0 +1,7 @@
+id,command,arg0<jpn>,arg1<jpn>,arg2
+-,,,
+preScenario,fadeIn,2,
+preScenario,setupTextLine,true,
+preScenario,wait,2,
+preScenario,fadeOut,2,
+-,,,

@@ -1,0 +1,13 @@
+id,name<jpn>,speakId[],eventId,subArg,continuation,description<jpn>
+exitKey00,Door Key,lockedOutside/unlockOutside,locationLockedKeyGet00,keyPick,false,A key to some gate.<br>(It will be discarded when you leave the exploration area.)
+exitKey01,Dull Key,lockedOutside/unlockOutside,locationLockedKeyGet00,keyPick,false,A key to somewhere.<br>(It will be discarded when you leave the exploration area.)
+-,,,,,,
+objectKey00,Safe Key,-,-,-,false,A key you picked up. It might work on a safe somewhere.<br>(It will be discarded when you leave the exploration area.)
+objectKey01,Electronic Key Card,-,-,-,false,A card you picked up. It seems to be used to unlock electronic locks.<br>(It will be discarded when you leave the exploration area.)
+objectKey02,Strangely Shaped Gem,-,-,-,false,An oddly shaped gem. It might be useful for something.<br>(It will be discarded when you leave the exploration area.)
+objectKey03,Note with the Combination,-,-,-,false,A note with some numbers written on it.<br>(It will be discarded when you leave the exploration area.)
+objectKey04,Plaster Cast of a Ring Finger,-,-,-,false,A finger made of plaster. It looks like it came off of something somewhere.<br>(It will be discarded when you leave the exploration area.)
+objectKey05,Note with the Safe Combination,-,-,-,false,A note with some numbers written on it.<br>(It will be discarded when you leave the exploration area.)
+-,,,,,,
+fuel00,Car Fuel,requireFuel/-,locationLockedKeyGet01,-,true,Fuel for a car.<br>(It will be discarded when you leave the exploration area.)
+-,,,,,,

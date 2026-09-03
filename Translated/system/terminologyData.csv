@@ -1,0 +1,346 @@
+id,text<jpn>
+-,
+splashMessage,<br><br><br><br>Kazuhide Oka<br><br>Chiji<br><br>ruichiro<br>
+cautionMessage,<br><br><br><br><br>This work is a fiction.<br>It has no connection to any real people， organizations， or other entities.<br><br><br><br>This game supports <q>Auto Save</q>.<br>Your progress is automatically saved at certain points.
+-,
+titleCredit,Credit
+creditTitle,Credit
+creditText,Planning / Development / Scenario :  Kazuhide Oka<br><br><br>Character Design : <br>Chiji<br><br><br>Soundtrack : <br>Ruichiro
+creditClose,Close
+-,
+menuStoryText,S&nbsp;T&nbsp;O&nbsp;R&nbsp;Y
+menuExprolerText,E&nbsp;X&nbsp;P&nbsp;L&nbsp;O&nbsp;R&nbsp;E
+menuHouseText,I&nbsp;N&nbsp;V&nbsp;E&nbsp;N&nbsp;T&nbsp;O&nbsp;R&nbsp;Y
+-,
+storyBack,&lt;
+storyNext,&gt;
+-,
+itemBoxInfoPrev0,&lt;
+itemBoxInfoPrev1,&lt;
+itemBoxInfoNext0,&gt;
+itemBoxInfoNext1,&gt;
+houseItemInfoPrev,&lt;
+houseCraftInfoPrev,&lt;
+houseItemInfoNext,&gt;
+houseCraftInfoNext,&gt;
+houseItemName,Storage Shelf
+houseCraftName,Crafting Station
+-,
+statusItemPrev0,&lt;
+statusItemPrev1,&lt;
+statusItemNext0,&gt;
+statusItemNext1,&gt;
+statusSkill0,Traits
+statusSkill1,Traits
+questInputHistory0,Suggestions
+questInputHistory1,Suggestions
+questSend0,Talk
+questSend1,Talk
+questTextAuto,AUTO
+logueTextAuto,AUTO
+-,
+endingMessage,End.
+-,
+gameOverMessage,G A M E &nbsp;&nbsp; O V E R
+gameOverContinue,Continue
+gameOverToTitle,Title
+-,
+optionTitle,Option
+optionClose,Close
+-,
+questionTitle,Help
+questionClose,Close
+-,
+helpTitle,Help
+helpClose,Close
+-,
+catalogPagePrev,&lt;
+catalogPageNext,&gt;
+catalogClose,Close
+-,
+selectorLeft,&lt;
+selectorRight,&gt;
+-,
+-,
+yes,Yes
+no,No
+-,
+confirm_exit,Exiting the game. <br> Are you sure?
+confirm_clearSave,Delete save data. <br>System data (such as option settings) will not be deleted. <br><br>Are you sure?
+confirm_animationCut,Disabling some animations will stabilize the frame rate. <br>Do you want to turn on animation culling?
+confirm_house,Some characters have full inventories.<br>You can <red>Store items in Storage Shelf</red>. Do you want to continue exploring as is?
+confirm_nextScenario,You have already met the requirements to advance the episode. <br><red>You can proceed to the next part of the story</red>， would you like to continue ?
+confirm_go_story,Go to STORY
+confirm_go_house,Go to HOUSE
+confirm_go_exproler,Go to EXPLORER
+-,
+story_target,Next objective:
+story_target_invalid,Continue another story<br>(You have not met the requirements to continue this story)
+story_target_continue,Continue another story<br>(This story has been completed)
+story_target_replay,Read this story again<br>(This story has been completed)
+story_target_noCondition,(Episode progression requirement: None)
+story_target_questCount,(Explore {0} location and return safely: {1})
+story_target_questProgress,(Explore {0} locations in a row and return safely: {1})
+story_target_visitLocation,(Explore <q>{0}</q> and return safely: {1})
+story_target_memoryItem,(Find an episode progression item &lt;{0}&gt;: {1})
+story_target_deleteWorld,(Make a decision)
+story_target_reboot,(Leave the computer)
+story_target_questTimeLimit,(Find the next campsite within {0} explorations: {1} remaining)
+story_targetDescription_invalid,Episode Progression Requirement<br><br>You have not met the requirements， so <red>you cannot progress this episode</red>.<br>You will be able to progress this episode by advancing other episodes.
+story_targetDescription_questCount,Episode Progression Requirement<br><br>The episode will progress when you explore <red>{0} location(s)</red>.<br>(Game Overs and explorations ended early due to hunger do not count.)
+story_targetDescription_noCondition,Episode Progression Requirement<br><br>There are no requirements for progressing this episode.<br>You can proceed to the next episode immediately.
+story_targetDescription_questProgress,Episode Progression Requirement<br><br>The episode will progress when you explore <red>{0} locations in a row</red>.<br>(Game Overs and explorations ended early due to hunger do not count.)
+story_targetDescription_visitLocation,Episode Progression Requirement<br><br>The episode will progress when you explore <red>{0}</red>.<br>(Even if you reach it， it will not count as explored if you get a Game Over or end the exploration due to hunger before returning.)
+story_targetDescription_memoryItem,Episode Progression Requirement<br><br>The episode will progress when you find {1} <red>episode progression item(s)</red> while exploring.<br>(Even if you find one， it will not count if you get a Game Over or end the exploration due to hunger before returning.)<br><br>Episode Progression Item &lt;{0}&gt;: {2}
+story_targetDescription_reboot,Episode Progression Requirement<br><br>There is nothing more you can do here right now.<br>Try stepping away from the computer for a while.
+story_targetDescription_notFound,Episode Progression Requirement<br><br>The current episode progression requirements cannot be checked.
+story_targetDescription_questTimeLimit,Campsite<br><br>Find the next campsite within <red>{0} explorations</red>.<br>If you fail to find one， supplies will become harder to find at nearby locations， and the Infected will begin gathering.
+story_outline_nextDestination,<br><br>{0} location(s) remaining until {1}.
+story_scenario_advance,Continue to the next story
+story_confirm_advance_memoryItem,Consume one episode progression item “<red>{0}</red>” to proceed to the next story.<br>Are you sure?
+story_confirm_advance_other,You have met the <red>episode progression requirements</red>.<br>Proceed to the next episode. Are you sure?
+story_confirm_advance_storyMode,Because <red>STORY</red> mode is enabled，<br>the episode progression requirements will be skipped and you will proceed to the next story.<br>Are you sure?
+story_confirm_replay,Read this story again?<br>(This story has already been completed)
+story_other_invalid,<br>You have not met the requirements， so <red>you cannot progress this story</red>.<br>You need to progress another story first.
+story_other_continue,<br>This story has been <red>completed</red>.<br>You can now progress another story.
+story_confirm_deleteWorld,All data will be deleted.<br><br>Are you sure?<br>
+story_confirm_deleteWorld_caution,<br>Are you really sure you want to delete it?<br>
+story_skip_condition,Skip
+story_skip_condition_confirm,<br>Consume “<red>{0}</red>” to <red>skip</red> the episode progression requirement.<br>Are you sure?
+story_skip_condition_craft,<br>Craft “<red>{0}</red>” to <red>skip</red> the episode progression requirement.<br>Craft it?
+-,
+exproler_path,Disc:&nbsp;/&nbsp;
+exproler_completed,&nbsp;End.
+exproler_playNewFile,Play Data
+exproler_playComplete,progress : {0}
+exproler_playFailed,failed
+exproler_locationdDscription,About {0}&nbsp;&nbsp;<br>(View Details)&nbsp;&nbsp;
+exproler_endlressCharacterEpisode,Completed Character Episodes: {0}/{1}
+exproler_endlressCollection,Collections Obtained: {0}/{1}
+exproler_endlressItem,Items Obtained: {0}/{1}
+-,
+house_unknown,？？？？
+house_unknownDescription,<br>????<br><br>(Unlocked when you have at least one material)
+house_noRecipeDescription,<br>????<br><br>(Unlocked when you obtain a recipe/blueprint)
+house_description,Description
+house_remove,Remove
+house_craft,Craft
+house_craftTarget,Craft Into
+house_recipe,Recipe
+house_materialCount,(Owned: {0})
+house_pushItem,To {0}
+house_pushItemMultiple,To {0} (x{1})
+house_popItem,Store
+house_popItemMultiple,Store (x{1})
+house_equip,Equip
+house_unequip,Unequip
+house_none,None
+house_open,Open
+house_use,Use
+house_scenario,Go to the Episode
+house_mission,Deliver
+house_departure,Depart
+house_fullWarning,The Storage Shelf is full.<br>Please discard any unnecessary items.
+house_removeWarning,Discard <red>{0}</red>&nbsp;.<br>Are you sure?
+house_confirmRemoveCount,How many <red>{0}</red>&nbsp;do you want to discard?
+house_confirmCraftCount,How many <red>{0}</red>&nbsp;do you want to craft?
+house_selectCraftMaterial,Select the materials to use for crafting.
+house_recycle,Episode Complete<br><br>The <red>episode progression items</red> from completed episodes have been converted into <red>{0}</red>.
+house_unuseable,<br><br>You cannot use this because you do not meet the requirements.
+-,
+vital_0,Fine
+vital_1,Lightly Injured
+vital_2,Injured
+vital_3,Seriously Injured
+vital_4,Life in Danger
+vital_5,Dying
+vitalDescription,<br><br>(Becoming “Dying” results in Game Over. You will lose all inventory except equipped items.)<br>(Fine > Lightly Injured > Injured > Seriously Injured > Life in Danger > Dying)
+vitalDescription_0,Fine<br>Health: {0}/{1}　Completely fine. Uninjured.
+vitalDescription_1,Lightly Injured<br>Health: {0}/{1}　Sustained a minor injury.
+vitalDescription_2,Injured<br>Health: {0}/{1}　Sustained a significant injury.
+vitalDescription_3,Seriously Injured<br>Health: {0}/{1}　Sustained a severe injury.
+vitalDescription_4,Life in Danger<br>Health: {0}/{1}　In critical condition.
+vitalDescription_5,Dying<br>Health: {0}/{1}　No longer able to move.
+-,
+stamina_0,Full
+stamina_1,Satisfied
+stamina_2,A Little Hungry
+stamina_3,Hungry
+stamina_4,Very Hungry
+stamina_5,Starving
+staminaDescription,<br><br>(Reaching “Starving” will force the exploration to end.)<br>(Full > Satisfied > A Little Hungry > Hungry > Very Hungry > Starving)
+staminaDescription_0,Full<br>Hunger: {0}/{1}　Completely full.
+staminaDescription_1,Satisfied<br>Hunger: {0}/{1}　You might be starting to feel a little hungry.
+staminaDescription_2,A Little Hungry<br>Hunger: {0}/{1}　You are getting hungry， but you are still fine.
+staminaDescription_3,Hungry<br>Hunger: {0}/{1}　Your stomach growls even as you walk.
+staminaDescription_4,Very Hungry<br>Hunger: {0}/{1}　Hunger is starting to become painful.
+staminaDescription_5,Starving<br>Hunger: {0}/{1}　You cannot go any farther.
+-,
+inputHistory_current,&nbsp;<blue>[Current Location]</blue>
+inputHistory_explored,&nbsp;<gray>[Explored]</gray>
+inputHistory_unexplored,&nbsp;<green>[Unexplored]</green>
+-,
+speak_input,Talk
+input_placeholder,Click on the input field or text
+textAuto_0,Normal
+textAuto_1,Fast
+textAuto_2,Slow
+textAuto_3,Skip
+textWait_0,Normal
+textWait_1,Fast
+textWait_2,Slow
+textWait_3,Skip
+-,
+textHistory_off,<gray>( Suggestions OFF )</gray>
+-,
+item_switch_house,Storage
+item_switch_craft,Crafting
+item_category_default,Category
+item_category_all,All
+item_category_heal,Medicine/Food
+item_category_equip,Equipment/Ammo
+item_category_material,Materials/Ingredients
+item_category_memory,Episodes
+item_category_collection,Collections
+item_category_other,Other
+item_category_craft,Crafting
+item_sort_default,Sort
+item_sort_get,Obtained
+item_sort_type,Type
+item_sort_name,Name
+item_toHouse,To Storage Shelf
+item_equip,[Equipped]
+item_use,Use
+item_dismantle,Dismantle
+item_temporary,<br>(Found. It will automatically be stored in the Storage Shelf when you finish exploring.)
+item_inHand,<br>(Your inventory is full. You must leave this item or another item behind.)
+item_selectTarget,Select the item to use as the target.
+item_targetNotFound,<br>There is no applicable item.<br>
+item_noWeight,<br>(Does not count toward your “Inventory” limit)
+-,
+itemBoxCount,Inventory ({0}/{1})
+-,
+letterReward_Gun00,Firearms
+letterReward_Hammer00,Weapons
+letterReward_Box00,Supplies
+letterReward_Map00,Map
+letterReward_Variable00,Weapon Parts
+-,
+missionReward_coin,Art Supplies
+missionReward_weapon,Weapons
+missionReward_box,Supplies
+missionReward_variable,Weapon Parts
+missionReward_addAccessory,Weapon Parts
+-,
+selection_and, and 
+selection_or,or
+selection_comma,`
+battle_and, and 
+-,
+sound_on,sound on
+sound_off,sound off
+-,
+titleStart,Start
+titleContinue,Continue
+-,
+option_bgmVolume,BGM Volume
+option_seVolume,SE Volume
+option_fullscreenMode,Full-Screen Mode
+option_windowMode,Window Mode
+option_windowSize,Window Size
+option_animationCut_on,Animation Cut : ON
+option_animationCut_off,Animation Cut : OFF
+option_textWaitType,Text Speed
+option_textAutoWaitType,AUTO Advance
+option_fontSize_0,Font Size : Normal
+option_fontSize_1,Font Size : Large
+option_fontSize_2,Font Size : Maximum
+option_textAutoStop_on,Turn AUTO : Off
+option_textAutoStop_off,Turn AUTO : On
+option_returnTitle,Title
+option_modeSelect,Mode Selection
+option_clearSave,Delete Save Data
+option_exit,Exit
+-,
+question_help,Controls & Features
+question_storyTarget,Check Episode Progression Requirements
+question_craft,List of Craft Recipes
+question_itemCatalog,Item/Cooking List
+question_contents,Content Information
+-,
+mode_normal,NORMAL
+mode_story,STORY
+mode_selectConfirm,Please select a game mode. <br>{0}<br><br><red>NORMAL</red> : This is the standard mode. You'll travel with the girls and advance the story as you explore. <br><red>STORY</red> : This mode lets you read the story without exploring. You can skip the exploration.
+mode_storyWarning,In <red>STORY</red> mode， you can skip the exploration and proceed directly through the story. <br>This may detract from the story experience and the pacing. <br><br>Are you sure?
+mode_changeable,(You can change the mode at any time on the title screen.)
+mode_currentMode,(Current mode: {0})
+-,
+help_search,Help Seach
+help_inputWord,Help Input Text
+help_redWord,About the words in red
+help_vitalStamina,About Health/Hunger
+help_inventory,About Inventory
+help_skill,About <q>Traits</q>
+help_story,About the <q>Story</q> Screen
+help_explorer,About the <q>Explorer</q> Screen
+help_house,About the <q>Inventory</q> Screen
+help_saveData,About Save Data
+help_earlyAccess,About Early Access
+help_contact,Feedback， Impressions & Bug Reports
+-,
+helpDescription_search,About Exploration<br><br>Natsuno and the others explore ruins and other places in order to survive.<br>Look for useful <red>items</red> and <red>food</red>.<br>Natsuno and the others explore according to their own <red>will</red>， but you can also support them <red>by entering text</red>.
+helpDescription_inputWord,About Text Input<br><br>You can enter text in the <red>text input field</red> below the text window and communicate it to Natsuno and the others.<br>During scenario events， you can enter text only while the <red>pencil icon</red> is displayed in the text window.
+helpDescription_redWord,About Words in Red<br><br>Words may sometimes appear in <red>red</red> in the text.<br>Clicking one of these words will copy it to the text input field (some words cannot be copied).<br>If you have a companion， <red>right-clicking a word will copy it to the other character's text input field</red>.
+helpDescription_vitalStamina,About Health/Hunger<br><br>Health decreases through <red>combat</red> with enemies and other situations. When health reaches zero， you get a Game Over and lose all inventory except equipped items.<br>Hunger decreases <red>with every action</red> during exploration. If hunger reaches zero during an exploration， the exploration will end automatically.<br>Both health and hunger are <red>fully restored when exploration ends</red>.
+helpDescription_inventory,About Inventory During Exploration<br><br>During exploration， you can check items and food you have obtained by pressing the <red>“Inventory” button</red>.<br>You can check an item's <red>details</red>， and <red>give it to a companion if you have one</red>.<br>There is an <red>inventory limit</red>， so if you exceed it， you must discard items.
+helpDescription_skill,About “Traits”<br><br>Each character has their own <red>Traits</red>.<br>You can check the effects of each Trait during exploration by pressing the <red>“Traits” button</red>.
+helpDescription_story,About the “Story” Screen<br><br>The “Story” screen lets you check the <red>scenario outline</red>.<br>Once you meet an episode's progression requirements through exploration， you can <red>continue the story</red> from the “Story” screen.
+helpDescription_explorer,About the “Explorer” Screen<br><br>On the “Explorer” screen， you can select the <red>data</red> to play and head out on an <red>exploration</red>.<br>During exploration， you can gather items and food.
+helpDescription_house,About the “Inventory” Screen<br><br>On the “Inventory” screen， you can store items obtained through exploration and other activities in the <red>Storage Shelf</red>.<br>You can also select <red>Crafting</red> from the categories to create items and dishes.<br>You can quickly store an item in your inventory by <red>right-clicking it</red>.
+helpDescription_saveData,About Save Data<br><br>This game supports auto save. Your progress is automatically saved when advancing the scenario， finishing an exploration， and at other points.<br>To delete save data， open Options from the title screen and select “Delete Save Data.”
+helpDescription_earlyAccess,About Early Access<br><br>This is an <red>Early Access</red> version.<br>Some system features， scenario content， resources， and other elements differ from the full version.<br>Future updates are planned to improve the exploration-focused systems and add episodes， characters， and more.
+helpDescription_contact,Feedback， Impressions & Bug Reports<br><br>We welcome your feedback and impressions to help us provide a better experience.<br>If you encounter behavior that appears to be a bug， we would also appreciate your report.<br>For details， please visit the official website (https://natsuno-kanata.online/).
+-,
+calalog_unknown,？？？？
+calalog_notOpenedItem,????<br><br>An item or dish you have not obtained yet.
+-,
+dialog_close,Close
+dialog_stop,Cancel
+-,
+context_prev,< Previous
+context_next,Next >
+-,
+location_depth,Size: <red>{0}</red>
+location_depthNarrow,Narrow
+location_depthMiddle,Average
+location_depthWide,Wide
+location_enemyLevel,Danger Level: <red>{0}</red>
+location_enemyLevelLow,Low
+location_enemyLevelMiddle,Average
+location_enemyLevelHigh,High
+location_enemyLevelVeryHigh,Very High
+location_prioritizeItem,Common Finds: <red>{0}</red>
+location_prioritizeItemNone,None
+-,
+stagePrefix_0,East
+stagePrefix_1,Southwest
+stagePrefix_2,West
+stagePrefix_3,Northeast
+stagePrefix_4,South
+stagePrefix_5,Southeast
+stagePrefix_6,North
+stagePrefix_7,Northwest
+stagePrefix_8,North-Northwest
+stagePrefix_9,South-Southeast
+-,
+input_symbol,~
+input_period,.
+unknown_question,???
+omit_symbol,...
+delete,Delete
+piece,Piece
+passage,Passage
+select,Select
+brackets_begin,
+brackets_end,
+-,

@@ -1,0 +1,11 @@
+id,name<jpn>,type,arg,description<jpn>
+chatty,Chatty,StageEventOccurSkill,selectionSearch00,Likes chatting with others. Even trivial things make her want to report them or ask for advice.<br>(During exploration， she will more often ask for your <red>opinion</red>)
+timidity,Timid,CallObjectSkill,observe00,She is exceptionally cautious.<br>(By <red>observing</red> before investigating， she can tell whether something is dangerous)
+curiosity,Curious,StageEventOccurSkill,find01,She is interested in just about anything.<br>(During exploration， she can spontaneously <red>discover</red> various things in the surrounding area)
+easy-going,Carefree,DefenseSkill,2,She doesn't let anything bother her.<br>(<red>Defense</red> is increased)
+swordsman,Kendo Black Belt,AttackNoWeaponSkill,3,She feels more at home with the bamboo sword on her back than anything else.<br>(When no weapon is equipped， <red>Attack</red> is increased)
+tidy,Organized,TidySkill,5,She is good at keeping things neat and organized.<br>(The number of <red>items</red> she can carry is increased)
+crafter,Handy,StageEventOccurSkill,selectionItemCraft01,She is skilled with her hands.<br>(During exploration， she may <red>craft</red> something when the necessary materials are available)
+courage,Courage,StageEventOccurSkill,find01,The courage in her heart drives her to explore actively.<br>(During exploration， she can spontaneously <red>discover</red> various things in the surrounding area)
+collector,Collector,StageEventOccurSkill,exchangeItem00,She loves collecting all sorts of things.<br>(During exploration， she may take an item she is carrying as <red>luggage</red> and <red>exchange</red> it for another item)
+-,,,,

@@ -1,0 +1,6 @@
+id,type,timing,condition,args[]
+prologueEndReboot00,bool,boot,finishedScenario,main0-6
+earlyAccessEndReboot00,bool,boot,finishedScenario,main4-7
+mainScenarioFinished00,bool,immediate,finishedScenario,main16-18
+allCharacterScenarioFinished00,bool,immediate,allCharacterScenarioFinished,-
+-,,,,

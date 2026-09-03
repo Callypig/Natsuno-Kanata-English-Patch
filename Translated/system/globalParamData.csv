@@ -1,0 +1,16 @@
+id,type,value
+stageMemoryItemRatio,ratio,0.8
+repeatEventOccurRatio,ratio,0.1
+randomAreaLocationRatio,ratio,0.3
+-,,
+lockedKeyDummyCount,number,2
+stageMemoryItemDummyCount,number,3
+locationDepthNarrow,number,2
+locationDepthMiddle,number,3
+locationDepthWide,number,4
+locationEnemyLevelLow,number,10
+locationEnemyLevelMiddle,number,20
+locationEnemyLevelHigh,number,30
+locationEnemyLevelVeryHigh,number,40
+itemNameLengthMax,number,16
+-,,

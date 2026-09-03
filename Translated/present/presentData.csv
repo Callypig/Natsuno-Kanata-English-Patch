@@ -1,0 +1,17 @@
+id,item,startDate,endDate,timing,requireFlag,continueType,group,message<jpn>,button<jpn>
+christmas00,armor100,12/19,12/31,story,prologueEndReboot00,-,-,メリークリスマス！　クリスマスプレゼント 1<br><br><red>サンタのワンピース</red>がプレゼントされました。<br>ナツノに装備させて探索に行くと、<red>衣装が反映</red>されます。,受け取る
+christmas01,map100,12/19,12/31,story,prologueEndReboot00,-,-,メリークリスマス！　クリスマスプレゼント 2<br><br><red>暖炉のある小屋の地図</red>がプレゼントされました。<br>地図に書かれた場所にたどり着くことができれば、クリスマス限定の<red>蒐集品</red>が手に入るかも......？,受け取る
+valentine00,collection101,2/7,2/28,story,prologueEndReboot00,-,-,バレンタイン期間限定プレゼント<br><br><red>板チョコの詰まった箱</red>がプレゼントされました。<br>収納棚から、バレンタイン限定のミニエピソードを見ることができます。<br>（本編のエピソード進行度によって、ミニエピソード内の選択肢が増減します）,受け取る
+helloween00,armor101,10/21,11/20,story,prologueEndReboot00,-,-,ハッピーハロウィン！　プレゼント1<br><br><red>小悪魔なワンピース</red>がプレゼントされました。<br><br>ナツノに装備させて探索に行くと、<red>衣装が反映</red>されます。,受け取る
+helloween01,postcard100,10/21,11/20,story,prologueEndReboot00,-,-,ハッピーハロウィン！　プレゼント2<br><br><red>カボチャの描かれた絵はがき</red>がプレゼントされました。<br>収納棚で<red>使う</red>と、誰かと出会えるかも......？<br><br>※「カボチャの描かれた絵はがき」は、特定のキャラクターと遭遇していない場合使用することができません。<br>以降、該当キャラクターと遭遇した時点で、使用できるようになります。,受け取る
+-,,,,,,,,,
+daily00,postcard00,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily01,mission02,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily02,mission03,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily03,mission04,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily04,journey00,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily05,letter00,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily06,letter01,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily07,letter02,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+daily08,letter03,-,-,story,mainScenarioFinished00,dailyGroup,daily,日めくり報酬<br><br>日めくり報酬として「<red>{0}</red>」が配布されました。<br>収納棚に送られます。<br><br>（「日めくり報酬は」日付が変わる度に配布されます）,受け取る
+-,,,,,,,,,

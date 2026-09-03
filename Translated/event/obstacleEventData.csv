@@ -1,0 +1,5 @@
+id,type,speakType,useStamina,events[],name<jpn>,describe<jpn>
+enemy00,-,findEnemyObstacle,1,battle01,Infected person ,In front of <button>{0}</button>， an infected person is standing. It seems they haven't been noticed yet
+furniture00,furniture,moveObstacle,5,-,A Fallen Shelf,A shelf had fallen over right in front of <button>{0}</button>
+furniture01,furniture,moveObstacle,3,-,The Overturned Desk,Right in front of <button>{0}</button>， a desk has been knocked over
+furniture02,furniture,moveObstacle,8,-,Furniture Barricade,A barricade made of stacked furniture is blocking the path to <button>{0}</button>

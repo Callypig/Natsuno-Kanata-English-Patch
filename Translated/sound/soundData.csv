@@ -1,0 +1,75 @@
+id,type,class,fileType,volume,loopFadeTime,src,name
+button00,se,app,audio/mp3,0.6,-1,resources/sound/se/button00.mp3,-
+write00,se,app ingame,audio/mp3,0.4,-1,resources/sound/se/write00.mp3,-
+armor00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/armor00.mp3,-
+attack00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/attack00.mp3,-
+attack01,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/attack01.mp3,-
+attack02,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/attack02.mp3,-
+enemy00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/enemy00.mp3,-
+enemy01,se,app ingame,audio/mp3,0.8,-1,resources/sound/se/enemy01.mp3,-
+enemy02,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/enemy02.mp3,-
+enemy03,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/enemy03.mp3,-
+enemy04,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/enemy04.mp3,-
+enemy05,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/enemy05.mp3,-
+enemy06,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/enemy06.mp3,-
+gameover00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/gameover00.mp3,-
+search00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/search00.mp3,-
+walk00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/walk00.mp3,-
+weapon00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/weapon00.mp3,-
+damage00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/damage00.mp3,-
+gun00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/gun00.mp3,-
+gun01,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/gun01.mp3,-
+gun02,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/gun02.mp3,-
+gun03,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/gun03.mp3,-
+heal00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/heal00.mp3,-
+broken00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/broken00.mp3,-
+locked00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/locked00.mp3,-
+eat00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/eat00.mp3,-
+breakWood00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/breakWood00.mp3,-
+craft00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/craft00.mp3,-
+cook00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/cook00.mp3,-
+switch00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/switch00.mp3,-
+can00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/can00.mp3,-
+glass00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/glass00.mp3,-
+explode00,se,app ingame,audio/mp3,0.4,-1,resources/sound/se/explode00.mp3,-
+down00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/down00.mp3,-
+camera00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/camera00.mp3,-
+bell00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/bell00.mp3,-
+water00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/water00.mp3,-
+miss00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/miss00.mp3,-
+dive00,se,app ingame,audio/mp3,0.8,-1,resources/sound/se/dive00.mp3,-
+cicada00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/cicada00.mp3,-
+door00,se,app ingame,audio/mp3,0.6,-1,resources/sound/se/door00.mp3,-
+-,,,,,,,
+title00,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/title00.mp3,鈴の蒼音
+title01,bgm,app,audio/mp3,0.7,0,resources/sound/bgm/title01.mp3,夏の彼方 inst ver.
+story00,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/story00.mp3,声を交えて
+endroll00,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/endroll00.mp3,"電波塔 "
+scenario00,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario00.mp3,"朝露の旅 "
+scenario01,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario01.mp3,-
+scenario02,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario02.mp3,-
+scenario03,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario03.mp3,-
+scenario04,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario04.mp3,-
+scenario05,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario05.mp3,-
+scenario06,bgm,app,audio/mp3,0.5,0,resources/sound/bgm/scenario06.mp3,-
+scenario07,bgm,app,audio/mp3,0.3,0,resources/sound/bgm/scenario07.mp3,-
+scenario08,bgm,app,audio/mp3,0.3,0,resources/sound/bgm/scenario08.mp3,-
+scenario09,bgm,app,audio/mp3,0.3,0,resources/sound/bgm/scenario09.mp3,-
+character00,bgm,app,audio/mp3,0.4,0,resources/sound/bgm/character00.mp3,常緑日和
+character01,bgm,app,audio/mp3,0.4,0,resources/sound/bgm/character01.mp3,オーガンジーの景色
+character02,bgm,app,audio/mp3,0.4,0,resources/sound/bgm/character02.mp3,反射する世界
+character03,bgm,app,audio/mp3,0.4,0,resources/sound/bgm/character03.mp3,おもちゃの欠片
+character04,bgm,app,audio/mp3,0.4,0,resources/sound/bgm/character04.mp3,彩のゆくさき
+character05,bgm,app,audio/mp3,0.3,0,resources/sound/bgm/character05.mp3,ある島の雨上がり
+character06,bgm,app,audio/mp3,0.3,0,resources/sound/bgm/character06.mp3,パラレルの空
+character07,bgm,app,audio/mp3,0.3,0,resources/sound/bgm/character07.mp3,アイボリー・ローズ
+environment00,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment00.mp3,-
+environment01,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment01.mp3,-
+environment02,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment02.mp3,-
+environment03,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment03.mp3,-
+environment04,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment04.mp3,-
+environment05,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment05.mp3,-
+environment06,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment06.mp3,-
+environment07,bgm,app,audio/mp3,0.6,3,resources/sound/bgm/environment07.mp3,-
+environment08,bgm,app,audio/mp3,0.6,1,resources/sound/bgm/environment08.mp3,-
+-,,,,,,,

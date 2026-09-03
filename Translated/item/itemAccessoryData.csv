@@ -1,0 +1,11 @@
+id,name<jpn>,ratio,type,buff,buffArgs[],debuff,debuffArgs[],onApplyItem[],description<jpn>
+weapon00,About to break,0.1,weapon,-,-,overwriteArg1,0.5,-,It looks like it's about to break.
+weapon01,Loud ,0.1,weapon,multiplyArg0,2,pushStageEvent,0.2/battle00,-,"It has high power, but it's louder than the others. Enemies may be drawn to the sound."
+weapon02,Heavy Recoil,0.1,weapon,multiplyArg0,2,-,-,damage10,"It has high power, but the recoil is so strong that you can damage yourself."
+weapon03,Beginner-friendly,0.1,weapon,multiplyArg0,0.5,overwriteArg1,0.01,-,"Its power is modest, but it is difficult to break."
+durable01,Durable,-1,weapon,overwriteArg1,0,-,-,resetArg1/disableAccessory,It is sturdy and won't break when used. (1 use remaining)
+durable02,Durable,-1,weapon,overwriteArg1,0,-,-,decrementId,It is sturdy and won't break when used. (2 uses remaining)
+durable03,Durable,0.1,weapon,overwriteArg1,0,-,-,decrementId,It is sturdy and won't break when used. (3 uses remaining)
+durable04,Durable,-1,weapon,overwriteArg1,0,-,-,decrementId,It is sturdy and won't break when used. (4 uses remaining)
+durable05,Durable,-1,weapon,overwriteArg1,0,-,-,decrementId,It is sturdy and won't break when used. (5 uses remaining)
+-,,,,,,,,,
