@@ -1,0 +1,247 @@
+id,_name<jpn>,name<eng>,_bridge<jpn>,bridge<eng>
+talk00,-,-,-,-
+-,,,,
+minamo00,道場,Dojo,道場,<PLEASE_TRANSLATE>
+-,,,,
+firstApartmen00-00,狭い部屋,Small room,狭い部屋,<PLEASE_TRANSLATE>
+firstApartmen00-01,廊下,Hallway,廊下,<PLEASE_TRANSLATE>
+firstApartmen00-02,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+-,,,,
+endApartmen00-00,狭い部屋,Small room,狭い部屋,<PLEASE_TRANSLATE>
+endApartmen00-01,廊下,Hallway,廊下,<PLEASE_TRANSLATE>
+endApartmen00-02,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+-,,,,
+marble00,何もないところ,Empty area,ここではないところ,<PLEASE_TRANSLATE>
+marble01,何もないところ,Empty area,ここではないところ,<PLEASE_TRANSLATE>
+marble02,何もないところ,Empty area,ここではないところ,<PLEASE_TRANSLATE>
+-,,,,
+apartment00,リビング,Living room,リビング,<PLEASE_TRANSLATE>
+apartment01,子供部屋,Child's room,子供部屋,<PLEASE_TRANSLATE>
+apartment02,寝室,Bedroom,寝室,<PLEASE_TRANSLATE>
+apartment03,書斎,Study,書斎,<PLEASE_TRANSLATE>
+apartment04,細い廊下,Narrow hallway,細い廊下,<PLEASE_TRANSLATE>
+apartment05,外廊下,Outdoor hallway,外廊下,<PLEASE_TRANSLATE>
+apartment06,バスルーム,Bathroom,バスルーム,<PLEASE_TRANSLATE>
+apartment07,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+-,,,,
+hut00,小さな部屋,Small room,小さな部屋,<PLEASE_TRANSLATE>
+hut01,屋根裏部屋,Attic,屋根裏部屋,<PLEASE_TRANSLATE>
+hut02,作業部屋,Workshop,作業部屋,<PLEASE_TRANSLATE>
+hut03,物置,Storage room,物置,<PLEASE_TRANSLATE>
+-,,,,
+shop01,食品売り場,Grocery section,食品売り場,<PLEASE_TRANSLATE>
+shop02,雑貨売り場,General goods section,雑貨売り場,<PLEASE_TRANSLATE>
+shop03,書棚,Bookshelves,書棚,<PLEASE_TRANSLATE>
+shop04,バックヤード,Back room,バックヤード,<PLEASE_TRANSLATE>
+shop05,スタッフ用の部屋,Staff room,スタッフ用の部屋,<PLEASE_TRANSLATE>
+shop06,搬入口,Loading entrance,搬入口,<PLEASE_TRANSLATE>
+-,,,,
+office00,控室,Waiting room,控室,<PLEASE_TRANSLATE>
+office01,誰もいない更衣室,Empty changing room,誰もいない更衣室,<PLEASE_TRANSLATE>
+office02,オフィス,Office,オフィス,<PLEASE_TRANSLATE>
+office03,事務室,Office,事務室,<PLEASE_TRANSLATE>
+office04,資料室,Records room,資料室,<PLEASE_TRANSLATE>
+office05,会議室,Meeting room,会議室,<PLEASE_TRANSLATE>
+office06,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
+office08,短い廊下,Short hallway,短い廊下,<PLEASE_TRANSLATE>
+office07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+office09,機材置き場,Equipment storage,機材置き場,<PLEASE_TRANSLATE>
+-,,,,
+palace00,広いホール,Large hall,広いホール,<PLEASE_TRANSLATE>
+palace01,暗い広間,Dark hall,暗い広間,<PLEASE_TRANSLATE>
+palace02,長い廊下,Long hallway,長い廊下,<PLEASE_TRANSLATE>
+palace03,薄暗い通路,Dimly lit passage,薄暗い通路,<PLEASE_TRANSLATE>
+palace04,書斎,Study,書斎,<PLEASE_TRANSLATE>
+palace05,寝室,Bedroom,寝室,<PLEASE_TRANSLATE>
+palace06,応接間,Reception room,応接間,<PLEASE_TRANSLATE>
+palace07,アトリエ,Atelier,アトリエ,<PLEASE_TRANSLATE>
+palace08,地下倉庫,Basement storage,地下倉庫,<PLEASE_TRANSLATE>
+palace09,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+-,,,,
+village00,広い交差点,Wide intersection,広い交差点,<PLEASE_TRANSLATE>
+village01,小さな交差路,Small crossroads,小さな交差路,<PLEASE_TRANSLATE>
+village02,広場,Plaza,広場,<PLEASE_TRANSLATE>
+village03,細い路地,Narrow alley,細い路地,<PLEASE_TRANSLATE>
+village04,大通り,Main street,大通り,<PLEASE_TRANSLATE>
+village05,家の並ぶ道,Residential street,家の並ぶ道,<PLEASE_TRANSLATE>
+village06,民家の庭,House garden,民家の庭,<PLEASE_TRANSLATE>
+village07,屋敷の前庭,Mansion front garden,屋敷の前庭,<PLEASE_TRANSLATE>
+-,,,,
+camp00,一人用のテント,One-person tent,一人用のテント,<PLEASE_TRANSLATE>
+camp01,大きなテント,Large tent,大きなテント,<PLEASE_TRANSLATE>
+camp02,崩れかけのテント,Collapsing tent,崩れかけのテント,<PLEASE_TRANSLATE>
+camp03,芝生の広場,Grassy plaza,芝生の広場,<PLEASE_TRANSLATE>
+camp04,芝生のキャンプサイト,Grassy campsite,芝生のキャンプサイト,<PLEASE_TRANSLATE>
+camp05,川辺,Riverside,川辺,<PLEASE_TRANSLATE>
+camp06,穏やかな川,Calm river,穏やかな川,<PLEASE_TRANSLATE>
+camp07,物置小屋,Storage shed,物置小屋,<PLEASE_TRANSLATE>
+camp08,コンクリートの倉庫,Concrete warehouse,コンクリートの倉庫,<PLEASE_TRANSLATE>
+-,,,,
+seaside00,広い砂浜,Wide beach,広い砂浜,<PLEASE_TRANSLATE>
+seaside01,人の痕跡がある浜,Beach with traces of people,人の痕跡がある浜,<PLEASE_TRANSLATE>
+seaside02,砂浜のキャンプ跡,Beach campsite remains,砂浜のキャンプ跡,<PLEASE_TRANSLATE>
+seaside03,波打ち際,Water's edge,波打ち際,<PLEASE_TRANSLATE>
+seaside04,波の打ちつける岩場,Rocky shore battered by waves,波の打ちつける岩場,<PLEASE_TRANSLATE>
+seaside05,小さなテント,Small tent,小さなテント,<PLEASE_TRANSLATE>
+seaside06,頑丈なテント,Sturdy tent,頑丈なテント,<PLEASE_TRANSLATE>
+seaside07,レンガの倉庫,Brick warehouse,レンガの倉庫,<PLEASE_TRANSLATE>
+seaside08,木造の小屋,Wooden shed,木造の小屋,<PLEASE_TRANSLATE>
+-,,,,
+hotel00,シングルルーム,Single room,シングルルーム,<PLEASE_TRANSLATE>
+hotel01,ツインの客室,Twin room,ツインの客室,<PLEASE_TRANSLATE>
+hotel02,家族向けの客室,Family room,家族向けの客室,<PLEASE_TRANSLATE>
+hotel03,細い廊下,Narrow hallway,細い廊下,<PLEASE_TRANSLATE>
+hotel04,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
+hotel05,バスルーム,Bathroom,バスルーム,<PLEASE_TRANSLATE>
+hotel06,豪勢な浴室,Luxurious bathroom,豪勢な浴室,<PLEASE_TRANSLATE>
+hotel07,物置,Storage room,物置,<PLEASE_TRANSLATE>
+hotel08,資料室,Records room,資料室,<PLEASE_TRANSLATE>
+hotel09,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
+hotel10,エレベーターホール,Elevator hall,エレベーターホール,<PLEASE_TRANSLATE>
+hotel11,事務室,Office,事務室,<PLEASE_TRANSLATE>
+hotel12,更衣室,Changing room,更衣室,<PLEASE_TRANSLATE>
+hotel13,狭い給湯室,Small kitchenette,狭い給湯室,<PLEASE_TRANSLATE>
+hotel14,広い厨房,Large kitchen,広い厨房,<PLEASE_TRANSLATE>
+-,,,,
+library00,文庫本の棚,Paperback shelves,文庫本の棚,<PLEASE_TRANSLATE>
+library01,図鑑の棚,Reference book shelves,図鑑の棚,<PLEASE_TRANSLATE>
+library02,雑誌の棚,Magazine shelves,雑誌の棚,<PLEASE_TRANSLATE>
+library03,歯抜けになった書架,Partially empty bookshelves,歯抜けになった書架,<PLEASE_TRANSLATE>
+library04,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
+library05,催事場,Event hall,催事場,<PLEASE_TRANSLATE>
+library06,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+library07,機材置き場,Equipment storage,機材置き場,<PLEASE_TRANSLATE>
+library08,事務室,Office,事務室,<PLEASE_TRANSLATE>
+library09,受付,Reception,受付,<PLEASE_TRANSLATE>
+-,,,,
+factory00,加工室,Processing room,加工室,<PLEASE_TRANSLATE>
+factory01,機械の並ぶ部屋,Room lined with machines,機械の並ぶ部屋,<PLEASE_TRANSLATE>
+factory02,広い機械室,Large machine room,広い機械室,<PLEASE_TRANSLATE>
+factory03,事務室,Office,事務室,<PLEASE_TRANSLATE>
+factory04,休憩室,Break room,休憩室,<PLEASE_TRANSLATE>
+factory05,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+factory06,資材置き場,Materials storage,資材置き場,<PLEASE_TRANSLATE>
+factory07,搬入口,Loading entrance,搬入口,<PLEASE_TRANSLATE>
+-,,,,
+homeCenter00,植木売り場,Garden supplies section,植木売り場,<PLEASE_TRANSLATE>
+homeCenter01,工具売り場,Tools section,工具売り場,<PLEASE_TRANSLATE>
+homeCenter02,家財売り場,Household goods section,家財売り場,<PLEASE_TRANSLATE>
+homeCenter03,バックヤード,Back room,バックヤード,<PLEASE_TRANSLATE>
+homeCenter04,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+homeCenter05,控室,Waiting room,控室,<PLEASE_TRANSLATE>
+homeCenter06,更衣室,Changing room,更衣室,<PLEASE_TRANSLATE>
+homeCenter07,搬入口,Loading entrance,搬入口,<PLEASE_TRANSLATE>
+homeCenter08,広い駐車場,Large parking lot,広い駐車場,<PLEASE_TRANSLATE>
+homeCenter09,地下駐車場,Underground parking lot,地下駐車場,<PLEASE_TRANSLATE>
+homeCenter10,店舗裏の駐車場,Rear parking lot,店舗裏の駐車場,<PLEASE_TRANSLATE>
+-,,,,
+museum00,化石の展示された部屋,Fossil exhibit room,化石の展示された部屋,<PLEASE_TRANSLATE>
+museum01,剥製の展示された部屋,Taxidermy exhibit room,剥製の展示された部屋,<PLEASE_TRANSLATE>
+museum02,模型の展示室,Model exhibit room,模型の展示室,<PLEASE_TRANSLATE>
+museum03,古い書物の展示室,Ancient book exhibit room,古い書物の展示室,<PLEASE_TRANSLATE>
+museum04,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
+museum05,イベントホール,Event hall,イベントホール,<PLEASE_TRANSLATE>
+museum06,事務室,Office,事務室,<PLEASE_TRANSLATE>
+museum07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+museum08,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
+museum09,静かな廊下,Quiet hallway,静かな廊下,<PLEASE_TRANSLATE>
+-,,,,
+amusementPark00,止まった観覧車,Stopped Ferris wheel,観覧車,<PLEASE_TRANSLATE>
+amusementPark01,動かないメリーゴーランド,Motionless carousel,メリーゴーランド,<PLEASE_TRANSLATE>
+amusementPark02,無人のジェットコースター,Abandoned roller coaster,ジェットコースター,<PLEASE_TRANSLATE>
+amusementPark03,異臭のするパンダカー,Go-kart with a foul smell,パンダの乗り物,<PLEASE_TRANSLATE>
+amusementPark04,ブロンズ像の広場,Bronze statue plaza,開けたところ,<PLEASE_TRANSLATE>
+amusementPark05,噴水広場,Fountain plaza,噴水広場,<PLEASE_TRANSLATE>
+amusementPark06,事務所,Office,事務所,<PLEASE_TRANSLATE>
+amusementPark07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+-,,,,
+school00,一年生の教室,First-year classroom,一年生の教室,<PLEASE_TRANSLATE>
+school01,二年生の教室,Second-year classroom,二年生の教室,<PLEASE_TRANSLATE>
+school02,三年生の教室,Third-year classroom,三年生の教室,<PLEASE_TRANSLATE>
+school03,空き教室,Empty classroom,空き教室,<PLEASE_TRANSLATE>
+school04,職員室,Staff room,職員室,<PLEASE_TRANSLATE>
+school05,教材室,Teaching materials room,教材室,<PLEASE_TRANSLATE>
+school06,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+school07,玄関ホール,Entrance hall,玄関ホール,<PLEASE_TRANSLATE>
+-,,,,
+underpass00,暗い道,Dark road,暗い道,<PLEASE_TRANSLATE>
+underpass01,ポスターばかりの道,Road covered in posters,ポスターばかりの道,<PLEASE_TRANSLATE>
+underpass02,タイル張りの道,Tiled road,タイル張りの道,<PLEASE_TRANSLATE>
+underpass03,天井の低い道,Low-ceilinged road,天井の低い道,<PLEASE_TRANSLATE>
+underpass04,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+underpass05,資材置き場,Materials storage,資材置き場,<PLEASE_TRANSLATE>
+underpass06,スタッフルーム,Staff room,スタッフルーム,<PLEASE_TRANSLATE>
+underpass07,機械室,Machine room,機械室,<PLEASE_TRANSLATE>
+-,,,,
+cafe00,ボックス席,Booth seating,ボックス席,<PLEASE_TRANSLATE>
+cafe01,カウンター,Counter,カウンター,<PLEASE_TRANSLATE>
+cafe02,雑貨売り場,General goods section,雑貨売り場,<PLEASE_TRANSLATE>
+cafe03,菓子売り場,Confectionery section,菓子売り場,<PLEASE_TRANSLATE>
+cafe04,厨房,Kitchen,厨房,<PLEASE_TRANSLATE>
+cafe05,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+cafe06,事務所,Drink server,事務所,<PLEASE_TRANSLATE>
+cafe07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+-,,,,
+station00,改札前,In front of the ticket gates,改札前,<PLEASE_TRANSLATE>
+station01,コンコース,Concourse,コンコース,<PLEASE_TRANSLATE>
+station02,待合室,Waiting room,待合室,<PLEASE_TRANSLATE>
+station03,連絡通路,Connecting passage,連絡通路,<PLEASE_TRANSLATE>
+station04,自由通路,Public passage,自由通路,<PLEASE_TRANSLATE>
+station05,駅員室,Station staff room,駅員室,<PLEASE_TRANSLATE>
+station06,事務所,Office,事務所,<PLEASE_TRANSLATE>
+station07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+-,,,,
+restaurant00,カウンター,Counter,カウンター,<PLEASE_TRANSLATE>
+restaurant01,テーブル席,Table seating,テーブル席,<PLEASE_TRANSLATE>
+restaurant02,ボックス席,Booth seating,ボックス席,<PLEASE_TRANSLATE>
+restaurant03,ホール,Hall,ホール,<PLEASE_TRANSLATE>
+restaurant04,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+restaurant05,厨房,Kitchen,厨房,<PLEASE_TRANSLATE>
+restaurant06,ドリンクサーバー,Drink server,ドリンクサーバー,<PLEASE_TRANSLATE>
+restaurant07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+-,,,,
+prison00,待合室,Waiting room,待合室,<PLEASE_TRANSLATE>
+prison01,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
+prison02,薄暗い廊下,Dimly lit hallway,薄暗い廊下,<PLEASE_TRANSLATE>
+prison03,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
+prison04,窓のない通路,Windowless passage,窓のない通路,<PLEASE_TRANSLATE>
+prison05,事務室,Office,事務室,<PLEASE_TRANSLATE>
+prison06,受付,Reception,受付,<PLEASE_TRANSLATE>
+prison07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+prison08,物置,Storage room,物置,<PLEASE_TRANSLATE>
+-,,,,
+storehouse00,A列と書かれた棚,Shelf marked A,A列と書かれた棚,<PLEASE_TRANSLATE>
+storehouse01,B列と書かれた棚,Shelf marked B,B列と書かれた棚,<PLEASE_TRANSLATE>
+storehouse02,C列と書かれた棚,Shelf marked C,C列と書かれた棚,<PLEASE_TRANSLATE>
+storehouse03,D列と書かれた棚,Shelf marked D,D列と書かれた棚,<PLEASE_TRANSLATE>
+storehouse04,事務所,Office,事務所,<PLEASE_TRANSLATE>
+storehouse05,細い廊下,Narrow hallway,細い廊下,<PLEASE_TRANSLATE>
+-,,,,
+hospital00,待合室,Waiting room,待合室,<PLEASE_TRANSLATE>
+hospital01,診察室,Examination room,診察室,<PLEASE_TRANSLATE>
+hospital02,病室,Patient room,病室,<PLEASE_TRANSLATE>
+hospital03,静かな廊下,Quiet hallway,静かな廊下,<PLEASE_TRANSLATE>
+hospital04,事務室,Office,事務室,<PLEASE_TRANSLATE>
+hospital05,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
+hospital06,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
+-,,,,
+theater00,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
+theater01,広いホール,Large hall,広いホール,<PLEASE_TRANSLATE>
+theater02,薄暗い廊下,Dimly lit hallway,薄暗い廊下,<PLEASE_TRANSLATE>
+theater03,事務所,Office,事務所,<PLEASE_TRANSLATE>
+theater04,控室,Waiting room,控室,<PLEASE_TRANSLATE>
+-,,,,
+foodStorage00,Aと書かれた部屋,Room marked A,Aと書かれた部屋,<PLEASE_TRANSLATE>
+foodStorage01,Bと書かれた部屋,Room marked B,Bと書かれた部屋,<PLEASE_TRANSLATE>
+foodStorage02,Cと書かれた部屋,Room marked C,Cと書かれた部屋,<PLEASE_TRANSLATE>
+foodStorage03,Dと書かれた倉庫,Warehouse marked D,Dと書かれた倉庫,<PLEASE_TRANSLATE>
+foodStorage04,Eと書かれた倉庫,Warehouse marked E,Eと書かれた倉庫,<PLEASE_TRANSLATE>
+-,,,,
+armoury00,Aと書かれた部屋,Room marked A,Aと書かれた部屋,<PLEASE_TRANSLATE>
+armoury01,Bと書かれた部屋,Room marked B,Bと書かれた部屋,<PLEASE_TRANSLATE>
+armoury02,Cと書かれた部屋,Room marked C,Cと書かれた部屋,<PLEASE_TRANSLATE>
+armoury03,Dと書かれた倉庫,Warehouse marked D,Dと書かれた倉庫,<PLEASE_TRANSLATE>
+armoury04,Eと書かれた倉庫,Warehouse marked E,Eと書かれた倉庫,<PLEASE_TRANSLATE>
+-,,,,
+baseCamp00,開けたところ,Open area,開けたところ,<PLEASE_TRANSLATE>
+-,,,,

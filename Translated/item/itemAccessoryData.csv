@@ -1,0 +1,11 @@
+id,_name<jpn>,name<eng>,_description<jpn>,description<eng>
+weapon00,壊れかけの,About to break,今にも壊れそう。,It looks like it's about to break.
+weapon01,音の響く,Loud ,威力は高いけれど、他のより音がうるさい。音につられて敵が寄ってくることも。,"It has high power, but it's louder than the others. Enemies may be drawn to the sound."
+weapon02,反動の大きな,Heavy Recoil,威力は高いけれど、反動が大きすぎて自分自身もダメージを受ける。,"It has high power, but the recoil is so strong that you can damage yourself."
+weapon03,初心者向けの,Beginner-friendly,威力は控えめだけど、壊れにくい。,"Its power is modest, but it is difficult to break."
+durable01,丈夫な,Durable,丈夫で、使っても壊れない（あと1回）,It is sturdy and won't break when used. (1 use remaining)
+durable02,丈夫な,Durable,丈夫で、使っても壊れない（あと2回）,It is sturdy and won't break when used. (2 uses remaining)
+durable03,丈夫な,Durable,丈夫で、使っても壊れない（あと3回）,It is sturdy and won't break when used. (3 uses remaining)
+durable04,丈夫な,Durable,丈夫で、使っても壊れない（あと4回）,It is sturdy and won't break when used. (4 uses remaining)
+durable05,丈夫な,Durable,丈夫で、使っても壊れない（あと5回）,It is sturdy and won't break when used. (5 uses remaining)
+-,,,,

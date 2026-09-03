@@ -1,0 +1,11 @@
+﻿id,_name<jpn>,name<eng>,_description<jpn>,description<eng>
+chatty,お喋り好き,Chatty,誰かとお喋りするのが好き。なんでもないことも、報告したり相談したりしてしまう。<br>（探索している間、<red>意見</red>を求めてくることが多くなる）,Likes chatting with others. Even trivial things make her want to report them or ask for advice.<br>(During exploration， she will more often ask for your <red>opinion</red>)
+timidity,臆病,Timid,人一倍注意深い。<br>（調べる前に<red>観察</red>することで、危険があるかどうか見分けられる）,She is exceptionally cautious.<br>(By <red>observing</red> before investigating， she can tell whether something is dangerous)
+curiosity,好奇心,Curious,どんなものにだって興味を惹かれる。<br>（探索している間、周囲からいろんなものを自発的に<red>発見</red>できる）,She is interested in just about anything.<br>(During exploration， she can spontaneously <red>discover</red> various things in the surrounding area)
+easy-going,能天気,Carefree,どんなことも気にしない。<br>（<red>防御力</red>が上昇する）,She doesn't let anything bother her.<br>(<red>Defense</red> is increased)
+swordsman,剣道有段,Kendo Black Belt,背中の竹刀が何よりも手に馴染む。<br>（武器を装備していないとき、<red>攻撃力</red>が上昇する）,She feels more at home with the bamboo sword on her back than anything else.<br>(When no weapon is equipped， <red>Attack</red> is increased)
+tidy,整頓上手,Organized,整理整頓が得意。<br>（持てる<red>荷物</red>の数が増える）,She is good at keeping things neat and organized.<br>(The number of <red>items</red> she can carry is increased)
+crafter,器用,Handy,手先が器用。<br>（探索中に材料が揃うと、<red>クラフト</red>することがある）,She is skilled with her hands.<br>(During exploration， she may <red>craft</red> something when the necessary materials are available)
+courage,度胸,Courage,心の内の勇気で、積極的に探索する。<br>（探索している間、周囲からいろんなものを自発的に<red>発見</red>できる）,The courage in her heart drives her to explore actively.<br>(During exploration， she can spontaneously <red>discover</red> various things in the surrounding area)
+collector,収集癖,Collector,いろんなものを集めるのが大好き。<br>（探索中、「荷物」として所持しているアイテムを懐に入れ、別のアイテムと<red>交換</red>することがある）,She loves collecting all sorts of things.<br>(During exploration， she may take an item she is carrying as <red>luggage</red> and <red>exchange</red> it for another item)
+-,,,,

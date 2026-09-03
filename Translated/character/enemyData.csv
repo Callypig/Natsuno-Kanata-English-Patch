@@ -1,0 +1,44 @@
+﻿id,_name<jpn>,name<eng>
+enemy00,スーツ姿の感染者,Infected in a suit
+enemy01,片腕の感染者,One-armed infected
+enemy02,白目をむいた感染者,Infected with rolled-back eyes
+enemy03,焼けただれた感染者,Burned infected
+enemy04,猫背の感染者,Hunched-over infected
+enemy05,老いた感染者,Old infected
+enemy06,巨体の感染者,Huge infected
+enemy07,バールを持った感染者,Infected with a crowbar
+enemy08,片腕が肥大化した感染者,Infected with a swollen arm
+enemy09,肩からパイプが飛び出した感染者,Infected with a pipe in his shoulder 
+enemy10,全身を蔓に覆われた感染者,Infected covered with vines
+enemy11,硬い爪の伸びた感染者,Infected with grown-out hard claws
+enemy12,頭からCDが飛び出た感染者,Infected with a CD sticking out of it's head
+enemy13,腕が木の根のようになった感染者,Infected with tree roots as an arm
+enemy14,両目から鱗粉の流れる感染者,Infected with scales dusting from both eyes
+enemy15,腹に大穴があいた感染者,Infected with a large hole in its abdomen
+enemy16,口から綿毛を吐く感染者,Infected with fluff from its mouth
+-,,
+enemy50,右半身の腐った感染者,Infected with a rotten right side
+enemy51,緑の作業服の感染者,Infected in green work clothes
+enemy52,ヘルメットを被った感染者,Helmeted infected
+enemy53,四つん這いの感染者,Four-legged infected
+enemy54,顎から上がない感染者,Infected with only the jaw remaining
+enemy55,口から砂を吐き続ける感染者,Infected that continually spits sand from its mouth
+enemy56,胸から水晶の生えた感染者,Infected with crystals growing from its chest
+enemy57,無数のケーブルが生えた感染者,Infected with countless cables growing from its body
+enemy58,身体が葉で覆われた感染者,Infected covered in leaves
+enemy59,全身から淡い光が漏れる感染者,Infected with a faint light leaking from its entire body
+-,,
+enemyBoss00,両腕が岩のようになった感染者,Infected with both stone arms
+enemyBoss01,巨大な花の生えた感染者,Infected with a giant flower growing from its body
+enemyBoss02,全身から針のような毛の生えた感染者,Infected with needle-like hair growing all over its body
+enemyBoss03,身体が青白く点滅している感染者,Infected with a body that flashes bluish-white
+-,,
+enemyBoss50,頭からアンテナの生えた感染者,Infected with antennas growing from its head
+enemyBoss51,腕が蔓に覆われた感染者,Infected with arms covered in vines
+enemyBoss52,胸にタービンが埋まった感染者,Infected with a turbine embedded in its chest
+enemyBoss53,身体中から長い指が生えた感染者,Infected with long fingers growing all over its body
+enemyBoss54,背中に肉の翼が生えた感染者,Infected with fleshy wings growing from its back
+-,,
+enemyBoss100,赤い服を着た感染者,Infected in red clothes
+enemyBoss101,ミナモ,Minamo
+-,,

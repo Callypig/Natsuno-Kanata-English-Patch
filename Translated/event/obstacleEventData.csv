@@ -1,0 +1,5 @@
+id,_name<jpn>,name<eng>,_describe<jpn>,describe<eng>
+enemy00,感染者,Infected person ,<button>{0}</button>の前に、感染者が立っている。まだ気づかれていないらしい。,"In front of <button>{0}</button>, an infected person is standing. It seems they haven't been noticed yet"
+furniture00,倒れた棚,A Fallen Shelf,<button>{0}</button>の手前に棚が倒れていた。,A shelf had fallen over right in front of <button>{0}</button>
+furniture01,ひっくり返った机,The Overturned Desk,<button>{0}</button>のすぐ前で、机がひっくり返っている。,"Right in front of <button>{0}</button>, a desk has been knocked over"
+furniture02,家具のバリケード,Furniture Barricade,家具を積み重ねたバリケードが<button>{0}</button>への道を阻んでいる。,A barricade made of stacked furniture is blocking the path to <button>{0}</button>

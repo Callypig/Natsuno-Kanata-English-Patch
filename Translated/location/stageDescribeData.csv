@@ -1,0 +1,85 @@
+id,_text<jpn>,text<eng>
+object_anywhere00,{0}も、{1}も、寝静まっている。<br>ここを去ってしまったら、もう二度と、誰かに見つけられることはないかもしれない。,{0} and {1} are both lying still in the quiet. <br>If I leave this place， perhaps no one will ever find them again.
+object_anywhere01,{0}、{1}、{2}......みんな、もともとは持ち主がいただろう。<br>今となっては、使われていた頃の様子を想像することさえできない。,{0}， {1}， {2}...... They must have all belonged to someone once. <br>Now， it is impossible to even imagine what they were like when they were still in use.
+object_anywhere02,見渡せば、{0}や{1}が目に入った。<br>静かだけれど、人のいた跡はある。,Looking around， I caught sight of {0} and {1}. <br>It is quiet， but there are traces that people were here.
+object_anywhere03,ふと、薄暗闇の中に{0}があるのを見つけた。<br>静かに、ただ、そこにある。,Suddenly， I noticed {0} in the dimness. <br>It simply sits there， quietly.
+object_anywhere04,物陰の向こうに{0}が隠れていた。<br>誰かがここを通っても、きっと気づくことはなかっただろう。,{0} was hidden beyond the shadows. <br>Even if someone had passed through here， they probably would never have noticed it.
+object_anywhere05,光がちらついているのが見えて、そこに{0}があるのがわかった。,I saw a flicker of light and realized that {0} was there.
+object_anywhere06,一瞬、空気の流れさえ止まって見えた。<br>{0}が、その静けさの中に取り残されている。,For a moment， even the movement of the air seemed to have stopped. <br>{0} had been left behind in that silence.
+-,,
+secondary00,{0}が残されている。,{0} has been left behind.
+secondary01,{0}と{1}が残されている。,{0} and {1} have been left behind.
+secondary02,{0}と{1}、{2}が残されている。,{0}， {1}， and {2} have been left behind.
+secondary03,{0}、{1}、{2}と{3}が残されている。,{0}， {1}， {2}， and {3} have been left behind.
+secondary04,{0}、{1}、{2}、{3}や{4}が残されている。,{0}， {1}， {2}， {3}， and {4} have been left behind.
+secondary05,{0}や{1}、{2}、{3}、{4}に{5}が残されている。,{5} has been left behind among {0}， {1}， {2}， {3}， and {4}.
+-,,
+bridge00,奥に{0}が見えた。,I could see {0} farther inside.
+bridge01,向こうに{0}がある。,There is {0} over there.
+bridge02,目を凝らせば{0}が見える。,If I look closely， I can see {0}.
+bridge03,少し先に{0}がある。,There is {0} a little farther ahead.
+bridge04,すぐ先に{0}が見えた。,I caught sight of {0} just ahead.
+bridge05,少し行けば{0}と{1}がある。,A little farther on， there are {0} and {1}.
+bridge06,右手に{0}、左手に{1}が見えた。,I could see {0} on the right and {1} on the left.
+bridge07,歩く先に{0}や{1}がある。,There are {0} and {1} further along the path.
+bridge08,行く先にあるのは{0}や{1}だった。,What lies ahead is {0} and {1}.
+bridge09,奥に{0}と{1}、それから{2}が見えた。,Farther inside， I could see {0}， {1}， and then {2}.
+bridge10,{0}、{1}、{2}が先に続いている。,{0}， {1}， and {2} continue ahead.
+-,,
+object_room00,{0}、{1}、{2}......<br>主を失ったものたちが、ひっそりと、流れる時に身を沈めている。,{0}， {1}， {2}......<br>Things that have lost their owners quietly sink into the passing of time.
+object_room01,全部、部屋の持ち主が置いていったものだろうか。<br>{0}、{1}、{2}、みんな、どこか寂しげだった。,Did everything here belong to the owner of the room? <br>{0}， {1}， {2}...... They all seemed somehow lonely.
+object_corridor00,最後にここを通ったのは誰だろう。<br>{0}にも、{1}にも、埃が積もっている。,Who was the last person to pass through here? <br>Dust has settled on both {0} and {1}.
+object_corridor01,{0}や{1}が脇に寄せられている。,{0} and {1} have been moved off to the side.
+object_bath00,{0}が、水に跳ね返された光できらきら輝いている。<br>生きているみたいな揺らめきに、思わず身がすくむ。,{0} is sparkling with light reflected from the water. <br>The way it shimmers， almost as if it were alive， makes me instinctively shrink back.
+object_bath01,{0}も、ずっとこんなところにあったのではカビも生える。,Even {0} would grow mold after being left in a place like this for so long.
+object_warehouse00,時が止まってしまったみたいだった。<br>{0}、{1}、{2}、ずっと昔からここにあったのだろうか。,It felt as though time had stopped. <br>{0}， {1}， {2}...... Could they have been here for a very long time?
+object_warehouse01,薄暗い中に、ものの輪郭が見える。<br>{0}、{1}、{2}、眠っているなら、そのままにしておいた方がいいのでは、と思ってしまう。,I can make out the outlines of things in the dimness. <br>{0}， {1}， {2}...... If they are sleeping， I cannot help but feel they should simply be left as they are.
+object_kitchen00,きっと慌てて逃げたのだろう。<br>{0}や{1}、{2}が、散らかされたまま放置されている。,They must have fled in a hurry. <br>{0}， {1}， and {2} have been left scattered about.
+object_kitchen01,{0}、{1}、{2}、かつて使われていた跡があればあるほど、虚しい思いになる。,The more traces there are that {0}， {1}， and {2} were once used， the more empty it feels.
+object_shop00,見回せば、{0}や、{1}や、{2}が目に入る。<br>もちろん、もともとあった姿からはずいぶんかけ離れてしまっている。,Looking around， I can see {0}， {1}， and {2}. <br>Of course， they are a long way from what they must have looked like originally.
+object_shop01,{0}や{1}、{2}が残されていた。<br>窓の大きな店は、光が奥までよく届く。,{0}， {1}， and {2} have been left behind. <br>The shop's large windows let plenty of light reach all the way inside.
+object_office00,デスクの並んだ部屋はずいぶん散らかされている。<br>{0}、{1}......いろんなものが散乱している。,The room lined with desks has been left in quite a mess. <br>{0}， {1}...... all sorts of things are scattered around.
+object_office01,{0}、{1}、何事もなかったかのように整頓されているものもあれば、当時の騒動を思わせるものもある。,Some things， like {0} and {1}， are neatly arranged as though nothing ever happened， while others still evoke the turmoil of that time.
+object_hall00,煌びやかだったはずの広間。<br>{0}や{1}、{2}も、{3}も、今はただ静かに再び光を受けるのを待っている。,The hall must once have been magnificent. <br>{0}， {1}， {2}， and {3} now simply wait in silence to be touched by the light once more.
+object_hall01,こんなに広い空間の中では、{0}、{1}、{2}も{3}も縮こまって見える。,In such a vast space， {0}， {1}， {2}， and {3} all look small and huddled together.
+object_square00,往来のなくなってしまった道には、{0}や、{1}、{2}が放置されている。<br>いつか、道も道でなくなってしまうのだろうか。,Along the road where no one passes anymore， {0}， {1}， and {2} have been left behind. <br>Will the road itself eventually cease to be a road?
+object_square01,誰もいない。<br>だからって残されたものが消えるわけはない。<br>{0}も{1}も{2}も、かつての姿のままとはいえないけれど、まだそこにある。,No one is here. <br>That does not mean the things left behind have disappeared. <br>{0}， {1}， and {2} may no longer be as they once were， but they are still here.
+object_road00,細い道にものが投げ込まれている。<br>{0}、{1}、荒れ果てて見えても、誰かがここにいたんだと思い出す。,Things have been thrown into the narrow path. <br>{0}， {1}...... Even though everything looks so desolate， they remind me that someone was once here.
+object_road01,道を塞ぐようにして{0}が、{1}が放置されている。<br>そのくらい珍しくもないけれど。,{0} and {1} have been left behind， blocking the road. <br>It is hardly unusual to find things like that.
+object_garden00,{0}も、{1}も、もともとここにあったものだろうか。<br>きっと手入れされていたはずの庭も、今となっては見る影もない。,Could {0} and {1} have originally been here? <br>The garden must once have been carefully tended， but now there is hardly any trace of it.
+object_garden01,人が入ったのか、それとも獣がやってきたのか。<br>{0}も{1}も荒らされて見える。,Did someone enter， or was it an animal? <br>Both {0} and {1} look as though they have been rummaged through.
+object_tent00,テントの中には、{0}、{1}と、誰かの荷物がそのまま残されている。<br>ここでいったい何があったのか、想像するしかない。,Inside the tent， {0}， {1}， and someone's belongings have all been left behind. <br>There is nothing to do but imagine what could have happened here.
+object_tent01,人はいないのにテントだけが残されている。<br>{0}も{1}も、そのまま残っている。,No one is here， yet the tent remains. <br>{0} and {1} have been left just as they were.
+object_grassland00,見晴らしがよかった。<br>{0}、{1}、{2}、ここから見えるだけでも、人の痕跡が残っているのがわかる。,The view was good. <br>Even from here， I can see that {0}， {1}， and {2} are traces of people who were once here.
+object_grassland01,芝生が伸びてきて、いろんなものを覆い隠している。<br>それでも{0}と{1}と{2}はなんとか見つけた。,The grass has grown over everything， hiding all sorts of things. <br>Even so， I somehow managed to find {0}， {1}， and {2}.
+object_riverside00,澄んだ空気の中に、{0}や{1}が残されている。<br>でも、人の姿は見つけられない。,{0} and {1} have been left behind in the clear air. <br>But there is no sign of anyone.
+object_riverside01,川のせせらぎは涼しげだけれど、{0}や{1}はどこか不気味だった。,The sound of the stream is refreshing， but {0} and {1} felt somehow eerie.
+object_beach00,細波の音の中に、{0}や{1}が見えた。<br>誰かの手を離れた漂着物が残されている。,Through the sound of the rippling waves， I could see {0} and {1}. <br>Driftwood and other things cast loose from someone's hands have been left behind.
+object_beach01,{0}、{1}、潮の香りの中に佇んでいる。,{0} and {1} stand there amid the scent of the sea.
+object_shore00,満ち潮の時間だろうか。<br>{0}が波の音と一緒に残されている。,Could it be high tide? <br>{0} has been left behind alongside the sound of the waves.
+object_shore01,{0}を見つけた。穏やかな潮風に揺られている。,I found {0}. It sways gently in the calm sea breeze.
+object_library00,本に交じって、{0}や{1}が残されている。<br>やっぱり、ここにも誰かがいたのだろう。,{0} and {1} have been left behind among the books. <br>After all， someone must have been here too.
+object_library01,本の臭いが濃く漂う中に、{0}や{1}が残されている。,{0} and {1} have been left behind amid the strong smell of books.
+object_machineRoom00,放置されている{0}や{1}、{2}は、いつからそうしているのだろう。<br>部屋が広い分、残されたものたちの虚しさが強く感じられた。,How long have {0}， {1}， and {2} been left there? <br>The larger the room， the stronger the emptiness of the things left behind seems to feel.
+object_machineRoom01,動くこともなければ、誰かに運ばれることもない。<br>{0}も{1}も{2}も、ここで静かに朽ちていくのを待っている。,They neither move nor are carried away by anyone. <br>{0}， {1}， and {2} are quietly waiting to decay here.
+object_carryIn00,{0}、{1}、{2}、{3}......かつてここに運び込まれたものだろうか。<br>埃が積もってしまって、もう二度と運び出されることはない。,{0}， {1}， {2}， {3}...... Were they once brought here? <br>Dust has settled over them， and they will never be taken out again.
+object_carryIn01,本当はここが最後ではなく、またどこかへ運び出されるはずだっただろう。<br>{0}や{1}、{2}も{3}も、哀愁に影を落としている。,Perhaps this was never meant to be their final destination; they were probably supposed to be carried somewhere else. <br>{0}， {1}， {2}， and {3} are all cast in a shadow of melancholy.
+object_parking00,広い駐車場にぽつぽつとものが残されている。<br>{0}、{1}、{2}......ひっそりと日差しや雨風に耐えている。,Things have been left here and there across the large parking lot. <br>{0}， {1}， {2}...... quietly enduring the sunlight， rain， and wind.
+object_parking01,こんなに暑い駐車場なら、誰の姿もなくったって奇妙じゃない。<br>それなのに......{0}、{1}、{2}、どうしてこんなにも寂しげなのか。,In a parking lot this hot， it would not be strange for there to be no one around. <br>And yet...... {0}， {1}， {2}...... why do they seem so terribly lonely?
+object_gallery00,{0}や{1}が乱雑に放置されている。<br>ここにも混乱があったのだと実感した。,{0} and {1} have been left scattered about. <br>I could feel that there had been chaos here too.
+object_gallery01,あまりに静かで、{0}や{1}が今に動き出さないかと、いらぬ想像をしてしまう。,It is so quiet that I cannot help imagining that {0} and {1} might suddenly start moving.
+object_attractions00,乗り物のそばに放置されている{0}や{1}には、異様な静けさがあった。<br>こんなところでさえ、以前のままではいられない。,{0} and {1}， left beside the vehicles， have an eerie stillness about them. <br>Even a place like this can no longer remain as it once was.
+object_attractions01,賑やかさが失われても、{0}も{1}もここにある。<br>ぽつんとたたずむ様は、いかにももの寂しい。,Even though the liveliness is gone， {0} and {1} are still here. <br>The sight of them standing there all alone is profoundly desolate.
+object_hospitalRoom00,今でも薬品の臭いが漂っている。<br>{0}にも、{1}にも、{2}にも、臭いが染みつているかもしれない。,The smell of chemicals still lingers. <br>The odor may have seeped into {0}， {1}， and {2} as well.
+object_hospitalRoom00,張り詰めるような空気の中に{0}や{1}、{2}が残されていた。<br>見ているだけで、息が苦しくなる。,{0}， {1}， and {2} have been left behind in the tense atmosphere. <br>Just looking at them makes it difficult to breathe.
+object_classroom00,教室の独特の匂いの中に、{0}や{1}が残されている。,{0} and {1} have been left behind amid the distinctive smell of a classroom.
+object_classroom01,開け放たれた窓から爽やかな風が入ってくる。<br>教室の隅で{0}や{1}がそよ風に撫でられていた。,A fresh breeze enters through the open window. <br>{0} and {1} are being gently brushed by the breeze in the corner of the classroom.
+object_underpass00,どこまで続いて見える道の隅に、{0}や{1}、{2}が残されている。,{0}， {1}， and {2} have been left at the side of the road that seems to stretch endlessly into the distance.
+object_underpass01,暗闇の先を照らしてみれば、{0}、{1}、{2}......いろんなものが見つかる。<br>これからずっと、ここで陽も浴びずに過ごすのだろうか。,If I shine a light beyond the darkness， I can find {0}， {1}， {2}...... all sorts of things. <br>Will they spend the rest of their days here without ever seeing the sun?
+object_dining00,テーブルの陰に{0}や{1}が見つかった。,I found {0} and {1} beneath the table.
+object_dining01,{0}に{1}......誰もいなくなってしまったけれど、そのまま残されたものがたくさんある。,{0} and {1}...... No one is left， yet so many things remain just as they were.
+object_marble00,耳を澄ましていると、{0}や{1}が聞こえてくるような気がする。,If I listen carefully， I feel as though I can hear {0} and {1}.
+object_marble01,{0}、{1}......今聞こえたような気がするのは、気のせいだろうか。,{0}， {1}...... Could I really have just heard them， or am I imagining it?
+object_marble02,{0}が聞こえた。{1}も。空耳でなければ。,I heard {0}. And {1}， too. If it wasn't just my imagination.
+object_marble03,何もかも、錯覚に思えてくる。{0}や{1}、今、聞こえたような気がするけれど。,Everything starts to feel like an illusion. {0} and {1}...... I feel like I just heard them， but...
+-,,

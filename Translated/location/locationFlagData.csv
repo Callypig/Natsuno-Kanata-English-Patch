@@ -1,0 +1,13 @@
+id,_name<jpn>,name<eng>,_description<jpn>,description<eng>
+exitKey00,門の鍵,Door Key,どこかの門の鍵。<br>（探索地を出ると、破棄されます）,A key to some gate.<br>(It will be discarded when you leave the exploration area.)
+exitKey01,くすんだ鍵,Dull Key,どこかの鍵。<br>（探索地を出ると、破棄されます）,A key to somewhere.<br>(It will be discarded when you leave the exploration area.)
+-,,,,
+objectKey00,金庫の鍵,Safe Key,拾った鍵。どこかの金庫で使えるかも。<br>（探索地を出ると、破棄されます）,A key you picked up. It might work on a safe somewhere.<br>(It will be discarded when you leave the exploration area.)
+objectKey01,電子カードキー,Electronic Key Card,拾ったカード。電子ロックを解除するものらしい。<br>（探索地を出ると、破棄されます）,A card you picked up. It seems to be used to unlock electronic locks.<br>(It will be discarded when you leave the exploration area.)
+objectKey02,奇妙なかたちの宝石,Strangely Shaped Gem,不自然なかなちの宝石。何かに使えるかも。<br>（探索地を出ると、破棄されます）,An oddly shaped gem. It might be useful for something.<br>(It will be discarded when you leave the exploration area.)
+objectKey03,ダイヤル錠の番号のメモ,Note with the Combination,番号が書かれたメモ。<br>（探索地を出ると、破棄されます）,A note with some numbers written on it.<br>(It will be discarded when you leave the exploration area.)
+objectKey04,石膏の薬指,Plaster Cast of a Ring Finger,石膏でできた指。どこかから外れたものみたい。<br>（探索地を出ると、破棄されます）,A finger made of plaster. It looks like it came off of something somewhere.<br>(It will be discarded when you leave the exploration area.)
+objectKey05,金庫の番号のメモ,Note with the Safe Combination,番号が書かれたメモ。<br>（探索地を出ると、破棄されます）,A note with some numbers written on it.<br>(It will be discarded when you leave the exploration area.)
+-,,,,
+fuel00,車の燃料,Car Fuel,車を動かすための燃料。<br>（探索地を出ると、破棄されます）,Fuel for a car.<br>(It will be discarded when you leave the exploration area.)
+-,,,,

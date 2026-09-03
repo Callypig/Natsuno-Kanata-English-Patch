@@ -1,0 +1,259 @@
+﻿id,_word0<jpn>,word0<eng>,_word1<jpn>,word1<eng>
+-,,,,
+natsuno00,ナツノ,Natsuno,なつの,natsuno
+natsuno01,ナツノさん,Miss Natsuno,なつのさん,miss natsuno
+natsuno02,ナツノちゃん,Ms Natsuno,なつのちゃん,ms natsuno
+natsuno03,なっちゃん,Natsu,なっちゃん,natsu
+kiko00,キコ,Kiko,きこ,kiko
+kiko01,キコさん,Miss Kiko,きこさん,miss kiko
+kiko02,キコちゃん,Ms Kiko,きこちゃん,ms kiko
+kiko03,きーちゃん,Kik,きーちゃん,kik
+shino00,シノ,Shino,しの,shino
+shino01,シノさん,Miss Shino,しのさん,miss shino
+shino02,シノちゃん,Ms Shino,しのちゃん,ms shino
+shino03,しーちゃん,Shi,しーちゃん,shi
+akane00,アカネ,Akane,あかね,akane
+akane01,アカネさん,Miss Akane,あかねさん,miss akane
+akane02,アカネちゃん,Ms Akane,あかねちゃん,ms akane
+akane03,あーちゃん,Aka,あーちゃん,aka
+minamo00,ミナモ,Minamo,みなも,minamo
+minamo01,ミナモさん,Miss Minamo,みなもさん,miss minamo
+minamo02,ミナモちゃん,Ms Minamo,みなもちゃん,ms minamo
+minamo03,みーちゃん,Mina,みーちゃん,mina
+itsuka00,イツカ,Itsuka,いつか,itsuka
+itsuka01,イツカさん,Miss Itsuka,いつかさん,miss itsuka
+itsuka02,イツカちゃん,Ms Itsuka,いつかちゃん,ms itsuka
+itsuka03,いっちゃん,Istu,いっちゃん,itsu
+hinase00,ヒナセ,Hinase,ひなせ,hinase
+hinase01,ヒナセさん,Miss Hinase,ひなせさん,miss hinase
+hinase02,ヒナセちゃん,Ms Hinase,ひなせちゃん,ms hinase
+hinase03,ひーちゃん,Hina,ひーちゃん,hina
+meguru00,メグル,Meguru,めぐる,meguru
+meguru01,メグルさん,Miss Meguru,めぐるさん,miss meguru
+meguru02,メグルちゃん,Ms Meguru,めぐるちゃん,ms meguru
+meguru03,メグちゃん,Meg,めぐちゃん,meg
+meguru04,めーちゃん,Mee,めーちゃん,mee
+-,,,,
+yes00,イエス,Yes,いえす,yes
+yes01,うん,Yeah,うん,yeah
+yes02,はい,Ye,はい,ye
+yes03,いいよ,Sure,いいよ,sure
+yes04,オッケー,Okay,おっけー,okay
+yes05,オーケー,Kay,おーけー,kay
+yes06,ある,Yea,ある,yea
+yes07,あり,Yep,あり,yep
+yes08,うむ,Indeed,うむ,indeed
+yes09,大丈夫,All right,だいじょうぶ,all right
+-,,,,
+no00,ノー,No,のー,no
+no01,ううん,Nop,ううん,nop
+no02,いいえ,Nope,いいえ,Nope
+no03,ダメ,Never,だめ,never
+no04,やだ,No way,やだ,no way
+no05,嫌だ,I don't want to,いやだ,i don't want to
+no06,ない,There isn't,ない,there isn't
+no07,なし,None,なし,none
+no08,いや,No,いや,no
+no09,やめる,Stop,やめる,stop
+no10,やめとく,I'll pass,やめとく,i'll pass
+no11,やめます,I'll not,やめます,i'll not
+no12,やめときます,Keep it,やめときます,keep it
+no13,やめとこう,Let's not,やめとこう,let's not
+no14,やめとこ,Nah,やめとこ,nah
+no15,やめよう,Let's stop,やめよう,
+no16,もういい,Never mind,もういい,never mind
+no17,いらない,I don't need it,いらない,i don't need it
+-,,,,
+doNotKnow00,分からない,I don't know,わからない,i don't know
+doNotKnow01,分かんない,Idk,わかんない,idk
+doNotKnow02,知らない,Dunno,しらない,dunno
+-,,,,
+goodMorning00,おはよ,Good morning,おはよ,good morning
+goodMorning01,おはよう,Morning,おはよう,morning
+goodAfternoon00,こんにちは,Good afternoon,こんにちは,good afternoon
+goodNight00,おやすみ,Good night,おやすみ,good night
+goodNight01,おやすみなさい,Sleep well,おやすみなさい,sleep well
+howAreYou00,元気,How are you?,げんき,how are you?
+whatIsYourHobby00,趣味は,What's your hobby?,しゅみは,what's your hobby?
+whatIsYourHobby01,ご趣味は,What is your hobby?,ごしゅみは,what is your hobby?
+cute00,可愛い,Cute,かわいい,cute
+-,,,,
+someThing00,何か,Something,なにか,something
+love01,好き,Love,すき,love
+love03,好きだ,I love you,すきだ,i love you
+love05,好きです,I love you,すきです,i love you
+goodBye00,さよなら,Goodbye,さよなら,goodbye
+goodBye01,さようなら,Bye,さようなら,bye
+goodBye02,ばいばい,See ya,ばいばい,see ya
+trick00,トリック,Trick,とりっく,trick
+treat00,トリート,Treat,とりーと,treat
+-,,,,
+go00,行く,Go,いく,go
+go01,行ってみる,Let's go,いってみる,let's go
+go02,行きます,I'm going,いきます,i'm going
+go03,行ってみます,Let's go,いってみます,let's go
+go04,行っちゃう,Going,いっちゃう,going
+go05,行こう,Come on,いこう,come on
+go06,行こ,Cmon,いこ,cmon
+go07,行きな,Go on,いきな,go on
+go08,行っとく,Go forward,いっとく,go forward
+go08,進む,Move forward,すすむ,move forward
+go09,進んでみる,Let's move forward,すすんでみる,let's move forward
+go10,進みます,I'll move forward,すすみます,i'll move forward
+go11,進んでみます,Go further,すすんでみます,go further
+go12,進もう,Let's move forward,すすもう,let's move forward
+go12,入る,Enter,はいる,enter
+go13,入ってみる,Let's go in,はいってみる,let's go in
+go14,入ってみて,Go in,はいってみて,go in
+go15,入ってみます,I'll go in,はいってみます,i'll go in
+go16,入れ,Get in,はいれ,get in
+go17,入ろう,Going in,はいろう,going in
+use00,使う,Use,つかう,use
+use01,使え,Use it,つかえ,use it
+use02,使って,Use that,つかって,use that
+use03,使っちゃって,Use this,つかっちゃって,use this
+use04,使います,I'll use it,つかいます,i'll use it
+use05,使おう,Let's use it,つかおう,let's use it
+return00,戻る,Go back,もどる,go back
+return01,戻って,Go behind,もどって,go behind
+return02,戻れ,Come back,もどれ,come back
+return03,戻ろう,Let's go back,もどろう,let's go back
+return04,戻ろ,Let's go back,もどろ,let's go back
+return05,帰る,Home,かえる,home
+return06,帰って,Go home,かえって,go home
+return07,帰れ,Go home,かえれ,go home
+return08,帰ろう,Let's go home,かえろう,let's go home
+return09,帰ろ,Let's go home,かえろ,let's go home
+return10,帰ります,I'll go home,かえります,i'll go home
+return11,帰りたい,I want to go home,かえりたい,i want to go home
+search00,調べる,Search,しらべる,search
+search01,調べて,Search it,しらべて,search it
+search03,調べろ,Search for it,しらべろ,search for it
+search04,調べよう,Let's search,しらべよう,let's search
+search05,探索,Explore,たんさく,explore
+search06,探索する,Investigate,たんさくする,investigate
+search07,探索して,Let's explore,たんさくして,let's explore
+search08,探索しろ,Research,たんさくしろ,research
+search09,探索しよう,Examine,探索しよう,examine
+avoid00,よける,Avoid,よける,avoid
+avoid01,よけて,Avoid it,よけて,avoid it
+avoid02,よけろ,Avoid that,よけろ,avoid that
+avoid03,よけよう,Let's avoid it,よけよう,let's avoid it
+avoid04,避ける,Avoid this,さける,avoid this
+avoid05,避けて,Avoid it,さけて,avoid it
+avoid06,避けろ,Don't go,さけろ,don't go
+avoid07,避けよう,Let's avoid it,さけよう,let's avoid it
+avoid06,近づかない,Don't approach,ちかづかない,don't approach
+avoid07,近づかないで,Don't come closer,ちかづかないで,don't come closer
+avoid08,近づくな,Don't come near,ちかづくな,don't come near
+hide00,隠れる,Hide,かくれる,hide
+hide01,隠れて,Hide out,かくれて,hide out
+hide02,隠れろ,Stash,かくれろ,stash
+hide03,隠れよう,Let's hide,かくれよう,let's hide
+look00,見る,Look,みる,look
+look01,見て,Look this,みて,look this
+look02,見ろ,Watch,みろ,watch
+look03,見よう,Let's look,みよう,let's look
+look04,見てみる,Take a look,みてみる,take a look
+look05,見てみて,Watch this,みてみて,watch this
+look06,見てみます,I'll take a look,みてみます,i'll take a look
+open00,開ける,Open,あける,open
+open01,開けて,Open it,あけて,open it
+open02,開けろ,Open this,あけろ,open this
+open03,開けよう,Let's open it,あけよう,let's open it
+pick00,掴む,Pick,つかむ,pick
+pick01,掴んで,Grab,つかんで,grab
+pick02,掴め,Grab it,つかめ,grab it
+pick03,掴もう,Let's grab it,つかもう,let's grab it
+push00,押す,Push,おす,push
+push01,押して,Press,おして,press
+push02,押せ,Push it,おせ,push it
+push03,押そう,Press it,おそう,press it
+pull00,引く,Pull,ひく,pull
+pull01,引いて,Pull it,ひいて,pull it
+pull02,引け,Pull this,ひけ,pull this
+pull03,引こう,Let's pull it,ひこう,let's pull it
+turn00,回す,Turn,まわす,turn
+turn01,回して,Rotate,まわして,rotate
+turn02,回せ,Turn it,まわせ,turn it
+turn03,回そう,Let's turn it,まわそう,let's turn it
+roll00,巻く,Roll,まく,roll
+roll01,巻いて,Roll it,まいて,roll it
+roll02,巻け,Roll it,まけ,roll it
+roll03,巻こう,Let's roll it,まこう,let's roll it
+play00,遊ぶ,Play,あそぶ,play
+play01,遊んで,Play,あそんで,play
+play02,遊べ,Play,あそべ,play
+play03,遊ぼう,Let's play,あそぼう,let's play
+twist00,捻る,Twist,ひねる,twist
+twist01,捻って,Twist it,ひねって,twist it
+twist02,捻れ,Twist it,ひねれ,twist it
+twist03,捻ろう,Let's twist it,ひねろう,let's twist it
+cut00,切る,Cut,きる,cut
+cut01,切って,Cut it,きって,cut it
+cut02,切れ,Split,きれ,split
+cut03,切ろう,Let's cut it,きろう,let's cut it
+sit00,座る,Sit,すわる,sit
+sit01,座って,Lay,すわって,lay
+sit02,座れ,Rest,すわれ,rest
+sit03,座ろう,Let's sit,すわろう,let's sit
+burn00,燃やす,Burn,もやす,burn
+burn01,燃やして,Burn it,もやして,burn it
+burn02,燃やせ,Ignite,もやせ,ignite
+burn03,燃やそう,Let's burn it,もやそう,let's burn it
+connect00,繋ぐ,Connect,つなぐ,connect
+connect01,繋いで,Link,つないで,link
+connect02,繋げ,Connect it,つなげ,connect it
+connect03,繋ごう,Let's connect it,つなごう,let's connect it
+break00,壊す,Break,こわす,break
+break01,壊して,Break it,こわして,break it
+break02,壊せ,Destroy,こわせ,destroy
+break03,壊そう,Let's break it,こわそう,let's break it
+observe00,観察する,Observe,かんさつする,observe
+observe01,観察して,Observe it,かんさつして,observe it
+observe02,観察しろ,Observe it,かんさつしろ,observe it
+observe03,観察,Observe,かんさつ,observe
+observe04,観察しよう,Let's observe,かんさつしよう,let's observe
+disregard00,ほっとく,Ignore,ほっとく,ignore
+disregard01,放っておく,Disregard,ほうっておく,disregard
+disregard02,ほっとけ,Ignore it,ほっとけ,ignore it
+disregard03,放っとけ,Ignore it,ほうっとけ,ignore it
+disregard04,ほっとこう,Let's ignore it,ほっとこう,let's ignore it
+disregard05,放っとこう,Let's ignore it,ほうっとこう,let's ignore it
+exchange00,交換,Exchange,こうかん,exchange
+exchange01,交換する,Exchange it,こうかんする,exchange it
+exchange02,交換して,Trade,こうかんして,trade
+exchange03,交換しろ,Swap,こうかんしろ,swap
+exchange04,交換しよう,Let's exchange it,こうかんしよう,let's exchange it
+escape00,逃げる,Escape,にげる,escape
+escape01,逃げます,I'll escape,にげます,i'll escape
+escape02,逃げちゃう,Evade,にげちゃう,evade
+escape03,逃げよう,Let's escape,にげよう,let's escape
+escape04,逃げとく,I'll escape,にげとく,i'll escape
+battle00,戦う,Fight,たたかう,fight
+battle01,戦います,Battle,たたかいます,battle
+battle02,戦おう,Let's fight,たたかおう,let's fight
+camping00,キャンプ,Camp,きゃんぷ,camp
+camping01,キャンプする,Camping,きゃんぷする,Camping
+camping02,キャンプします,I'm camping,きゃんぷします,i'm camping
+camping03,キャンプしよう,Let's camp,きゃんぷしよう,let's camp
+eat00,食べる,Eat,たべる,eat
+eat01,食べろ,Eat it,たべろ,eat it
+eat02,食べて,Eat this,たべて,eat this
+eat03,食べちゃって,Eat that,たべちゃって,eat that
+eat04,食べよう,Let's eat,たべよう,let's eat
+stay00,このまま,Stay like this,このまま,stay like this
+unequip00,外す,Unequip,はずす,unequip
+unequip01,外して,Remove,はずして,remove
+unequip02,外せ,Unequip it,はずせ,unequip it
+unequip03,外します,Take it off,はずします,take it off
+unequip04,外そう,Let's remove it,はずそう,let's remove it
+hit00,叩く,Hit,たたく,hit
+hit01,叩こう,Let's hit it,たたこう,let's hit it
+hit02,叩いて,Hit it,たたいて,hit it
+hit03,叩け,Attack,たたけ,attack
+hit04,殴る,Punch,なぐる,punch
+hit05,殴ろう,Let's punch,なぐろう,let's punch
+hit06,殴って,Punch it,なぐって,punch it
+hit07,殴れ,Strike,なぐれ,strike
+-,,,,

@@ -1,0 +1,346 @@
+﻿id,_text<jpn>,text<eng>
+-,,
+splashMessage,<br><br><br><br>Kazuhide Oka<br><br>Chiji<br><br>ruichiro<br>,<br><br><br><br>Kazuhide Oka<br><br>Chiji<br><br>ruichiro<br>
+cautionMessage,<br><br><br><br><br>本作はフィクションです。<br>実在の人物や団体などとは関係ありません。<br><br><br><br>本作は「自動セーブ」に対応しています。<br>進行状況は、特定の場面で自動的に保存されます。,<br><br><br><br><br>This work is a fiction.<br>It has no connection to any real people， organizations， or other entities.<br><br><br><br>This game supports <q>Auto Save</q>.<br>Your progress is automatically saved at certain points.
+-,,
+titleCredit,クレジット,Credit
+creditTitle,Credit,Credit
+creditText,企画/制作/シナリオ　Kazuhide Oka<br><br><br>キャラクターデザイン　Chiji<br><br><br>サウンドトラック　ruichiro,Planning / Development / Scenario :  Kazuhide Oka<br><br><br>Character Design : <br>Chiji<br><br><br>Soundtrack : <br>Ruichiro
+creditClose,とじる,Close
+-,,
+menuStoryText,物&nbsp;&nbsp;&nbsp;語,S&nbsp;T&nbsp;O&nbsp;R&nbsp;Y
+menuExprolerText,再&nbsp;&nbsp;&nbsp;生,E&nbsp;X&nbsp;P&nbsp;L&nbsp;O&nbsp;R&nbsp;E
+menuHouseText,荷&nbsp;&nbsp;&nbsp;物,I&nbsp;N&nbsp;V&nbsp;E&nbsp;N&nbsp;T&nbsp;O&nbsp;R&nbsp;Y
+-,,
+storyBack,&lt;,&lt;
+storyNext,&gt;,&gt;
+-,,
+itemBoxInfoPrev0,&lt;,&lt;
+itemBoxInfoPrev1,&lt;,&lt;
+itemBoxInfoNext0,&gt;,&gt;
+itemBoxInfoNext1,&gt;,&gt;
+houseItemInfoPrev,&lt;,&lt;
+houseCraftInfoPrev,&lt;,&lt;
+houseItemInfoNext,&gt;,&gt;
+houseCraftInfoNext,&gt;,&gt;
+houseItemName,収納棚,Storage Shelf
+houseCraftName,製作台,Crafting Station
+-,,
+statusItemPrev0,&lt;,&lt;
+statusItemPrev1,&lt;,&lt;
+statusItemNext0,&gt;,&gt;
+statusItemNext1,&gt;,&gt;
+statusSkill0,特徴,Traits
+statusSkill1,特徴,Traits
+questInputHistory0,候補,Suggestions
+questInputHistory1,候補,Suggestions
+questSend0,話す,Talk
+questSend1,話す,Talk
+questTextAuto,AUTO,AUTO
+logueTextAuto,AUTO,AUTO
+-,,
+endingMessage,End.,End.
+-,,
+gameOverMessage,G A M E &nbsp;&nbsp; O V E R,G A M E &nbsp;&nbsp; O V E R
+gameOverContinue,つづける,Continue
+gameOverToTitle,タイトルへ,Title
+-,,
+optionTitle,Option,Option
+optionClose,とじる,Close
+-,,
+questionTitle,Help,Help
+questionClose,とじる,Close
+-,,
+helpTitle,Help,Help
+helpClose,とじる,Close
+-,,
+catalogPagePrev,&lt;,&lt;
+catalogPageNext,&gt;,&gt;
+catalogClose,とじる,Close
+-,,
+selectorLeft,&lt;,&lt;
+selectorRight,&gt;,&gt;
+-,,
+-,,
+yes,はい,Yes
+no,いいえ,No
+-,,
+confirm_exit,ゲームを終了します。<br>よろしいですか？,Exiting the game. <br> Are you sure?
+confirm_clearSave,セーブデータを削除します。<br>※システムデータ（オプション設定など）は削除されません。<br><br>よろしいですか？,Delete save data. <br>System data (such as option settings) will not be deleted. <br><br>Are you sure?
+confirm_animationCut,一部のアニメーションを無効にすることでフレームレートを安定させます。<br>アニメーションカットをONにしますか？,Disabling some animations will stabilize the frame rate. <br>Do you want to turn on animation culling?
+confirm_house,荷物がいっぱいのキャラクターがいます。<br>荷物を<red>収納棚に預ける</red>ことができますが、このまま再生しますか？,Some characters have full inventories.<br>You can <red>Store items in Storage Shelf</red>. Do you want to continue exploring as is?
+confirm_nextScenario,すでにエピソード進行条件を満たしています。<br><red>次の物語に進む</red>ことができますが、このまま再生しますか？,You have already met the requirements to advance the episode. <br><red>You can proceed to the next part of the story</red>， would you like to continue ?
+confirm_go_story,「物語」へ,Go to STORY
+confirm_go_house,「荷物」へ,Go to HOUSE
+confirm_go_exproler,「再生」へ,Go to EXPLORER
+-,,
+story_target,次の目的：,Next objective:
+story_target_invalid,他の物語を進める　<br>（条件を満たしていないため、この物語を進めることができません）,Continue another story<br>(You have not met the requirements to continue this story)
+story_target_continue,他の物語を進める　<br>（この物語は完結しました）,Continue another story<br>(This story has been completed)
+story_target_replay,もう一度この物語を読む　<br>（この物語は完結済みです）,Read this story again<br>(This story has been completed)
+story_target_noCondition,（エピソード進行条件：なし）,(Episode progression requirement: None)
+story_target_questCount,（{0}件探索し、無事に帰ってくる：{1}）,(Explore {0} location and return safely: {1})
+story_target_questProgress,（{0}件続けて探索し、無事に帰ってくる：{1}）,(Explore {0} locations in a row and return safely: {1})
+story_target_visitLocation,（「{0}」を探索し、無事に帰ってくる：{1}）,(Explore <q>{0}</q> and return safely: {1})
+story_target_memoryItem,（エピソード進行アイテム&lt;{0}&gt; を見つける：{1}）,(Find an episode progression item &lt;{0}&gt;: {1})
+story_target_deleteWorld,（決断をする）,(Make a decision)
+story_target_reboot,（コンピュータから離れる）,(Leave the computer)
+story_target_questTimeLimit,（{0}回探索する間に次のキャンプ地を見つける：残り{1}回）,(Find the next campsite within {0} explorations: {1} remaining)
+story_targetDescription_invalid,エピソード進行条件<br><br>条件を満たしていないため、<red>このエピソードを進めることができません</red>。<br>ほかのエピソードを進行させることで、このエピソードを進行させられるようになります。,Episode Progression Requirement<br><br>You have not met the requirements， so <red>you cannot progress this episode</red>.<br>You will be able to progress this episode by advancing other episodes.
+story_targetDescription_questCount,エピソード進行条件<br><br><red>{0}件</red>探索することでエピソードが進行します。<br>（GameOverになった場合、空腹で探索を中断した場合は回数に数えられません）,Episode Progression Requirement<br><br>The episode will progress when you explore <red>{0} location(s)</red>.<br>(Game Overs and explorations ended early due to hunger do not count.)
+story_targetDescription_noCondition,エピソード進行条件<br><br>エピソードを進行させるための条件はありません。<br>すぐに次のエピソードに進むことができます。,Episode Progression Requirement<br><br>There are no requirements for progressing this episode.<br>You can proceed to the next episode immediately.
+story_targetDescription_questProgress,エピソード進行条件<br><br><red>連続して{0}件</red>探索することで、エピソードが進行します。<br>（GameOverになった場合、空腹で探索を中断した場合は回数に数えられません）,Episode Progression Requirement<br><br>The episode will progress when you explore <red>{0} locations in a row</red>.<br>(Game Overs and explorations ended early due to hunger do not count.)
+story_targetDescription_visitLocation,エピソード進行条件<br><br><red>{0}</red>を探索することでエピソードが進行します。<br>（たどり着いても、途中でGameOverになった場合、空腹で探索を中断した場合は探索した扱いになりません）,Episode Progression Requirement<br><br>The episode will progress when you explore <red>{0}</red>.<br>(Even if you reach it， it will not count as explored if you get a Game Over or end the exploration due to hunger before returning.)
+story_targetDescription_memoryItem,エピソード進行条件<br><br>探索で<red>エピソード進行アイテム</red>を{1}つ見つけることでエピソードが進行します。<br>（見つけても、途中でGameOverになった場合、空腹で探索を中断した場合は見つけた扱いになりません）<br><br>エピソード進行アイテム&lt;{0}&gt; : {2},Episode Progression Requirement<br><br>The episode will progress when you find {1} <red>episode progression item(s)</red> while exploring.<br>(Even if you find one， it will not count if you get a Game Over or end the exploration due to hunger before returning.)<br><br>Episode Progression Item &lt;{0}&gt;: {2}
+story_targetDescription_reboot,エピソード進行条件<br><br>今ここで、できることは何もありません。<br>一度、コンピュータから離れてみましょう。,Episode Progression Requirement<br><br>There is nothing more you can do here right now.<br>Try stepping away from the computer for a while.
+story_targetDescription_notFound,エピソード進行条件<br><br>現在のエピソード進行条件を確認することができません。,Episode Progression Requirement<br><br>The current episode progression requirements cannot be checked.
+story_targetDescription_questTimeLimit,キャンプ地<br><br><red>{0}回</red>探索するまでに、次のキャンプ地を見つけてください。<br>見つけられない場合、周囲の探索地から物資が見つかりにくくなったり、感染者が集まってくるようになります。,Campsite<br><br>Find the next campsite within <red>{0} explorations</red>.<br>If you fail to find one， supplies will become harder to find at nearby locations， and the Infected will begin gathering.
+story_outline_nextDestination,<br><br>{1}まで、あと{0}件。,<br><br>{0} location(s) remaining until {1}.
+story_scenario_advance,次の物語を進める,Continue to the next story
+story_confirm_advance_memoryItem,エピソード進行アイテム「<red>{0}</red>」を1つ消費して、次の物語に進みます。<br>よろしいですか？,Consume one episode progression item <q><red>{0}</red></q> to proceed to the next story.<br>Are you sure?
+story_confirm_advance_other,<red>エピソード進行条件</red>を満たしています。<br>次の物語に進みます。よろしいですか？,You have met the <red>episode progression requirements</red>.<br>Proceed to the next episode. Are you sure?
+story_confirm_advance_storyMode,<red>STORY</red>モードに設定されているため、<br>エピソード進行条件をスキップして次の物語に進みます。<br>よろしいですか？,Because <red>STORY</red> mode is enabled，<br>the episode progression requirements will be skipped and you will proceed to the next story.<br>Are you sure?
+story_confirm_replay,もう一度、この物語を読みますか？<br>（この物語はすでに完結しています）,Read this story again?<br>(This story has already been completed)
+story_other_invalid,<br>条件を満たしていないため、この物語を<red>進めることができません</red>。<br>他の物語を進める必要があります。,<br>You have not met the requirements， so <red>you cannot progress this story</red>.<br>You need to progress another story first.
+story_other_continue,<br>この物語は<red>完結</red>しました。<br>他の物語を進めることができます。,<br>This story has been <red>completed</red>.<br>You can now progress another story.
+story_confirm_deleteWorld,すべてのデータを削除します。<br><br>よろしいですか？<br>,All data will be deleted.<br><br>Are you sure?<br>
+story_confirm_deleteWorld_caution,<br>本当に削除しますか？<br>,<br>Are you really sure you want to delete it?<br>
+story_skip_condition,スキップ,Skip
+story_skip_condition_confirm,<br>「<red>{0}</red>」を消費して、エピソード進行条件を<red>スキップ</red>します。<br>よろしいですか？,<br>Consume “<red>{0}</red>” to <red>skip</red> the episode progression requirement.<br>Are you sure?
+story_skip_condition_craft,<br>「<red>{0}</red>」をクラフトすることで、エピソード進行条件を<red>スキップ</red>できます。<br>クラフトしますか？,<br>Craft “<red>{0}</red>” to <red>skip</red> the episode progression requirement.<br>Craft it?
+-,,
+exproler_path,Disc:&nbsp;/&nbsp;,Disc:&nbsp;/&nbsp;
+exproler_completed,&nbsp;End.,&nbsp;End.
+exproler_playNewFile,新しいデータを再生,Play Data
+exproler_playComplete,progress : {0},progress : {0}
+exproler_playFailed,failed,failed
+exproler_locationdDscription,{0} について&nbsp;&nbsp;<br>（詳細を見る）&nbsp;&nbsp;,About {0}&nbsp;&nbsp;<br>(View Details)&nbsp;&nbsp;
+exproler_endlressCharacterEpisode,完結したキャラクターエピソード : {0}/{1},Completed Character Episodes: {0}/{1}
+exproler_endlressCollection,手に入れた蒐集品 : {0}/{1},Collections Obtained: {0}/{1}
+exproler_endlressItem,手に入れたアイテム : {0}/{1},Items Obtained: {0}/{1}
+-,,
+house_unknown,？？？？,？？？？
+house_unknownDescription,<br>？？？？<br><br>（素材を1つ以上所持していると開放されます）,<br>????<br><br>(Unlocked when you have at least one material)
+house_noRecipeDescription,<br>？？？？<br><br>（レシピ/設計図を手に入れると開放されます）,<br>????<br><br>(Unlocked when you obtain a recipe/blueprint)
+house_description,詳細,Description
+house_remove,捨てる,Remove
+house_craft,クラフト,Craft
+house_craftTarget,クラフト先,Craft Into
+house_recipe,レシピ,Recipe
+house_materialCount,（所持数 : {0}）,(Owned: {0})
+house_pushItem,{0}へ,To {0}
+house_pushItemMultiple,{0}へ（x{1}）,To {0} (x{1})
+house_popItem,しまう,Store
+house_popItemMultiple,しまう（x{1}）,Store (x{1})
+house_equip,装備,Equip
+house_unequip,はずす,Unequip
+house_none,なし,None
+house_open,開ける,Open
+house_use,使う,Use
+house_scenario,エピソードへ,Go to the Episode
+house_mission,届ける,Deliver
+house_departure,出発する,Depart
+house_fullWarning,収納棚がいっぱいです。<br>不要な道具を捨ててください。,The Storage Shelf is full.<br>Please discard any unnecessary items.
+house_removeWarning,<red>{0}</red>&nbsp;を捨てます。<br>よろしいですか？,Discard <red>{0}</red>&nbsp;.<br>Are you sure?
+house_confirmRemoveCount,<red>{0}</red>&nbsp;をいくつ捨てますか？,How many <red>{0}</red>&nbsp;do you want to discard?
+house_confirmCraftCount,<red>{0}</red>&nbsp;をいくつクラフトしますか？,How many <red>{0}</red>&nbsp;do you want to craft?
+house_selectCraftMaterial,クラフトに使用する材料を選んでください。,Select the materials to use for crafting.
+house_recycle,エピソード完結<br><br>完結したエピソードの<red>エピソード進行アイテム</red>を&nbsp;<red>{0}</red>&nbsp;に変換しました。,Episode Complete<br><br>The <red>episode progression items</red> from completed episodes have been converted into <red>{0}</red>.
+house_unuseable,<br><br>条件を満たしていないため、使うことができません。,<br><br>You cannot use this because you do not meet the requirements.
+-,,
+vital_0,快調,Fine
+vital_1,軽傷,Lightly Injured
+vital_2,負傷,Injured
+vital_3,重症,Seriously Injured
+vital_4,命の危険,Life in Danger
+vital_5,瀕死,Dying
+vitalDescription,<br><br>（「瀕死」になるとGameOver。装備品以外の荷物を失う）<br>（快調 > 軽傷 > 負傷 > 重症 > 命の危険 > 瀕死）,<br><br>(Becoming “Dying” results in Game Over. You will lose all inventory except equipped items.)<br>(Fine > Lightly Injured > Injured > Seriously Injured > Life in Danger > Dying)
+vitalDescription_0,快調<br>体力 : {0}/{1}　全然へっちゃら。無傷。,Fine<br>Health: {0}/{1}　Completely fine. Uninjured.
+vitalDescription_1,軽傷<br>体力 : {0}/{1}　軽い傷を負っている。,Lightly Injured<br>Health: {0}/{1}　Sustained a minor injury.
+vitalDescription_2,負傷<br>体力 : {0}/{1}　それなりの傷を負っている。,Injured<br>Health: {0}/{1}　Sustained a significant injury.
+vitalDescription_3,重症<br>体力 : {0}/{1}　深手を負っている。,Seriously Injured<br>Health: {0}/{1}　Sustained a severe injury.
+vitalDescription_4,命の危険<br>体力 : {0}/{1}　危険な状態。,Life in Danger<br>Health: {0}/{1}　In critical condition.
+vitalDescription_5,瀕死<br>体力 : {0}/{1}　もう動くこともできない。,Dying<br>Health: {0}/{1}　No longer able to move.
+-,,
+stamina_0,満腹,Full
+stamina_1,腹八分,Satisfied
+stamina_2,小腹空き,A Little Hungry
+stamina_3,空腹,Hungry
+stamina_4,非常に空腹,Very Hungry
+stamina_5,飢餓,Starving
+staminaDescription,<br><br>（「飢餓」になると探索を強制的に終了する）<br>（満腹 > 腹八分 > 小腹空き > 空腹 > 非常に空腹 > 飢餓）,<br><br>(Reaching “Starving” will force the exploration to end.)<br>(Full > Satisfied > A Little Hungry > Hungry > Very Hungry > Starving)
+staminaDescription_0,満腹<br>空腹度 : {0}/{1}　お腹いっぱい。,Full<br>Hunger: {0}/{1}　Completely full.
+staminaDescription_1,腹八分<br>空腹度 : {0}/{1}　ちょっとお腹空いてきたかもしれない。,Satisfied<br>Hunger: {0}/{1}　You might be starting to feel a little hungry.
+staminaDescription_2,小腹空き<br>空腹度 : {0}/{1}　お腹空いてきたけど、まだ大丈夫。,A Little Hungry<br>Hunger: {0}/{1}　You are getting hungry， but you are still fine.
+staminaDescription_3,空腹<br>空腹度 : {0}/{1}　歩いている間もお腹が鳴る。,Hungry<br>Hunger: {0}/{1}　Your stomach growls even as you walk.
+staminaDescription_4,非常に空腹<br>空腹度 : {0}/{1}　空腹も苦痛になってくる。,Very Hungry<br>Hunger: {0}/{1}　Hunger is starting to become painful.
+staminaDescription_5,飢餓<br>空腹度 : {0}/{1}　もうこれ以上進むことはできない。,Starving<br>Hunger: {0}/{1}　You cannot go any farther.
+-,,
+inputHistory_current,&nbsp;<blue>[現在地]</blue>,&nbsp;<blue>[Current Location]</blue>
+inputHistory_explored,&nbsp;<gray>[探索済]</gray>,&nbsp;<gray>[Explored]</gray>
+inputHistory_unexplored,&nbsp;<green>[未探索]</green>,&nbsp;<green>[Unexplored]</green>
+-,,
+speak_input,話す,Talk
+input_placeholder,入力/テキストをクリック,Click on the input field or text
+textAuto_0,ふつう,Normal
+textAuto_1,はやい,Fast
+textAuto_2,おそい,Slow
+textAuto_3,スキップ,Skip
+textWait_0,ふつう,Normal
+textWait_1,はやい,Fast
+textWait_2,おそい,Slow
+textWait_3,スキップ,Skip
+-,,
+textHistory_off,<gray>（ 候補をOFF ）</gray>,<gray>( Suggestions OFF )</gray>
+-,,
+item_switch_house,収納,Storage
+item_switch_craft,クラフト,Crafting
+item_category_default,カテゴリ,Category
+item_category_all,すべて,All
+item_category_heal,薬/食べ物,Medicine/Food
+item_category_equip,装備/弾薬,Equipment/Ammo
+item_category_material,材料/食材,Materials/Ingredients
+item_category_memory,エピソード,Episodes
+item_category_collection,蒐集品,Collections
+item_category_other,その他,Other
+item_category_craft,クラフト,Crafting
+item_sort_default,並び替え,Sort
+item_sort_get,入手順,Obtained
+item_sort_type,種類順,Type
+item_sort_name,名前順,Name
+item_toHouse,収納棚へ,To Storage Shelf
+item_equip,[装備中],[Equipped]
+item_use,使う,Use
+item_dismantle,分解する,Dismantle
+item_temporary,<br>(発見済み。探索を終えると、自動的に収納棚に仕舞われます),<br>(Found. It will automatically be stored in the Storage Shelf when you finish exploring.)
+item_inHand,<br>（荷物がいっぱいで、この品か、他の品を置いていく必要があります）,<br>(Your inventory is full. You must leave this item or another item behind.)
+item_selectTarget,対象となる道具を選んでください。,Select the item to use as the target.
+item_targetNotFound,<br>対象となる道具がありません。<br>,<br>There is no applicable item.<br>
+item_noWeight,<br>（「荷物」の所持数に数えられません）,<br>(Does not count toward your “Inventory” limit)
+-,,
+itemBoxCount,荷物 ({0}/{1}),Inventory ({0}/{1})
+-,,
+letterReward_Gun00,銃器,Firearms
+letterReward_Hammer00,武器,Weapons
+letterReward_Box00,物資,Supplies
+letterReward_Map00,地図,Map
+letterReward_Variable00,武器のパーツ,Weapon Parts
+-,,
+missionReward_coin,画材,Art Supplies
+missionReward_weapon,武器,Weapons
+missionReward_box,物資,Supplies
+missionReward_variable,武器のパーツ,Weapon Parts
+missionReward_addAccessory,武器のパーツ,Weapon Parts
+-,,
+selection_and,と,&lt;and&lt; 
+selection_or,か,or
+selection_comma,、,`
+battle_and,と,&lt;and&lt; 
+-,,
+sound_on,sound on,sound on
+sound_off,sound off,sound off
+-,,
+titleStart,はじめる,Start
+titleContinue,旅をつづける,Continue
+-,,
+option_bgmVolume,BGM Volume,BGM Volume
+option_seVolume,SE Volume,SE Volume
+option_fullscreenMode,フルスクリーンモード,Full-Screen Mode
+option_windowMode,ウィンドウモード,Window Mode
+option_windowSize,ウィンドウサイズ,Window Size
+option_animationCut_on,アニメーションカット：ON,Animation Cut : ON
+option_animationCut_off,アニメーションカット：OFF,Animation Cut : OFF
+option_textWaitType,テキスト速度,Text Speed
+option_textAutoWaitType,AUTO文字送り,AUTO Advance
+option_fontSize_0,文字サイズ：通常,Font Size : Normal
+option_fontSize_1,文字サイズ：大きめ,Font Size : Large
+option_fontSize_2,文字サイズ：最大,Font Size : Maximum
+option_textAutoStop_on,エピソードでAUTOをOFF,Turn AUTO : Off
+option_textAutoStop_off,エピソードでAUTOをOFFしない,Turn AUTO : On
+option_returnTitle,タイトルへ,Title
+option_modeSelect,モード選択,Mode Selection
+option_clearSave,セーブデータ削除,Delete Save Data
+option_exit,終了,Exit
+-,,
+question_help,操作・機能説明,Controls & Features
+question_storyTarget,エピソード進行条件を確認,Check Episode Progression Requirements
+question_craft,クラフトレシピ一覧,List of Craft Recipes
+question_itemCatalog,道具/料理一覧,Item/Cooking List
+question_contents,コンテンツ情報,Content Information
+-,,
+mode_normal,NORMAL,NORMAL
+mode_story,STORY,STORY
+mode_selectConfirm,プレイするモードを選択してください。<br>{0}<br><br><red>NORMAL</red> : 通常のモードです。彼女たちとともに旅をし、探索しながら物語を進めていきます。<br><red>STORY</red> : 物語だけを読んでいくモードです。探索をスキップすることができます。,Please select a game mode. <br>{0}<br><br><red>NORMAL</red> : This is the standard mode. You'll travel with the girls and advance the story as you explore. <br><red>STORY</red> : This mode lets you read the story without exploring. You can skip the exploration.
+mode_storyWarning,<red>STORY</red>モードでは、探索をスキップし、物語だけを読み進めることができます。<br>物語の体験、テンポ感が損なわれる可能性があります。<br><br>よろしいですか？,In <red>STORY</red> mode， you can skip the exploration and proceed directly through the story. <br>This may detract from the story experience and the pacing. <br><br>Are you sure?
+mode_changeable,（モードは、タイトル画面でいつでも変更できます）,(You can change the mode at any time on the title screen.)
+mode_currentMode,（現在のモード：{0}）,(Current mode: {0})
+-,,
+help_search,探索について,Help Seach
+help_inputWord,テキストの入力について,Help Input Text
+help_redWord,赤文字の単語について,About the words in red
+help_vitalStamina,体力/空腹度について,About Health/Hunger
+help_inventory,探索中の荷物について,About Inventory
+help_skill,「特徴」について,About Traits
+help_story,「物語」画面について,About Story Screen
+help_explorer,「再生」画面について,About Explorer Screen
+help_house,「荷物」画面について,About Inventory Screen
+help_saveData,セーブデータについて,About Save Data
+help_earlyAccess,早期アクセスについて,About Early Access
+help_contact,ご意見ご感想、不具合などの報告,Feedback and Bug Reports
+-,,
+helpDescription_search,探索について<br><br>ナツノたちは、生き残るために廃墟などを探索します。<br>使えそうな<red>道具</red>を見つけたり、<red>食料</red>を探し出しましょう。<br>ナツノたちは自分の<red>意志</red>で探索を行いますが、<red>テキストを入力することで</red>サポートすることもできます。,About Exploration<br><br>Natsuno and the others explore ruins and other places in order to survive.<br>Look for useful <red>items</red> and <red>food</red>.<br>Natsuno and the others explore according to their own <red>will</red>， but you can also support them <red>by entering text</red>.
+helpDescription_inputWord,テキストの入力について<br><br>テキストウィンドウの下の<red>テキスト入力エリア</red>に文字を入力し、<br>ナツノたちに伝えることができます。<br>シナリオイベント中は、テキストウィンドウに<red>鉛筆アイコン</red>が表示さている間のみ、テキストを入力することができます。,About Text Input<br><br>You can enter text in the <red>text input field</red> below the text window and communicate it to Natsuno and the others.<br>During scenario events， you can enter text only while the <red>pencil icon</red> is displayed in the text window.
+helpDescription_redWord,赤文字の単語について<br><br>テキスト中に<red>赤文字</red>の単語が表示されることがあります。<br>この単語を<red>クリック</red>することで、テキスト入力エリアにコピーすることができます（一部、そうでないものもあります）。<br>また、同行者がいる場合、<red>単語を右クリックすることで、もう一方のキャラクターのテキスト入力エリアにコピー</red>できます。,About Words in Red<br><br>Words may sometimes appear in <red>red</red> in the text.<br>Clicking one of these words will copy it to the text input field (some words cannot be copied).<br>If you have a companion， <red>right-clicking a word will copy it to the other character's text input field</red>.
+helpDescription_vitalStamina,体力/空腹度について<br><br>体力は、敵との<red>戦闘</red>などで減少します。体力がなくなるとGameOverとなり、装備品以外の荷物を失います。<br>空腹度は、探索中、<red>行動する度に</red>減少します。探索の途中で空腹度がなくなると、探索を強制終了します。<br>体力、空腹度ともに、<red>探索終了時に全回復</red>します。,About Health/Hunger<br><br>Health decreases through <red>combat</red> with enemies and other situations. When health reaches zero， you get a Game Over and lose all inventory except equipped items.<br>Hunger decreases <red>with every action</red> during exploration. If hunger reaches zero during an exploration， the exploration will end automatically.<br>Both health and hunger are <red>fully restored when exploration ends</red>.
+helpDescription_inventory,探索中の荷物について<br><br>探索中、取得した道具や食料は<red>「荷物」ボタン</red>を押すことで確認できます。<br>道具の<red>詳細</red>を確認したり、<red>同行者がいる場合は手渡すことができます</red>。<br>持ち歩くことのできる荷物の数には<red>上限</red>があり、超える場合は荷物を捨てる必要があります。,About Inventory During Exploration<br><br>During exploration， you can check items and food you have obtained by pressing the <red>“Inventory” button</red>.<br>You can check an item's <red>details</red>， and <red>give it to a companion if you have one</red>.<br>There is an <red>inventory limit</red>， so if you exceed it， you must discard items.
+helpDescription_skill,「特徴」について<br><br>キャラクターはそれぞれ<red>特徴</red>をもっています。<br>それぞれの特徴の効力は、探索中、<red>「特徴」ボタン</red>を押すことで確認できます。,About <q>Traits</q><br><br>Each character has their own <red>Traits</red>.<br>You can check the effects of each Trait during exploration by pressing the <red>“Traits” button</red>.
+helpDescription_story,「物語」画面について<br><br>「物語」画面では、<red>シナリオの概要</red>を確認できます。<br>探索でエピソード進行条件を満たすと、「物語」画面から<red>物語を進める</red>ことができるようになります。,About the <q>Story</q> Screen<br><br>The “Story” screen lets you check the <red>scenario outline</red>.<br>Once you meet an episode's progression requirements through exploration， you can <red>continue the story</red> from the “Story” screen.
+helpDescription_explorer,「再生」画面について<br><br>「再生」画面では、再生する<red>データ</red>を選択し、<red>探索</red>に向かうことができます。<br>探索では道具や食料を調達できます。,About the <q>Explorer</q> Screen<br><br>On the “Explorer” screen， you can select the <red>data</red> to play and head out on an <red>exploration</red>.<br>During exploration， you can gather items and food.
+helpDescription_house,「荷物」画面について<br><br>「荷物」画面では、探索等で取得した荷物を<red>収納棚</red>に預けることができます。<br>また、カテゴリから<red>クラフト</red>を選択することで、道具や料理を作成できます。<br>手持ちの荷物を<red>右クリック</red>することで、素早く収納棚に預けることもできます。,About the <q>Inventory</q> Screen<br><br>On the “Inventory” screen， you can store items obtained through exploration and other activities in the <red>Storage Shelf</red>.<br>You can also select <red>Crafting</red> from the categories to create items and dishes.<br>You can quickly store an item in your inventory by <red>right-clicking it</red>.
+helpDescription_saveData,セーブデータについて<br><br>本作は自動セーブに対応しています。シナリオ進行時、探索終了時等で自動的に保存されます。<br>セーブデータを削除したい場合、タイトル画面からオプションを開き、「セーブデータ削除」を選択してください。,About Save Data<br><br>This game supports auto save. Your progress is automatically saved when advancing the scenario， finishing an exploration， and at other points.<br>To delete save data， open Options from the title screen and select “Delete Save Data.”
+helpDescription_earlyAccess,早期アクセスについて<br><br>本作は 早期アクセス版 です。<br>システム、シナリオ、リソース等の一部に製品版とは異なるものが含まれます。<br>今後のアップデートで、探索を中心としたシステムの改善、エピソードやキャラクターの追加なども予定しております。,About Early Access<br><br>This is an <red>Early Access</red> version.<br>Some system features， scenario content， resources， and other elements differ from the full version.<br>Future updates are planned to improve the exploration-focused systems and add episodes， characters， and more.
+helpDescription_contact,ご意見ご感想、不具合などの報告<br><br>よりよい体験をお届けするために皆様のご意見、ご感想を募集しております。<br>また、不具合と思われる挙動を確認された場合にも、ご報告いただけますと助かります。<br>詳しくは公式webページ（https://natsuno-kanata.online/）にて。,Feedback， Impressions & Bug Reports<br><br>We welcome your feedback and impressions to help us provide a better experience.<br>If you encounter behavior that appears to be a bug， we would also appreciate your report.<br>For details， please visit the official website (https://natsuno-kanata.online/).
+-,,
+calalog_unknown,？？？？,？？？？
+calalog_notOpenedItem,？？？？<br><br>まだ入手したことのない道具、料理です。,????<br><br>An item or dish you have not obtained yet.
+-,,
+dialog_close,とじる,Close
+dialog_stop,やめる,Cancel
+-,,
+context_prev,< 前へ,< Previous
+context_next,次へ >,Next >
+-,,
+location_depth,広さ : <red>{0}</red>,Size: <red>{0}</red>
+location_depthNarrow,狭い,Narrow
+location_depthMiddle,そこそこ,Average
+location_depthWide,広い,Wide
+location_enemyLevel,危険度 : <red>{0}</red>,Danger Level: <red>{0}</red>
+location_enemyLevelLow,低い,Low
+location_enemyLevelMiddle,そこそこ,Average
+location_enemyLevelHigh,高い,High
+location_enemyLevelVeryHigh,とても高い,Very High
+location_prioritizeItem,よく見つかるもの : <red>{0}</red>,Common Finds: <red>{0}</red>
+location_prioritizeItemNone,なし,None
+-,,
+stagePrefix_0,東の,East
+stagePrefix_1,南西の,Southwest
+stagePrefix_2,西の,West
+stagePrefix_3,北東の,Northeast
+stagePrefix_4,南の,South
+stagePrefix_5,南東の,Southeast
+stagePrefix_6,北の,North
+stagePrefix_7,北西の,Northwest
+stagePrefix_8,北北西の,North-Northwest
+stagePrefix_9,南南東の,South-Southeast
+-,,
+input_symbol,──,~
+input_period,。,.
+unknown_question,???,???
+omit_symbol,...,...
+delete,削除する,Delete
+piece,こ,Piece
+passage,件,Passage
+select,選択,Select
+brackets_begin,「,
+brackets_end,」,
+-,,

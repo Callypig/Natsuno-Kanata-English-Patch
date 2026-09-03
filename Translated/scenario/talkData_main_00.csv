@@ -1,0 +1,346 @@
+﻿id,_arg0<jpn>,arg0<eng>,_arg1<jpn>,arg1<eng>
+-,,,,
+main0-1,scenario01,scenario01,,
+main0-1,,,,
+main0-1,,,,
+main0-1,environment00,environment00,,
+main0-1,5,5,,
+main0-1,natsuno,natsuno,あー。あー,Ughh... Ughh
+main0-1,natsuno,natsuno,......,......
+main0-1,natsuno,natsuno,............,............
+main0-1,natsuno,natsuno,........................,........................
+main0-1,natsuno,natsuno,......繋がるわけないっか,...It's not gonna connect， is it?
+main0-1,natsuno,natsuno,最近、どんどん電波入んなくなってるなぁ,I've been getting less and less signal lately
+main0-1,natsuno,natsuno,せっかくスマホ充電できたのに......,And I went to all the trouble of charging my phone， too......
+main0-1,natsuno,natsuno,これじゃ写真とるくらいしかやることないじゃん,Guess taking pictures is about all I can do with it
+main0-1,natsuno,natsuno,......,......
+main0-1,natsuno,natsuno,......でも、せっかくだからこのまま録音しよっかな,.....But I might as well record something while I've got it
+main0-1,natsuno,natsuno,それも、いいかも,Yeah. That might be nice
+main0-1,natsuno,natsuno,......,......
+main0-1,natsuno,natsuno,......えー,.....Umm...
+main0-1,natsuno,natsuno,今日は......七月二十三日。土曜日,Today is July 23rd. Saturday
+main0-1,natsuno,natsuno,たまにしか電波入らないけど、たぶん、日付は合ってるはず,I only get a signal every now and then， but the date should be right
+main0-1,natsuno,natsuno,東京を出てから......もう一か月くらいかな,It's been...... about a month since I left Tokyo， I guess
+main0-1,natsuno,natsuno,東京の港に飛行機が落ちた日からだと、もう二か月以上,It's been over two months since the plane crashed into Tokyo's harbor
+main0-1,natsuno,natsuno,今、ここは......どこだろ,Right now， I'm...... somewhere. I wonder where
+main0-1,natsuno,natsuno,東京を出て北に進んだはずだけど......今どのへんかはわかんない,I headed north after leaving Tokyo...... but I have no idea where I am now
+main0-1,natsuno,natsuno,途中までは電車だったし、山形あたりかな？,I was on a train for part of the way， maybe I'm somewhere around Yamagata?
+main0-1,natsuno,natsuno,天気は晴れ。暑くて死んじゃいそう,It's sunny. It's so hot I feel like I'm going to die
+main0-1,natsuno,natsuno,どっかに水道ないかな......,I wonder if there's a faucet somewhere......
+main0-1,natsuno,natsuno,......,......
+main0-1,natsuno,natsuno,......あと、なんだろ,......What else， I wonder
+main0-1,natsuno,natsuno,......あれ,......Huh?
+main0-1,natsuno,natsuno,ねぇ......もしかして、だれか聞いてる？,Hey...... is someone listening， by any chance?
+main0-1,natsuno,natsuno,......,......
+main0-1,natsuno,natsuno,............,............
+main0-1,natsuno,natsuno,......ねぇ、もし誰か聞いてるんだったら......,......Hey， if someone's listening......
+main0-1,event-focusFg-right00,event-focusFg-right00,,
+main0-1,1,1,,
+main0-1,survivor00,survivor00,right-right,right-right
+main0-1,natsuno,natsuno,わたし、<button>ナツノ</button>,I'm <button>Natsuno</button>
+main0-1,natsuno,natsuno,ねぇ、返事して？,Hey， answer me?
+main0-1,natsuno,natsuno,聞こえてたら......そうだなぁ......,If you can hear me...... let's see......
+main0-1,natsuno,natsuno,わたしの名前、呼んでみて？,Why don't you try saying my name?
+main0-1,request_yes,request_yes,,
+main0-1,natsuno,natsuno,input_yes,input_yes
+main0-1,input_ng,input_ng,,
+main0-1,natsuno,natsuno,......,......
+main0-1,request_yes,request_yes,,
+main0-1,input_yes,input_yes,,
+main0-1,,,,
+main0-1,natsuno,natsuno,......,......
+main0-1,survivor00,survivor00,right-right,right-right
+main0-1,natsuno,natsuno,............,............
+main0-1,natsuno,natsuno,......まじ？,......Seriously?
+main0-1,2,2,,
+main0-1,,,,
+main0-1,questSuccess,questSuccess,,
+-,,,,
+main0-2,computer00,computer00,,
+main0-2,2,2,,
+main0-2,,,──まじ？,......Seriously?
+main0-2,,,知らない少女の声がした。,An unfamiliar girl's voice rang out
+main0-2,,,聞いたことのない声。,A voice I've never heard before
+main0-2,,,見たことのない景色。,A view I've never seen before
+main0-2,,,浴びたことのない日差し。,Sunlight I'd never felt before
+main0-2,,,何もかも、全部が初めてだった。,Everything， absolutely everything， was a first for me
+main0-2,1,1,,
+main0-2,,,,
+main0-2,1,1,,
+main0-2,,,,
+main0-2,,,,
+main0-2,1,1,,
+main0-2,story00,story00,,
+main0-2,,,声は、古い古いコンピュータから聞こえてくる。,The voice comes from an very， very old computer
+main0-2,,,ここには真っ青な空も、照りつける日差しも、夏の匂いもない。,There's no deep blue sky here， no blazing sunlight， no scent of summer
+main0-2,,,彼女がいるのは、コンピュータの画面の向こう、宙を飛ぶ電波の先。,She's there beyond the computer screen， at the other end of radio waves traveling through the air
+main0-2,,,これはどこか遠くから届けられる映話で、だから彼女の姿だって、カメラに映っている分しか見られない。,It's a video call coming from somewhere far away， so I can only see whatever part of her happens to be captured by the camera
+main0-2,,,でも、決して、つくりものや過去の映像じゃない。,But it's not something made up， nor is it footage from the past
+main0-2,,,この景色はどこかにあって、きっと、どこかにいる。,This scenery exists somewhere， and she must be somewhere out there too
+main0-2,,,,
+main0-2,1,1,,
+main0-2,,,,
+main0-2,,,,
+main0-2,1,1,,
+main0-2,,,つくりものの「物語」や、過去の録画ではないから、,Because this isn't some made-up <q>story</q>， or a recording from the past
+main0-2,,,このあと彼女が何を言うのか、想像もできない。,There's no way to know what she'll say next
+main0-2,,,彼女だってきっと、決めていない。,Even she probably hasn't decided yet
+main0-2,,,彼女の言葉も、その足の向かう先も、これから決まる。,Both her words and the direction her feet will take are yet to be decided
+main0-2,,,こうしている間にも、一つ、また一つ、知らない夏の音が聞こえてくる。,Even as I sit here， one unfamiliar sound of summer after another reaches me
+main0-2,,,彼女はまた口を開いて、そして、言う。,She opened her mouth again and said
+main0-2,1,1,,
+main0-2,3,3,,
+main0-2,questSuccess,questSuccess,,
+-,,,,
+main0-3,scenario01,scenario01,,
+main0-3,story00,story00,,
+main0-3,natsuno,natsuno,だってさ,I mean
+main0-3,natsuno,natsuno,せっかく、なんとか電車乗れたのに,I finally managed to get on a train， but....
+main0-3,natsuno,natsuno,ほんと、すごいぎゅうぎゅうの電車だったんだから,Seriously， that train was packed insanely tight
+main0-3,natsuno,natsuno,すごいよ,It was crazy
+main0-3,natsuno,natsuno,いつもの満員電車って、全然よゆーじゃんって思っちゃったもん,It made me think the usual rush-hour trains were practically empty by comparison
+main0-3,natsuno,natsuno,なのに、途中で止まっちゃって,And then it just stopped partway through
+main0-3,natsuno,natsuno,お父さんともお母さんとも、友達ともはぐれちゃうし,"I got separated from my mom， my dad， and my friends,"
+main0-3,natsuno,natsuno,電車に乗ってた人たちも、散り散りになっちゃって,and everyone else who'd been on the train scattered in all directions.
+main0-3,natsuno,natsuno,もう、ほんと,It was just......
+main0-3,natsuno,natsuno,大変だったんだから,It was awful
+main0-3,natsuno,natsuno,......,......
+main0-3,survivor00,survivor00,right-right,right-right
+main0-3,natsuno,natsuno,......や、大変なのは、今もなんだけど,......Well， I mean， it's still awful right now， too
+main0-3,natsuno,natsuno,ま、でも,But， well
+main0-3,natsuno,natsuno,東京の港に飛行機が落ちたり,Compared to a plane crashing into Tokyo's harbor
+main0-3,natsuno,natsuno,隣のマンションから人が落ちてくのが見えたり,Or watching someone fall from the apartment building next door
+main0-3,natsuno,natsuno,いきなり街から出ないといけなくなったり......,Or suddenly having to leave the city......
+main0-3,natsuno,natsuno,そんなのと比べたら,Compared to all that
+main0-3,natsuno,natsuno,平和......なんだけどね,This is peaceful...... I guess
+main0-3,natsuno,natsuno,......,......
+main0-3,survivor00,survivor00,right-right,right-right
+main0-3,natsuno,natsuno,......本当は、東京だけじゃなくて、ほかにもいろんなところで似たようなことがあったらしいんだけど,......Actually， apparently it wasn't just Tokyo—similar things happened all over the place
+main0-3,natsuno,natsuno,町ひとつ全部燃えちゃったり,Whole towns burned down，
+main0-3,natsuno,natsuno,たくさん......人が死んだり,and so many...... people died，
+main0-3,natsuno,natsuno,でも、もうそのときには、スマホもほとんど繋がらなくなっちゃってたから,but by then， my phone could barely get a signal anymore，
+main0-3,natsuno,natsuno,どこで何があったのか、ほんとのところはわかんない,so I honestly don't know where any of it happened， or what really happened
+main0-3,natsuno,natsuno,......,......
+main0-3,survivor00,survivor00,right-right,right-right
+main0-3,natsuno,natsuno,......そう,......Yeah
+main0-3,natsuno,natsuno,だから......,So......
+main0-3,natsuno,natsuno,なんで、電波もないのに、通話できてるの？,Why can I even make this call when there's no signal?
+main0-3,,,,
+main0-3,natsuno,natsuno,......,......
+main0-3,natsuno,natsuno,なんで......,Why......
+main0-3,natsuno,natsuno,どうして、何も知らないの？,Why don't you know anything?
+main0-3,2,2,,
+main0-3,questSuccess,questSuccess,,
+-,,,,
+main0-4,computer00,computer00,,
+main0-4,2,2,,
+main0-4,scenario00,scenario00,,
+main0-4,,,物置の中で、古いコンピュータを見つけた──,I found an old computer in the storage room
+main0-4,,,それが、はじまりだった。,That was where it all started
+main0-4,,,コンピュータが眠っていたのは、天国にいってしまった祖母が、物置にしていた部屋。,The computer had been sitting in the room my grandmother， who'd passed away， used as a storage room
+main0-4,,,遺してくれたものを整理しているところで、偶然目に入った。,I happened to notice it while sorting through the things she'd left behind
+main0-4,,,ずいぶん古いコンピュータだった。,It was a very old computer
+main0-4,,,とても動くとは思えなかったくらい。,So old I didn't think it could possibly still work
+main0-4,,,でも、電源に繋げてみれば、わずかな時間をかけて画面がついて。,But when I plugged it in， the screen came on after a little while
+main0-4,,,ちょっとびっくりして、少しだけ中を覗いてみた。,A little surprised， I took a quick look inside
+main0-4,,,いくつか映像データみたいなのがあって。,There were a few things that looked like video files
+main0-4,,,きっとどこか旅行に行ったときのビデオだろうと思った。,I figured they were probably videos from some trip she'd taken
+main0-4,,,何度か、祖母と一緒に旅行に行ったことがある。,I'd gone on trips with my grandmother a few times
+main0-4,,,もうずいぶん前のことだけれど。,Though that was a long time ago now...
+main0-4,,,それで、懐かしい気持ちになって。,It made me feel nostalgic，
+main0-4,,,データを一つ、開いてみた。,so I opened one of the files
+main0-4,,,でも、,But
+main0-4,,,聞こえてきたのは、,What I heard was
+main0-4,,,蝉の騒がしい夏の音。,the noisy summer sound of cicadas
+main0-4,,,知らない少女の声だった。,An unfamiliar girl's voice
+main0-4,1,1,,
+main0-4,,,,
+main0-4,,,,
+main0-4,,,,
+main0-4,1,1,,
+main0-4,,,少女の声が教えてくれる。,The girl's voice tells me
+main0-4,,,半年前に始まった、感染症の流行のこと。,An outbreak of an infectious disease that began six months ago
+main0-4,,,今までに出会ったことのない、未知のウイルスの話。,A story about an unknown virus unlike anything ever encountered before
+main0-4,,,どこで生まれ、どうやって広まったのか、どんな種類のウイルスなのか、何一つわからない。,No one knows where it originated， how it spread， or even what kind of virus it is
+main0-4,,,わかっているのは、ただ、感染すると身体が崩壊し、正気を失ってしまうということだけ。,All they know is that infection causes the body to break down and the infected person to lose their sanity
+main0-4,,,正気を失って、他の人々を襲うようになる。,Once they've lost their sanity， they start attacking other people
+main0-4,,,首から上がなくなったって動き続ける。,Even after everything above the neck is gone， they keep moving
+main0-4,,,感染して、意識を失った人々は、果たして生きているのか死んでいるのか──,Once infected people lose consciousness， are they alive or dead
+main0-4,,,そんなことを話しているうちに、すべては手遅れになった。,By the time people were asking questions like that， it was already too late
+main0-4,,,三か月前、高校が閉鎖された。,Three months ago， her high school shut down
+main0-4,,,二か月前、港に飛行機が墜落した。,Two months ago， a plane crashed into the harbor
+main0-4,,,一か月前、住んでいた街から出ていかなければならなくなった。,One month ago， she had to leave the city she'd been living in
+main0-4,,,たったの半年だった。,It had only taken six months
+main0-4,,,たった半年で。,Just six months
+main0-4,,,今まであった日常は、あっけなく終わった。,In just that short time， the everyday life we'd always known came to an abrupt end
+main0-4,,,そして彼女は──ナツノは、住んでいた東京を飛び出した。,And she 'Natsuno' fled to Tokyo where she had been living
+main0-4,,,ナツノ。,Natsuno
+main0-4,,,壊れてしまった世界で、一人で生きる高校二年生の少女。,A high school student， living alone in a world that has fallen apart
+main0-4,,,コンピュータを通してだけれど、彼女と確かに言葉を交わした。,It's only through a computer， but I really did exchange words with her
+main0-4,,,録音ではない。,This isn't a recording
+main0-4,,,彼女は確かに、そこにいて、生きている。,She's really there， alive
+main0-4,1,1,,
+main0-4,,,,
+main0-4,,,,
+main0-4,,,,
+main0-4,,,でも。,But
+main0-4,,,当たり前だけれど。,Of course
+main0-4,,,この世界で、そんな未曾有の感染症の流行は起こっていない。,In this world， no outbreak of an unprecedented infectious disease like that has happened
+main0-4,,,昨日だって、学校帰りに寄り道をする高校生たちの姿を見かけた。,Just yesterday， I saw high school students stopping somewhere on their way home from school
+main0-4,,,いや、高校生なら今は夏休みのはずだから、補習とか部活の帰りだったのかもしれない。,No， high school students should be on summer vacation right now， so maybe they were on their way home from summer classes or club activities
+main0-4,,,夏休みの、暇な高校生のいたずらだろうか。,Could this just be some prank by bored high school students on summer vacation?
+main0-4,,,そうかもしれない。,Maybe that's all it is
+main0-4,,,,
+main0-4,,,でも、もし、,But what if
+main0-4,,,そうじゃなかったとしたら。,that isn't the case?
+main0-4,2,2,,
+main0-4,questSuccess,questSuccess,,
+-,,,,
+main0-5,scenario01,scenario01,,
+main0-5,survivor00,survivor00,right-right,right-right
+main0-5,natsuno,natsuno,電波が通じてないはずなのに、通話できるのも,The fact that I can call you even though there shouldn't be any signal，
+main0-5,natsuno,natsuno,あなたが、なんにも知らないのも,The fact that you don't know anything either，
+main0-5,natsuno,natsuno,世の中がこんなことになってないっていうのも,and the fact that none of this has happened where you are...
+main0-5,natsuno,natsuno,全然、わけわかんない,none of it makes any sense at all
+main0-5,natsuno,natsuno,嘘ついてる......,You're lying......
+main0-5,natsuno,natsuno,......んじゃ、ないんだろうなぁ,......but I guess you're not
+main0-5,natsuno,natsuno,そんな嘘つく意味、わかんないし,I can't imagine why you'd even bother lying about something like that，
+main0-5,natsuno,natsuno,通話できちゃってるのは、ほんとなんだもん......,and the fact that this call is actually connected is real......
+main0-5,natsuno,natsuno,しかもビデオ通話......,And on top of that， a video calls
+main0-5,,,,
+main0-5,natsuno,natsuno,......,......
+main0-5,natsuno,natsuno,............,............
+main0-5,survivor00,survivor00,right-right,right-right
+main0-5,natsuno,natsuno,......ま、いっか,......Well， whatever
+main0-5,character00,character00,,
+main0-5,natsuno,natsuno,改めて、わたしナツノ。よろしく,So， once again， I'm Natsuno. Nice to meet you
+main0-5,natsuno,natsuno,......何がって,......What do you mean?
+main0-5,natsuno,natsuno,話し相手にくらいなってよ,Just be someone I can talk to， that's all
+main0-5,natsuno,natsuno,もう何日も喋る相手もいなくって、退屈してたの,I haven't had anyone to talk to for days， and I've been bored out of my mind
+main0-5,natsuno,natsuno,いいでしょ？　喋るくらい,It's fine， right? Just talking
+main0-5,natsuno,natsuno,ね？,Right?
+main0-5,survivor00,survivor00,1,1
+main0-5,natsuno,natsuno,......,......
+main0-5,natsuno,natsuno,......それにさ,......Besides，
+main0-5,natsuno,natsuno,今までは、運がよくてここまで逃げてこられたけど,I've only made it this far because I've been lucky，
+main0-5,natsuno,natsuno,わたし、今日死ぬかもしれないんだし,I might die today， after all...
+main0-5,natsuno,natsuno,死ぬとき一人って、なんか寂しいじゃん？,Dying alone would be kind of lonely， don't you think?
+main0-5,1,1,,
+main0-5,1,1,,
+main0-5,,,,
+main0-5,survivor00,survivor00,right-right,right-right
+main0-5,1,1,,
+main0-5,character00,character00,,
+main0-5,1,1,,
+main0-5,natsuno,natsuno,ちょうどね、今からそこのアパートに物色に行くの,Actually， I'm just about to go scavenge that apartment over there
+main0-5,natsuno,natsuno,食べ物とか残ってそうにはないけど......,Doesn't look like there's any food left， but......
+main0-5,natsuno,natsuno,何か使えるもの、あるかもしれないし,there might be something useful
+main0-5,natsuno,natsuno,......犯罪だって？,......A crime， you say?
+main0-5,survivor00,survivor00,right-right,right-right
+main0-5,natsuno,natsuno,はは。そうかもね、確かに,Ha. Yeah， I guess it kinda is
+main0-5,survivor00,survivor00,right-right,right-right
+main0-5,natsuno,natsuno,......あなた、本当に、なんともない世界にいるんだね,......You really are in a world where none of this happened， huh
+main0-5,natsuno,natsuno,でもこっちじゃ、そんなの気にしてらんないから,But over here， I can't afford to worry about that kind of thing
+main0-5,natsuno,natsuno,まだ死にたくないしね,I'm not ready to die yet， after all
+main0-5,natsuno,natsuno,そーだなぁ......,Hmm， that's true...
+main0-5,gun00,gun00,,
+main0-5,ammo00,ammo00,,
+main0-5,ammo00,ammo00,,
+main0-5,ammo00,ammo00,,
+main0-5,heal00,heal00,,
+main0-5,heal00,heal00,,
+main0-5,natsuno,natsuno,わたし、今、<button>ハンドガン</button>と<button>ハンドガンの弾</button>、それから<button>包帯</button>をもってるんだけど,Right now I've got a <button>Handgun</button>， some <button>Handgun ammo</button>， and some <button>Bandages</button> on me
+main0-5,natsuno,natsuno,どうしてハンドガンが、って？,Why do I have a handgun， you ask?
+main0-5,natsuno,natsuno,ちょっと前に、その辺で拾ったの,I picked it up around here a little while ago
+main0-5,natsuno,natsuno,結構、落ちてるよ。こんなご時世だからね,There are actually quite a few of them lying around. That's just how things are these days
+main0-5,natsuno,natsuno,そんなのいちいち気にしてたら、やってらんないよ？,If I worried about that kind of thing every time， I'd never get anything done， you know?
+main0-5,natsuno,natsuno,ま、とにかく,Anyway，
+main0-5,natsuno,natsuno,感染者とかと鉢合わせちゃうかもしれないし......そしたら、わたし、テンパっちゃったりするかもだから、,I might run into an infected or something...... and if that happens， I might panic and freak out，
+main0-5,natsuno,natsuno,そういうとき、声かけてくれると助かるかもって思うんだけど,so I thought it'd help if you called out to me when that happens
+main0-5,natsuno,natsuno,いいかな？,Would that be okay?
+main0-5,natsuno,natsuno,いいよね,That'd be nice
+main0-5,natsuno,natsuno,ちょっと練習しとこっか,Let's practice a little， okay?
+main0-5,natsuno,natsuno,<button>ハンドガン</button>って言ってみて,Try saying <button>Handgun</button>
+main0-5,request_input,request_input,,
+main0-5,ハンドガン,handgun,input_ok,input_ok
+main0-5,input_ng,input_ng,,
+main0-5,natsuno,natsuno,違うって,No， that's not it
+main0-5,natsuno,natsuno,<button>ハンドガン</button>って言ってみて,Try saying <button>Handgun</button>
+main0-5,request_input,request_input,,
+main0-5,input_ok,input_ok,,
+main0-5,gun00,gun00,,
+main0-5,natsuno,natsuno,ハンドガンを装備したよ,Handgun equipped
+main0-5,natsuno,natsuno,......うん、いい感じ,......Yeah， this feels good
+main0-5,natsuno,natsuno,やっぱ、一人より心強いや,It really is more reassuring than being alone
+main0-5,natsuno,natsuno,危なくなったら、<button>包帯</button>とか声かけてくれると助かるかも,If things get dangerous， it'd help if you called out things like <button>Bandages</button>
+main0-5,natsuno,natsuno,持ってても、自分じゃ焦ってて気がつかなかったりするかもだから,Even if I have them on me， I might be too panicked to notice them myself
+main0-5,natsuno,natsuno,お願い,Please
+main0-5,natsuno,natsuno,さ......じゃあ、行こっか,So...... shall we get going?
+main0-5,1,1,,
+main0-5,,,,
+main0-5,1,1,,
+main0-5,,,,
+main0-5,location00,location00,,
+main0-5,1,1,,
+main0-5,environment00,environment00,,
+main0-5,1,1,,
+main0-5,natsuno,natsuno,......,......
+main0-5,natsuno,natsuno,......アパート、ついたよ,......Made it to the apartment
+main0-5,natsuno,natsuno,中に入ってみる......,Let's go inside......
+main0-5,natsuno,natsuno,......あ,......Oh.
+main0-5,natsuno,natsuno,わたし、勝手にいろいろ調べるけど,I'll go ahead and look around on my own，
+main0-5,natsuno,natsuno,あなたも、何かありそうなとこ見つけたら、言ってね,but if you spot somewhere that looks promising， let me know， okay?
+main0-5,natsuno,natsuno,調べてみるから,I'll check it out
+main0-5,natsuno,natsuno,......さて,......Now then.
+main0-5,questStart,questStart,,
+-,,,,
+main0-6,location00,location00,,
+main0-6,environment00,environment00,,
+main0-6,natsuno,natsuno,......ここはこんなもんかなぁ,......Guess that's about it for this place
+main0-6,natsuno,natsuno,やっぱり、あんまり物は残ってないなぁ,Yeah， not much left here after all
+main0-6,natsuno,natsuno,......まぁでも,......Well， still，
+main0-6,natsuno,natsuno,こうしてないと、明日食べるものにも困っちゃうから,if I don't keep doing this， I won't have anything to eat tomorrow，
+main0-6,natsuno,natsuno,地道に家捜しするしかないんだよね,so searching houses one by one is really the only option
+main0-6,natsuno,natsuno,はーあ,Haaah
+main0-6,natsuno,natsuno,こんなの......全然、想像してなかったな,This kind of thing...... I never imagined it at all
+main0-6,natsuno,natsuno,あなたと話してると......なんだか、半年前までの暮らしのこと、思い出しちゃう,Talking to you...... makes me remember what life was like six months ago
+main0-6,survivor00,survivor00,right-right,right-right
+main0-6,natsuno,natsuno,みんな......どこかで元気にしてるかな,I wonder if everyone's...... doing okay， somewhere
+main0-6,1,1,,
+main0-6,1,1,,
+main0-6,,,,
+main0-6,scenario01,scenario01,,
+main0-6,1,1,,
+main0-6,survivor00,survivor00,right-right,right-right
+main0-6,1,1,,
+main0-6,natsuno,natsuno,......あれ,......Huh?
+main0-6,natsuno,natsuno,こんなところに......,Here of all places......
+main0-6,survivor00,survivor00,right-right,right-right
+main0-6,natsuno,natsuno,へぇ。かわいい,Huh. It’s cute
+main0-6,natsuno,natsuno,......,......
+main0-6,natsuno,natsuno,これ......キー刺さったままじゃん,Wait... the key's still in there
+main0-6,natsuno,natsuno,ガソリンも入ってる......？,There's even gas in it......?
+main0-6,natsuno,natsuno,......使えるかも！,......it might actually work!
+main0-6,1,1,,
+main0-6,,,,
+main0-6,1,1,,
+main0-6,,,,
+main0-6,scenario00,scenario00,,
+main0-6,1,1,,
+main0-6,1,1,,
+main0-6,character00,character00,,
+main0-6,1,1,,
+main0-6,natsuno,natsuno,ねぇ、見て見て,Hey， look， look
+main0-6,natsuno,natsuno,バスみたいな車見つけたよ,I found a car that looks like a little bus
+main0-6,natsuno,natsuno,かわいくない？,Isn't it cute?
+main0-6,natsuno,natsuno,しばらくは、これに乗って北を目指そっかな,I think I'll ride this north for a while
+main0-6,natsuno,natsuno,......運転免許？,......A driver's license?
+main0-6,natsuno,natsuno,そんなの持ってないけど......ま、ノリでいけるでしょ！,Nope， don't have one...... but hey， I can wing it!
+main0-6,natsuno,natsuno,アクセル踏んだら進むんだよね？,It goes when you step on the gas， right?
+main0-6,natsuno,natsuno,だいじょーぶだって,It's fiiiine
+main0-6,natsuno,natsuno,ね,Right?
+main0-6,natsuno,natsuno,あなたも,You， too
+main0-6,natsuno,natsuno,一緒に、来てくれるでしょ？,You'll come with me， won't you?
+main0-6,2,2,,
+main0-6,1,1,,
+main0-6,ending,ending,main0,main0

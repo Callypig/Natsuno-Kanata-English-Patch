@@ -1,0 +1,179 @@
+id,_text<jpn>,text<eng>
+scene_room_a00,はがれた壁紙が痛々しい。,The peeling wallpaper is painfully bleak.
+scene_room_a01,白いカーテンが風に揺れていた。,White curtains sway in the breeze.
+scene_room_a02,木目調のフローリングに泥の足跡が残されていた。,Muddy footprints have been left across the wood-grain flooring.
+scene_room_b00,ガラスの砕けた窓から差す光だけで照らされていた。,The room is lit only by the light coming through the shattered windows.
+-,, 
+scene_hutRoom_a00,床に開いた穴の深さが見通せない。,The depth of the hole in the floor is impossible to see.
+scene_hutRoom_a01,部屋の四隅には、もれなく蜘蛛の巣が張っている。,Spiderwebs cover every corner of the room.
+scene_hutRoom_a02,木枠の窓ガラスは割れてしまっている。,The glass in the wooden-framed windows has been shattered.
+scene_hutRoom_b00,歩くたびに床が軋む。,The floor creaks with every step.
+scene_hutRoom_b01,木材やら鉄板やらが立てかけられて、散らかっている。,Wooden boards and sheets of metal have been propped up and left scattered about.
+scene_hutRoom_b02,埃が舞っている。長い間放置されているのは間違いなかった。,Dust hangs in the air. There is no doubt this place has been abandoned for a long time.
+-,, 
+scene_staffRoom_a00,背の高いロッカーがずらっと並んでいる。,Tall lockers stand in long rows.
+scene_staffRoom_a01,窓にはブラインドが下りていて薄暗い。,"The blinds are drawn over the windows, leaving the room dim."
+scene_staffRoom_a02,太陽光発電の時計が今でも動き続けている。,A solar-powered clock is still ticking away.
+scene_staffRoom_b00,事務デスクがいくつか並べられていた。,Several office desks have been left in rows.
+scene_staffRoom_b01,書類とハンコが散らかされていた。,Documents and ink stamps are scattered about.
+-,, 
+scene_guestRoom_a00,短い廊下の向こうに、ほとんどベッドだけの空間が見える。,"Beyond the short hallway, there is a room containing little more than beds."
+scene_guestRoom_a01,黒で統一された壁紙が落ち着いた雰囲気をつくっていた。,"The black wallpaper gives the room a calm, subdued atmosphere."
+scene_guestRoom_a02,天井からは小さなシャンデリアが吊るされ、ドアノブの装飾さえ華やかだった。,"A small chandelier hangs from the ceiling, and even the decorations on the doorknobs are ornate."
+-,, 
+scene_corridor_a00,薄暗い道が続く。,A dim path stretches ahead.
+scene_corridor_a01,リノリウムの床がどこまでも続く。,The linoleum floor seems to go on forever.
+scene_corridor_a02,天井からぶら下げられるのは、派手なシャンデリア。,A gaudy chandelier hangs from the ceiling.
+scene_corridor_b00,冷えたコンクリートが光を奪い去ってしまう。,The cold concrete seems to swallow up the light.
+scene_corridor_b01,暗く、湿っていた。,It is dark and damp.
+scene_corridor_b02,扉が並ぶばかりで、静かだった。,"Only doors line the walls, and everything is silent."
+-,, 
+scene_bath_a00,どこからか雫の落ちるのが聞こえてきた。,The sound of drops falling can be heard from somewhere.
+scene_bath_a01,水色のタイルの間に黒いカビが生えていた。,Black mold has grown between the pale blue tiles.
+scene_bath_a02,窓から差す日差しに、ほとんど干からびているみたいだった。,The sunlight coming through the window makes everything look almost dried out.
+scene_bath_b00,タイル敷きの床に、汚れた浴槽が横たわっている。,A filthy bathtub lies on the tiled floor.
+scene_bath_b01,そこかしこに蜘蛛の巣が張っていた。,Spiderwebs cover the place here and there.
+scene_bath_b02,広い空間に足つきのバスタブがたたずむ。,A freestanding bathtub sits alone in the spacious room.
+-,, 
+scene_warehouse_a00,蜘蛛の巣の張った棚は、もので溢れていた。,The shelves covered in spiderwebs are overflowing with things.
+scene_warehouse_a01,無造作にものが積み上げられていて、足の踏み場もないくらいだった。,"Things have been piled up carelessly, leaving barely any room to walk."
+scene_warehouse_a02,背の高い棚が連なって、視界が悪い。,"Tall shelves stand one after another, obstructing the view."
+scene_warehouse_b00,朽ちかけた木の床板の軋む音が不気味な倉庫だった。,"It is an eerie warehouse, the decaying wooden floorboards creaking underfoot."
+scene_warehouse_b01,ひび割れたコンクリートで囲まれている。,The walls are made of cracked concrete.
+-,, 
+scene_kitchen_a00,白い壁が、木目調の床が、どことなく懐かしさを呼んでくる。,The white walls and wood-grain floor evoke a vague sense of nostalgia.
+scene_kitchen_a01,ガスコンロに空の中華鍋が放置されている。,An empty wok has been left sitting on a gas stove.
+scene_kitchen_a02,そこかしこで何かが腐っている。,Something is rotting here and there.
+scene_kitchen_b00,今にも何か炒める音でも聞こえてきそうだった。,It almost feels like the sound of something being stir-fried could start at any moment.
+-,, 
+scene_shop_a00,だだっ広い空間に無骨なラックがいくつも並べられている。,Several rugged racks stand scattered across the vast open space.
+scene_shop_a01,破かれた梱包材が白い床に投げ捨てられている。,Torn packing materials have been thrown across the white floor.
+scene_shop_a02,空っぽの段ボール箱がそこら中に転がっている。,Empty cardboard boxes are strewn everywhere.
+scene_shop_b00,朽ちた葉ばかりが残っている。,Nothing remains but withered leaves.
+-,, 
+scene_office_a00,明日生き残るには使いようのないコンピュータばかりが残されている。,Nothing but computers that would be of no use for surviving another day have been left behind.
+scene_office_a01,壁一面を書棚が覆っている。,Bookshelves cover an entire wall.
+scene_office_a02,色とりどりのユニークな椅子が並んでいる。,"Colorful, unusual chairs stand in rows."
+scene_office_b00,テーブルに沈黙するコンピュータが並ぶ。,Silent computers sit lined up on the tables.
+scene_office_b01,ずいぶん汚れているけれど上等な椅子だった。,"The chairs are filthy, but they must have been quite fine once."
+-,, 
+scene_hall_a00,白い階段が弧を描くようにして二階まで続いている。,A white staircase curves its way up to the second floor.
+scene_hall_a01,赤いカーペットの敷かれた階段が、二階まで続いている。,A staircase covered in red carpet leads up to the second floor.
+scene_hall_a02,階段を上った先、上階の中央には大きな肖像画が掲げられていた。,"At the center of the upper floor, a large portrait hangs above the staircase."
+scene_hall_b00,吹き抜けになった二階からシャンデリアが吊るされていた。,A chandelier hangs down from the open second floor.
+scene_hall_b01,窓はない。入ってきた扉からの光だけに照らされて仄暗い。,There are no windows. The room is dimly lit only by the light coming through the door.
+-,, 
+scene_square_a00,シャッターの下りた店が立ち並ぶ。,Shuttered shops stand one after another.
+scene_square_a01,ひび割れたアスファルトに電柱の影が濃く落ちる。,The shadows of utility poles fall heavily across the cracked asphalt.
+scene_square_a02,街路樹がなぎ倒されてしまっていた。,The roadside trees have been knocked down.
+scene_square_b00,沈黙した信号機が寂しい。,The silent traffic lights look lonely.
+scene_square_b02,見上げれば、歩道橋が架かっている。,"Looking up, there is a pedestrian overpass stretching across the road."
+-,, 
+scene_road_a00,古い民家が立ち並ぶ。,Old houses stand one after another.
+scene_road_a01,そこかしこから飛び出してくる草木に覆われていた。,They have been overgrown with plants bursting out from everywhere.
+scene_road_a02,古い家と新築のアパートが奇妙な模様をなしている。,Old houses and newly built apartments form a strange pattern.
+scene_road_b00,道幅の狭い道路。一方通行の標識が虚しく掲げられていた。,The road is narrow. A one-way sign hangs there pointlessly.
+scene_road_b01,放棄された田畑に囲まれていた。,The area is surrounded by abandoned fields.
+scene_road_b02,なだらかな上り坂だった。,The road slopes gently upward.
+-,, 
+scene_garden_a00,かつての細々とした家庭菜園の跡がある。,There are traces of what was once a small home garden.
+scene_garden_a01,空っぽの犬小屋が寂しく佇んでいた。,An empty doghouse stands there forlornly.
+scene_garden_a02,雨が少ないせいだろうか、花がしおれてしまっている。,"Perhaps because of the lack of rain, the flowers have wilted."
+scene_garden_b00,コンクリートブロックで囲まれた庭だった。,It is a garden enclosed by concrete blocks.
+scene_garden_b01,高い塀で囲まれて、玉砂利が敷かれている。,It is surrounded by a high wall and covered with decorative gravel.
+scene_garden_b02,砂利が敷き詰められていた。,The ground is completely covered in gravel.
+-,, 
+scene_tent_a00,獣でも入り込んだのだろう、中はずいぶん荒らされている。,Perhaps some animal got inside; the place has been thoroughly ransacked.
+scene_tent_a01,天井の柱から、小さな明かりが吊り下げられている。,Small lights hang from the ceiling beams.
+scene_tent_a02,風のせいだろう、支柱が傾いてしまっている。,"Perhaps because of the wind, the support poles have become tilted."
+scene_tent_b00,寝袋や、空になった缶詰が残ったままだった。,Sleeping bags and empty cans of food have been left behind.
+-,, 
+scene_grassland_a00,土を掘り返したり、たき火をした跡が残っている。,There are traces of soil being dug up and campfires being made.
+scene_grassland_a01,ところどころで白い小さな花が咲いている。,Small white flowers bloom here and there.
+scene_grassland_a02,遠くに白のトレーラーハウスが停まっている。,A white trailer home sits in the distance.
+scene_grassland_b00,辺り一面、緑だった。,Everything around is green.
+scene_grassland_b01,穏やかな景色が広がっている。,A peaceful landscape stretches out before you.
+scene_grassland_b02,ずいぶん背の高くなった芝生が一面に広がっていた。,Tall grass has grown thick across the entire area.
+-,, 
+scene_riverside_a00,透明な水の中を魚が泳いでいるのが見える。,Fish can be seen swimming through the clear water.
+scene_riverside_a01,角の取れた石が底に転がっているのが見えた。,Rounded stones can be seen scattered along the bottom.
+scene_riverside_a02,水源はずっと山の上の方だろう。,The water source must be somewhere high up in the mountains.
+scene_riverside_b00,穏やかな流れが涼しげだった。,The gentle current looks cool and refreshing.
+scene_riverside_b01,澄んだ水と穏やかな空気が流れている。,Clear water and a calm breeze flow through the area.
+scene_riverside_b02,野鳥の声が聞こえた。,The calls of wild birds can be heard.
+-,, 
+scene_beach_a00,誰かの置いていったゴミや漂着物がぽつぽつ見つかる。,Bits of trash and driftwood left behind by someone can be found here and there.
+scene_beach_a01,見渡す限り真っ白だった。,Everything is pure white as far as the eye can see.
+scene_beach_a02,浜は、弧を描くようにして広がっている。,The beach stretches out in a gentle arc.
+scene_beach_b00,波は穏やかだった。,The waves are calm.
+scene_beach_b01,波が大きな音を立てて、風が強い。,"The waves crash loudly, and the wind is strong."
+scene_beach_b02,打ち寄せる波が激しい。,The waves are surging violently against the shore.
+-,, 
+scene_shore_a00,少し前まで誰かがいたのだろうか、荷物が潮水に濡れている。,Someone must have been here until recently; their belongings are soaked in seawater.
+scene_shore_a01,気をつけないと、靴が濡れてしまう。,"If you're not careful, your shoes will get wet."
+scene_shore_a02,濃い色の海藻が流されてきているのが見える。,Dark-colored seaweed can be seen washing ashore.
+scene_shore_b00,波打ち際で跳ねる水しぶきが力強かった。,The spray kicked up by the waves is powerful along the water's edge.
+scene_shore_b01,潮風と一緒に穏やかな時間が流れている。,A peaceful moment passes with the sea breeze.
+-,, 
+scene_library_a00,ぎっしり詰まった本棚がどこまでも続いている。,Rows of tightly packed bookshelves stretch as far as the eye can see.
+scene_library_a01,窓から差す光を背表紙が全部吸い取ってしまって薄暗い。,"The book spines absorb all the light coming through the windows, leaving the room dim."
+scene_library_a02,書架はところどころ歯抜けになっている。,The bookshelves are missing books here and there.
+scene_library_b00,通路が狭い。,The aisles are narrow.
+scene_library_b01,大きな本がずらっと並んでいた。,Large books stand in long rows.
+-,, 
+scene_machineRoom_a00,何に使うのかわからない機械がずらっと並んでいる。,Machines whose purpose is impossible to tell stand in long rows.
+scene_machineRoom_a01,緑色のマットに油のシミが滲んでいる。,Oil stains have seeped into the green mats.
+scene_machineRoom_a02,真っ黒なゴムの切れ端がドラム缶に詰め込まれている。,Pieces of pitch-black rubber have been stuffed into metal drums.
+scene_machineRoom_b00,静まり返っていて気味が悪い。,The silence is eerie.
+scene_machineRoom_b01,広い空間に足音が響き渡る。,Footsteps echo throughout the spacious room.
+-,, 
+scene_carryIn_a00,シャッターが開いたまま、がらんとしている。,"The shutters have been left open, leaving the place empty and bare."
+scene_carryIn_a01,運び込まれたものがそのまま放置されている。,Everything that was brought inside has simply been left behind.
+scene_carryIn_a02,奥の倉庫には真っ暗闇が広がっているばかり。,The warehouse in the back is filled with nothing but pitch darkness.
+scene_carryIn_b00,荷物が積み上げられていた。,Cargo has been piled up.
+scene_carryIn_b02,車一台が停まれる広さしかない。,There is only enough space for one car to park.
+-,, 
+scene_parking_a00,乗り捨てられた車が乱雑に停まっている。,Abandoned cars are parked haphazardly.
+scene_parking_a01,主を失った車が静かにたたずむ。,Cars without their owners sit there silently.
+scene_parking_a02,ほとんど自動車は残っていない。,Hardly any cars remain.
+scene_parking_b00,アスファルトが焦げつくほどに暑い。,The asphalt is hot enough to scorch.
+scene_parking_b02,出口に精算機があった。,There is a payment machine at the exit.
+-,, 
+scene_gallery_a00,古い遺跡からの出土品が並べられていた。,Artifacts excavated from ancient ruins are displayed in rows.
+scene_gallery_a01,恐竜や太古の生き物の化石が吊るされている。,Fossils of dinosaurs and prehistoric creatures hang from above.
+scene_gallery_a02,古い書物がガラスの向こうに並んでいる。,Ancient books line the shelves behind glass.
+scene_gallery_b00,暗闇の中にたたずむ展示物が不気味だった。,The exhibits standing in the darkness are eerie.
+scene_gallery_b01,広くて奥まで光が届かない。,The place is so vast that the light doesn't reach the back.
+scene_gallery_b02,あまりの静けさに足が震える。,The overwhelming silence makes your legs tremble.
+-,, 
+scene_attractions_a00,メンテナンスされなくなったせいか、ところどころガタついて見える。,"Perhaps from years without maintenance, parts of it look loose and unstable."
+scene_attractions_a01,風に揺られて、きぃきぃと音を立てていた。,"It sways in the wind, creaking softly."
+scene_attractions_a02,何があったのか、脱ぎ捨てられた着ぐるみが土を被っている。,"Whatever happened here, discarded mascot costumes lie covered in dirt."
+scene_attractions_b00,錆びついて動きそうもない。,They are rusted solid and look as though they could never move again.
+scene_attractions_b02,もう二度と動き出すこともないだろう。,They probably never will.
+-,, 
+scene_hospitalRoom00,白くて広々としている。,It is white and spacious.
+scene_hospitalRoom01,本当はそんなに広くないはずだけれど、殺風景な部屋は嫌に広々としている。,"It shouldn't really be this large, but the stark room feels strangely vast."
+scene_hospitalRoom02,白いシーツが畳まれていた。その几帳面さに胸が痛くなる。,White sheets have been neatly folded. Their meticulousness is strangely painful.
+scene_hospitalRoom03,壁の白さが眩しい。窓からの日差しはわずかでも、白い部屋は暗がりから立ち上がる。,"The whiteness of the walls is blinding. Even with only a little sunlight coming through the window, the white room seems to rise out of the darkness."
+-,, 
+scene_classroom00,放課後の教室だって、こんなに静かではなかった。,Even an after-school classroom was never this quiet.
+scene_classroom01,机も椅子も整頓されている。<br>明日の朝になれば、また子供たちがやってくるかも、と思ってしまう。,The desks and chairs are neatly arranged.<br>It makes you wonder if the children might come back tomorrow morning.
+scene_classroom02,クリーム色のカーテンが風になびいている。,Cream-colored curtains sway in the breeze.
+scene_classroom03,どうしてだろう、学校の教室というのは、独特の仄暗さがある。,"For some reason, school classrooms always have a peculiar dimness to them."
+-,, 
+scene_underpass00,明かりのない道がどこまでも続いている。,A road without any lights stretches endlessly ahead.
+scene_underpass01,強い風が吹き抜けていく。<br>どこからきて、どこへいくのだろう。,"A strong wind blows through.<br>Where did it come from, and where is it going?"
+scene_underpass02,足音がずっと遠くまで響いていく。,Footsteps echo far into the distance.
+scene_underpass03,見てわかるくらいの湿気だった。,The humidity is heavy enough to see.
+-,, 
+scene_dining00,テーブルにも埃が積もっていた。,Dust has settled over the tables as well.
+scene_dining01,窓から差す光を、磨かれたグラスが鋭く返す。,The polished glasses sharply reflect the light coming through the windows.
+scene_dining02,これから一日が始まるのだと思うくらい、手入れが行き届いていた。,Everything is so well maintained that it feels as though the day is about to begin.
+scene_dining03,テーブルの上に、食べかけの料理がほんの少しだけ残っていた。,Only a small amount of half-eaten food remains on the table.
+-,, 
+scene_marble00,いったい何が起きているのだろう。<br>ノイズのような、そうではないような、奇妙な音が聞こえてくる。,"What on earth is happening?<br>A strange sound can be heard, something like noise, but not quite."
+scene_marble01,意味のない音の連なりが、急に、よく知った音色に聞こえたりする。,A meaningless sequence of sounds suddenly begins to sound like a familiar melody.
+scene_marble02,足音だけが響いているような気がする。<br>でも、ということは、響くだけの広がりがあるのだろうか。,"It feels as though only footsteps are echoing.<br>But if so, is this place really spacious enough for the sound to echo?"
+scene_marble03,匂いなんて何も感じないだろう。<br>何もない、まったくの無臭というのは、どんな感じなのだろうか。,You probably wouldn't be able to smell anything at all.<br>What would it feel like to have absolutely no smell whatsoever?
+-,,

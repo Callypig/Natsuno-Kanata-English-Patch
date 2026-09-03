@@ -1,0 +1,204 @@
+﻿id,_name<jpn>,name<eng>,_keyword<jpn>,keyword<eng>,_describe<jpn>,describe<eng>
+object_beach00,割れてしまったサーフボード,a broken surfboard,サーフボード,surfboard,これで波に乗ったりしたのだろうか。<br>それとも、何か別のことに使ったのだろうか。,I wonder if someone used this to surf. <br>Or perhaps it was used for something else.
+object_shore02,投げ出された釣り道具,abandoned fishing gear,釣り道具,fishing gear,この辺りは釣れるのだろうか。<br>道具があっても、餌がなければどうにもならないけれど。,"I wonder if you can catch anything around here. <br>Even with the gear, there is not much you can do without bait."
+amusement00,壁に掛けられたロードバイク,a road bike hanging on the wall,ロードバイク,road bike,-,-
+amusement01,立てかけられたスケートボード,a skateboard propped up against the wall,スケートボード,skateboard,-,-
+object_bath00,まだ中身の残ったシャンプー,a bottle of shampoo with some left in it,シャンプー,shampoo,-,-
+object_bath01,腐った水の溜まったバスタブ,a bathtub filled with stagnant water,バスタブ,bathtub,浴槽に貯められた水は、もう底が見えないくらいに濁っていた。<br>もともとここにあったのは、ただの水だけだろうか。,The water collected in the bathtub had become so murky that I could no longer see the bottom. <br>I wonder if it was really just water that was originally in here.
+object_bath02,色褪せたシャワーカーテン,a faded shower curtain,シャワーカーテン,shower curtain,-,-
+bathware00,水の濁った洗面台,a sink filled with stagnant water,洗面台,sink,-,-
+object_office00,歯抜けになった本棚,a bookshelf with books missing from it,本棚,bookshelf,-,-
+object_library03,ぎっしり詰まったアルミの本棚,a tightly packed aluminum bookshelf,アルミの本棚,aluminum bookshelf,-,-
+bookshelf00,文庫本ばかりの棚,a shelf filled mostly with paperback books,文庫本ばかりの棚,paperback books,,
+bookshelf01,ほとんど残っていない雑誌棚,a magazine shelf with almost nothing left on it,雑誌棚,magazine shelf,,
+object_road01,崩れた家屋,a collapsed house,家屋,house,-,-
+building00,空っぽの店舗,an empty storefront,店舗,storefront,,
+building01,小さな町工場,a small local factory,町工場,local factory,,
+object_tent01,何かの詰まった寝袋,a sleeping bag stuffed with something,寝袋,sleeping bag,-,-
+object_tent02,折り畳み式のキャンプチェア,a folding camping chair,キャンプチェア,camping chair,少なくとも、誰かがここで寝泊まりしていたのは間違いない。<br>何もかも残して、どこに行ったのだろう。,"At the very least, there is no doubt someone was living here. <br>Where did they go, leaving everything behind?"
+object_tent03,畳まれたブルーシート,a folded blue tarp,ブルーシート,blue tarp,-,-
+object_grassland00,たき火の跡,the remains of a campfire,たき火,campfire,-,-
+object_riverside01,風に飛ばされそうなレジャーシート,a leisure sheet about to be blown away by the wind,レジャーシート,leisure sheet,-,-
+object_beach02,倒れたビーチパラソル,a fallen beach umbrella,ビーチパラソル,beach umbrella,-,-
+object_beach03,風に飛ばされそうなサンシェード,a sunshade about to be blown away by the wind,サンシェード,sunshade,-,-
+object_square00,折れてしまった看板,a broken sign,看板,broken sign,-,-
+object_road00,腰の高さまで積まれた土嚢,a sandbags piled up to waist height,土嚢,sandbags,-,-
+object_attractions02,日焼けした案内看板,a sun-faded information sign,案内看板,information sign,-,-
+civil00,荒らされた街頭のゴミ箱,a ransacked street trash can,街頭のゴミ箱,trash can,,
+object_room09,捨てられた洋服,discarded clothes,洋服,clothes,-,-
+clothes00,山積みになった衣類,a pile of clothes,衣類,pile of clothes,,
+clothes01,畳まれたままの作業服,work clothes still folded up,作業服,work clothes,,
+clothes02,脱ぎ捨てられたワンピース,a discarded dress,ワンピース,dress,,
+object02,読めないステッカーの貼られた木箱,a wooden box covered with unreadable stickers,木箱,wooden box,-,-
+object_warehouse00,朽ちかけた樽,a decaying barrel,樽,barrel,樽のふたは開いていた。<br>たぶん、もともと入っていたのとは違うものが詰まっているだろう。,The lid of the barrel was open. <br>Whatever is inside is probably not what was originally stored in it.
+object_hall01,変なからくりのついた宝石箱,a jewel box with a strange mechanism,宝石箱,jewel box,-,-
+object_shop00,未開封の段ボール箱,an unopened cardboard box,段ボール箱,unopened cardboard box,封をしたときは、まさかこんなかたちで見つけられるとは思っていなかっただろう。<br>とても丁寧に閉じられている。,Whoever sealed it could never have imagined that it would be found like this. <br>It has been closed with great care.
+object_office05,封の切られた包み,a package with its seal cut open,包み,package,封は荒く切られているけれど、まだ中身が入っている。<br>何が入っているんだろう、と思うより先に、誰が受け取るはずだったんだろうと考えてしまう。,"The seal has been roughly cut open, but there is still something inside. <br>Before wondering what is in it, I find myself wondering who was supposed to receive it."
+object_hall04,大きなアタッシュケース,a large briefcase,アタッシュケース,briefcase,-,-
+object_grassland01,開いたままのプラスチックコンテナ,an open plastic container,プラスチックコンテナ,plastic container,-,-
+object_riverside00,中身の見えない大きなボトル,a large bottle with an opaque contents,大きなボトル,large bottle,-,-
+object_riverside03,大きなクーラーボックス,a large cooler,クーラーボックス,large cooler,-,-
+object_shore00,水の入ったバケツ,a bucket filled with water,バケツ,bucket,-,-
+object_library01,丈夫な布でできたボックス,a box made of sturdy fabric,布でできたボックス,box made of sturdy fabric,-,-
+object_carryIn02,積み上げられたコンテナ,stacked containers,コンテナ,stacked containers,-,-
+object_carryIn03,山積みにされた大きな段ボール箱,a pile of large cardboard boxes,大きな段ボール箱,large cardboard box,-,-
+container00,真っ白な蓋のネジ止めされた箱,a box with a pure white lid secured with screws,蓋のネジ止めされた箱,box with a pure white lid,,
+container01,病院のロゴが入った段ボール箱,a cardboard box bearing a hospital logo,病院のロゴが入った段ボール箱,cardboard box,-,-
+object01,積み上げられた雑誌の束,a stack of magazines,雑誌の束,stack of magazines,-,-
+object_office01,崩れかけた書類の山,a collapsing pile of documents,書類の山,pile of documents,積み上げられた書類の山は、無残に崩れていた。<br>踏みつける足はあっても、片づける手はもうどこにもない。,"The stacked pile of documents had collapsed miserably. <br>There may still be feet to trample them, but there are no hands left to put them away."
+document00,縛られた古新聞,tied bundles of old newspapers,古新聞,old newspapers,-,-
+document01,丁寧に積まれたハードカバーの小説,neatly stacked hardcover novels,ハードカバーの小説,hardcover novels,,
+object_room11,画面の割れたテレビ,a television with a cracked screen,テレビ,television,-,-
+object_staffRoom04,大きくて古臭いテレビ,a large old-fashioned television,古臭いテレビ,old-fashioned television,-,-
+object_guestRoom03,小さな保冷ボックス,a small cooler box,保冷ボックス,cooler box,-,-
+object_corridor03,繋がりそうもない電話,a telephone that looks impossible to connect,電話,telephone,-,-
+object_office03,壊されて積み上げられた古いコンピュータ,old computers smashed and piled together,古いコンピュータ,old computers,-,-
+object_tent04,炭の燃え尽きた小さなストーブ,a small stove with its charcoal burned out,小さなストーブ,small stove,-,-
+object_garden02,朽ちて座れそうにないベンチ,a rotting bench that can no longer be sat on,ベンチ,bench,-,-
+object_garden03,薄ら土の積もったウッドデッキ,a wooden deck lightly covered with soil,ウッドデッキ,wooden deck,-,-
+object_riverside02,洋服の掛かった物干し竿,a clothesline with clothes hanging from it,物干し竿,clothesline,-,-
+object_garden01,緑に覆われた畑,a field overgrown with greenery,畑,field,もともと植えられていたものが自由に育ったのだろうか。かつての畑は緑に呑まれてしまっている。,I wonder if whatever was planted here was simply allowed to grow freely. The old field has been swallowed up by greenery.
+object_grassland02,誰かが掘った穴,a hole someone dug,穴,hole,誰がなんのために掘ったのだろう。<br>穴を覗き込むというのは、なんだか恐ろしい。,"Who dug this, and for what purpose? <br>There is something strangely frightening about looking down into a hole."
+field00,干からびた田んぼ,a dried-up rice paddy,田んぼ,rice paddy,,
+field01,何かを埋めた跡,traces of something buried,埋めた跡,something buried,,
+object_kitchen04,腐って固まった食べ物,food that has rotted and hardened,固まった食べ物,food,食べ物がこんなになってしまうまでに、どれくらいの時間がかかるだろう。<br>半年という時間の長さを思う。,How long would it take for food to become like this? <br>I find myself thinking about how long six months really is.
+food00,器の中で腐ったスープ,rotten soup in a dish,腐ったスープ,rotten soup,,
+food01,蓋のされた鉄の鍋,a covered iron pot,鉄の鍋,iron pot,,
+food02,放置された魚を焼いた跡,the remains of a fish that was cooked and left behind,魚を焼いた跡,fish,,
+object_room00,動かない柱時計,a stopped grandfather clock,柱時計,grandfather clock,いつからここにあって、いつから針を止めているのだろう。<br>ガラス窓の向こうの動かない振り子は、妙に重苦しい。,"I wonder how long it has been here, and how long its hands have been stopped. <br>The motionless pendulum behind the glass has an oddly oppressive presence."
+object_room02,割れてしまった木の机,a broken wooden desk,木の机,wooden desk,-,-
+object_room04,革張りのソファ,a leather sofa,ソファ,sofa,-,-
+object_room07,風に揺られる黄ばんだカーテン,yellowed curtains swaying in the wind,カーテン,curtains,-,-
+object_room08,切り裂かれた質素なベッド,a simple bed torn apart,質素なベッド,simple bed,-,-
+object_staffRoom01,積み上げられたパイプチェア,stacked pipe chairs,パイプチェア,pipe chairs,-,-
+object_guestRoom00,使われなかった真っ白なベッド,a pristine white bed that was never used,真っ白なベッド,white bed,-,-
+object_guestRoom02,窓の方を向いた一人掛けのソファ,a single-seat sofa facing the window,一人掛けのソファ,single-seat sofa,かつては、窓の向こうに夜景でも見えたのだろうか。<br>昼間に眺める分には、なんでもない街並みが広がってるように見える。,"I wonder if a view of the city at night could once be seen beyond the window. <br>During the day, all I can see is an ordinary cityscape stretching out before me."
+object_corridor00,針の止まった掛け時計,a wall clock with the hands stopped,掛け時計,wall clock,-,-
+object_corridor02,割れてしまった大きな姿見,a large broken full-length mirror,大きな姿見,full-length mirror,-,-
+object_hall03,ほつれた紅色の絨毯,a frayed crimson carpet,絨毯,carpet,-,-
+object_library00,円形のテーブル,a round table,テーブル,round table,-,-
+object00,砕けて積み重なったガラス,shattered glass piled together,ガラス,glass,-,-
+object_kitchen01,半ば液体になってしまった生ごみ,kitchen waste that has become half-liquid,生ごみ,kitchen waste,-,-
+object_shop01,積み上げられた黒いゴミ袋,piled-up black garbage bags,黒いゴミ袋,black garbage,中身のわからないゴミ袋が大量に積み上げられていた。<br>ただただ、生ものがつまっているわけではないことを祈る。,A huge number of garbage bags with unknown contents had been piled up. <br>I can only hope they are not simply packed full of organic waste.
+object_shore01,湿ったゴミ袋,a damp garbage bag,ゴミ袋,garbage bag,-,-
+garbage00,傷だらけの解体された戸棚,a battered dismantled cabinet,解体された戸棚,dismantled cabinet,,
+garbage01,壊された発電機,a broken generator,発電機,generator,,
+garbage02,壊れてしまった扇風機,a broken electric fan,扇風機,electric fan,,
+object_room10,折れてしまったギター,a broken guitar,ギター,guitar,ギターがある、と思ったけれど、首が折れてしまっていた。<br>こんなところでは、楽器の音色を聞くことさえできない。,"I thought it was a guitar, but its neck had been broken off. <br>In a place like this, I cannot even hear the sound of an instrument."
+instrument00,埃を被ったグランドピアノ,a dust-covered grand piano,グランドピアノ,grand piano,,
+instrument01,艶のあるアップライトピアノ,a polished upright piano,アップライトピアノ,upright piano,,
+instrument02,シンバルの欠けたドラム,a drum with a broken cymbal,ドラム,drum,,
+object_kitchen00,出されたままのまな板,a cutting board left out,まな板,cutting board,真っ白なまな板がテーブルに出されていた。<br>料理をしようとして出して、それから、何が起こったのだろう。,"A spotless white cutting board had been left out on the table. <br>Someone must have taken it out to prepare a meal. Then, what happened?"
+object_kitchen02,錆びついたシンク,a rusted sink,シンク,sink,-,-
+object_kitchen03,嫌な臭いのする冷蔵庫,a refrigerator with an unpleasant smell,冷蔵庫,refrigerator,-,-
+object_beach01,白くなった炭の残ったバーベキューコンロ,a barbecue grill with whitened charcoal still inside,バーベキューコンロ,barbecue grill,-,-
+object_tent00,明かりのつきそうにないランタン,a lantern that doesn't look like it will light up,ランタン,lantern,-,-
+object_hall00,煌びやかなシャンデリア,a magnificent chandelier,シャンデリア,chandelier,窓からの光を受けて、シャンデリアは虚しく輝いている。,The chandelier shines forlornly in the light coming through the windows.
+light00,真っ白なスタンドライト,a pure white floor lamp,スタンドライト,floor lamp,,
+light01,テーブルスタンドライト,a table lamp,テーブルスタンドライト,table lamp,,
+object_machineRoom00,鉄の塊がおかれたままの旋盤,a lathe with a block of iron left on it,旋盤,lathe,-,-
+object_machineRoom01,空っぽのベルトコンベア,an empty conveyor belt,ベルトコンベア,conveyor belt,動かない機械というのは、どうしてこんなに寂しげなのだろう。<br>もう二度と使われないと思うと、不思議と胸が締めつけられる。,Why do motionless machines look so lonely? <br>The thought that they will never be used again somehow makes my chest tighten.
+object_machineRoom02,錆びついた裁断機,a rusted cutting machine,裁断機,cutting machine,-,-
+object_road03,青々とした茂み,lush greenery,茂み,lush,-,-
+object_shore03,洋服の干された岩場,a rocky area with clothes hung out to dry,岩場,rocky area,-,-
+nature00,小さな雑木林,a small grove of mixed trees,雑木林,grove,,
+nature01,苔に覆われた岩陰,a rock hollow covered in moss,岩陰,rock hollow,,
+officeSupply00,散らかったアルミのデスク,a cluttered aluminum desk,アルミのデスク,aluminum desk,,
+officeSupply01,鍵つきのキャビネットワゴン,a lockable cabinet wagon,キャビネットワゴン,cabinet wagon,,
+officeSupply02,古臭いプリンター,an old-fashioned printer,プリンター,printer,,
+officeSupply03,金属製の資料棚,a metal document shelf,資料棚,document shelf,,
+object_room05,割れた額縁に入った家族写真,a family photograph in a broken frame,家族写真,family photograph,額に入った家族写真が倒れていた。<br>ずいぶん汚れてしまっている。写っている顔を見たくなくて、目をそらした。,A framed family photograph had fallen over. <br>It had become terribly dirty. I looked away because I did not want to see the faces in it.
+object_corridor04,額に入った小さな風景画,a small framed landscape painting,風景画,landscape painting,-,-
+object_hall02,古めかしい絵画,an old-fashioned painting,絵画,painting,描かれているのは誰だろう。<br>誰か、と問う相手ももうここにはいない。,Who could the person in the painting be? <br>There is no one left here to ask who it is.
+picture00,若い女性の肖像画,a portrait of a young woman,肖像画,portrait,,
+picture01,真夏の海の描かれた絵,a painting of the midsummer sea,海の描かれた絵,painting of the midsummer sea,,
+object_staffRoom03,枯れてしまった観葉植物,a withered houseplant,観葉植物,houseplant,葉のほとんどが茶色く枯れてしまっていた。<br>その葉も、やがて落ちてしまうだろうか。,"Most of the leaves had withered brown. <br>I wonder if those leaves, too, will eventually fall."
+object_garden00,割れた鉢植え,a cracked potted plant,鉢植え,potted plant,-,-
+planter00,花の枯れたプランター,a planter with withered flowers,プランター,planter,,
+planter01,サボテンの育った鉢植え,a potted cactus,サボテン,cactus,,
+river00,澄んだ川,a clear river,澄んだ川,clear river,-,-
+river01,それほど深くない川,a shallow river,深くない川,shallow river,-,-
+river02,少し濁った水面,a slightly murky water surface,濁った水面,murky water,-,-
+river03,底の見える静かな川,a quiet river with a visible riverbed,静かな川,quiet river,,
+river04,青空を映す穏やかな水面,a calm water surface reflecting the blue sky,穏やかな水面,calm water,,
+object_shop02,穴が開いて崩れた壁,a collapsed wall with a hole in it,崩れた壁,collapsed wall,何があったのだろう、壁が崩れている。<br>つい半年前まで、ここにも、なんでもない日常があったはずなんだと思う。,"What happened here? The wall has collapsed. <br>I cannot help thinking that until just six months ago, there must have been an ordinary everyday life here too."
+object_machineRoom03,閉ざされた電子ロックの扉,a sealed door with an electronic lock,電子ロックの扉,sealed door,-,-
+room00,床に開いた暗い穴,a dark hole in the floor,暗い穴,dark hole,,
+room01,部屋の隅の暗がり,a dark corner of the room,暗がり,dark corner,,
+school00,錆びた学習机,a rusted school desk,学習机,school desk,,
+school01,埃の積もった教卓,a teacher's desk covered in dust,教卓,teacher's desk,,
+school02,計算式が書かれたままの黒板,a blackboard with equations still written on it,黒板,blackboard,,
+school03,アルミの教員用デスク,an aluminum teacher's desk,教員用デスク,aluminum teacher's desk,,
+school04,空っぽになった木製のロッカー,an empty wooden locker,木製のロッカー,wooden locker,,
+sea00,穏やかな海辺,a calm seaside,穏やかな海辺,calm seaside,-,-
+sea01,波の跳ねる岩礁,a reef where waves break,岩礁,reef,-,-
+sea02,泡の浮かぶ海面,a sea surface covered with foam,海面,sea surface,-,-
+sea03,海に面した堤防,a seawall facing the sea,堤防,seawall,,
+sea04,底が見える澄んだ海辺,a clear seaside with a visible seabed,澄んだ海辺,clear seaside,,
+object_room03,錆びついてしまった金庫,a rusted safe,金庫,safe,-,-
+object_warehouse01,錆びついたダイヤル錠,a rusted combination lock,ダイヤル錠,combination lock,-,-
+object_office02,見るからに頑丈な金庫,a safe that looks exceptionally sturdy,頑丈な金庫,sturdy safe,-,-
+object_office04,まだランプのついている電子ロックの金庫,an electronic safe with its indicator lamp still lit,電子ロックの金庫,electronic safe,-,-
+object_warehouse02,蜘蛛の巣の張った衣装棚,a wardrobe covered in cobwebs,衣装棚,wardrobe,-,-
+object_warehouse03,得体のしれない薬品の詰まった棚,a shelf filled with unidentified chemicals,薬品の詰まった棚,shelf filled,,
+object_shop03,ゴミを投げ込まれた商品棚,a merchandise shelf filled with thrown-in garbage,商品棚,merchandise shelf,-,-
+object_gallery00,開いたままの展示台の下の棚,the shelf beneath an open display stand,展示台の下の棚,shelf beneath,展示台には何やらよくわからないものが置かれている。<br>歴史的にどんな価値があっても、こんな世界では見向きもされない。,"There are some strange, unfamiliar objects placed on the display stand. <br>No matter how much historical value they may have, in a world like this, no one would even look at them."
+object_gallery03,鍵が刺さったままの展示台の裏の戸棚,a cabinet behind the display stand with a key still inserted,展示台の裏の戸棚,cabinet behind,-,-
+shelf00,整理された薬品棚,an organized chemical shelf,薬品棚,chemical shelf,-,-
+shelf01,戸が開いたままの薬の仕舞われた棚,a shelf of medicines left with its doors open,薬の仕舞われた棚,shelf of medicines,-,-
+object_square03,電源の失われた自動販売機,a vending machine with no power,自動販売機,vending machine,-,-
+object_square04,ガラスの砕けた電話ボックス,a phone booth with shattered glass,電話ボックス,phone booth,-,-
+shopmachine00,落書きされた証明写真機,a graffiti-covered photo booth,証明写真機,photo booth,,
+shopmachine01,砂にまみれたガチャガチャ,a sand-covered capsule toy machine,ガチャガチャ,toy machine,,
+object_attractions00,動かないチケット販売機,a ticket vending machine that no longer works,チケット販売機,ticket vending machine,お金を入れたって何も出てこないだろう。<br>描かれたキャラクターの笑顔が虚しい。,Putting money in would not make anything come out. <br>The smile of the character printed on it feels painfully empty.
+object_staffRoom00,書類でいっぱいのリングファイル,a ring binder full of documents,リングファイル,ring binder,-,-
+stationery00,ぎっちり詰まったペン立て,a pen holder packed full of pens,ペン立て,pen holder,,
+stationery01,資料の積み上げられた書類ケース,a document case piled with papers,書類ケース,document case,,
+stationery02,立てかけられた何冊かのノート,several notebooks propped up against each other,何冊かのノート,several notebooks,,
+object_corridor01,薬指のない天使の像,a statue of an angel missing its ring finger,天使の像,statue of an angel,石膏でできた天使の像には、薬指がなかった。<br>欠けているわけではなくて、取り外されているようだった。,The plaster angel statue was missing its ring finger. <br>It was not broken; it looked as though the finger had been deliberately removed.
+object_square01,倒れてしまった女神像,a fallen statue of a goddess,女神像,statue of a goddess,-,-
+object_attractions01,名前のわからないキャラクターの像,a statue of an unidentified character,キャラクターの像,unidentified character,-,-
+statue00,太古の獣の剥製,a taxidermied prehistoric beast,獣の剥製,taxidermied prehistoric beast,,
+object_strangeSound00,車のエンジン音,the sound of a car engine,エンジン音,car engine,-,-
+object_strangeSound01,水の滴る音,the sound of dripping water,水の滴る音,dripping water,-,-
+object_strangeSound02,風に転がる空き缶の音,the sound of an empty can rolling in the wind,空き缶の音,empty can,-,-
+object_strangeSound03,本のページをめくる音,the sound of pages turning,ページをめくる音,pages turning,-,-
+object_strangeSound04,時計の秒針のような音,a sound like the second hand of a clock,秒針のような音,second hand,-,-
+object_strangeSound05,ギターの弦の響き,the resonance of guitar strings,弦の響き,resonance of guitar,-,-
+object_room01,やたらに背の高い収納,an unusually tall storage cabinet,収納,storage cabinet,やけに背の高い収納だった。<br>ただの大きな箱なのに、嫌な威圧感がある。,"It was an unusually tall storage cabinet. <br>Even though it is just a large box, it has an unpleasantly imposing presence."
+object_room06,洋服の詰まったクローゼット,a closet packed with clothes,クローゼット,closet packed,-,-
+object_hutRoom03,天井からぶら下がる麻袋,a hemp sack hanging from the ceiling,麻袋,hemp sack,-,-
+object_staffRoom02,傷まみれのアルミのロッカー,a battered aluminum locker,アルミのロッカー,aluminum locker,-,-
+object_guestRoom01,半開きのクローゼット,a half-open closet,半開きのクローゼット,half-open closet,-,-
+object_bath03,蜘蛛の巣の張った戸棚,a cabinet covered in cobwebs,戸棚,cabinet covered,-,-
+object_gallery01,荒らされた資料置き場の奥,the back of a ransacked storage area,資料置き場の奥,storage area,-,-
+object_gallery02,鍵のかかっていない床下の収納,an unlocked underfloor storage space,床下の収納,underfloor storage,-,-
+object_attractions03,日陰にある掃除用具入れ,a cleaning supply closet in the shade,掃除用具入れ,cleaning supply closet,-,-
+storage00,背の低いガラス張りの収納,a low glass-fronted storage cabinet,ガラス張りの収納,glass-fronted storage,-,-
+object_hutRoom01,穴の開いた鉄の鍋,an iron pot with a hole in it,鉄の鍋,iron pot,-,-
+tableware00,片付けられていない白い皿,an unattended white plate,白い皿,white plate,,
+tableware01,割れて転がった陶器の器,a broken ceramic bowl lying on the floor,陶器の器,ceramic bowl,,
+tableware02,金のアフターヌーンーティースタンド,a gold afternoon tea stand,アフターヌーンーティースタンド,tea stand,,
+tableware03,食器の入ったガラスケース,a glass cabinet containing dishes,ガラスケース,glass cabinet,,
+tableware04,大ぶりなケトル,a large kettle,ケトル,kettle,,
+tableware05,食べ物が描かれた角缶,a square tin decorated with pictures of food,角缶,square tin,,
+object_hutRoom00,錆びかけの工具箱,a toolbox beginning to rust,工具箱,toolbox,-,-
+object_hutRoom02,木製の作業台,a wooden workbench,作業台,wooden workbench,工具と一緒に、木でできたニワトリのようなものが残されていた。<br>穴をあけようとした跡だけがあって、トサカと頭が繋げられていない。,"Something resembling a chicken made of wood had been left behind with the tools. <br>There are only signs that someone tried to make holes, and the comb and head have not been joined together."
+tools00,壁掛けの工具ラック,a wall-mounted tool rack,工具ラック,tool rack,,
+tools01,配線ケーブルの詰まった箱,a box filled with wiring cables,ケーブルの詰まった箱,wiring cables,,
+tools02,散らかった工作台,a cluttered workbench,工作台,cluttered workbench,,
+object_hutRoom04,腹の破れたぬいぐるみ,a stuffed toy with a torn-open belly,ぬいぐるみ,stuffed toy,-,-
+object_library02,子供が乗れそうな汽車の遊具,a toy train large enough for a child to ride,汽車の遊具,toy train,-,-
+toy00,片腕のない合体ロボの玩具,a combining robot toy missing one arm,ロボの玩具,robot toy,,
+toy01,玩具ブロックの入ったケース,a case filled with toy blocks,ブロックの入ったケース,case filled,,
+object_square02,焼け残った赤い自動車,a red car left partly burned,赤い自動車,red car,窓ガラスは割れ、フレームは歪んでしまっている。<br>中を覗いてみようという気にはなれなかった。,The windows are shattered and the frame has been warped. <br>I did not feel like looking inside.
+object_road02,動かなくなったバイク,a motorcycle that no longer runs,バイク,motorcycle,倒れたバイクからはエンジンが抜き取られていた。<br>魂を抜かれてしまったようで、苦しくなる。,"The engine had been removed from the fallen motorcycle. <br>It feels painful, as though its soul had been taken away."
+object_road04,植物に飲み込まれた自転車,a bicycle swallowed by vegetation,自転車,bicycle,力強く根を張った植物に、自転車は飲み込まれていた。<br>やがて、何もかも緑が覆いつくしてしまうのだろう。,"The bicycle had been swallowed by plants that had put down strong roots. <br>Eventually, will greenery cover everything?"
+object_grassland03,扉の開いたままのキャンピングカー,a camper with its door left open,キャンピングカー,camper,-,-
+object_carryIn00,乗り捨てられたトラック,an abandoned truck,トラック,truck,-,-
+object_carryIn01,動きそうにないフォークリフト,a forklift that looks unlikely to move,フォークリフト,forklift,なんとなく知ってはいるけれど、よく見たことはなかった。<br>こんな世界だからこそ、こうして出会えるものもある。,"I vaguely knew what it was, but I had never really seen one up close. <br>In a world like this, there are things I can encounter precisely because of the way it has become."
+object_parking00,錆びついた銀のセダン,a rusted silver sedan,銀のセダン,silver sedan,古い車だった。<br>長年手入れしながら乗っていたのだと思うと、いたたまれない思いになる。,It was an old car. <br>Thinking that someone must have driven it for years while taking care of it makes me feel unbearably sad.
+object_parking01,窓ガラスの割れた軽トラック,a light truck with shattered windows,軽トラック,light truck,-,-
+object_parking02,風で倒れたスクーター,a scooter knocked over by the wind,スクーター,scooter,-,-
+object_parking03,横倒しになったミニバン,a minivan lying on its side,ミニバン,minivan,-,-
+-,,,,,,

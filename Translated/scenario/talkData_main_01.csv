@@ -1,0 +1,585 @@
+id,_arg0<jpn>,arg0<eng>,_arg1<jpn>,arg1<eng>
+-,,,,
+main1-1,location00,location00,,
+main1-1,environment00,environment00,,
+main1-1,natsuno,natsuno,......あ！,......Ah!
+main1-1,natsuno,natsuno,......ねぇ、生きてる人がいる,......Hey， there's someone alive
+main1-1,natsuno,natsuno,声かけてみていい？,Can I try talking to them?
+main1-1,natsuno,natsuno,ねぇ......。大丈夫？,Hey...... Are you okay?
+main1-1,男の声,<PLEASE_TRANSLATE>,うう......,Ugh......
+main1-1,男の声,<PLEASE_TRANSLATE>,ち......,Sh......
+main1-1,scenario01,scenario01,,
+main1-1,男の声,<PLEASE_TRANSLATE>,近寄るな......俺は感染している.......,Don't come any closer...... I'm infected.......
+main1-1,natsuno,natsuno,......！,......!
+main1-1,survivor00,survivor00,right-right,right-right
+main1-1,natsuno,natsuno,そうなの......？,You are......?
+main1-1,natsuno,natsuno,でも、話せてるし......,But you can still talk......
+main1-1,natsuno,natsuno,ちゃんと意識があるんじゃないの......？,You're still conscious， aren't you......?
+main1-1,男の声,<PLEASE_TRANSLATE>,......,......
+main1-1,男の声,<PLEASE_TRANSLATE>,知らねぇのか......,You don't know......?
+main1-1,男の声,<PLEASE_TRANSLATE>,感染したやつが、どいつもこいつもあんな人食いの化け物になるわけじゃあねぇんだ......,Not everyone who gets infected turns into one of those man-eating monsters......
+main1-1,natsuno,natsuno,どういうこと......？,What do you mean......?
+main1-1,男の声,<PLEASE_TRANSLATE>,いいか......こいつはウイルスのパンデミックなんかじゃねぇ......,Listen...... this isn't a viral pandemic......
+main1-1,男の声,<PLEASE_TRANSLATE>,ただのウイルスなら、こんなことが起きるかよ......,If it were just a virus， do you really think something like this could happen......?
+main1-1,natsuno,natsuno,......！,......!
+main1-1,natsuno,natsuno,そのお腹......！,Your stomach......!
+main1-1,natsuno,natsuno,どういうこと......？,What happened......?
+main1-1,男の声,<PLEASE_TRANSLATE>,うう......,Ugh......
+main1-1,男の声,<PLEASE_TRANSLATE>,ううぁ......,Uuugh......
+main1-1,男の声,<PLEASE_TRANSLATE>,うああああああああああああああああああああああああああああああ！！,WAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAH!!
+main1-1,natsuno,natsuno,......！,......!
+main1-1,natsuno,natsuno,なに、これ......,What...... is this......?
+main1-1,natsuno,natsuno,男の人のお腹から......携帯端末が皮膚を突き破って出てきた......,A mobile device...... It just broke through the man's skin and came out of his stomach......
+main1-1,natsuno,natsuno,なにこれ......どうなってるの......？,What is this......? What is happening......?
+main1-1,natsuno,natsuno,......,......
+main1-1,natsuno,natsuno,この人......もう死んでる......,This man...... is already dead......
+main1-1,natsuno,natsuno,どうしてお腹の中から端末が......？,Why is there a device inside his stomach......?
+main1-1,natsuno,natsuno,これ......,This......
+main1-1,natsuno,natsuno,......！,......!
+main1-1,survivor00,survivor00,right-right,right-right
+main1-1,natsuno,natsuno,勝手に画面に文字が......,Text is appearing on the screen by itself......
+main1-1,natsuno,natsuno,<red>タスケテタスケテタスケテタスケテタスケテタスケテタスケテタスケテタスケテタスケテ......</red>って.......,<red>HELPHELPHELPHELPHELPHELPHELPHELPHELPHELP......</red>
+main1-1,natsuno,natsuno,どうなってるの......,What's happening......?
+main1-1,natsuno,natsuno,わけわかんない......,I don't understand any of this......
+main1-1,natsuno,natsuno,............,............
+main1-1,questSuccess,questSuccess,,
+-,,,,
+main1-2,location01,location01,,
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,,,,
+main1-2,scenario01,scenario01,,
+main1-2,natsuno,natsuno,......,......
+main1-2,natsuno,natsuno,............,............
+main1-2,natsuno,natsuno,..................,..................
+main1-2,natsuno,natsuno,......ねぇ,......Hey
+main1-2,natsuno,natsuno,......この向こうに誰かいる,......There's someone on the other side
+main1-2,natsuno,natsuno,......感染者かな,......Could they be infected?
+main1-2,natsuno,natsuno,にしては、ちょっと静かすぎ......,For an infected person， they're a little too quiet......
+main1-2,natsuno,natsuno,......この前みたいな、まだ意識のある感染者かな,......Maybe they are an infected person who still has their mind， like last time
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,......だったら、やだな,......I don't like that
+main1-2,natsuno,natsuno,......,......
+main1-2,natsuno,natsuno,だって、あのときみたいに......,Because then， just like last time......
+main1-2,natsuno,natsuno,目の前で死んじゃうかもしれないじゃん......,They might die right in front of me......
+main1-2,natsuno,natsuno,......,......
+main1-2,natsuno,natsuno,......ふぅ,......Phew
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,......見てみる,......I'll take a look
+main1-2,natsuno,natsuno,いくよ,Here I go
+main1-2,natsuno,natsuno,......,......
+main1-2,1,1,,
+main1-2,1,1,,
+main1-2,,,,
+main1-2,,,,
+main1-2,1,1,,
+main1-2,1,1,,
+main1-2,natsuno,natsuno,......！,......!
+main1-2,???,???,......！！,......!!
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,???,???,誰......！？,Who are you......!?
+main1-2,natsuno,natsuno,......！,......!
+main1-2,natsuno,natsuno,......生きてる......人？,......Are you...... alive?
+main1-2,???,???,......,......
+main1-2,???,???,............,............
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,???,???,......生きてる人、だよ,......I am alive
+main1-2,1,1,,
+main1-2,1,1,,
+main1-2,,,,
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,1,1,,
+main1-2,character03,character03,,
+main1-2,1,1,,
+main1-2,???,???,あははははっ,Ahahahaha!
+main1-2,???,???,はははっ,Hahaha!
+main1-2,???,???,ははっ,Haha!
+main1-2,???,???,はー......,Haa......
+main1-2,???,???,はははっ,Hahaha!
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,もう......笑いすぎ,Enough...... You're laughing too much
+main1-2,???,???,だってー,But—
+main1-2,???,???,だって......,But......
+main1-2,???,???,ばかだよ、きみ,You're an idiot
+main1-2,???,???,大ばかだよ,A huge idiot
+main1-2,???,???,女の子が、こんなところまで一人旅？,A girl traveling all the way out here alone?
+main1-2,???,???,東京からぁ？,From Tokyo?
+main1-2,???,???,ほんと......いっそ尊敬しちゃう,Seriously...... I almost respect you for it
+main1-2,???,???,よく生きてられたね,How did you even manage to stay alive?
+main1-2,natsuno,natsuno,......,......
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,まぁ......でも、運がよかっただけで,Well...... I just got lucky
+main1-2,???,???,ふふーん,Mmm-hmm
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,???,???,運かぁ,Luck， huh?
+main1-2,???,???,まぁ、いんだろうなー,Well， I guess so
+main1-2,???,???,ふふん,Heh
+main1-2,???,???,こんなところまで、生きてこれたわけだし,I mean， you did make it all the way out here alive
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,???,???,はは,Haha
+main1-2,natsuno,natsuno,笑わないでよ。別におもしろくないでしょ,Don't laugh. It's not that funny
+main1-2,natsuno,natsuno,それに、そんなの、アカネさんだって一緒でしょ？,Besides， it's the same for you too， Akane-san， isn't it?
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,akane,akane,うーん？,Hmm?
+main1-2,natsuno,natsuno,こんなところに、女の人が一人で,A woman all the way out here by herself......
+main1-2,natsuno,natsuno,食べ物とか、探しに来たんでしょ？,You came here looking for food and stuff， right?
+main1-2,akane,akane,うーん,Hmm
+main1-2,akane,akane,ま、生活物資をあさりに来たってところだけは、同じかな,Well， the part about coming to scavenge for supplies is the same， I guess
+main1-2,akane,akane,でも、どうだろね,But who knows
+main1-2,akane,akane,あたしとナツノちゃんじゃ、あまりに違うよ,You and me， Natsuno-chan...... we're way too different
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,akane,akane,はははっ,Hahaha!
+main1-2,akane,akane,笑っちゃうくらい,It's enough to make me laugh
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,......,......
+main1-2,natsuno,natsuno,何が違うわけ？,How are we different?
+main1-2,survivor03,survivor03,right-left,right-left
+main1-2,akane,akane,怒んないでよ,Don't get mad
+main1-2,akane,akane,かわいいな,You're cute
+main1-2,natsuno,natsuno,......,......
+main1-2,akane,akane,ま、それはおいおいとして,Well， we can get into that later
+main1-2,akane,akane,キャンプ、行こうよ,Let's go to camp
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,......キャンプ？,......Camp?
+main1-2,1,1,,
+main1-2,1,1,,
+main1-2,,,,
+main1-2,,,,
+main1-2,,,,
+main1-2,2,2,,
+main1-2,scenario02,scenario02,,
+main1-2,1,1,,
+main1-2,character00,character00,,
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,......ね,......Hey
+main1-2,natsuno,natsuno,聞いてる？,Are you listening?
+main1-2,natsuno,natsuno,すごいよ、ここ,This place is amazing
+main1-2,natsuno,natsuno,アカネさんに連れてきてもらったキャンプ,The camp Akane-san brought me to
+main1-2,natsuno,natsuno,たくさん人がいた。二十人くらいかな,There were a lot of people. About twenty， I think
+main1-2,natsuno,natsuno,大人の人ばっかりだけど......,Mostly adults， though......
+main1-2,natsuno,natsuno,まだ詳しく聞いてないけど、もともと同じ会社で働いてた人たちの集まり、みたい,I haven't heard all the details yet， but it seems like they're a group of people who used to work for the same company
+main1-2,natsuno,natsuno,山の中の廃倉庫で、みんなで暮らしてるんだって,They're all living together in an abandoned warehouse in the mountains
+main1-2,natsuno,natsuno,十分じゃないけど、食べ物とかもあって......,They don't have enough， but they have food and things like that......
+main1-2,natsuno,natsuno,わたしも、しばらくここにいていいって,They said I could stay here for a while， too
+main1-2,natsuno,natsuno,......,......
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,......でね,......So，
+main1-2,natsuno,natsuno,あなたのことは......,About you......
+main1-2,natsuno,natsuno,話さなかった,I didn't tell them
+main1-2,natsuno,natsuno,話したら、スマホとられちゃいそうだし,I thought they'd take my smartphone if I told them
+main1-2,natsuno,natsuno,......内緒にしとく,......So it can stay our little secret
+main1-2,1,1,,
+main1-2,,,,
+main1-2,,,,
+main1-2,,,,
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,食べ物とかを探しに、街の方に出て行ったりするんだって,Apparently， they go into town to look for food and other supplies
+main1-2,natsuno,natsuno,わたしも自分の分くらいは自分でなんとかしないとだから,I need to take care of at least my own share， too
+main1-2,natsuno,natsuno,これからも、今までみたいに廃墟に行くよ,So I'll keep going out to the ruins like I have been
+main1-2,survivor00,survivor00,right-right,right-right
+main1-2,natsuno,natsuno,そのときは、また話し相手になってよね,When I do， keep me company again， okay?
+main1-2,questSuccess,questSuccess,,
+-,,,,
+main1-3,scenario02,scenario02,,
+main1-3,natsuno,natsuno,あ、アカネさん,Ah， Akane-san
+main1-3,survivor03,survivor03,right-left,right-left
+main1-3,character03,character03,,
+main1-3,akane,akane,おー？,Oh?
+main1-3,akane,akane,ナツノちゃんじゃん,Hey， Natsuno-chan
+main1-3,akane,akane,どしたの？,What's up?
+main1-3,natsuno,natsuno,今、ひま？,Are you free right now?
+main1-3,akane,akane,んー？,Hmm?
+main1-3,akane,akane,ひま,Yep
+main1-3,natsuno,natsuno,何してたの？,What were you doing?
+main1-3,akane,akane,別に何ってこともないよ,Nothing much
+main1-3,akane,akane,昨日図書館から運び出した本の仕分けをしてただけ,I was just sorting the books we brought back from the library yesterday
+main1-3,natsuno,natsuno,本？,Books?
+main1-3,natsuno,natsuno,たき火の燃料にでもするの？,Are you going to use them as firewood?
+main1-3,survivor03,survivor03,right-left,right-left
+main1-3,akane,akane,まっさかー,No way!
+main1-3,akane,akane,本は貴重なんだよ、ナツノくん,Books are valuable， Natsuno-kun
+main1-3,akane,akane,燃やすなんてとんでもない,Burning them would be unthinkable
+main1-3,survivor03,survivor03,right-left,right-left
+main1-3,akane,akane,ネットやデジタルメディアがほとんど役に立たなくなって,The internet and digital media are barely useful anymore，
+main1-3,akane,akane,さくっと情報を集める手段は、今や誰もいない図書館に死蔵された本くらいなんだもん,So these books sitting forgotten in empty libraries are about the only way we have left to gather information quickly
+main1-3,natsuno,natsuno,そっか,I see
+main1-3,natsuno,natsuno,でも、発電機あるし、パソコンも動くんじゃないの？,But we have a generator， right? Couldn't we run a computer?
+main1-3,akane,akane,パソコン一台あったって、何ができるのさ,What good is having one computer?
+main1-3,akane,akane,ネットに繋がってないコンピュータに入ってる情報なんて、本の一冊より少ないでしょ,Information stored on a computer that isn't connected to the internet is probably less than what's in a single book
+main1-3,akane,akane,空き家からパソコン持ち出して、一つひとつ起動させて調べるほど、電力に余裕ないしね,And we don't have enough electricity to haul computers out of abandoned houses， turn them on one by one， and search through them
+main1-3,natsuno,natsuno,ふーん......,Huh......
+main1-3,natsuno,natsuno,それで、何かわかった？,So， did you find anything out?
+main1-3,akane,akane,何かって？,Find out what?
+main1-3,natsuno,natsuno,今の世の中の状況とか,About what's going on in the world now
+main1-3,akane,akane,状況、ねー,The situation， huh......
+main1-3,akane,akane,図書館でも、普通の空き家でも、新聞見かけたら持って帰るようにしてるけど,Whenever I find newspapers at the library or in ordinary abandoned houses， I bring them back
+main1-3,akane,akane,わかることは、あんまり,But there isn't much we can learn from them
+main1-3,akane,akane,本当にやばくなった頃には、当たり前だけど新聞なんか出てないわけだし？,By the time things got really bad， newspapers had stopped being published， obviously
+main1-3,natsuno,natsuno,そうだよね,Yeah， I guess
+main1-3,survivor00,survivor00,right-right,right-right
+main1-3,natsuno,natsuno,......どこに行っても、こんな感じなのかな,......I wonder if it's like this everywhere
+main1-3,akane,akane,さーねー,Who knows
+main1-3,akane,akane,ときどき、誰かが飛ばしてる電波をつかまえて聞けたりするけど,Sometimes I can pick up radio signals someone is broadcasting and listen in， though
+main1-3,akane,akane,みんな同じようなもんだよ,It's pretty much the same everywhere
+main1-3,akane,akane,ここにいるから助けて、とか,Things like， <q>Help us， we're here</q>
+main1-3,natsuno,natsuno,......そっか,......I see
+main1-3,akane,akane,まぁでも,Well， though......
+main1-3,akane,akane,ナツノちゃんみたいに、一人で生き延びてるたくましい子たちもいるだろうし,I'm sure there are other tough kids like you， Natsuno-chan， surviving on their own
+main1-3,akane,akane,アタシの勝手な想像だと、アタシたちみたいに集まって生活してる人たちは、それなりにいるはずだよ,If you ask me， there have to be quite a few groups of people living together like we are
+main1-3,survivor00,survivor00,right-right,right-right
+main1-3,natsuno,natsuno,そういう人たちと、会ったことある？,Have you ever met people like that?
+main1-3,akane,akane,何度かね,A few times
+main1-3,akane,akane,同行しようって話にはならなかったけど,We never ended up deciding to travel together， though
+main1-3,akane,akane,みんな、案外たくましく生きてるよ,Everyone's surprisingly tough. They're getting by
+main1-3,akane,akane,国とか社会とか、生活インフラがなくなったって、そんな簡単には死なないんだ,Even if countries， society， and all the infrastructure of everyday life disappear， people don't die that easily
+main1-3,akane,akane,感染さえしなけりゃね,As long as they don't get infected
+main1-3,survivor00,survivor00,right-right,right-right
+main1-3,natsuno,natsuno,......そだね,......Yeah
+main1-3,natsuno,natsuno,わたしも、なんとなくでここまで来れたわけだし,I guess I made it this far without really knowing what I was doing， either
+main1-3,natsuno,natsuno,......みんな、どこかで元気にしてるといいな,......I hope everyone's doing okay somewhere
+main1-3,questSuccess,questSuccess,,
+-,,,,
+main1-4,location14,location14,,
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,environment04,environment04,,
+main1-4,1,1,,
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,あ、いたいた,Oh， there you are
+main1-4,akane,akane,ナツノちゃん,Natsuno-chan
+main1-4,akane,akane,何してるの、こんなとこで,What are you doing out here?
+main1-4,natsuno,natsuno,ん......,Mm......
+main1-4,natsuno,natsuno,何ってわけでもないけど......,Nothing in particular......
+main1-4,akane,akane,もしかして、海、初めて？,Is this your first time seeing the ocean?
+main1-4,natsuno,natsuno,ううん,No
+main1-4,natsuno,natsuno,......なんか,......It's just......
+main1-4,natsuno,natsuno,懐かしいなって,It feels nostalgic
+main1-4,akane,akane,ナツノちゃんって、住んでたの東京じゃなかったっけ？,Weren't you living in Tokyo， Natsuno-chan?
+main1-4,akane,akane,......や、東京にも海ってあるか,......Well， Tokyo has an ocean too， I guess
+main1-4,natsuno,natsuno,うん,Yeah
+main1-4,natsuno,natsuno,そだけど,That's true， but......
+main1-4,natsuno,natsuno,おばあちゃんの家が、海の見えるとこで,My grandma's house was somewhere you could see the ocean
+main1-4,natsuno,natsuno,全然、こことは違うけど,It was completely different from this place， though
+main1-4,natsuno,natsuno,違うけど......懐かしい,Different， but...... it feels nostalgic
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,ふーん......,Hmm......
+main1-4,natsuno,natsuno,......,......
+main1-4,akane,akane,......感傷に浸ってるとこ悪いけど,......Sorry to interrupt your little trip down memory lane， but......
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,natsuno,natsuno,？,Hm?
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,ご飯だよ,Dinner
+main1-4,natsuno,natsuno,あ......,Ah......
+main1-4,natsuno,natsuno,もうそんな時間？,Is it already that late?
+main1-4,akane,akane,そんな時間,Yep， that late
+main1-4,akane,akane,ほら、行くぞー,Come on， let's go
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,感傷じゃ、お腹は膨れないのだー,Nostalgia isn't going to fill your stomach!
+main1-4,natsuno,natsuno,うん,Yeah
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,natsuno,natsuno,......はは,......Haha
+main1-4,natsuno,natsuno,なんか、お母さんみたいだね,You kind of remind me of a mom
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,アタシまだそんな歳じゃなーい,I'm not that old yet!
+main1-4,natsuno,natsuno,アカネさんっていくつなの？,How old are you， Akane-san?
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,ないしょ,Secret
+main1-4,akane,akane,いくつに見えるー？,How old do you think I am?
+main1-4,natsuno,natsuno,その言い方がおばさんくさい,That way of saying it makes you sound like an old lady
+main1-4,akane,akane,ひどっ,Ouch!
+main1-4,1,1,,
+main1-4,1,1,,
+main1-4,,,,
+main1-4,1,1,,
+main1-4,,,,
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,scenario02,scenario02,,
+main1-4,1,1,,
+main1-4,1,1,,
+main1-4,character03,character03,,
+main1-4,akane,akane,ナツノちゃんって、一人っ子？,Natsuno-chan， are you an only child?
+main1-4,natsuno,natsuno,え？,Huh?
+main1-4,natsuno,natsuno,なに？　いきなり,What? Out of nowhere
+main1-4,natsuno,natsuno,一人っ子だけど,I'm an only child， yeah
+main1-4,akane,akane,や,No
+main1-4,akane,akane,なんか、さっき感傷に浸ってるとこ邪魔しちゃって,I just felt bad about interrupting you while you were being sentimental earlier
+main1-4,akane,akane,悪かったなって,I felt bad about it
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,natsuno,natsuno,......そういう風に言われると、なんか恥ずかしいんだけど,......When you put it that way， it's kind of embarrassing
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,恥ずかしくないよ。ははは,It's not embarrassing. Hahaha
+main1-4,natsuno,natsuno,笑ってるじゃん,You're laughing， though
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,だから、感傷に浸らせてあげようと思って,So I thought I'd let you get all sentimental
+main1-4,natsuno,natsuno,浸らせるって......,Let me get sentimental......?
+main1-4,natsuno,natsuno,なにそれ,What does that even mean?
+main1-4,akane,akane,そーだなー,Let's see......
+main1-4,akane,akane,部活は？　何かしてた？,What about clubs? Did you do anything?
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,natsuno,natsuno,......ううん。中学の頃はバスケやってたけど,......No. I played basketball in middle school， but
+main1-4,natsuno,natsuno,高校は帰宅部,I was a couch potato in high school
+main1-4,akane,akane,なんでやめちゃったの？,Why did you quit?
+main1-4,natsuno,natsuno,別に、なんとなく......,No particular reason. I just kind of did
+main1-4,akane,akane,ふーん,Hmm
+main1-4,akane,akane,じゃあ趣味は？,Then what are your hobbies?
+main1-4,natsuno,natsuno,趣味は......,My hobbies......
+main1-4,natsuno,natsuno,うーん......,Hmm......
+main1-4,natsuno,natsuno,音楽聴く......とか？,Listening to music...... I guess?
+main1-4,akane,akane,どんな？,What kind?
+main1-4,natsuno,natsuno,なんでも,Anything
+main1-4,akane,akane,好きなアーティストは？,Any favorite artists?
+main1-4,natsuno,natsuno,これっていうのは......あんまり......,Not really anyone in particular......
+main1-4,natsuno,natsuno,ずっと流してるだけだから、誰の曲ってあんまり意識しないかな,I just leave music playing， so I don't really pay attention to whose song it is
+main1-4,akane,akane,好きな教科は？,Favorite subject?
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,natsuno,natsuno,......これ、いつまで続くの？,......How long is this going to go on?
+main1-4,akane,akane,んー？,Hmm?
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,ナツノちゃんが感傷に浸るまで,Until you get all sentimental
+main1-4,natsuno,natsuno,一生むり,Never gonna happen
+main1-4,akane,akane,えー？,Ehh?
+main1-4,akane,akane,じゃあ、最後にいっこだけ,Okay， just one last question
+main1-4,natsuno,natsuno,......,......
+main1-4,survivor03,survivor03,right-left,right-left
+main1-4,akane,akane,今、一番やりたいことは？,What do you want to do most right now?
+main1-4,natsuno,natsuno,......,......
+main1-4,,,,
+main1-4,survivor00,survivor00,right-right,right-right
+main1-4,natsuno,natsuno,......やりたいことっていうか,......I don't know if it's something I want to do， but
+main1-4,natsuno,natsuno,したいことは......あんまり思いつかないけど,"Things I want to do... I can't really think of any, though"
+main1-4,natsuno,natsuno,けど......,But......
+main1-4,natsuno,natsuno,......,......
+main1-4,natsuno,natsuno,............,............
+main1-4,natsuno,natsuno,......友達に、会いたい......かな,......I guess I want to see my friends......
+main1-4,akane,akane,......,......
+main1-4,akane,akane,......そっか,......I see
+main1-4,1,1,,
+main1-4,questSuccess,questSuccess,,
+-,,,,
+main1-5,scenario03,scenario03,,
+main1-5,scenario03,scenario03,,
+main1-5,1,1,,
+main1-5,natsuno,natsuno,アカネさんたちって,You and the others at the camp......
+main1-5,survivor03,survivor03,right-left,right-left
+main1-5,akane,akane,んー？,Hmm?
+main1-5,natsuno,natsuno,何してた人たちなの？,What kind of people were you?
+main1-5,akane,akane,何って,What kind of people?
+main1-5,akane,akane,一緒に仕事をしてた人たち、だよ？,We're people who used to work together， you know?
+main1-5,akane,akane,オトナは働かなければならぬものでね,Adults are supposed to work
+main1-5,natsuno,natsuno,どんな仕事？,What kind of work?
+main1-5,akane,akane,......んー,......Hmm
+main1-5,akane,akane,どしてそんなこと気になったの？,Why are you curious about that?
+main1-5,natsuno,natsuno,うーん,Hmm......
+main1-5,natsuno,natsuno,なんていうか,I don't know how to put it
+main1-5,natsuno,natsuno,バランスが悪いっていうか,It's just that the balance feels kind of strange
+main1-5,akane,akane,バランス？,The balance?
+main1-5,natsuno,natsuno,別に、嫌っていうか、悪く言うつもりないんだけど,I don't mean it in a bad way， or anything
+main1-5,natsuno,natsuno,似た雰囲気の人が多いっていうか,It's just that a lot of them seem kind of alike
+main1-5,natsuno,natsuno,男の人が多くて,There are a lot of men
+main1-5,natsuno,natsuno,メガネの人も多いし,and a lot of people with glasses
+main1-5,natsuno,natsuno,あと、ときどき白衣着てるのも見かけるし,and sometimes I see people wearing white coats
+main1-5,natsuno,natsuno,お医者さんとかなの？,Are they doctors or something?
+main1-5,akane,akane,あー......,Ah......
+main1-5,akane,akane,似てるけど、全然違うかなぁ,Similar， but not really， I guess
+main1-5,akane,akane,少なくとも病院で働いてたわけじゃないから,At least， they didn't work at a hospital
+main1-5,akane,akane,ナツノちゃんが怪我しても、ちゃんと診てあげるのはむりかも,Even if you got hurt， Natsuno-chan， I might not be able to properly treat you
+main1-5,akane,akane,普通の人よりは、多少知識があるかもだけど,Though I might know a little more than an average person
+main1-5,survivor03,survivor03,right-left,right-left
+main1-5,akane,akane,あはは,Hahaha
+main1-5,akane,akane,もしかして、みんなちょっと話しかけづらい？,Do they maybe seem a little hard to talk to?
+main1-5,natsuno,natsuno,まぁ......ちょっとだけ？,Well...... a little?
+main1-5,akane,akane,あははは,Hahahaha
+main1-5,akane,akane,ごめんね,Sorry
+main1-5,survivor03,survivor03,right-left,right-left
+main1-5,akane,akane,みんなも、若い女の子に対してどう接していいのかわからないんだ、たぶん,I think they just don't know how to interact with a young girl， either
+main1-5,natsuno,natsuno,ふぅん......,Hmm......
+main1-5,natsuno,natsuno,まぁでも,Well， anyway......
+main1-5,natsuno,natsuno,アカネさんは話しやすいから,You are easy to talk to， so
+main1-5,natsuno,natsuno,大丈夫,I'm fine
+main1-5,akane,akane,そーなの？,Really?
+main1-5,akane,akane,うむうむ、それはいいことだ,Mm-hmm， mm-hmm. That's good
+main1-5,akane,akane,ま、アタシもこのチームじゃちょっと浮いてるとこあるしね,Well， I'm a little out of place in this team myself
+main1-5,natsuno,natsuno,チームなんだ,It's a team?
+main1-5,akane,akane,チーム......だった、かな,......Was a team， I guess
+main1-5,akane,akane,もう雇い主もいないからね、解散したも同然だよ,We don't have an employer anymore， so we're basically disbanded
+main1-5,natsuno,natsuno,そうなんだ......,I see......
+main1-5,natsuno,natsuno,......,......
+main1-5,natsuno,natsuno,......アカネさんって、彼氏とかいるの？,......Akane-san， do you have a boyfriend?
+main1-5,survivor03,survivor03,right-left,right-left
+main1-5,akane,akane,えー？,Ehh?
+main1-5,akane,akane,なんで？,Why?
+main1-5,natsuno,natsuno,男の人ばっかりだから,Because it's mostly men here
+main1-5,natsuno,natsuno,そういうのも、あるのかなって,So I wondered if maybe...... you had something like that going on
+main1-5,akane,akane,あー,Ah
+main1-5,akane,akane,いそうに見える？,Do I look like I have one?
+main1-5,akane,akane,そっかー,I see......
+main1-5,akane,akane,見えるかー,So I look like it， huh?
+main1-5,akane,akane,うんうん,Mm-hmm， mm-hmm
+main1-5,akane,akane,そうでしょうとも,Of course I do
+main1-5,survivor00,survivor00,right-right,right-right
+main1-5,natsuno,natsuno,......何も言ってないけど,......I didn't say anything
+main1-5,survivor03,survivor03,right-left,right-left
+main1-5,akane,akane,でも、安心してよ,But don't worry
+main1-5,akane,akane,カレシなんか、いないよ！,I don't have a boyfriend!
+main1-5,natsuno,natsuno,......別に、何も心配とかしてないけど......,......It's not like I was worried about it or anything......
+main1-5,natsuno,natsuno,むしろその歳でいない方が心配というか......,If anything， I'd be more worried that you don't have one at your age......
+main1-5,survivor03,survivor03,right-left,right-left
+main1-5,akane,akane,うっ......,Ugh......
+main1-5,akane,akane,ええーい！,Fine!
+main1-5,akane,akane,昔はいた！,I used to have one!
+main1-5,akane,akane,今、たまたま、いないだけ！,I just happen not to have one right now!
+main1-5,akane,akane,こんな状況だから仕方ない！,With things like this， it can't be helped!
+main1-5,akane,akane,......,......
+main1-5,akane,akane,......まぁ、こんな状況だから、むしろカップル増えてるけど......,......Well， actually， there are more couples now because of all this......
+main1-5,survivor00,survivor00,right-right,right-right
+main1-5,natsuno,natsuno,そうなの？,Really?
+main1-5,akane,akane,きっと生存本能が強くはたらくんだよ,I think your survival instinct kicks in
+main1-5,akane,akane,いつ死ぬともわかんないもん、子孫を残さなきゃって,You never know when you're going to die， so people think they have to leave offspring behind
+main1-5,natsuno,natsuno,ふーん......,Huh......
+main1-5,natsuno,natsuno,でも、アカネさんはいないんだ,But you don't have one， Akane-san
+main1-5,akane,akane,なんだよー,What's with you?
+main1-5,akane,akane,いいじゃんか、ひとり身でもー,It's fine to be single!
+main1-5,akane,akane,きみはアタシの母親かぁ？,Are you my mother or something?
+main1-5,survivor00,survivor00,right-right,right-right
+main1-5,natsuno,natsuno,はは,Haha
+main1-5,akane,akane,そーゆーナツノちゃんはどうなのさ,What about you， Natsuno-chan?
+main1-5,akane,akane,カレシとかいたの？,Did you have a boyfriend?
+main1-5,akane,akane,もしくはカノジョ？,Or a girlfriend?
+main1-5,survivor00,survivor00,right-right,right-right
+main1-5,natsuno,natsuno,んー......,Hmm......
+main1-5,natsuno,natsuno,わたし、そういうのよくわかんないんだよね,I don't really understand that kind of thing
+main1-5,akane,akane,かーっ,Gaaah!
+main1-5,akane,akane,青春かよっ,Talk about youth!
+main1-5,survivor00,survivor00,right-right,right-right
+main1-5,natsuno,natsuno,ははは,Hahaha
+main1-5,natsuno,natsuno,でもほんとに,But seriously，
+main1-5,natsuno,natsuno,よくわかんないんだよね,I really don't understand it
+main1-5,1,1,,
+main1-5,questSuccess,questSuccess,,
+-,,,,
+main1-6,scenario03,scenario03,,
+main1-6,environment07,environment07,,
+main1-6,1,1,,
+main1-6,natsuno,natsuno,......ね,......Hey
+main1-6,natsuno,natsuno,聞いてる？,Are you listening?
+main1-6,natsuno,natsuno,......うん,......Yeah
+main1-6,natsuno,natsuno,なんか,It's just......
+main1-6,natsuno,natsuno,こうやって二人で話すの、久しぶりだね,It's been a while since it's just been the two of us talking like this
+main1-6,natsuno,natsuno,最近、いつも誰かが近くにいるから......,Lately， there's always been someone nearby......
+main1-6,natsuno,natsuno,......,......
+main1-6,natsuno,natsuno,......そうでもないっか,......Maybe not
+main1-6,natsuno,natsuno,あなたと初めて話してから、まだそんなに経ってないもんね,It hasn't actually been that long since I first started talking to you
+main1-6,natsuno,natsuno,久しぶりっていうほどじゃない......よね,So I guess it hasn't been long enough to call it a while...... right?
+main1-6,natsuno,natsuno,......,......
+main1-6,natsuno,natsuno,......でも、こうやって過ごすのって久しぶりな気がして,......But it feels like it's been a long time since I've spent time like this
+main1-6,natsuno,natsuno,それは......別に、だめなことじゃないんだけど,And...... it's not like that's a bad thing
+main1-6,natsuno,natsuno,......,......
+main1-6,survivor00,survivor00,right-right,right-right
+main1-6,natsuno,natsuno,......最近、いつも,......Lately， I keep
+main1-6,natsuno,natsuno,こんなのが、いつまで続くんだろうって考えちゃう,Thinking about how long this kind of life is going to last
+main1-6,natsuno,natsuno,......そうそう,......Yeah， that's right
+main1-6,natsuno,natsuno,今日食べるものを、街から盗み出して,Stealing enough food from the city to eat today，
+main1-6,natsuno,natsuno,明日どうなるかもわかんなくて,not knowing what tomorrow will bring......
+main1-6,natsuno,natsuno,......っていうのも、そうなんだけど,That's part of it， too， but......
+main1-6,natsuno,natsuno,アカネさんや、他の人たちと一緒にいられて,Being able to stay here with Akane-san and everyone else，
+main1-6,natsuno,natsuno,みんなで話をしたり,talking together，
+main1-6,natsuno,natsuno,ご飯食べたり,eating together......
+main1-6,natsuno,natsuno,そんな時間が......いつまで続くんだろう,How long is that kind of time going to last?
+main1-6,survivor00,survivor00,right-right,right-right
+main1-6,natsuno,natsuno,......ううん。ずっと続くといいなって思うよ,......No. I hope it lasts forever
+main1-6,natsuno,natsuno,でも、もしかしたらそうじゃないかもしれないじゃん？,But it might not， you know?
+main1-6,survivor00,survivor00,right-right,right-right
+main1-6,natsuno,natsuno,......前、見たことあるんだ,......I've seen it before
+main1-6,natsuno,natsuno,ここみたいに、たくさんの人が暮らしてたキャンプで,A camp like this one， where a lot of people were living together，
+main1-6,natsuno,natsuno,人がたくさん死んでるとこ,with a lot of people dead
+main1-6,natsuno,natsuno,......,......
+main1-6,natsuno,natsuno,......こんな話、アカネさんにはできなくて,......I can't talk to Akane-san about something like this
+main1-6,natsuno,natsuno,心配させちゃうっていうか,I'd just make her worry
+main1-6,natsuno,natsuno,気、遣わせちゃうじゃん？,And she'd feel like she had to take care of my feelings， right?
+main1-6,natsuno,natsuno,......あなたなら,......But you......
+main1-6,natsuno,natsuno,もし、ここでみんなで暮らせなくなっても,Even if we can't all keep living together here
+main1-6,natsuno,natsuno,一緒にいてくれるかなって,I wonder if you would stay with me
+main1-6,natsuno,natsuno,思って,That's what I was thinking
+main1-6,natsuno,natsuno,だから──,So......
+main1-6,1,1,,
+main1-6,questSuccess,questSuccess,,
+-,,,,
+main1-7,computer00,computer00,,
+main1-7,2,2,,
+main1-7,,,返事をしようとした。,I tried to answer
+main1-7,,,心に決めた、これという言葉があったわけじゃないけれど。,It wasn't as though I had some particular words I'd decided on in my heart
+main1-7,,,咄嗟に、応えなきゃいけないと思った。,But instinctively， I felt that I had to respond
+main1-7,,,でも、できなかった。,But I couldn't
+main1-7,,,言葉は出てきていたかもしれない。,Maybe the words had already come out
+main1-7,,,声になっていたかもしれない。,Maybe I had even made a sound
+main1-7,,,でも、彼女には届かなかった。,But they never reached her
+main1-7,1,1,,
+main1-7,,,,
+main1-7,1,1,,
+main1-7,,,,
+main1-7,,,,
+main1-7,scenario01,scenario01,,
+main1-7,1,1,,
+main1-7,,,返事をしようとした、そのとき、,Just as I was about to answer，
+main1-7,,,大きな悲鳴が聞こえた。,a terrible scream rang out
+main1-7,,,それから、銃声。,Then， a gunshot
+main1-7,,,何かの崩れる音。,The sound of something collapsing
+main1-7,,,呼びかけても、彼女から返事はなかった。,No matter how I called out to her， she didn't answer
+main1-7,,,画面は、何ともわからない暗闇を映すばかりで。,The screen only showed an incomprehensible darkness
+main1-7,,,誰かの悲鳴や、銃声がときどき聞こえてくるだけだった。,All I could hear from time to time were someone's screams and gunshots
+main1-7,,,しばらくそんなのが続いて。,It went on like that for a while
+main1-7,,,やがて、怖いくらい静かになった。,Eventually， it became frighteningly quiet
+main1-7,,,それでも、,Even then
+main1-7,,,彼女は、呼びかけに応えてくれなかった。,She never answered my calls
+main1-7,1,1,,
+main1-7,questSuccess,questSuccess,,
+-,,,,
+main1-8,scenario00,scenario00,,
+main1-8,,,,
+main1-8,natsuno,natsuno,......,......
+main1-8,natsuno,natsuno,............,............
+main1-8,natsuno,natsuno,......まだ,......Still here
+main1-8,natsuno,natsuno,まだ......そこ、いる？,Are you...... still there?
+main1-8,scenario02,scenario02,,
+main1-8,survivor00,survivor00,right-right,right-right
+main1-8,natsuno,natsuno,......,......
+main1-8,natsuno,natsuno,......よかった,......Thank goodness
+main1-8,natsuno,natsuno,......,......
+main1-8,survivor00,survivor00,right-right,right-right
+main1-8,natsuno,natsuno,みんなと......ばらばらになっちゃったみたい,It looks like I've been separated from everyone......
+main1-8,natsuno,natsuno,キャンプに、感染者が現れて......,An infected person appeared at the camp......
+main1-8,natsuno,natsuno,一人じゃなくて、それで......,Not just one， and then......
+main1-8,natsuno,natsuno,みんな、無事に逃げられたかな......,I wonder if everyone managed to get away safely......
+main1-8,natsuno,natsuno,アカネさん......無事かな,I wonder if Akane-san is okay......
+main1-8,survivor00,survivor00,right-right,right-right
+main1-8,natsuno,natsuno,ここ、どこだろ......,Where am I......?
+main1-8,natsuno,natsuno,慌てて車に乗って逃げちゃったから......,I panicked and drove away in a car......
+main1-8,natsuno,natsuno,もう帰り道もわかんないや......,I don't even know how to get back anymore......
+main1-8,natsuno,natsuno,......,......
+main1-8,natsuno,natsuno,......ねぇ,......Hey
+main1-8,natsuno,natsuno,あなたさ,You......
+main1-8,survivor00,survivor00,right-right,right-right
+main1-8,natsuno,natsuno,わたしが逃げてる間......話しかけてくれてた？,Were you talking to me while I was running away......?
+main1-8,natsuno,natsuno,......,......
+main1-8,natsuno,natsuno,信じてもらえないかもしれないけど,You might not believe me， but
+main1-8,natsuno,natsuno,逃げてる間、あなたの声が聞こえて......,While I was running away， I could hear your voice......
+main1-8,natsuno,natsuno,スマホからじゃなくて......,Not from my smartphone......
+main1-8,natsuno,natsuno,......,......
+main1-8,natsuno,natsuno,......感染者から、あなたの声がしたような,It was like I heard your voice...... coming from the infected person
+main1-8,natsuno,natsuno,......,......
+main1-8,survivor00,survivor00,right-right,right-right
+main1-8,natsuno,natsuno,......ううん,......No
+main1-8,natsuno,natsuno,たぶん、気のせい,It was probably just my imagination
+main1-8,natsuno,natsuno,ごめんね、変なこと言って,Sorry for saying something weird
+main1-8,natsuno,natsuno,......そんなわけ、ないもん,......That couldn't have happened
+main1-8,natsuno,natsuno,......,......
+main1-8,natsuno,natsuno,......とにかく,......Anyway
+main1-8,natsuno,natsuno,また、今までみたいに,Looks like it's back to
+main1-8,natsuno,natsuno,この車で、しばらく一人旅だなぁ,Traveling alone in this car for a while......
+main1-8,natsuno,natsuno,......,......
+main1-8,survivor00,survivor00,right-right,right-right
+main1-8,natsuno,natsuno,......そだね,......Yeah
+main1-8,natsuno,natsuno,一人じゃ、ないんだった,I wasn't alone after all
+main1-8,natsuno,natsuno,......ありがと,......Thank you
+main1-8,1,1,,
+main1-8,ending,ending,main1,main1
+-,,,,
