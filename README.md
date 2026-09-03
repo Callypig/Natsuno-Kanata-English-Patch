@@ -7,7 +7,7 @@
 English translation patch for the game [Natsuno-Kanata — Beyond the Summer.](https://store.steampowered.com/app/1684660/natsunokanata__beyond_the_summer/)  (Free version of the game),
 this patch is currently only available for the original version of the game, another version for unity is in work in progress.
 
-The patch contains only the translated prologue as a test, the other chapters will come in a few days. 
+This patch contains only a few episodes translated, others chapters will come in a few days.
 
 Feedback is very welcome. The translation is still under review and may not be completely accurate for now.
 
