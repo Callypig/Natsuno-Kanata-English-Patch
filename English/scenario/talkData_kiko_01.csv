@@ -2,22 +2,22 @@ id,_arg0<jpn>,arg0<eng>,_arg1<jpn>,arg1<eng>
 -,,,,
 kiko1-1,scenario00,scenario00,,
 kiko1-1,environment00,environment00,,
-kiko1-1,natsuno,natsuno,......あれ,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,車のところに人がいる......,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,車上荒らし......？,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,......じゃ、なさそう,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,女の子だ,<PLEASE_TRANSLATE>
+kiko1-1,natsuno,natsuno,......あれ,......Huh
+kiko1-1,natsuno,natsuno,車のところに人がいる......,There's someone by that car......
+kiko1-1,natsuno,natsuno,車上荒らし......？,A car thief......?
+kiko1-1,natsuno,natsuno,......じゃ、なさそう,......Doesn't look like it
+kiko1-1,natsuno,natsuno,女の子だ,It's a girl
 kiko1-1,natsuno,natsuno,......,......
-kiko1-1,natsuno,natsuno,ねぇ、何してるの？,<PLEASE_TRANSLATE>
+kiko1-1,natsuno,natsuno,ねぇ、何してるの？,"Hey, what are you doing?"
 kiko1-1,survivor01,survivor01,right-left,right-left
 kiko1-1,,,,
-kiko1-1,少女,<PLEASE_TRANSLATE>,わ！,<PLEASE_TRANSLATE>
-kiko1-1,少女,<PLEASE_TRANSLATE>,ごめんなさい！　違いますっ！,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,え？　わたしは別に──,<PLEASE_TRANSLATE>
-kiko1-1,少女,<PLEASE_TRANSLATE>,何も盗ってません！,<PLEASE_TRANSLATE>
-kiko1-1,少女,<PLEASE_TRANSLATE>,まだ！,<PLEASE_TRANSLATE>
+kiko1-1,少女,Young girl,わ！,Whoa!
+kiko1-1,少女,Young girl,ごめんなさい！　違いますっ！,I'm sorry! I'm not!
+kiko1-1,natsuno,natsuno,え？　わたしは別に──,Huh? I wasn't…..
+kiko1-1,少女,Young girl,何も盗ってません！,I didn't steal anything!
+kiko1-1,少女,Young girl,まだ！,Not yet!
 kiko1-1,survivor00,survivor00,right-right,right-right
-kiko1-1,natsuno,natsuno,......まだ何も言ってないのに,<PLEASE_TRANSLATE>
+kiko1-1,natsuno,natsuno,......まだ何も言ってないのに,......I haven't even said anything yet
 kiko1-1,1,1,,
 kiko1-1,1,1,,
 kiko1-1,,,,
@@ -26,33 +26,33 @@ kiko1-1,survivor01,survivor01,right-left,right-left
 kiko1-1,character01,character01,,
 kiko1-1,1,1,,
 kiko1-1,1,1,,
-kiko1-1,natsuno,natsuno,......じゃあ、犬を探して、こんなところまで？,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,はい......逃げてる途中で、はぐれちゃって......,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,たぶん、この辺りにいるはずなんです......,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,......だから、決して、盗もうとしてたわけでは......,<PLEASE_TRANSLATE>
+kiko1-1,natsuno,natsuno,......じゃあ、犬を探して、こんなところまで？,......So you came all the way out here looking for your dog?
+kiko1-1,kiko,kiko,はい......逃げてる途中で、はぐれちゃって......,Yeah......I lost her while we were running away......
+kiko1-1,kiko,kiko,たぶん、この辺りにいるはずなんです......,She should be around here somewhere......
+kiko1-1,kiko,kiko,......だから、決して、盗もうとしてたわけでは......,"......So I wasn't trying to steal anything, I swear......"
 kiko1-1,natsuno,natsuno,............,............
-kiko1-1,natsuno,natsuno,......で、親はキャンプに？,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,はい,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,キャンプには他にも人がいるの？,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,はい。十五人くらいです、かね,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,そういうところも、まだあるんだ......,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,キャンプはどこに？,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,北の方......です,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,そう......,<PLEASE_TRANSLATE>
+kiko1-1,natsuno,natsuno,......で、親はキャンプに？,......And your parents are at the camp?
+kiko1-1,kiko,kiko,はい,Yes
+kiko1-1,natsuno,natsuno,キャンプには他にも人がいるの？,Are there other people at the camp?
+kiko1-1,kiko,kiko,はい。十五人くらいです、かね,"Yes. About fifteen people, I think"
+kiko1-1,natsuno,natsuno,そういうところも、まだあるんだ......,There are still places like that......
+kiko1-1,natsuno,natsuno,キャンプはどこに？,Where's the camp?
+kiko1-1,kiko,kiko,北の方......です,North......
+kiko1-1,natsuno,natsuno,そう......,I see......
 kiko1-1,kiko,kiko,............,............
-kiko1-1,kiko,kiko,......じゃあ、あたしはこれで......,<PLEASE_TRANSLATE>
+kiko1-1,kiko,kiko,......じゃあ、あたしはこれで......,"......Well, I should get going......"
 kiko1-1,natsuno,natsuno,............,............
-kiko1-1,natsuno,natsuno,......乗ってく？,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,......へ？,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,この辺りにいるんでしょ？　その犬,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,......いいんですか？,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,まぁ、一人旅も飽きてきたし......,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,......や。いろいろあって一人じゃないんだけど,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,とにかく、いいよ,<PLEASE_TRANSLATE>
-kiko1-1,natsuno,natsuno,しばらく同行しよ,<PLEASE_TRANSLATE>
+kiko1-1,natsuno,natsuno,......乗ってく？,......Want a ride?
+kiko1-1,kiko,kiko,......へ？,......Huh?
+kiko1-1,natsuno,natsuno,この辺りにいるんでしょ？　その犬,"Your dog should be around here somewhere, right?"
+kiko1-1,kiko,kiko,......いいんですか？,......Are you sure?
+kiko1-1,natsuno,natsuno,まぁ、一人旅も飽きてきたし......,"Well, I'm getting kind of tired of traveling alone......"
+kiko1-1,natsuno,natsuno,......や。いろいろあって一人じゃないんだけど,"Well, not exactly alone anymore, after everything that's happened"
+kiko1-1,natsuno,natsuno,とにかく、いいよ,"Anyway, it’s fine"
+kiko1-1,natsuno,natsuno,しばらく同行しよ,Let's travel together for a while
 kiko1-1,survivor01,survivor01,right-left,right-left
-kiko1-1,kiko,kiko,......！,<PLEASE_TRANSLATE>
-kiko1-1,kiko,kiko,はい！,<PLEASE_TRANSLATE>
+kiko1-1,kiko,kiko,......！,......!
+kiko1-1,kiko,kiko,はい！,Yes!
 kiko1-1,1,1,,
 kiko1-1,kiko,kiko,,
 kiko1-1,questSuccess,questSuccess,,
@@ -60,131 +60,131 @@ kiko1-1,questSuccess,questSuccess,,
 kiko1-2,scenario10,scenario10,,
 kiko1-2,survivor01,survivor01,right-left,right-left
 kiko1-2,character01,character01,,
-kiko1-2,natsuno,natsuno,......テキトーに歩き回ってみてるけど,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,何かないの？　手がかりとか,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,......？,<PLEASE_TRANSLATE>
+kiko1-2,natsuno,natsuno,......テキトーに歩き回ってみてるけど,......I've just been wandering around without much of a plan
+kiko1-2,natsuno,natsuno,何かないの？　手がかりとか,Isn't there anything? Any clues or something?
+kiko1-2,kiko,kiko,......？,......?
 kiko1-2,survivor00,survivor00,right-right,right-right
-kiko1-2,natsuno,natsuno,......犬のこと、なんだけど......,<PLEASE_TRANSLATE>
+kiko1-2,natsuno,natsuno,......犬のこと、なんだけど......,......I'm talking about your dog......
 kiko1-2,survivor01,survivor01,right-left,right-left
-kiko1-2,kiko,kiko,......あ！,<PLEASE_TRANSLATE>
+kiko1-2,kiko,kiko,......あ！,......Oh!
 kiko1-2,survivor01,survivor01,right-left,right-left
-kiko1-2,kiko,kiko,ああ......うーん......,<PLEASE_TRANSLATE>
+kiko1-2,kiko,kiko,ああ......うーん......,Ah......Hmm......
 kiko1-2,natsuno,natsuno,........,........
-kiko1-2,kiko,kiko,このあたりではあるんですけど......,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,......ほら、犬って歩くじゃないですか,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,それは、そうだろうけど......,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,なんかこう......そう、名前とか？,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,あ、ミノタローです,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,名前呼んだら出てきてくれたりしないの？　ミノタロー！　って,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,ミノタロー！！,<PLEASE_TRANSLATE>
+kiko1-2,kiko,kiko,このあたりではあるんですけど......,"She's around here somewhere, but......"
+kiko1-2,kiko,kiko,......ほら、犬って歩くじゃないですか,"......You know, dogs wander around"
+kiko1-2,natsuno,natsuno,それは、そうだろうけど......,"Well, yeah......"
+kiko1-2,natsuno,natsuno,なんかこう......そう、名前とか？,"Something like......right, her name?"
+kiko1-2,kiko,kiko,あ、ミノタローです,"Oh, Minotaro"
+kiko1-2,natsuno,natsuno,名前呼んだら出てきてくれたりしないの？　ミノタロー！　って,"Wouldn't she come out if you called her name? Like, Minotaro!"
+kiko1-2,kiko,kiko,ミノタロー！！,MINOTARO!!
 kiko1-2,kiko,kiko,......,......
 kiko1-2,kiko,kiko,............,............
 kiko1-2,kiko,kiko,........................,........................
 kiko1-2,natsuno,natsuno,............,............
 kiko1-2,survivor00,survivor00,right-right,right-right
-kiko1-2,natsuno,natsuno,......ま、のんびり探せばいっか,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,や、のんびりじゃだめなのかな,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,ほっといたら死んじゃうよね,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,この辺も感染者がいるみたいだし、危ないし,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,犬が食べるようなもの、なさそうだし,<PLEASE_TRANSLATE>
+kiko1-2,natsuno,natsuno,......ま、のんびり探せばいっか,"......Well, I guess we can take our time looking"
+kiko1-2,natsuno,natsuno,や、のんびりじゃだめなのかな,Or maybe we shouldn't take our time
+kiko1-2,natsuno,natsuno,ほっといたら死んじゃうよね,She'll die if we just leave her out there
+kiko1-2,natsuno,natsuno,この辺も感染者がいるみたいだし、危ないし,"There seem to be Infected around here too, so it’s dangerous"
+kiko1-2,natsuno,natsuno,犬が食べるようなもの、なさそうだし,And I don't see much around here that a dog could eat
 kiko1-2,kiko,kiko,......,......
-kiko1-2,kiko,kiko,いえ,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,......きっと大丈夫です,<PLEASE_TRANSLATE>
+kiko1-2,kiko,kiko,いえ,No
+kiko1-2,kiko,kiko,......きっと大丈夫です,......I'm sure she's okay
 kiko1-2,survivor01,survivor01,right-left,right-left
-kiko1-2,kiko,kiko,犬って賢いんです,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,きっと食べ物を探したり、安全なところに逃げたりできます,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,そうなの？,<PLEASE_TRANSLATE>
-kiko1-2,natsuno,natsuno,ま、人より足は速いか......確かに,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,はい,<PLEASE_TRANSLATE>
+kiko1-2,kiko,kiko,犬って賢いんです,Dogs are smart
+kiko1-2,kiko,kiko,きっと食べ物を探したり、安全なところに逃げたりできます,I'm sure she can find food or run somewhere safe
+kiko1-2,natsuno,natsuno,そうなの？,Really?
+kiko1-2,natsuno,natsuno,ま、人より足は速いか......確かに,"Well, they're faster than people......so I guess you're right"
+kiko1-2,kiko,kiko,はい,Yes
 kiko1-2,survivor01,survivor01,right-left,right-left
-kiko1-2,kiko,kiko,だから......,<PLEASE_TRANSLATE>
-kiko1-2,kiko,kiko,......きっと、大丈夫です,<PLEASE_TRANSLATE>
+kiko1-2,kiko,kiko,だから......,That’s why......
+kiko1-2,kiko,kiko,......きっと、大丈夫です,......I'm sure she's okay
 kiko1-2,kiko,kiko,......,......
 kiko1-2,questSuccess,questSuccess,,
 -,,,,
 kiko1-3,scenario10,scenario10,,
 kiko1-3,survivor01,survivor01,right-left,right-left
 kiko1-3,character01,character01,,
-kiko1-3,natsuno,natsuno,んー......この辺にも、いそうにないね,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,なんだっけ,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,えーっと......,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,そう、ミノタウロス,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,ミノタローです......,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......そうだった,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,でも、そうですね......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,動物がいた跡みたいなのは、いくらかありましたけど......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,ミノタローのかどうかも......わかんないですし......,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,んー......この辺にも、いそうにないね,Hmm......Doesn't look like she's around here either
+kiko1-3,natsuno,natsuno,なんだっけ,What was it again?
+kiko1-3,natsuno,natsuno,えーっと......,Umm......
+kiko1-3,natsuno,natsuno,そう、ミノタウロス,"Right, Minotaurus"
+kiko1-3,kiko,kiko,ミノタローです......,It's Minotaro......
+kiko1-3,natsuno,natsuno,......そうだった,......Right
+kiko1-3,kiko,kiko,でも、そうですね......,"But, yeah......"
+kiko1-3,kiko,kiko,動物がいた跡みたいなのは、いくらかありましたけど......,There were some signs that an animal had been here......
+kiko1-3,kiko,kiko,ミノタローのかどうかも......わかんないですし......,But I don't know if they were Minotaro's......
 kiko1-3,kiko,kiko,......,......
 kiko1-3,,,,
-kiko1-3,kiko,kiko,ごめんなさい......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,やっぱり、こんなのに付き合ってもらわなくても......,<PLEASE_TRANSLATE>
+kiko1-3,kiko,kiko,ごめんなさい......,I'm sorry......
+kiko1-3,kiko,kiko,やっぱり、こんなのに付き合ってもらわなくても......,You really don't have to keep going along with this......
 kiko1-3,natsuno,natsuno,......,......
 kiko1-3,survivor00,survivor00,right-right,right-right
-kiko1-3,natsuno,natsuno,キコのさ,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,......はい？,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,キコのさ,Kiko
+kiko1-3,kiko,kiko,......はい？,......Yes?
 kiko1-3,scenario03,scenario03,,
-kiko1-3,natsuno,natsuno,キコの暮らしてたキャンプって、どこにあるんだっけ,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,えーと......ここからだと、もう少し北の方......です,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,なんていうか、もっと具体的には？　どこ通ってここまで来た、とか,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,えと......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,うーん......地名とか、憶えてないですし......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,北の方ってこと以外は......,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,キコの暮らしてたキャンプって、どこにあるんだっけ,Where's the camp you were living at again?
+kiko1-3,kiko,kiko,えーと......ここからだと、もう少し北の方......です,Um......A little farther north from here......
+kiko1-3,natsuno,natsuno,なんていうか、もっと具体的には？　どこ通ってここまで来た、とか,"I mean, more specifically? Like, what route did you take to get here?"
+kiko1-3,kiko,kiko,えと......,Um......
+kiko1-3,kiko,kiko,うーん......地名とか、憶えてないですし......,Hmm......I don't remember any of the place names......
+kiko1-3,kiko,kiko,北の方ってこと以外は......,All I know is that it’s somewhere north......
 kiko1-3,survivor00,survivor00,right-right,right-right
-kiko1-3,natsuno,natsuno,......それ、大丈夫？,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,ミノタロー見つけたとして、ちゃんとキャンプ帰れる？,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,ええと......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,......たぶん,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,......それ、大丈夫？,......Is that okay?
+kiko1-3,natsuno,natsuno,ミノタロー見つけたとして、ちゃんとキャンプ帰れる？,"Even if we find Minotaro, can you actually make it back to the camp?"
+kiko1-3,kiko,kiko,ええと......,Um......
+kiko1-3,kiko,kiko,......たぶん,......Probably
 kiko1-3,natsuno,natsuno,......,......
 kiko1-3,survivor00,survivor00,right-right,right-right
-kiko1-3,natsuno,natsuno,......じゃ、どんなところだったの？,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,十五人くらい人が集まってるって言ってたけど,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,みんな知り合い？,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,いえ、最初から知り合いだったわけじゃなくて......逃げてる途中で、偶然一緒になった人たち、というか,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,子供とかお年寄りがいる家族が、4組集まって暮らしてます,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,へぇ......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,わたしより小さい、小学生くらいの子供から、八十すぎのおじいちゃんまで,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,なんか、大変そうだね,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,大変......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,......そうかも、です,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,でも、わたし、ナツノさんに会うまで一人でしたけど,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,一人で大変なこともあるけど......楽なこともいっぱいありました,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,......じゃ、どんなところだったの？,"......So, what was it like there?"
+kiko1-3,natsuno,natsuno,十五人くらい人が集まってるって言ってたけど,You said there were about fifteen people living there
+kiko1-3,natsuno,natsuno,みんな知り合い？,Do you all know each other?
+kiko1-3,kiko,kiko,いえ、最初から知り合いだったわけじゃなくて......逃げてる途中で、偶然一緒になった人たち、というか,"No, we didn't know each other to begin with......We just happened to meet while we were running away, I guess"
+kiko1-3,kiko,kiko,子供とかお年寄りがいる家族が、4組集まって暮らしてます,"Four families, each with children or elderly people, are living together"
+kiko1-3,natsuno,natsuno,へぇ......,Oh......
+kiko1-3,kiko,kiko,わたしより小さい、小学生くらいの子供から、八十すぎのおじいちゃんまで,"From kids younger than me, about elementary-school age, all the way to an old man in his eighties"
+kiko1-3,natsuno,natsuno,なんか、大変そうだね,Sounds like it must be hard
+kiko1-3,kiko,kiko,大変......,Hard......
+kiko1-3,kiko,kiko,......そうかも、です,......I guess it is
+kiko1-3,kiko,kiko,でも、わたし、ナツノさんに会うまで一人でしたけど,"But I was alone until I met you, Natsuno"
+kiko1-3,kiko,kiko,一人で大変なこともあるけど......楽なこともいっぱいありました,"Being alone can be hard, but......there were lots of things that were easier too"
 kiko1-3,survivor00,survivor00,right-right,right-right
-kiko1-3,natsuno,natsuno,......そう、だよね,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,なんか、わかるよ。たぶん,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,はい......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,なんていうか......気が楽、でした,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,わたしがここで倒れちゃっても、誰も困らないし,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,誰も心配しないし,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,誰にも迷惑かけないって思うと......すごく楽で,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......そうだね,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,......そう、だよね,"......Yeah, that's true"
+kiko1-3,natsuno,natsuno,なんか、わかるよ。たぶん,I think I understand. Probably
+kiko1-3,kiko,kiko,はい......,Yes......
+kiko1-3,kiko,kiko,なんていうか......気が楽、でした,I guess......I felt more at ease
+kiko1-3,natsuno,natsuno,......うん,......Yeah
+kiko1-3,kiko,kiko,わたしがここで倒れちゃっても、誰も困らないし,"If I collapsed here, nobody would be inconvenienced"
+kiko1-3,kiko,kiko,誰も心配しないし,Nobody would worry about me
+kiko1-3,natsuno,natsuno,......うん,......Yeah
+kiko1-3,kiko,kiko,誰にも迷惑かけないって思うと......すごく楽で,Thinking that I wouldn't cause anyone any trouble......made things so much easier
+kiko1-3,natsuno,natsuno,......そうだね,......Yeah
 kiko1-3,kiko,kiko,......,......
 kiko1-3,,,,
-kiko1-3,kiko,kiko,だから......,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,ナツノさん,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,もし、わたしがどこか行っちゃっても,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,いなくなっても,<PLEASE_TRANSLATE>
-kiko1-3,kiko,kiko,あんまり、気にしないでくださいね,<PLEASE_TRANSLATE>
+kiko1-3,kiko,kiko,だから......,That’s why......
+kiko1-3,kiko,kiko,ナツノさん,Natsuno
+kiko1-3,kiko,kiko,もし、わたしがどこか行っちゃっても,If I ever go somewhere
+kiko1-3,kiko,kiko,いなくなっても,If I disappear
+kiko1-3,kiko,kiko,あんまり、気にしないでくださいね,"Please don't worry about me too much, okay?"
 kiko1-3,natsuno,natsuno,......,......
-kiko1-3,kiko,kiko,そう思っててくれた方が......楽だから,<PLEASE_TRANSLATE>
+kiko1-3,kiko,kiko,そう思っててくれた方が......楽だから,It would be easier......if you thought of it that way
 kiko1-3,natsuno,natsuno,......,......
 kiko1-3,scenario02,scenario02,,
 kiko1-3,survivor00,survivor00,right-right,right-right
-kiko1-3,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,言いたいこと、わかるよ,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,わかるけど......,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......わかるけど、わかんない,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,......うん,......Yeah
+kiko1-3,natsuno,natsuno,言いたいこと、わかるよ,I understand what you mean
+kiko1-3,natsuno,natsuno,わかるけど......,"I understand, but......"
+kiko1-3,natsuno,natsuno,......わかるけど、わかんない,"......I understand, but I don't"
 kiko1-3,kiko,kiko,......,......
 kiko1-3,survivor00,survivor00,right-right,right-right
-kiko1-3,natsuno,natsuno,キコがいなくなったら、きっとわたし、探しちゃうよ,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......キコが、こうやってミノタウロス探してるみたいにさ,<PLEASE_TRANSLATE>
+kiko1-3,natsuno,natsuno,キコがいなくなったら、きっとわたし、探しちゃうよ,"If you disappeared, I'm sure I'd go looking for you"
+kiko1-3,natsuno,natsuno,......キコが、こうやってミノタウロス探してるみたいにさ,......Just like you’re looking for Minotaro like this
 kiko1-3,kiko,kiko,......,......
-kiko1-3,kiko,kiko,......ミノタロー、です,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,......そうだっけ,<PLEASE_TRANSLATE>
-kiko1-3,natsuno,natsuno,はは,<PLEASE_TRANSLATE>
+kiko1-3,kiko,kiko,......ミノタロー、です,"......Minotaro, remember"
+kiko1-3,natsuno,natsuno,......そうだっけ,......Was it?
+kiko1-3,natsuno,natsuno,はは,Haha
 kiko1-3,kiko,kiko,......,......
-kiko1-3,kiko,kiko,......ナツノさんは、優しいですね,<PLEASE_TRANSLATE>
+kiko1-3,kiko,kiko,......ナツノさんは、優しいですね,"......You're kind, Natsuno"
 kiko1-3,survivor00,survivor00,right-right,right-right
 kiko1-3,natsuno,natsuno,......,......
 kiko1-3,2,2,,
@@ -193,218 +193,218 @@ kiko1-3,questSuccess,questSuccess,,
 kiko1-4,scenario10,scenario10,,
 kiko1-4,survivor01,survivor01,right-left,right-left
 kiko1-4,character01,character01,,
-kiko1-4,natsuno,natsuno,犬って、どうして飼ってるの？,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,え......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,どうして、って......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,言われても......,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,わたし、動物飼ったことないからさ,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,あんまよくわかんなくって,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,犬とか猫とか、かわいーって思うけど,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,飼いたい......とは、思わないっていうか,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,うーん......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,わたしも、わたしが飼いたくて飼ってたわけじゃないので,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,そうなんだ,<PLEASE_TRANSLATE>
+kiko1-4,natsuno,natsuno,犬って、どうして飼ってるの？,Why do you have a dog?
+kiko1-4,kiko,kiko,え......,Huh......
+kiko1-4,kiko,kiko,どうして、って......,Why......?
+kiko1-4,kiko,kiko,言われても......,I don't know how to answer that......
+kiko1-4,natsuno,natsuno,わたし、動物飼ったことないからさ,I've never had a pet before
+kiko1-4,natsuno,natsuno,あんまよくわかんなくって,So I don't really get it
+kiko1-4,natsuno,natsuno,犬とか猫とか、かわいーって思うけど,I think dogs and cats are cute and all
+kiko1-4,natsuno,natsuno,飼いたい......とは、思わないっていうか,"But I never really think, I want one......"
+kiko1-4,kiko,kiko,うーん......,Hmm......
+kiko1-4,kiko,kiko,わたしも、わたしが飼いたくて飼ってたわけじゃないので,I didn't get Minotaro because I wanted a dog either
+kiko1-4,natsuno,natsuno,そうなんだ,I see
 kiko1-4,survivor01,survivor01,right-left,right-left
-kiko1-4,kiko,kiko,はい,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,わたしがまだ小さかった頃......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,や、今も小さいんですけど,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,ミノタローはもっと前、わたしが幼稚園に通ってた頃に、うちに来たんです,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,へぇ,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,お父さんとかお母さんが飼い始めたってこと？,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,そうですね,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,わたし、こんななので,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,臆病だし、気が利かないし、人と話すのあんまり得意じゃないし,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,昔から友達が少なくって......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,そんなわたしを見かねて、両親が、犬を飼うことにしたんです,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,最初は怖かったです,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,でも、ミノタローは優しくて,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,呼んだら寄ってきてくれて......,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,......そうなんだ,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,はい,Yes
+kiko1-4,kiko,kiko,わたしがまだ小さかった頃......,When I was little......
+kiko1-4,kiko,kiko,や、今も小さいんですけど,"Well, I'm still little, I guess"
+kiko1-4,kiko,kiko,ミノタローはもっと前、わたしが幼稚園に通ってた頃に、うちに来たんです,"Minotaro came to our house a long time ago, when I was in kindergarten"
+kiko1-4,natsuno,natsuno,へぇ,Oh
+kiko1-4,natsuno,natsuno,お父さんとかお母さんが飼い始めたってこと？,So your parents were the ones who got her?
+kiko1-4,kiko,kiko,そうですね,That's right
+kiko1-4,kiko,kiko,わたし、こんななので,"I'm like this, you see"
+kiko1-4,kiko,kiko,臆病だし、気が利かないし、人と話すのあんまり得意じゃないし,"I'm timid, I'm not very attentive, and I'm not very good at talking to people"
+kiko1-4,kiko,kiko,昔から友達が少なくって......,I've never had many friends......
+kiko1-4,kiko,kiko,そんなわたしを見かねて、両親が、犬を飼うことにしたんです,"My parents couldn’t stand seeing me like that, so they decided to get a dog"
+kiko1-4,kiko,kiko,最初は怖かったです,I was scared of her at first
+kiko1-4,kiko,kiko,でも、ミノタローは優しくて,But Minotaro was so gentle
+kiko1-4,kiko,kiko,呼んだら寄ってきてくれて......,She'd come running over whenever I called her......
+kiko1-4,natsuno,natsuno,......そうなんだ,......I see
 kiko1-4,survivor01,survivor01,right-left,right-left
-kiko1-4,kiko,kiko,......ごめんなさい、こんな話,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,楽しくない......ですよね,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,......ごめんなさい、こんな話,"......I'm sorry, I went on about myself"
+kiko1-4,kiko,kiko,楽しくない......ですよね,This isn't very interesting......is it?
 kiko1-4,survivor00,survivor00,right-right,right-right
-kiko1-4,natsuno,natsuno,ううん,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,そうなんだ、って思うよ,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,そうなんだ、キコってそういう子供だったんだ、って,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,......だった、というか、今もあんまり変わってないですけど......,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,そう？,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,そうなら、ミノタロー探して、一人でこんなところまで来ないよ,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,きっと,<PLEASE_TRANSLATE>
+kiko1-4,natsuno,natsuno,ううん,No
+kiko1-4,natsuno,natsuno,そうなんだ、って思うよ,"It makes me think, so that’s how you were"
+kiko1-4,natsuno,natsuno,そうなんだ、キコってそういう子供だったんだ、って,So that’s the kind of kid Kiko was
+kiko1-4,kiko,kiko,......だった、というか、今もあんまり変わってないですけど......,"......Was, I guess, but I'm not really that different now......"
+kiko1-4,natsuno,natsuno,そう？,Really?
+kiko1-4,natsuno,natsuno,そうなら、ミノタロー探して、一人でこんなところまで来ないよ,"If that were true, you wouldn't have come all the way out here alone to look for Minotaro"
+kiko1-4,natsuno,natsuno,きっと,I'm sure
 kiko1-4,kiko,kiko,......,......
 kiko1-4,survivor01,survivor01,right-left,right-left
-kiko1-4,kiko,kiko,......そうだと,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,......いいなぁ,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,......そうだと,......I wish that were true
+kiko1-4,kiko,kiko,......いいなぁ,......That’d be nice
 kiko1-4,kiko,kiko,......,......
 kiko1-4,survivor00,survivor00,right-right,right-right
-kiko1-4,natsuno,natsuno,でも、よく一人でキャンプ出るの許してもらえたよね,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,お父さんとお母さんに止められなかった？,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,飼い犬探しに、キャンプから出るって──,<PLEASE_TRANSLATE>
+kiko1-4,natsuno,natsuno,でも、よく一人でキャンプ出るの許してもらえたよね,You really got permission to leave the camp by yourself?
+kiko1-4,natsuno,natsuno,お父さんとお母さんに止められなかった？,Your parents didn't try to stop you?
+kiko1-4,natsuno,natsuno,飼い犬探しに、キャンプから出るって──,You left the camp just to look for your dog…..
 kiko1-4,,,,
 kiko1-4,survivor01,survivor01,right-left,right-left
-kiko1-4,kiko,kiko,ミノタローは、家族なんです......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,ただの犬じゃ、ないんです......,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,だから......,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,ミノタローは、家族なんです......,Minotaro is family......
+kiko1-4,kiko,kiko,ただの犬じゃ、ないんです......,She's not just a dog......
+kiko1-4,kiko,kiko,だから......,That’s why......
 kiko1-4,kiko,kiko,............,............
 kiko1-4,survivor00,survivor00,right-right,right-right
-kiko1-4,natsuno,natsuno,......そうだね。ごめん,<PLEASE_TRANSLATE>
+kiko1-4,natsuno,natsuno,......そうだね。ごめん,......You're right. I'm sorry
 kiko1-4,kiko,kiko,............,............
-kiko1-4,kiko,kiko,......無理やり出てきたんです,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,え？,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,......無理やり出てきたんです,"......I left anyway, even though they tried to stop me"
+kiko1-4,natsuno,natsuno,え？,Huh?
 kiko1-4,scenario02,scenario02,,
-kiko1-4,kiko,kiko,お父さんにもお母さんにも止められました。行っちゃダメだって。危ないって,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,危ないのはわかってます。でも......,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,お父さんにもお母さんにも止められました。行っちゃダメだって。危ないって,Both my dad and mom tried to stop me. They told me not to go. That it was dangerous
+kiko1-4,kiko,kiko,危ないのはわかってます。でも......,I know it's dangerous. But......
 kiko1-4,natsuno,natsuno,............,............
-kiko1-4,kiko,kiko,だから、夜、みんなが寝てる間に、こっそり抜け出したんです,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,きっと今ごろ、大騒ぎだろうな,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,でも、見つかるまで帰りません,<PLEASE_TRANSLATE>
-kiko1-4,kiko,kiko,ミノタローのこと......放っておけないから,<PLEASE_TRANSLATE>
-kiko1-4,natsuno,natsuno,......そっか,<PLEASE_TRANSLATE>
+kiko1-4,kiko,kiko,だから、夜、みんなが寝てる間に、こっそり抜け出したんです,So I snuck out at night while everyone was asleep
+kiko1-4,kiko,kiko,きっと今ごろ、大騒ぎだろうな,They're probably in a panic by now
+kiko1-4,kiko,kiko,でも、見つかるまで帰りません,But I'm not going back until I find her
+kiko1-4,kiko,kiko,ミノタローのこと......放っておけないから,I can't just leave Minotaro......
+kiko1-4,natsuno,natsuno,......そっか,......I see
 kiko1-4,1,1,,
 kiko1-4,questSuccess,questSuccess,,
 -,,,,
 kiko1-5,scenario10,scenario10,,
 kiko1-5,,,,
 kiko1-5,environment02,environment02,,
-kiko1-5,kiko,kiko,あの......,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,あの......,Um......
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,えーっと......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,あ、はい、そうです,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,えーっと......,Umm......
+kiko1-5,kiko,kiko,あ、はい、そうです,"Oh, yes, that’s right"
 kiko1-5,survivor01,survivor01,right-right,right-right
-kiko1-5,kiko,kiko,あなた......です,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,あなたに言ってます,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,ナツノさん、今近くの川で水浴びしてて,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,スマホがここに置いてあったから......,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,あなた......です,I'm talking to you......
+kiko1-5,kiko,kiko,あなたに言ってます,I'm talking to you
+kiko1-5,kiko,kiko,ナツノさん、今近くの川で水浴びしてて,Natsuno's taking a bath in the river nearby right now
+kiko1-5,kiko,kiko,スマホがここに置いてあったから......,Her phone was left here......
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,あなたって、どこか遠いところにいるんですよね,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,こんなことになってない世界の......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......それで,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,あなたって、どこか遠いところにいるんですよね,"You're somewhere far away, aren't you?"
+kiko1-5,kiko,kiko,こんなことになってない世界の......,In a world where none of this happened......
+kiko1-5,kiko,kiko,......それで,......And then
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,......あの,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,......あの,......Um
 kiko1-5,kiko,kiko,......,......
 kiko1-5,kiko,kiko,............,............
 kiko1-5,scenario04,scenario04,,
-kiko1-5,kiko,kiko,どうしてこんなこと、って思われるかもしれませんけど,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......ナツノさんには言えなくて,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,何も応えてもらわなくていいです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,ただ......聞いててほしいんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......ごめんなさい,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,こんな急に......一方的で,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,でも......言っとかないと、もしかしたら,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,嫌な思い......させちゃうかもしれないから,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,どうしてこんなこと、って思われるかもしれませんけど,You might wonder why I’m telling you something like this
+kiko1-5,kiko,kiko,......ナツノさんには言えなくて,......I couldn't tell Natsuno
+kiko1-5,kiko,kiko,何も応えてもらわなくていいです,You don't have to answer anything
+kiko1-5,kiko,kiko,ただ......聞いててほしいんです,I just......want you to listen
+kiko1-5,kiko,kiko,......ごめんなさい,......I'm sorry
+kiko1-5,kiko,kiko,こんな急に......一方的で,For suddenly......dumping all this on you
+kiko1-5,kiko,kiko,でも......言っとかないと、もしかしたら,"But......if I don't tell you, maybe"
+kiko1-5,kiko,kiko,嫌な思い......させちゃうかもしれないから,I might make you feel......uncomfortable
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,......わたしが、両親のいるキャンプから、黙って出てきたっていうのはもう知ってますよね,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......はい,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,それは本当なんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,みんなが寝てる間に、こっそり抜け出してきました,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,でも......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,キャンプが北の方にあるっていうのは、,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,......わたしが、両親のいるキャンプから、黙って出てきたっていうのはもう知ってますよね,"......You already know that I left the camp where my parents are without telling them, right?"
+kiko1-5,kiko,kiko,......はい,......Yes
+kiko1-5,kiko,kiko,それは本当なんです,That's true
+kiko1-5,kiko,kiko,みんなが寝てる間に、こっそり抜け出してきました,I snuck out while everyone was asleep
+kiko1-5,kiko,kiko,でも......,But......
+kiko1-5,kiko,kiko,キャンプが北の方にあるっていうのは、,The part about the camp being somewhere north
 kiko1-5,,,,
-kiko1-5,kiko,kiko,......嘘なんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,嘘っていうか、もしかしたら本当かもしれないんですけど,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......わたしにも、わかんないんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,キャンプの場所なんて、もう憶えてないんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,来た道を引き返して、ミノタローとはぐれた辺りまで来たので、たぶんキャンプは北の方だと思うんですけど......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,本当のところは、わかりません,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,......嘘なんです,......That was a lie
+kiko1-5,kiko,kiko,嘘っていうか、もしかしたら本当かもしれないんですけど,"Well, it might be true, but"
+kiko1-5,kiko,kiko,......わたしにも、わかんないんです,......I don't know either
+kiko1-5,kiko,kiko,キャンプの場所なんて、もう憶えてないんです,I don't remember where the camp is anymore
+kiko1-5,kiko,kiko,来た道を引き返して、ミノタローとはぐれた辺りまで来たので、たぶんキャンプは北の方だと思うんですけど......,"I retraced the route I took and came back to around where I lost Minotaro, so I think the camp is probably north of here......"
+kiko1-5,kiko,kiko,本当のところは、わかりません,"But honestly, I don't know"
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,わたし、帰るつもりなんかないんです,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,わたし、帰るつもりなんかないんです,I don't intend to go back
 kiko1-5,scenario02,scenario02,,
-kiko1-5,kiko,kiko,一人でキャンプを抜け出すときに、きっと、もう帰ることなんかないだろうって,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......帰りたくないわけじゃないんですけど,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,帰りたくないんじゃなくて......帰れないだろうなって,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,だって,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,こんな危ないのに、一人で出歩いてて,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,ナツノさんは、今まで一人でずっと旅してたみたいだけど......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,わたし、ナツノさんみたいにたくましくないから,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,だから,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,どうせ......,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,一人でキャンプを抜け出すときに、きっと、もう帰ることなんかないだろうって,"When I snuck out of the camp alone, I thought I probably wouldn't ever go back"
+kiko1-5,kiko,kiko,......帰りたくないわけじゃないんですけど,......It's not that I don't want to go back
+kiko1-5,kiko,kiko,帰りたくないんじゃなくて......帰れないだろうなって,It's not that I don't want to......I just don't think I'll be able to
+kiko1-5,kiko,kiko,だって,Because
+kiko1-5,kiko,kiko,こんな危ないのに、一人で出歩いてて,I'm out here alone even though it's this dangerous
+kiko1-5,kiko,kiko,ナツノさんは、今まで一人でずっと旅してたみたいだけど......,"You seem to have been traveling alone this whole time, Natsuno......"
+kiko1-5,kiko,kiko,わたし、ナツノさんみたいにたくましくないから,"I'm not as tough as you, Natsuno"
+kiko1-5,kiko,kiko,だから,So
+kiko1-5,kiko,kiko,どうせ......,Either way......
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,......いえ,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,そんな、褒められるようなものじゃないです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,ミノタローを探すために、自分の命を懸けてる......みたいな,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,そんなかっこいいことじゃないんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,なんていうか......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......うまく言えないですけど,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......こんなことになって,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,十五人で集まって、協力してなんとか飢えを凌いでいるような毎日で,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,それでも、子供たちがいつもお腹を空かせてて......,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,そんなのが......いつまでも続くとは、思えないじゃないですか,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,全部解決して、何もかももとどおりになることって、たぶん、ないじゃないですか,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,......ごめんなさい、こんな暗い感じで,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,でも、わたしの気持ちは、そんなに暗いわけじゃないっていうか,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,きっと、たぶんもうどうにもならないから,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,どうせなら、思い残すことがないようにしたいなって,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,なんていうか......そう思ったら、ちょっと勇気が出てきて,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,だから、前向きな気持ちなんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,ミノタローとはぐれて、家族で逃げてたときより、今の方がずっと気持ちが軽いんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,だから......,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,......いえ,......No
+kiko1-5,kiko,kiko,そんな、褒められるようなものじゃないです,It's nothing worth praising me for
+kiko1-5,kiko,kiko,ミノタローを探すために、自分の命を懸けてる......みたいな,It's not like I'm risking my life to find Minotaro......
+kiko1-5,kiko,kiko,そんなかっこいいことじゃないんです,It's not something that noble
+kiko1-5,kiko,kiko,なんていうか......,It’s just......
+kiko1-5,kiko,kiko,......うまく言えないですけど,......I don't know how to put it
+kiko1-5,kiko,kiko,......こんなことになって,......With things like this
+kiko1-5,kiko,kiko,十五人で集まって、協力してなんとか飢えを凌いでいるような毎日で,"Fifteen of us are living together, doing whatever we can to stave off hunger every day"
+kiko1-5,kiko,kiko,それでも、子供たちがいつもお腹を空かせてて......,And the children are still hungry all the time......
+kiko1-5,kiko,kiko,そんなのが......いつまでも続くとは、思えないじゃないですか,"You can't really think something like that is going to go on forever, can you?"
+kiko1-5,kiko,kiko,全部解決して、何もかももとどおりになることって、たぶん、ないじゃないですか,"There's probably no going back to how things were, even if we somehow solve everything"
+kiko1-5,kiko,kiko,......ごめんなさい、こんな暗い感じで,"......Sorry, this got kind of depressing"
+kiko1-5,kiko,kiko,でも、わたしの気持ちは、そんなに暗いわけじゃないっていうか,But it's not like I feel that depressed about it
+kiko1-5,kiko,kiko,きっと、たぶんもうどうにもならないから,Because there's probably nothing we can do anymore
+kiko1-5,kiko,kiko,どうせなら、思い残すことがないようにしたいなって,So if that’s how things are......I want to make sure I have no regrets
+kiko1-5,kiko,kiko,なんていうか......そう思ったら、ちょっと勇気が出てきて,"I don't know......Once I thought about it that way, I started to feel a little braver"
+kiko1-5,kiko,kiko,だから、前向きな気持ちなんです,That's why I feel like I can move forward
+kiko1-5,kiko,kiko,ミノタローとはぐれて、家族で逃げてたときより、今の方がずっと気持ちが軽いんです,I feel much lighter now than I did when my family and I were running away after I lost Minotaro
+kiko1-5,kiko,kiko,だから......,That’s why......
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,......わたし、キャンプに戻るつもりないんです,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,戻れるなんて......思ってないんです,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,......わたし、キャンプに戻るつもりないんです,......I'm not going back to the camp
+kiko1-5,kiko,kiko,戻れるなんて......思ってないんです,I don't think I'll ever be able to go back......
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,もし、わたしがいなくなっても,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,ナツノさんが、わたしを探しに行こうとしたり,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,わたしのせいで、気に病んだり,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,そういうのがないように......もしものときは、ナツノさんに、よろしくお伝えいただけると,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,うれしいな......と思って,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,もし、わたしがいなくなっても,If I disappear
+kiko1-5,kiko,kiko,ナツノさんが、わたしを探しに行こうとしたり,If Natsuno ever tries to come looking for me
+kiko1-5,kiko,kiko,わたしのせいで、気に病んだり,Or blames herself because of me
+kiko1-5,kiko,kiko,そういうのがないように......もしものときは、ナツノさんに、よろしくお伝えいただけると,"I just......hope that, if something happens, you can tell Natsuno not to worry about me"
+kiko1-5,kiko,kiko,うれしいな......と思って,I'd be glad......if you could
 kiko1-5,kiko,kiko,......,......
-kiko1-5,kiko,kiko,......ごめんなさい、こんなわがまま,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,嫌だったら、忘れてください,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,でも、もし,<PLEASE_TRANSLATE>
-kiko1-5,kiko,kiko,わかってもらえたら......わたし、うれしいです,<PLEASE_TRANSLATE>
+kiko1-5,kiko,kiko,......ごめんなさい、こんなわがまま,......I'm sorry for asking something so selfish
+kiko1-5,kiko,kiko,嫌だったら、忘れてください,"If you don’t like it, just forget I said anything"
+kiko1-5,kiko,kiko,でも、もし,But if
+kiko1-5,kiko,kiko,わかってもらえたら......わたし、うれしいです,If you can understand......I’ll be happy
 kiko1-5,2,2,,
 kiko1-5,questSuccess,questSuccess,,
 -,,,,
 kiko1-6,location01,location01,,
 kiko1-6,environment00,environment00,,
-kiko1-6,natsuno,natsuno,ちょっと......！,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,もう......なに？　いきなり走り出しちゃって......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,ちょっと......！,What the......!
+kiko1-6,natsuno,natsuno,もう......なに？　いきなり走り出しちゃって......,Jeez......What happened? You suddenly took off running......
 kiko1-6,survivor00,survivor00,right-right,right-right
-kiko1-6,natsuno,natsuno,......ま、ひょこひょこしてるのは今に始まったことじゃないっか,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......ま、ひょこひょこしてるのは今に始まったことじゃないっか,"......Well, it's not like you've only been acting like that today"
 kiko1-6,survivor01,survivor01,right-left,right-left
 kiko1-6,kiko,kiko,............,............
-kiko1-6,natsuno,natsuno,......ねぇって,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......ねぇって,......Hey
 kiko1-6,kiko,kiko,............,............
 kiko1-6,survivor00,survivor00,right-right,right-right
-kiko1-6,natsuno,natsuno,......ねぇ？,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......ねぇ？,......Hey?
 kiko1-6,natsuno,natsuno,............,............
-kiko1-6,natsuno,natsuno,......それって......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......それって......,......Is that......
 kiko1-6,scenario01,scenario01,,
 kiko1-6,survivor00,survivor00,1.0,1.0
 kiko1-6,survivor01,survivor01,1.0,1.0
 kiko1-6,1,1,,
 kiko1-6,natsuno,natsuno,............,............
 kiko1-6,kiko,kiko,............,............
-kiko1-6,kiko,kiko,......ミノタロー......です,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,......ミノタロー......です,......Minotaro......
 kiko1-6,natsuno,natsuno,............,............
-kiko1-6,natsuno,natsuno,......それが、ミノタロー......？,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......それが、ミノタロー......？,......That’s Minotaro......?
 kiko1-6,kiko,kiko,............,............
-kiko1-6,kiko,kiko,......はい,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......ごめんなさい,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,せっかく一緒に探してもらったのに,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,......はい,......Yes
+kiko1-6,kiko,kiko,......ごめんなさい,......I'm sorry
+kiko1-6,kiko,kiko,せっかく一緒に探してもらったのに,You went to all that trouble to look for her with me
 kiko1-6,kiko,kiko,............,............
-kiko1-6,kiko,kiko,......ミノタロー,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......もう、死んじゃってました......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,............,............
-kiko1-6,natsuno,natsuno,............,............
-kiko1-6,natsuno,natsuno,......けど、それって......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,......今日や昨日、死んだって感じじゃ......,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,......ミノタロー,......Minotaro
+kiko1-6,kiko,kiko,......もう、死んじゃってました......,......She's already dead......
 kiko1-6,kiko,kiko,............,............
 kiko1-6,natsuno,natsuno,............,............
-kiko1-6,kiko,kiko,......ほんとは、わかってたんです,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,まだミノタローとはぐれる前、一緒に逃げてたときに......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,怪物に襲われて......ミノタロー、もうそのときには......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......けど、それって......,......But then......
+kiko1-6,natsuno,natsuno,......今日や昨日、死んだって感じじゃ......,......It doesn't look like she died today or yesterday......
 kiko1-6,kiko,kiko,............,............
-kiko1-6,natsuno,natsuno,......じゃあ、どうしてわざわざ探しになんか......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......だって、かわいそうじゃないですか,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......こんなとこで、こんなになって......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......誰にも看取られずに、お墓も立ててもらえずに......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,............,............
+kiko1-6,kiko,kiko,......ほんとは、わかってたんです,"......I knew, really"
+kiko1-6,kiko,kiko,まだミノタローとはぐれる前、一緒に逃げてたときに......,"Even before I lost Minotaro, when we were running away together......"
+kiko1-6,kiko,kiko,怪物に襲われて......ミノタロー、もうそのときには......,"We were attacked by a monster......and Minotaro, by then......"
 kiko1-6,kiko,kiko,............,............
-kiko1-6,kiko,kiko,......ごめんね......一緒にいてあげられなくて......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,ミノタロー......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,痛かったよね......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,ごめんね......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,ごめん......ね......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......じゃあ、どうしてわざわざ探しになんか......,......Then why did you go looking for her all this way......?
+kiko1-6,kiko,kiko,......だって、かわいそうじゃないですか,......Because isn't it sad?
+kiko1-6,kiko,kiko,......こんなとこで、こんなになって......,"......To end up like this, in a place like this......"
+kiko1-6,kiko,kiko,......誰にも看取られずに、お墓も立ててもらえずに......,"......Without anyone there when she died, without anyone to bury her......"
+kiko1-6,kiko,kiko,............,............
+kiko1-6,kiko,kiko,......ごめんね......一緒にいてあげられなくて......,......I'm sorry......I couldn't stay with you......
+kiko1-6,kiko,kiko,ミノタロー......,Minotaro......
+kiko1-6,kiko,kiko,痛かったよね......,It must have hurt......
+kiko1-6,kiko,kiko,ごめんね......,I'm sorry......
+kiko1-6,kiko,kiko,ごめん......ね......,I'm so......sorry......
 kiko1-6,kiko,kiko,............,............
 kiko1-6,natsuno,natsuno,............,............
 kiko1-6,1,1,,
@@ -419,39 +419,39 @@ kiko1-6,natsuno,natsuno,............,............
 kiko1-6,survivor01,survivor01,right-right,right-right
 kiko1-6,kiko,kiko,............,............
 kiko1-6,1,1,,
-kiko1-6,kiko,kiko,......ありがとうございます,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......こんなことに付き合ってくれて,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,......ありがとうございます,......Thank you
+kiko1-6,kiko,kiko,......こんなことに付き合ってくれて,......For going through all of this with me
 kiko1-6,natsuno,natsuno,............,............
-kiko1-6,natsuno,natsuno,......いいよ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,わたしだって、後味悪いし,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,埋めて、お墓立てて......これで成仏できるかな、ミノタロー,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,お墓っていうか、そのへんに落ちてた石だけどね,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......いいよ,......It’s okay
+kiko1-6,natsuno,natsuno,わたしだって、後味悪いし,I would've felt awful leaving her like that too
+kiko1-6,kiko,kiko,埋めて、お墓立てて......これで成仏できるかな、ミノタロー,"If we bury her and make a grave......Do you think she’ll be at peace, Minotaro?"
+kiko1-6,natsuno,natsuno,お墓っていうか、そのへんに落ちてた石だけどね,"It's more like a grave marker, just a stone we found lying around"
 kiko1-6,survivor01,survivor01,right-right,right-right
-kiko1-6,kiko,kiko,いいんです、気持ちが大事です,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,本当に、ありがとうございました,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,いいんです、気持ちが大事です,"It's fine, what matters is how we feel"
+kiko1-6,kiko,kiko,本当に、ありがとうございました,"Thank you, really"
 kiko1-6,survivor00,survivor00,right-left,right-left
-kiko1-6,natsuno,natsuno,......どーいたしまして,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......どーいたしまして,......You're welcome
 kiko1-6,scenario02,scenario02,,
 kiko1-6,survivor01,survivor01,right-right,right-right
 kiko1-6,kiko,kiko,............,............
-kiko1-6,kiko,kiko,......じゃあ、わたしはこれで,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,......じゃあ、わたしはこれで,"......Well, I should get going"
 kiko1-6,survivor00,survivor00,right-left,right-left
-kiko1-6,natsuno,natsuno,え？,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,ミノタローは見つかったけど......これからも一緒に......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,いいえ。いいんです。わたしは、家族のいるキャンプに戻るので,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,え......でも......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,......なら、わたしもそこに行くよ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,一人でいるより安全だと思うし......,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,......いえ,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,これ以上迷惑かけられないです,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,でも──,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,ナツノさん,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,ごめんなさい,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,え？,Huh?
+kiko1-6,natsuno,natsuno,ミノタローは見つかったけど......これからも一緒に......,"We found Minotaro, but......aren't we going to stay together?"
+kiko1-6,kiko,kiko,いいえ。いいんです。わたしは、家族のいるキャンプに戻るので,No. It's okay. I'm going back to the camp where my family is
+kiko1-6,natsuno,natsuno,え......でも......,Huh......But......
+kiko1-6,natsuno,natsuno,......なら、わたしもそこに行くよ,......Then I'll go there with you
+kiko1-6,natsuno,natsuno,一人でいるより安全だと思うし......,I think it's safer than being alone......
+kiko1-6,kiko,kiko,......いえ,......No
+kiko1-6,kiko,kiko,これ以上迷惑かけられないです,I can't keep causing you trouble
+kiko1-6,natsuno,natsuno,でも──,But…..
+kiko1-6,kiko,kiko,ナツノさん,Natsuno
+kiko1-6,kiko,kiko,ごめんなさい,I'm sorry
 kiko1-6,survivor01,survivor01,1.0,1.0
-kiko1-6,kiko,kiko,わたしは......ここで,<PLEASE_TRANSLATE>
-kiko1-6,kiko,kiko,さよならです,<PLEASE_TRANSLATE>
+kiko1-6,kiko,kiko,わたしは......ここで,I'm......staying here
+kiko1-6,kiko,kiko,さよならです,Goodbye
 kiko1-6,1,1,,
-kiko1-6,natsuno,natsuno,え......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,え......,Huh......
 kiko1-6,natsuno,natsuno,......,......
 kiko1-6,natsuno,natsuno,............,............
 kiko1-6,3,3,,
@@ -464,46 +464,46 @@ kiko1-6,2,2,,
 kiko1-6,survivor00,survivor00,right-right,right-right
 kiko1-6,natsuno,natsuno,......,......
 kiko1-6,natsuno,natsuno,............,............
-kiko1-6,natsuno,natsuno,......なに？,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......なに？,......What?
 kiko1-6,survivor00,survivor00,right-right,right-right
-kiko1-6,natsuno,natsuno,......わたしだってそう思うよ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,けど......追いかけて、なんて言えばいいの？,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......わたしだってそう思うよ,......I feel the same way
+kiko1-6,natsuno,natsuno,けど......追いかけて、なんて言えばいいの？,"But......if I go after her, what am I supposed to say?"
 kiko1-6,natsuno,natsuno,......,......
-kiko1-6,natsuno,natsuno,だって、キコは......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,だって、キコは......,Because Kiko......
 kiko1-6,natsuno,natsuno,......,......
-kiko1-6,natsuno,natsuno,キコは......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,キコは......,Kiko......
 kiko1-6,survivor00,survivor00,right-right,right-right
-kiko1-6,natsuno,natsuno,......最初から、帰るつもりなんか、なかったんでしょ？,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......最初から、帰るつもりなんか、なかったんでしょ？,"......She never intended to go back in the first place, did she?"
 kiko1-6,natsuno,natsuno,......,......
-kiko1-6,natsuno,natsuno,......実はね,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,前に、あなたとキコが二人だけで話してたの......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,ちょっと聞いちゃったんだ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,......だから、知ってる,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,キコがキャンプの場所憶えてないって,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,......帰るつもりなんか、ないって,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......実はね,......Actually
+kiko1-6,natsuno,natsuno,前に、あなたとキコが二人だけで話してたの......,I happened to overhear you and Kiko talking alone before......
+kiko1-6,natsuno,natsuno,ちょっと聞いちゃったんだ,I only heard a little
+kiko1-6,natsuno,natsuno,......だから、知ってる,......So I know
+kiko1-6,natsuno,natsuno,キコがキャンプの場所憶えてないって,That Kiko doesn't remember where the camp is
+kiko1-6,natsuno,natsuno,......帰るつもりなんか、ないって,......That she never intended to go back
 kiko1-6,natsuno,natsuno,......,......
 kiko1-6,survivor00,survivor00,right-right,right-right
-kiko1-6,natsuno,natsuno,......わたしさ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,ちょっと、わかるんだ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,キコの言ってたこと,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,ミノタローをおいて逃げたこと、ずっと後悔しててさ,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,他のことはもういいから、せめてミノタローだけは見つけたいって,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,最後まで後悔したくないって,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,こんな世の中だけど......こんな世の中だから、やれることはやりたいって,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,そういうの......ちょっと、わかる,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,わたしだって──,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......わたしさ,......You know
+kiko1-6,natsuno,natsuno,ちょっと、わかるんだ,I kind of understand
+kiko1-6,natsuno,natsuno,キコの言ってたこと,What Kiko was saying
+kiko1-6,natsuno,natsuno,ミノタローをおいて逃げたこと、ずっと後悔しててさ,She'd been regretting leaving Minotaro behind when she ran away
+kiko1-6,natsuno,natsuno,他のことはもういいから、せめてミノタローだけは見つけたいって,"She wanted to find Minotaro, even if nothing else mattered"
+kiko1-6,natsuno,natsuno,最後まで後悔したくないって,She didn't want to have any regrets in the end
+kiko1-6,natsuno,natsuno,こんな世の中だけど......こんな世の中だから、やれることはやりたいって,"Even in a world like this......especially because it’s like this, she wanted to do whatever she still could"
+kiko1-6,natsuno,natsuno,そういうの......ちょっと、わかる,I kind of understand......that feeling
+kiko1-6,natsuno,natsuno,わたしだって──,"I mean, even I……"
 kiko1-6,natsuno,natsuno,......,......
-kiko1-6,natsuno,natsuno,......だから,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,だから......わかんないよ......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,キコのこと、追いかけたらよかったのか,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,追いかけて......それで、なんて言ったらいいのか......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,わかんない......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,わかんないよ......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,......だから,......That’s why
+kiko1-6,natsuno,natsuno,だから......わかんないよ......,So......I don't know......
+kiko1-6,natsuno,natsuno,キコのこと、追いかけたらよかったのか,Whether I should’ve gone after Kiko
+kiko1-6,natsuno,natsuno,追いかけて......それで、なんて言ったらいいのか......,Or gone after her......and then what I would’ve said......
+kiko1-6,natsuno,natsuno,わかんない......,I don't know......
+kiko1-6,natsuno,natsuno,わかんないよ......,I don't know......
 kiko1-6,natsuno,natsuno,......,......
 kiko1-6,survivor00,survivor00,2.0,2.0
 kiko1-6,2,2,,
-kiko1-6,natsuno,natsuno,ねぇ......わたし......,<PLEASE_TRANSLATE>
-kiko1-6,natsuno,natsuno,どうしたら、よかったのかな......,<PLEASE_TRANSLATE>
+kiko1-6,natsuno,natsuno,ねぇ......わたし......,Hey......I......
+kiko1-6,natsuno,natsuno,どうしたら、よかったのかな......,What should I have done......?
 kiko1-6,3,3,,
 kiko1-6,kiko,kiko,,
 kiko1-6,ending,ending,kiko1,kiko1

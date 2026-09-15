@@ -1,9 +1,9 @@
 id,_text<jpn>,text<eng>,_name<jpn>,name<eng>
-date00,H.32/07/23- プロローグ,<PLEASE_TRANSLATE>,プロローグ,<PLEASE_TRANSLATE>
-date01,H.32/07/24- エピソード 1,<PLEASE_TRANSLATE>,Ep.1,Ep.1
-date02,H.32/07/27- エピソード 2,<PLEASE_TRANSLATE>,Ep.2,Ep.2
-date03,H.32/07/30- エピソード 3,<PLEASE_TRANSLATE>,Ep.3,Ep.3
-date04,H.32/08/01- エピソード 4,<PLEASE_TRANSLATE>,Ep.4,Ep.4
+date00,H.32/07/23- プロローグ,H.32/07/23- Prologue,プロローグ,Prologue
+date01,H.32/07/24- エピソード 1,H.32/07/24- Episodes 1,Ep.1,Ep.1
+date02,H.32/07/27- エピソード 2,H.32/07/27- Episodes 2,Ep.2,Ep.2
+date03,H.32/07/30- エピソード 3,H.32/07/30- Episodes 3,Ep.3,Ep.3
+date04,H.32/08/01- エピソード 4,H.32/08/01- Episodes 4,Ep.4,Ep.4
 -,,,,
 date05,H.32/08/03- エピソード 5,<PLEASE_TRANSLATE>,Ep.5,Ep.5
 date06,H.32/08/06- エピソード 6,<PLEASE_TRANSLATE>,Ep.6,Ep.6
