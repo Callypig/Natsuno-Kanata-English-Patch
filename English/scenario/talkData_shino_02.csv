@@ -3,39 +3,39 @@ id,_arg0<jpn>,arg0<eng>,_arg1<jpn>,arg1<eng>
 shino2-1,scenario05,scenario05,,
 shino2-1,,,,
 shino2-1,environment00,environment00,,
-shino2-1,???,???,ねぇ！,Hey!
+shino2-1,???,???,ねぇ！,<PLEASE_TRANSLATE>
 shino2-1,1,1,,
 shino2-1,scenario24,scenario24,1.0,1.0
 shino2-1,,,,
 shino2-1,1,1,,
-shino2-1,???,???,だーれだ！,Guess who!
-shino2-1,natsuno,natsuno,え......,Huh......
-shino2-1,natsuno,natsuno,だれ......？,Who......?
+shino2-1,???,???,だーれだ！,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,え......,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,だれ......？,<PLEASE_TRANSLATE>
 shino2-1,1,1,,
 shino2-1,2.0,2.0,1,1
 shino2-1,1,1,,
 shino2-1,survivor00,survivor00,right-right,right-right
-shino2-1,natsuno,natsuno,え......？,Huh......?
+shino2-1,natsuno,natsuno,え......？,<PLEASE_TRANSLATE>
 shino2-1,1,1,,
 shino2-1,event-focusFg-left00,event-focusFg-left00,,
 shino2-1,1,1,,
-shino2-1,???,???,じゃーん！,Ta-da!
+shino2-1,???,???,じゃーん！,<PLEASE_TRANSLATE>
 shino2-1,environment00,environment00,,
 shino2-1,survivor02,survivor02,right-left,right-left
 shino2-1,1,1,,
-shino2-1,shino,shino,シノちゃんでした！,It was Shino!
-shino2-1,shino,shino,どう？,Well?
-shino2-1,shino,shino,びっくりした？,Surprised?
-shino2-1,shino,shino,びっくりしたんじゃない？,"You were surprised, weren't you?"
+shino2-1,shino,shino,シノちゃんでした！,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,どう？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,びっくりした？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,びっくりしたんじゃない？,<PLEASE_TRANSLATE>
 shino2-1,natsuno,natsuno,......,......
 shino2-1,shino,shino,......,......
 shino2-1,natsuno,natsuno,............,............
 shino2-1,survivor02,survivor02,right-left,right-left
-shino2-1,shino,shino,......ナツノちゃん？,......Natsuno-chan?
+shino2-1,shino,shino,......ナツノちゃん？,<PLEASE_TRANSLATE>
 shino2-1,event-reset01,event-reset01,,
 shino2-1,2,2,,
-shino2-1,natsuno,natsuno,......びっくりしたっていうか,......I wouldn't exactly call it surprised
-shino2-1,natsuno,natsuno,え......？,Hum...…?
+shino2-1,natsuno,natsuno,......びっくりしたっていうか,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,え......？,<PLEASE_TRANSLATE>
 shino2-1,1,1,,
 shino2-1,1,1,,
 shino2-1,event-reset00,event-reset00,,
@@ -45,59 +45,59 @@ shino2-1,survivor02,survivor02,right-left,right-left
 shino2-1,1,1,,
 shino2-1,character02,character02,,
 shino2-1,1,1,,
-shino2-1,natsuno,natsuno,ほんと,Seriously….
-shino2-1,natsuno,natsuno,心臓止まるかと思ったって,I thought my heart was gonna stop
-shino2-1,shino,shino,あははは,Ahahaha
-shino2-1,shino,shino,ナツノちゃんの心臓はこれくらいじゃ止まらないよ！,Natsuno's heart isn't gonna stop from something like this!
-shino2-1,shino,shino,だいじょーぶ！,You're fine!
-shino2-1,natsuno,natsuno,......失礼じゃない？,......Isn't that a little rude?
-shino2-1,shino,shino,心臓に毛生えてるもんね,"You've got hair growing on your heart, after all"
-shino2-1,natsuno,natsuno,......失礼すぎない？,......Isn't that a little too rude?
-shino2-1,shino,shino,だって、そうじゃん？,"I mean, I'm not wrong, am I?"
+shino2-1,natsuno,natsuno,ほんと,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,心臓止まるかと思ったって,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,あははは,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,ナツノちゃんの心臓はこれくらいじゃ止まらないよ！,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,だいじょーぶ！,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,......失礼じゃない？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,心臓に毛生えてるもんね,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,......失礼すぎない？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,だって、そうじゃん？,<PLEASE_TRANSLATE>
 shino2-1,natsuno,natsuno,......,......
-shino2-1,natsuno,natsuno,......そうかもだけど,......Maybe
-shino2-1,natsuno,natsuno,そうじゃないところも、ある,But there are things that can still get to me
+shino2-1,natsuno,natsuno,......そうかもだけど,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,そうじゃないところも、ある,<PLEASE_TRANSLATE>
 shino2-1,survivor02,survivor02,right-left,right-left
-shino2-1,shino,shino,......？,......?
-shino2-1,shino,shino,ほほう？,Oho?
-shino2-1,shino,shino,何かあった？,Did something happen?
-shino2-1,shino,shino,あたしとさよならしてから,After you said goodbye to me
+shino2-1,shino,shino,......？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,ほほう？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,何かあった？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,あたしとさよならしてから,<PLEASE_TRANSLATE>
 shino2-1,survivor00,survivor00,right-right,right-right
-shino2-1,natsuno,natsuno,......まぁ,......Well
-shino2-1,natsuno,natsuno,いろいろと,A lot of things
+shino2-1,natsuno,natsuno,......まぁ,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,いろいろと,<PLEASE_TRANSLATE>
 shino2-1,survivor02,survivor02,right-left,right-left
-shino2-1,shino,shino,へぇぇ？,Ooh?
-shino2-1,shino,shino,そっかぁ,I see
-shino2-1,shino,shino,いろいろかぁ,"A lot of things, huh"
-shino2-1,shino,shino,ナツノちゃんも乙女になっちゃてー,Natsuno-chan's gone all girly on me~
+shino2-1,shino,shino,へぇぇ？,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,そっかぁ,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,いろいろかぁ,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,ナツノちゃんも乙女になっちゃてー,<PLEASE_TRANSLATE>
 shino2-1,survivor00,survivor00,right-right,right-right
 shino2-1,natsuno,natsuno,......,......
-shino2-1,natsuno,natsuno,......なに想像してるか知らないけど,......I don't know what you're imagining
-shino2-1,natsuno,natsuno,たぶん、そうじゃない,But that's probably not it
+shino2-1,natsuno,natsuno,......なに想像してるか知らないけど,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,たぶん、そうじゃない,<PLEASE_TRANSLATE>
 shino2-1,natsuno,natsuno,......,......
 shino2-1,survivor00,survivor00,right-right,right-right
-shino2-1,natsuno,natsuno,......それより,......More importantly
-shino2-1,natsuno,natsuno,シノは......,Shino......
-shino2-1,shino,shino,うん？,Hmm?
-shino2-1,natsuno,natsuno,......帰れたの？,......Did you make it back?
-shino2-1,natsuno,natsuno,故郷,Your hometown
+shino2-1,natsuno,natsuno,......それより,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,シノは......,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,うん？,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,......帰れたの？,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,故郷,<PLEASE_TRANSLATE>
 shino2-1,shino,shino,......,......
-shino2-1,shino,shino,......もちろん,......Of course
-shino2-1,shino,shino,だから、会いに来たんだよ,That's why I came to see you
-shino2-1,shino,shino,故郷に帰れて、こっちに戻ってこれたらまた会おうって,We promised we'd meet again if I made it home and managed to come back here
-shino2-1,shino,shino,約束したからね,"Because we'd promised, remember?"
+shino2-1,shino,shino,......もちろん,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,だから、会いに来たんだよ,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,故郷に帰れて、こっちに戻ってこれたらまた会おうって,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,約束したからね,<PLEASE_TRANSLATE>
 shino2-1,survivor00,survivor00,right-right,right-right
-shino2-1,natsuno,natsuno,......うん,......Yeah
-shino2-1,natsuno,natsuno,憶えてる,I remember
+shino2-1,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,憶えてる,<PLEASE_TRANSLATE>
 shino2-1,natsuno,natsuno,......,......
-shino2-1,natsuno,natsuno,ええと......,Um......
-shino2-1,natsuno,natsuno,......おかえり？,......Welcome home?
+shino2-1,natsuno,natsuno,ええと......,<PLEASE_TRANSLATE>
+shino2-1,natsuno,natsuno,......おかえり？,<PLEASE_TRANSLATE>
 shino2-1,survivor02,survivor02,right-left,right-left
 shino2-1,shino,shino,......,......
 shino2-1,survivor02,survivor02,right-left,right-left
-shino2-1,shino,shino,......はは,......Haha
-shino2-1,shino,shino,うん,Yeah
-shino2-1,shino,shino,ただいま！,I'm home!
+shino2-1,shino,shino,......はは,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,うん,<PLEASE_TRANSLATE>
+shino2-1,shino,shino,ただいま！,<PLEASE_TRANSLATE>
 shino2-1,1,1,,
 shino2-1,shino,shino,,
 shino2-1,questSuccess,questSuccess,,
@@ -107,70 +107,70 @@ shino2-2,survivor00,survivor00,right-right,right-right
 shino2-2,survivor02,survivor02,right-left,right-left
 shino2-2,character02,character02,,
 shino2-2,1,1,,
-shino2-2,natsuno,natsuno,......ってわけ,......That's how it happened
+shino2-2,natsuno,natsuno,......ってわけ,<PLEASE_TRANSLATE>
 shino2-2,shino,shino,......,......
 shino2-2,shino,shino,............,............
 shino2-2,shino,shino,........................,........................
-shino2-2,shino,shino,......いやいや,"......No, no"
-shino2-2,shino,shino,ってわけ、みたいな話じゃなかったくない？,"Wasn't it a little more complicated than a ""that's how it happened"" kind of story?"
-shino2-2,shino,shino,なにそれ,What's that supposed to mean?
-shino2-2,shino,shino,あたしとさよならしたあと、そんな壮大なことになってたの......？,"After you said goodbye to me, all that happened to you......?"
-shino2-2,natsuno,natsuno,まぁ......,Well......
-shino2-2,natsuno,natsuno,壮大といえば壮大だし,I guess you could call it pretty epic
-shino2-2,natsuno,natsuno,何もなかったといえば、何もなかったというか,"Though, if you say nothing happened, then I guess nothing really happened either"
-shino2-2,shino,shino,いや壮大でしょ,"No, it was definitely epic"
-shino2-2,shino,shino,壮大過ぎて、正直、全然わかんなかったよ,"It was so huge, honestly, I couldn't make sense of any of it"
-shino2-2,shino,shino,信じられないっていうか......え？,"I mean, I can't believe it......Huh?"
-shino2-2,shino,shino,ここってコンピュータの中にある世界なの？,This place is a world inside a computer?
-shino2-2,shino,shino,そんなわけなくない？,"That can't be right, can it?"
+shino2-2,shino,shino,......いやいや,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ってわけ、みたいな話じゃなかったくない？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,なにそれ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,あたしとさよならしたあと、そんな壮大なことになってたの......？,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,まぁ......,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,壮大といえば壮大だし,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,何もなかったといえば、何もなかったというか,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,いや壮大でしょ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,壮大過ぎて、正直、全然わかんなかったよ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,信じられないっていうか......え？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ここってコンピュータの中にある世界なの？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,そんなわけなくない？,<PLEASE_TRANSLATE>
 shino2-2,shino,shino,......,......
-shino2-2,shino,shino,......そんなわけ、ある？,......Could it really be?
+shino2-2,shino,shino,......そんなわけ、ある？,<PLEASE_TRANSLATE>
 shino2-2,natsuno,natsuno,......,......
 shino2-2,survivor00,survivor00,right-right,right-right
-shino2-2,natsuno,natsuno,......ははは,......Hahaha
-shino2-2,natsuno,natsuno,なんか、シノは元気で,"I guess I'm just glad you're doing okay, Shino"
-shino2-2,natsuno,natsuno,よかった,I'm glad
-shino2-2,shino,shino,笑いごとじゃないんだけど,It's not really something to laugh about
+shino2-2,natsuno,natsuno,......ははは,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,なんか、シノは元気で,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,よかった,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,笑いごとじゃないんだけど,<PLEASE_TRANSLATE>
 shino2-2,shino,shino,......,......
-shino2-2,shino,shino,......あーあ,......Geez
-shino2-2,shino,shino,今は、まだ全然信じらんないから平気だけど,"Right now, I'm fine because I still can't believe any of it"
-shino2-2,shino,shino,夜中、寝る前とかすんごく怖くなるような気がしてきた,"But I have a feeling it's gonna get really scary at night, when I'm about to go to sleep"
-shino2-2,shino,shino,もー,Ugh
-shino2-2,shino,shino,ナツノちゃんのせいじゃん,"This is totally your fault, Natsuno-chan"
+shino2-2,shino,shino,......あーあ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,今は、まだ全然信じらんないから平気だけど,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,夜中、寝る前とかすんごく怖くなるような気がしてきた,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,もー,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ナツノちゃんのせいじゃん,<PLEASE_TRANSLATE>
 shino2-2,survivor00,survivor00,right-right,right-right
-shino2-2,natsuno,natsuno,わたしのせい、なの......？,It's my fault......?
-shino2-2,shino,shino,ナツノちゃんのせいでしょ......,It is your fault......
+shino2-2,natsuno,natsuno,わたしのせい、なの......？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ナツノちゃんのせいでしょ......,<PLEASE_TRANSLATE>
 shino2-2,natsuno,natsuno,......,......
-shino2-2,natsuno,natsuno,......まぁ,......Well
-shino2-2,natsuno,natsuno,そういうわけだから,"Anyway, that's what happened"
-shino2-2,natsuno,natsuno,この話は、これでおしまい,That's the end of that story
-shino2-2,natsuno,natsuno,それより、シノの話、聞かせてよ,"More importantly, tell me about you, Shino"
-shino2-2,natsuno,natsuno,故郷に帰ってみてどうだった？　とか,"Like, what was it like going back to your hometown?"
-shino2-2,natsuno,natsuno,いろいろあるでしょ？,"I'm sure there's lots more to tell, right?"
-shino2-2,shino,shino,えー？,Huh?
-shino2-2,shino,shino,この話のあとに......？,Right after that story......?
-shino2-2,shino,shino,......まぁ,......Well
-shino2-2,shino,shino,これ以上聞いても、頭の中ごちゃごちゃになりそうだから,"If I hear any more, I think my head's just gonna get even more mixed up"
-shino2-2,shino,shino,わかったよ......あたしの話、ね,"Okay......my story, huh"
-shino2-2,shino,shino,えーと......何から話そうかな,Um......where should I start?
-shino2-2,natsuno,natsuno,んー......,Hmm......
-shino2-2,natsuno,natsuno,そもそも、どうやって故郷まで帰ったの？,"For starters, how did you even make it all the way back home?"
-shino2-2,natsuno,natsuno,歩いて帰った......わけないよね？,You didn't walk there......right?
-shino2-2,shino,shino,あー,Oh
-shino2-2,shino,shino,そうだね,Yeah
+shino2-2,natsuno,natsuno,......まぁ,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,そういうわけだから,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,この話は、これでおしまい,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,それより、シノの話、聞かせてよ,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,故郷に帰ってみてどうだった？　とか,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,いろいろあるでしょ？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,えー？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,この話のあとに......？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,......まぁ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,これ以上聞いても、頭の中ごちゃごちゃになりそうだから,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,わかったよ......あたしの話、ね,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,えーと......何から話そうかな,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,んー......,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,そもそも、どうやって故郷まで帰ったの？,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,歩いて帰った......わけないよね？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,あー,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,そうだね,<PLEASE_TRANSLATE>
 shino2-2,survivor02,survivor02,right-left,right-left
-shino2-2,shino,shino,じゃあ、その話からにしよ！,Then let's start with that!
-shino2-2,shino,shino,あーあ！,Aww!
-shino2-2,shino,shino,ナツノちゃんにも会わせたかったなー！,"I wish I could've introduced you to her, Natsuno-chan!"
-shino2-2,natsuno,natsuno,？,?
-shino2-2,shino,shino,あたし、最初はもちろん、長野に向かって一人寂しく歩いてたんだけど,"So, of course, I started out walking toward Nagano all alone and lonely"
-shino2-2,shino,shino,ナツノちゃんと別れて、何日かした頃だったかな,"It was a few days after we said goodbye, I think"
-shino2-2,shino,shino,大きい道路を歩いてるところで、ある人に会ったの,I was walking along a big road when I met someone
+shino2-2,shino,shino,じゃあ、その話からにしよ！,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,あーあ！,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ナツノちゃんにも会わせたかったなー！,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,あたし、最初はもちろん、長野に向かって一人寂しく歩いてたんだけど,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ナツノちゃんと別れて、何日かした頃だったかな,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,大きい道路を歩いてるところで、ある人に会ったの,<PLEASE_TRANSLATE>
 shino2-2,,,,
 shino2-2,1,1,,
-shino2-2,shino,shino,バイクに乗った、めっっっっちゃきれいなお姉さん！,A superrrrrrrrr pretty lady riding a motorcycle!
+shino2-2,shino,shino,バイクに乗った、めっっっっちゃきれいなお姉さん！,<PLEASE_TRANSLATE>
 shino2-2,natsuno,natsuno,......,......
-shino2-2,natsuno,natsuno,......え？,......Huh?
+shino2-2,natsuno,natsuno,......え？,<PLEASE_TRANSLATE>
 shino2-2,2,2,,
 shino2-2,1,1,,
 shino2-2,,,,
@@ -179,65 +179,65 @@ shino2-2,survivor02,survivor02,right-left,right-left
 shino2-2,1,1,,
 shino2-2,1,1,,
 shino2-2,character02,character02,,
-shino2-2,shino,shino,えー！,No way!
-shino2-2,shino,shino,じゃあ、ヒナセさんが言ってた、前に会ったかわいい女の子ってナツノちゃんなの？,"Then the cute girl Hinase-san told me she'd met before was you, Natsuno-chan?"
-shino2-2,natsuno,natsuno,シノを故郷まで乗せてくれた人、ヒナセさんなの......？,The person who gave Shino a ride all the way home was Hinase-san......?
-shino2-2,shino,shino,はぇー,Whoa
-shino2-2,shino,shino,こりゃまた,"Well, would you look at that"
-shino2-2,shino,shino,すんごい偶然,What an incredible coincidence
-shino2-2,natsuno,natsuno,そいえば、ヒナセさん、山の中の町に行きたいとか言ってたような......,"Come to think of it, I think Hinase-san said she wanted to go to a town in the mountains......"
-shino2-2,shino,shino,そう！,That's right!
-shino2-2,shino,shino,じゃあ、ちょうどいいじゃんって話になって,So we figured it worked out perfectly
-shino2-2,shino,shino,長野まで乗せてくれたの,And she gave me a ride all the way to Nagano
-shino2-2,natsuno,natsuno,そうなんだ......,I see......
-shino2-2,shino,shino,ちぇー,"Aww, man"
-shino2-2,shino,shino,せっかく、ちょーきれいなお姉さんに会った自慢だったのにー,And I was so proud of meeting such a suuuper pretty lady~
-shino2-2,natsuno,natsuno,そんなこと言われても......,What am I supposed to say to that......
-shino2-2,shino,shino,じゃあ、故郷に帰るまでのおもしろい話、もうおしまいだよ,"Well, there goes my interesting story about getting home"
-shino2-2,shino,shino,ヒナセさんと会ったことあるんじゃ、あの箱入り娘天然トークも目新しさないでしょ？,"Since you've already met Hinase-san, my sheltered-girl-natural-airhead stories probably aren't very exciting anymore, huh?"
-shino2-2,natsuno,natsuno,まぁ......そうかも,Well......maybe
-shino2-2,natsuno,natsuno,でも別に、おもしろい話じゃなくていいよ,But it doesn't have to be an interesting story
-shino2-2,natsuno,natsuno,ヒナセさんと一緒に故郷に戻って......どうだった？,What was it like going back home with Hinase-san......?
-shino2-2,natsuno,natsuno,どんな感じだった？,What did it feel like?
+shino2-2,shino,shino,えー！,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,じゃあ、ヒナセさんが言ってた、前に会ったかわいい女の子ってナツノちゃんなの？,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,シノを故郷まで乗せてくれた人、ヒナセさんなの......？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,はぇー,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,こりゃまた,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,すんごい偶然,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,そいえば、ヒナセさん、山の中の町に行きたいとか言ってたような......,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,そう！,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,じゃあ、ちょうどいいじゃんって話になって,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,長野まで乗せてくれたの,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,そうなんだ......,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ちぇー,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,せっかく、ちょーきれいなお姉さんに会った自慢だったのにー,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,そんなこと言われても......,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,じゃあ、故郷に帰るまでのおもしろい話、もうおしまいだよ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ヒナセさんと会ったことあるんじゃ、あの箱入り娘天然トークも目新しさないでしょ？,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,まぁ......そうかも,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,でも別に、おもしろい話じゃなくていいよ,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,ヒナセさんと一緒に故郷に戻って......どうだった？,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,どんな感じだった？,<PLEASE_TRANSLATE>
 shino2-2,shino,shino,......,......
 shino2-2,,,,
-shino2-2,shino,shino,......どんな感じだったかっていうと,......As for what it felt like
-shino2-2,shino,shino,どんな感じでもなかったかな,I guess it didn't really feel like anything
-shino2-2,natsuno,natsuno,......？,......?
+shino2-2,shino,shino,......どんな感じだったかっていうと,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,どんな感じでもなかったかな,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,......？,<PLEASE_TRANSLATE>
 shino2-2,scenario03,scenario03,,
-shino2-2,shino,shino,町は、まぁ、想像どおりの感じだった,The town was more or less what I'd imagined
-shino2-2,shino,shino,人は誰もいなくて,There was no one there
-shino2-2,shino,shino,燃えたり、壊れたりしてる建物もあって,Some buildings had burned down or fallen apart
-shino2-2,shino,shino,だけど、そのまま残ってるところがほとんどで,But most of it was still standing just as it was
-shino2-2,shino,shino,この辺の街と同じ,Just like the towns around here
-shino2-2,shino,shino,誰もいなくなって、がらんとした町だった,"It was an empty town, with everyone gone"
-shino2-2,shino,shino,きっとみんな、どこかに逃げたんだろうな......,I'm sure everyone must've fled somewhere......
+shino2-2,shino,shino,町は、まぁ、想像どおりの感じだった,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,人は誰もいなくて,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,燃えたり、壊れたりしてる建物もあって,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,だけど、そのまま残ってるところがほとんどで,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,この辺の街と同じ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,誰もいなくなって、がらんとした町だった,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,きっとみんな、どこかに逃げたんだろうな......,<PLEASE_TRANSLATE>
 shino2-2,shino,shino,......,......
-shino2-2,shino,shino,あたしが住んでた頃と、全然同じ景色には見えなかったけど,It didn't look anything like the town I remembered from when I lived there
-shino2-2,shino,shino,でも......あたしの知ってる町だった,But......it was the town I knew
-shino2-2,shino,shino,それを見て、あたしは,And when I saw it
+shino2-2,shino,shino,あたしが住んでた頃と、全然同じ景色には見えなかったけど,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,でも......あたしの知ってる町だった,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,それを見て、あたしは,<PLEASE_TRANSLATE>
 shino2-2,survivor02,survivor02,right-left,right-left
-shino2-2,shino,shino,......何も思わなかった,......I didn't feel anything
-shino2-2,natsuno,natsuno,え......？,Huh......?
-shino2-2,shino,shino,懐かしいって気にはなったよ,I did feel nostalgic
-shino2-2,shino,shino,変わり果てたところもあって、それは悲しいなって思った,"There were parts that had changed beyond recognition, and that made me sad"
-shino2-2,shino,shino,けど......なんていうか,But......how do I put it
-shino2-2,shino,shino,自分で期待してたほど、何か感じることはなかったっていうか,I just didn't feel as much as I'd expected to
-shino2-2,shino,shino,そういえばこんな町だったなぁって思うだけで,"I just thought, Oh yeah, this is what the town was like"
-shino2-2,shino,shino,......それだけだった,......And that was it
+shino2-2,shino,shino,......何も思わなかった,<PLEASE_TRANSLATE>
+shino2-2,natsuno,natsuno,え......？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,懐かしいって気にはなったよ,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,変わり果てたところもあって、それは悲しいなって思った,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,けど......なんていうか,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,自分で期待してたほど、何か感じることはなかったっていうか,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,そういえばこんな町だったなぁって思うだけで,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,......それだけだった,<PLEASE_TRANSLATE>
 shino2-2,shino,shino,......,......
-shino2-2,shino,shino,単に、あたしが期待しすぎちゃってただけなんだよね,I guess I was simply expecting too much
-shino2-2,shino,shino,故郷に帰れなかったこと、後悔してて,I regretted never being able to go back home
-shino2-2,shino,shino,それで、帰ったら何かあると思い込んでて,So I'd convinced myself that something would happen when I finally did
-shino2-2,shino,shino,気が晴れるとか、すっきりするとか,"That I'd feel better, or relieved"
-shino2-2,shino,shino,生きる勇気が湧くとか......何かもっと、すごいこと、期待してた,"That I'd find the courage to keep living......I was expecting something more, something amazing"
-shino2-2,shino,shino,でも......,But......
-shino2-2,shino,shino,あるじゃん？,You know?
-shino2-2,shino,shino,ずっとほしいと思ってたものなのに、手に入れたらどうでもよくなっちゃうみたいな......そういうこと,"Like when there's something you've wanted forever, but once you finally get it, you don't care about it anymore......Something like that"
-shino2-2,shino,shino,そんな感じで......,That's how it felt......
-shino2-2,shino,shino,いざ故郷に戻っても、あたし、何も思えなかった,"Even after I finally went home, I didn't feel anything"
-shino2-2,shino,shino,あそこには......,All that was there......
-shino2-2,shino,shino,ただ、昔住んでた町があるだけだった,Was just the town where I used to live
+shino2-2,shino,shino,単に、あたしが期待しすぎちゃってただけなんだよね,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,故郷に帰れなかったこと、後悔してて,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,それで、帰ったら何かあると思い込んでて,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,気が晴れるとか、すっきりするとか,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,生きる勇気が湧くとか......何かもっと、すごいこと、期待してた,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,でも......,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,あるじゃん？,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ずっとほしいと思ってたものなのに、手に入れたらどうでもよくなっちゃうみたいな......そういうこと,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,そんな感じで......,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,いざ故郷に戻っても、あたし、何も思えなかった,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,あそこには......,<PLEASE_TRANSLATE>
+shino2-2,shino,shino,ただ、昔住んでた町があるだけだった,<PLEASE_TRANSLATE>
 shino2-2,2,2,,
 shino2-2,questSuccess,questSuccess,,
 -,,,,
@@ -246,53 +246,53 @@ shino2-3,survivor00,survivor00,right-right,right-right
 shino2-3,survivor02,survivor02,right-left,right-left
 shino2-3,scenario04,scenario04,,
 shino2-3,2,2,,
-shino2-3,shino,shino,故郷に戻って、でも、何も思えなくて,"I went home, but I didn't feel anything"
-shino2-3,shino,shino,なんでだろうって不思議だったけど,"I wondered why, but it didn't take long to figure it out"
-shino2-3,shino,shino,でも......すぐ、わかったんだ,But......I realized right away
-shino2-3,shino,shino,町に帰りたいって思ってたのは、ただのないものねだりなんだよ,I wanted to go back to that town because I was just wanting what I couldn't have
-shino2-3,shino,shino,故郷に帰れなかったから、帰りたいって思ってただけで,I only wanted to go back because I couldn't go home
-shino2-3,shino,shino,帰ったからって、何かあるわけじゃなかった,Going back didn't mean there was something waiting for me
-shino2-3,shino,shino,ただ、そのときないものをほしがってただけ,I just wanted something I didn't have at the time
-shino2-3,shino,shino,そんなのわかってるつもりだったけど......,I thought I understood that......
-shino2-3,shino,shino,でも、本当に、それだけだったんだ,"But really, that was all there was to it"
+shino2-3,shino,shino,故郷に戻って、でも、何も思えなくて,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,なんでだろうって不思議だったけど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,でも......すぐ、わかったんだ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,町に帰りたいって思ってたのは、ただのないものねだりなんだよ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,故郷に帰れなかったから、帰りたいって思ってただけで,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,帰ったからって、何かあるわけじゃなかった,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,ただ、そのときないものをほしがってただけ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そんなのわかってるつもりだったけど......,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,でも、本当に、それだけだったんだ,<PLEASE_TRANSLATE>
 shino2-3,shino,shino,......,......
-shino2-3,shino,shino,けどさ,"But, you know"
-shino2-3,shino,shino,そういうことってよくあるじゃん？,"That kind of thing happens all the time, right?"
-shino2-3,shino,shino,ずっとほしいと思ってたバッグなのに、買ったらどうでもよくなっちゃうとか,"Like wanting a bag forever, then not caring about it once you buy it"
-shino2-3,shino,shino,告白して、付き合うことになった途端にその人のこと好きなのかわかんなくなったり,"Or confessing your feelings, starting to date someone, and suddenly not knowing if you even like them anymore"
-shino2-3,shino,shino,そういうのって、たぶん勘違いなんだよね,That's probably just getting confused about what you really want
-shino2-3,shino,shino,本当は、何か別のことに憧れてたりしてるんだけど,"Deep down, you're longing for something else"
-shino2-3,shino,shino,バッグがほしいとか、恋してるとか......そんな風に勘違いしちゃって,"But you mistake it for wanting a bag, or being in love......and convince yourself that's what it is"
-shino2-3,shino,shino,恋に恋してるってやつ,It's like being in love with the idea of being in love
-shino2-3,shino,shino,恋に憧れてるだけで、カレシがほしいわけでも、その人を好きになったわけでもないんだよね,"You just love the idea of romance, not necessarily having a boyfriend or being in love with that person"
-shino2-3,shino,shino,......それと一緒,......It was the same thing
-shino2-3,shino,shino,あとから考えたら、あたし別に故郷に帰りたかったわけじゃないのかもって感じだし,"Looking back, I guess I didn't really want to go home after all"
-shino2-3,shino,shino,故郷に帰ったら、何か変わるかもって......思ってただけなんだ,I was just thinking that maybe something would change if I did......
-shino2-3,natsuno,natsuno,......そう、なんだ,......I see
-shino2-3,natsuno,natsuno,初めて会ったときも言ったけど、わたしは故郷みたいな場所がないから,"Like I said when we first met, I don't have a place I can really call home"
-shino2-3,natsuno,natsuno,正直、そうなのかな、って感じだけど......,"So honestly, I'm not sure I understand......"
+shino2-3,shino,shino,けどさ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そういうことってよくあるじゃん？,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,ずっとほしいと思ってたバッグなのに、買ったらどうでもよくなっちゃうとか,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,告白して、付き合うことになった途端にその人のこと好きなのかわかんなくなったり,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そういうのって、たぶん勘違いなんだよね,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,本当は、何か別のことに憧れてたりしてるんだけど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,バッグがほしいとか、恋してるとか......そんな風に勘違いしちゃって,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,恋に恋してるってやつ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,恋に憧れてるだけで、カレシがほしいわけでも、その人を好きになったわけでもないんだよね,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,......それと一緒,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あとから考えたら、あたし別に故郷に帰りたかったわけじゃないのかもって感じだし,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,故郷に帰ったら、何か変わるかもって......思ってただけなんだ,<PLEASE_TRANSLATE>
+shino2-3,natsuno,natsuno,......そう、なんだ,<PLEASE_TRANSLATE>
+shino2-3,natsuno,natsuno,初めて会ったときも言ったけど、わたしは故郷みたいな場所がないから,<PLEASE_TRANSLATE>
+shino2-3,natsuno,natsuno,正直、そうなのかな、って感じだけど......,<PLEASE_TRANSLATE>
 shino2-3,shino,shino,......,......
-shino2-3,shino,shino,......たぶんね,......Probably
-shino2-3,shino,shino,あたしもナツノちゃんも、そんなに変わんないよ,"You and I aren't really that different, Natsuno-chan"
-shino2-3,shino,shino,ナツノちゃんにも、生まれた場所とか、小さい頃住んでた場所があるでしょ？,"You have a place where you were born, or somewhere you lived when you were little, right?"
-shino2-3,shino,shino,そういう町に、ナツノちゃんはあんまり思い入れがないかもしれないけど......,Maybe you don't feel particularly attached to those towns......
-shino2-3,shino,shino,......でも、あたしも本当は一緒で,"......But really, I'm the same"
-shino2-3,shino,shino,あの町は、あたしが生まれ育った町だけど,That town is where I was born and raised
-shino2-3,shino,shino,でも......それだけの、ただの町なんだ,"But......that's all it is, just a town"
-shino2-3,shino,shino,だから、あたしが勝手に期待してただけ,So I was the one who decided to make it something more than it was
-shino2-3,shino,shino,故郷って、何か特別なもので,I convinced myself that a hometown was something special
-shino2-3,shino,shino,そこに帰ったら、何か大事なものが待ってるんだって、思い込んでただけ,"That if I went back there, something important would be waiting for me"
+shino2-3,shino,shino,......たぶんね,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あたしもナツノちゃんも、そんなに変わんないよ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,ナツノちゃんにも、生まれた場所とか、小さい頃住んでた場所があるでしょ？,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そういう町に、ナツノちゃんはあんまり思い入れがないかもしれないけど......,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,......でも、あたしも本当は一緒で,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あの町は、あたしが生まれ育った町だけど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,でも......それだけの、ただの町なんだ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,だから、あたしが勝手に期待してただけ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,故郷って、何か特別なもので,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そこに帰ったら、何か大事なものが待ってるんだって、思い込んでただけ,<PLEASE_TRANSLATE>
 shino2-3,shino,shino,......,......
-shino2-3,shino,shino,......けど,......But
-shino2-3,shino,shino,あたしって、ばかだからさ,"I'm kind of an idiot, you know"
-shino2-3,shino,shino,あの町を出て、こうやってまた遠くに来ると,When I leave that town and come all the way back out here again
-shino2-3,shino,shino,故郷のこと......やっぱり大事だなって思っちゃうんだよね,I start thinking......my hometown really is important to me
-shino2-3,shino,shino,またいつか、できるなら、帰ってみたいって思っちゃう,"I even start thinking that, if I could, I'd like to go back someday"
-shino2-3,shino,shino,別に何もないってわかってるんだよ,I know there's nothing special waiting for me there
-shino2-3,shino,shino,なのに......離れると、やっぱり寂しいって思う,"And yet......when I'm away from it, I still feel lonely"
-shino2-3,shino,shino,ないものねだりだからさ,Because I always want what I can't have
-shino2-3,shino,shino,ほんと,Seriously
-shino2-3,shino,shino,どうしようもない、ばかだよね......,I'm such a hopeless idiot......
+shino2-3,shino,shino,......けど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あたしって、ばかだからさ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あの町を出て、こうやってまた遠くに来ると,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,故郷のこと......やっぱり大事だなって思っちゃうんだよね,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,またいつか、できるなら、帰ってみたいって思っちゃう,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,別に何もないってわかってるんだよ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,なのに......離れると、やっぱり寂しいって思う,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,ないものねだりだからさ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,ほんと,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,どうしようもない、ばかだよね......,<PLEASE_TRANSLATE>
 shino2-3,2,2,,
 shino2-3,1,1,,
 shino2-3,,,,
@@ -300,53 +300,53 @@ shino2-3,,,,
 shino2-3,1,1,,
 shino2-3,1,1,,
 shino2-3,1,1,,
-shino2-3,shino,shino,......でも,......But
+shino2-3,shino,shino,......でも,<PLEASE_TRANSLATE>
 shino2-3,scenario03,scenario03,,
-shino2-3,shino,shino,でもね,"But, you know"
-shino2-3,shino,shino,これはたぶん、勘違いみたいなもので,This is probably just me getting confused again
-shino2-3,shino,shino,一時の感情だから、あとからどうでもよくなっちゃうかもしれないし,"It's only a passing feeling, so maybe someday I won't care anymore"
-shino2-3,shino,shino,そのうち冷めちゃうかしれない,Maybe I'll lose interest eventually
-shino2-3,shino,shino,いつか、あたしってばかだったな、って思って虚しくなるかもしれない,"Maybe one day I'll look back and think I was such an idiot, and feel empty"
-shino2-3,shino,shino,けど......,But......
-shino2-3,shino,shino,今思ってることだって、嘘なわけじゃないじゃん,"What I'm feeling right now isn't a lie, either"
-shino2-3,shino,shino,今、あたしがこうして故郷のこと大事に思ってる気持ちは、本当なんだよ,The way I feel about my hometown right now is real
-shino2-3,shino,shino,故郷に帰ったとき、気のせいだったかもって思ったけど,"When I went home, I thought maybe it had all just been in my head"
-shino2-3,shino,shino,この先も、勘違いだったって思うかもしれないけど,And maybe someday I'll think I was wrong about all this too
-shino2-3,shino,shino,それでも......故郷から離れて、今このときだけは、本当に思ってる,"Even so......now that I'm away from my hometown, at least for this moment, I really feel it"
-shino2-3,shino,shino,あの町が好きだし,I love that town
-shino2-3,shino,shino,帰りたいって思う,And I want to go back
-shino2-3,shino,shino,だったら......,So......
-shino2-3,shino,shino,この気持ちを大事にしてもいいじゃんって,I figured it was okay to treasure this feeling
-shino2-3,shino,shino,......そう思ったんだ,......That's what I decided
+shino2-3,shino,shino,でもね,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,これはたぶん、勘違いみたいなもので,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,一時の感情だから、あとからどうでもよくなっちゃうかもしれないし,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そのうち冷めちゃうかしれない,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,いつか、あたしってばかだったな、って思って虚しくなるかもしれない,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,けど......,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,今思ってることだって、嘘なわけじゃないじゃん,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,今、あたしがこうして故郷のこと大事に思ってる気持ちは、本当なんだよ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,故郷に帰ったとき、気のせいだったかもって思ったけど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,この先も、勘違いだったって思うかもしれないけど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,それでも......故郷から離れて、今このときだけは、本当に思ってる,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あの町が好きだし,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,帰りたいって思う,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,だったら......,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,この気持ちを大事にしてもいいじゃんって,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,......そう思ったんだ,<PLEASE_TRANSLATE>
 shino2-3,natsuno,natsuno,......,......
-shino2-3,natsuno,natsuno,......そっか,......I see
-shino2-3,natsuno,natsuno,シノは......なんていうか,Shino......I don't know how to put it
-shino2-3,natsuno,natsuno,すごいね,You're amazing
-shino2-3,shino,shino,......へへ,......Hehe
-shino2-3,shino,shino,......なんて,......Or something like that
-shino2-3,shino,shino,まぁ、ほんとは,"Well, actually"
-shino2-3,shino,shino,これ、全部ヒナセさんが言ってくれたことなんだけどね,All of this is what Hinase-san told me
+shino2-3,natsuno,natsuno,......そっか,<PLEASE_TRANSLATE>
+shino2-3,natsuno,natsuno,シノは......なんていうか,<PLEASE_TRANSLATE>
+shino2-3,natsuno,natsuno,すごいね,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,......へへ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,......なんて,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,まぁ、ほんとは,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,これ、全部ヒナセさんが言ってくれたことなんだけどね,<PLEASE_TRANSLATE>
 shino2-3,shino,shino,......,......
-shino2-3,shino,shino,故郷から離れて、どうしていいかわかんなくなっちゃって,I was away from home and didn't know what to do anymore
-shino2-3,shino,shino,でも、ヒナセさんがそんな話してくれたんだ,But Hinase-san talked to me about all of this
-shino2-3,shino,shino,それで、あたしも、そうかもって思った,And it made me think maybe she was right
-shino2-3,shino,shino,故郷に帰りたかったのは本当なんだ,It really is true that I wanted to go home
-shino2-3,shino,shino,あとから振り返ったとき、違うって思っちゃうかもだけど,I might look back someday and think I was wrong
-shino2-3,shino,shino,でも、その気持ちを、自分で気のせいだったってことにしたくない,But I don't want to convince myself that those feelings were just my imagination
-shino2-3,shino,shino,未来どう思うかわかんなくても、今思ってることが勘違いだって思いたくない,"Even if I don't know how I'll feel in the future, I don't want to tell myself that what I feel now is just a mistake"
-shino2-3,shino,shino,そんな風に思っちゃったら......何もかも、全部勘違いになっちゃうよ,If I start thinking that way......then everything becomes a mistake
-shino2-3,shino,shino,だから、今感じてることは本当なんだって、思うことにした,So I decided to believe that what I'm feeling right now is real
-shino2-3,shino,shino,今ここにあるものは、きっと、嘘じゃない,What I have here and now surely isn't a lie
-shino2-3,shino,shino,それでもいいんだって......ヒナセさんが言ってくれたんだ,Hinase-san told me that it was okay for that to be enough......
-shino2-3,shino,shino,今思ってることも、これから思うことも,"What I feel now, and what I'll feel from here on out"
-shino2-3,shino,shino,そういうのも全部含めて,"All of that, too"
-shino2-3,shino,shino,本当の、あたしの気持ちなんだ,All of it together is the truth of how I feel
-shino2-3,shino,shino,あの町に帰って、何も思えなかったことも本当だし,The fact that I went back to that town and felt nothing is real too
-shino2-3,shino,shino,あの町に帰りたいって思ってたのも、本当,And the fact that I wanted to go back there is real
-shino2-3,shino,shino,だから......,So......
+shino2-3,shino,shino,故郷から離れて、どうしていいかわかんなくなっちゃって,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,でも、ヒナセさんがそんな話してくれたんだ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,それで、あたしも、そうかもって思った,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,故郷に帰りたかったのは本当なんだ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あとから振り返ったとき、違うって思っちゃうかもだけど,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,でも、その気持ちを、自分で気のせいだったってことにしたくない,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,未来どう思うかわかんなくても、今思ってることが勘違いだって思いたくない,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そんな風に思っちゃったら......何もかも、全部勘違いになっちゃうよ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,だから、今感じてることは本当なんだって、思うことにした,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,今ここにあるものは、きっと、嘘じゃない,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,それでもいいんだって......ヒナセさんが言ってくれたんだ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,今思ってることも、これから思うことも,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,そういうのも全部含めて,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,本当の、あたしの気持ちなんだ,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あの町に帰って、何も思えなかったことも本当だし,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,あの町に帰りたいって思ってたのも、本当,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,だから......,<PLEASE_TRANSLATE>
 shino2-3,survivor02,survivor02,right-left,right-left
-shino2-3,shino,shino,やっぱり、ちゃんと帰れてよかったって,I'm truly glad I got to go home
-shino2-3,shino,shino,今は、心から思ってる,"Now, I really mean that from the bottom of my heart"
+shino2-3,shino,shino,やっぱり、ちゃんと帰れてよかったって,<PLEASE_TRANSLATE>
+shino2-3,shino,shino,今は、心から思ってる,<PLEASE_TRANSLATE>
 shino2-3,2,2,,
 shino2-3,questSuccess,questSuccess,,
 -,,,,
@@ -355,51 +355,51 @@ shino2-4,survivor00,survivor00,right-right,right-right
 shino2-4,survivor02,survivor02,right-left,right-left
 shino2-4,scenario04,scenario04,,
 shino2-4,1,1,,
-shino2-4,shino,shino,あたしね,You know
-shino2-4,shino,shino,いろんなところの写真、撮って歩いてるんだ,I've been traveling around taking pictures of all kinds of places
-shino2-4,natsuno,natsuno,写真？,Pictures?
-shino2-4,natsuno,natsuno,カメラ、故郷で見つけたの？,Did you find the camera in your hometown?
-shino2-4,shino,shino,ううん,Nope
-shino2-4,shino,shino,これは、その辺で拾ったやつ,I just found this one lying around
-shino2-4,shino,shino,写真撮ってるのは......,The reason I started taking pictures......
+shino2-4,shino,shino,あたしね,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,いろんなところの写真、撮って歩いてるんだ,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,写真？,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,カメラ、故郷で見つけたの？,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,ううん,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,これは、その辺で拾ったやつ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,写真撮ってるのは......,<PLEASE_TRANSLATE>
 shino2-4,shino,shino,......,......
-shino2-4,shino,shino,あの町に帰ってさ,When I went back to that town
-shino2-4,shino,shino,町の景色見ても、あたし、何も思えなかった,"Even when I looked at the town, I didn't feel anything"
-shino2-4,shino,shino,なんでもない、どこにもある......普通の町だった,It was just an ordinary town......the kind of place you could find anywhere
-shino2-4,shino,shino,でも、それで思ったの,But that's what made me realize something
-shino2-4,shino,shino,どこでも、そうなんだって,It's like that everywhere
-shino2-4,shino,shino,あたしが故郷に帰るまでに通ったいろんな町も、,All the towns I passed through on my way home
-shino2-4,shino,shino,今いるこの場所も,And this place we're in now
-shino2-4,shino,shino,なんでもない普通の町で,They're all just ordinary towns
-shino2-4,shino,shino,どこかの、誰かの......故郷なんだよね,And they're someone's......somebody's hometown
-shino2-4,shino,shino,......そんなの、当たり前だけどさ,"......I mean, that's obvious, I guess"
-shino2-4,shino,shino,でも、だから,But that's why
-shino2-4,shino,shino,もしかしたら、今あたしたちがいるこの場所に帰りたいって思ってる人だって,I started thinking that maybe there are people who want to come back to this place we're in now
-shino2-4,shino,shino,この場所を、もう一度でいいから見たいって思ってる人だって,"People who would want to see this place again, even just one more time"
-shino2-4,shino,shino,きっと、たくさんいるんだろうなって......思ったんだ,I'm sure there are probably lots of them......that's what I thought
+shino2-4,shino,shino,あの町に帰ってさ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,町の景色見ても、あたし、何も思えなかった,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,なんでもない、どこにもある......普通の町だった,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,でも、それで思ったの,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,どこでも、そうなんだって,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,あたしが故郷に帰るまでに通ったいろんな町も、,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,今いるこの場所も,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,なんでもない普通の町で,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,どこかの、誰かの......故郷なんだよね,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,......そんなの、当たり前だけどさ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,でも、だから,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,もしかしたら、今あたしたちがいるこの場所に帰りたいって思ってる人だって,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,この場所を、もう一度でいいから見たいって思ってる人だって,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,きっと、たくさんいるんだろうなって......思ったんだ,<PLEASE_TRANSLATE>
 shino2-4,natsuno,natsuno,......,......
-shino2-4,natsuno,natsuno,......そうだね,......Yeah
-shino2-4,natsuno,natsuno,ここは、わたしたちにとっては、初めて来た場所だし,"For us, this is a place we've never been before"
-shino2-4,natsuno,natsuno,なんでもないただの町だけど,It's just an ordinary town
-shino2-4,natsuno,natsuno,でも......ここで生まれ育った人も、いるんだよね,But......there are people who were born and raised here too
-shino2-4,natsuno,natsuno,......そりゃそっか,"......Yeah, I guess so"
-shino2-4,shino,shino,そりゃ、そうなんだけど......でも、そうでしょ？,"I mean, of course that's true......but it is, right?"
+shino2-4,natsuno,natsuno,......そうだね,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,ここは、わたしたちにとっては、初めて来た場所だし,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,なんでもないただの町だけど,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,でも......ここで生まれ育った人も、いるんだよね,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,......そりゃそっか,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,そりゃ、そうなんだけど......でも、そうでしょ？,<PLEASE_TRANSLATE>
 shino2-4,shino,shino,......,......
-shino2-4,shino,shino,......ま,......Well
-shino2-4,shino,shino,それで、こうやって写真撮ったって,So even if I take pictures like this
-shino2-4,shino,shino,その写真見たがってる人がいるかどうかなんてわかんないし,I have no idea if there's anyone who wants to see them
-shino2-4,shino,shino,いたとしても、そういう人と偶然出会える確率って、とんでもなく低いだろうし,"And even if there is, the chances of me randomly meeting someone like that must be unbelievably small"
-shino2-4,shino,shino,実際......そんな機会、一生ないんだろうなって思うよ,Honestly......I don't think I'll ever get that chance in my lifetime
-shino2-4,shino,shino,......でも,......But
-shino2-4,shino,shino,それでも、やっぱり、思うんだ,"Even so, I can't help thinking it"
-shino2-4,shino,shino,もしかしたら誰かがこの景色を探してるかもしれない,Maybe someone out there is looking for this view
-shino2-4,shino,shino,ここが、誰かの大事な場所かもしれないって,Maybe this is someone's special place
-shino2-4,shino,shino,結局、そんなことなくて、写真誰にも見られないままあたしの一生は終わるかもしれないけど,"Maybe none of that will ever happen, and I'll spend my whole life without anyone seeing these pictures"
-shino2-4,shino,shino,いつか、ばかなことしてたなって思っちゃうかもしれないけど,Maybe someday I'll look back and think I was being stupid
-shino2-4,shino,shino,だからって、今こうして思ってること、否定したくないじゃん,But that doesn't mean I want to deny what I feel right now
-shino2-4,shino,shino,あたしは、この気持ち、嘘じゃないって思う,I don't think this feeling is a lie
-shino2-4,shino,shino,今の気持ちのこと、大事にしたい,I want to treasure how I feel right now
-shino2-4,shino,shino,だから......写真、撮ってるんだ,That's why......I take pictures
+shino2-4,shino,shino,......ま,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,それで、こうやって写真撮ったって,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,その写真見たがってる人がいるかどうかなんてわかんないし,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,いたとしても、そういう人と偶然出会える確率って、とんでもなく低いだろうし,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,実際......そんな機会、一生ないんだろうなって思うよ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,......でも,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,それでも、やっぱり、思うんだ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,もしかしたら誰かがこの景色を探してるかもしれない,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,ここが、誰かの大事な場所かもしれないって,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,結局、そんなことなくて、写真誰にも見られないままあたしの一生は終わるかもしれないけど,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,いつか、ばかなことしてたなって思っちゃうかもしれないけど,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,だからって、今こうして思ってること、否定したくないじゃん,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,あたしは、この気持ち、嘘じゃないって思う,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,今の気持ちのこと、大事にしたい,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,だから......写真、撮ってるんだ,<PLEASE_TRANSLATE>
 shino2-4,2,2,,
 shino2-4,,,,
 shino2-4,1,1,,
@@ -409,69 +409,70 @@ shino2-4,survivor02,survivor02,right-left,right-left
 shino2-4,1,1,,
 shino2-4,1,1,,
 shino2-4,character02,character02,,
-shino2-4,shino,shino,ナツノちゃんさ,Natsuno-chan
-shino2-4,natsuno,natsuno,うん？,Hmm?
-shino2-4,shino,shino,あたしに会って,When you saw me
-shino2-4,shino,shino,懐かしいって、思った？,Did you feel nostalgic?
+shino2-4,shino,shino,ナツノちゃんさ,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,うん？,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,あたしに会って,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,懐かしいって、思った？,<PLEASE_TRANSLATE>
 shino2-4,survivor00,survivor00,right-right,right-right
 shino2-4,natsuno,natsuno,......,......
-shino2-4,natsuno,natsuno,......うーん,......Hmm
-shino2-4,natsuno,natsuno,どうだろ,I wonder
-shino2-4,natsuno,natsuno,久しぶりって感じはしたけど,It did feel like it had been a long time
-shino2-4,natsuno,natsuno,懐かしい......っていうのとは、ちょっと違う気もする,But I don't think it was quite the same as feeling nostalgic......
-shino2-4,shino,shino,......そっか,......I see
-shino2-4,shino,shino,じゃあ、まだ時間が足りなかったってことで,Then I guess we just haven't had enough time yet
-shino2-4,natsuno,natsuno,そういうもんなの？,Is that how it works?
-shino2-4,shino,shino,わかんないけど、そうなんじゃない？,"I don't know, but maybe it is"
-shino2-4,natsuno,natsuno,そうなのかな,Maybe
+shino2-4,natsuno,natsuno,......うーん,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,どうだろ,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,久しぶりって感じはしたけど,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,懐かしい......っていうのとは、ちょっと違う気もする,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,......そっか,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,じゃあ、まだ時間が足りなかったってことで,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,そういうもんなの？,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,わかんないけど、そうなんじゃない？,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,そうなのかな,<PLEASE_TRANSLATE>
 shino2-4,survivor02,survivor02,right-left,right-left
-shino2-4,shino,shino,......じゃあさ,......Then
-shino2-4,shino,shino,ナツノちゃんが懐かしいって思えるまで,Until you can feel nostalgic when you see me
-shino2-4,shino,shino,あたし、何度でも会いに行くよ,I'll come see you as many times as it takes
+shino2-4,shino,shino,......じゃあさ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,ナツノちゃんが懐かしいって思えるまで,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,あたし、何度でも会いに行くよ,<PLEASE_TRANSLATE>
 shino2-4,survivor00,survivor00,right-right,right-right
 shino2-4,natsuno,natsuno,......,......
 shino2-4,,,,
-shino2-4,shino,shino,......あたしね,......You know
+shino2-4,shino,shino,......あたしね,<PLEASE_TRANSLATE>
 shino2-4,scenario03,scenario03,,
-shino2-4,shino,shino,ナツノちゃんの話聞いて,"After hearing your story, Natsuno-chan"
-shino2-4,shino,shino,正直、まだ全然信じられてないっていうか,"Honestly, I still can't really believe it"
-shino2-4,shino,shino,飲み込めてないけど,I haven't really been able to take it all in
-shino2-4,shino,shino,でも......,But......
-shino2-4,shino,shino,やっぱり、あたしはあたしの思っていることを、思ってるとおりにやっときたい,"I still want to do what I feel like doing, the way I feel like doing it"
-shino2-4,shino,shino,何があっても、あとで後悔したくないし,"I still want to do what I feel like doing, exactly the way I feel like doing it"
-shino2-4,shino,shino,ここがどんな世界だったにしても,"I don't want to regret anything later, no matter what happens"
-shino2-4,shino,shino,あたしが今、こうやって思ってることだけは......,No matter what kind of world this place turns out to be
-shino2-4,shino,shino,本当のことなんだって思うから,The one thing I know about what I'm feeling right now......
-shino2-4,natsuno,natsuno,......うん,......Yeah
+shino2-4,shino,shino,ナツノちゃんの話聞いて,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,正直、まだ全然信じられてないっていうか,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,飲み込めてないけど,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,でも......,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,やっぱり、あたしはあたしの思っていることを、思ってるとおりにやっときたい,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,何があっても、あとで後悔したくないし,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,ここがどんな世界だったにしても,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,あたしが今、こうやって思ってることだけは......,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,本当のことなんだって思うから,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
 shino2-4,shino,shino,......,......
-shino2-4,shino,shino,だから、行くね,Is that it's real
-shino2-4,shino,shino,あたしは、あたしが思うことをやる,"So, I'm gonna go"
-shino2-4,shino,shino,ナツノちゃんは、ナツノちゃんが行くべきところに、行くんだよね,I'm gonna do what I want to do
+shino2-4,shino,shino,だから、行くね,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,あたしは、あたしが思うことをやる,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,ナツノちゃんは、ナツノちゃんが行くべきところに、行くんだよね,<PLEASE_TRANSLATE>
 shino2-4,survivor00,survivor00,right-right,right-right
-shino2-4,natsuno,natsuno,......そうだね,......Yeah
-shino2-4,shino,shino,じゃあ、ここでしばしお別れ,"And you're going where you need to go, right, Natsuno-chan?"
-shino2-4,shino,shino,また、そのうち,"Well then, we'll say goodbye for now"
-shino2-4,shino,shino,どこかでばったり会ったら、お話しよ,See you around
-shino2-4,shino,shino,それでいつか,"If we happen to run into each other somewhere, let's talk"
-shino2-4,shino,shino,こうやって話してたこととか,And someday
-shino2-4,shino,shino,初めて出会ったときのこと,Maybe the things we talked about like this
-shino2-4,shino,shino,懐かしいねって思えるようになったらいいな,And the day we first met
-shino2-4,natsuno,natsuno,......うん,......Yeah
-shino2-4,natsuno,natsuno,わたしも、今わたしが思ってることは、本当なんだと思う,"Will become things we can look back on and think, That was nice, wasn't it"
-shino2-4,natsuno,natsuno,あとでどう思っても、こうやって今感じてることは嘘じゃない,......Yeah
-shino2-4,natsuno,natsuno,......シノが撮った写真,I think what I'm feeling right now is real too
-shino2-4,natsuno,natsuno,いつか、誰かに届いたらいいなって、思うよ,"No matter how I feel about it later, what I'm feeling now isn't a lie"
-shino2-4,shino,shino,......ありがと,"......The pictures you took, Shino"
-shino2-4,shino,shino,じゃあ,I hope someday they'll reach someone who needs to see them
-shino2-4,shino,shino,またね,......Thanks
+shino2-4,natsuno,natsuno,......そうだね,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,じゃあ、ここでしばしお別れ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,また、そのうち,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,どこかでばったり会ったら、お話しよ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,それでいつか,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,こうやって話してたこととか,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,初めて出会ったときのこと,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,懐かしいねって思えるようになったらいいな,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,わたしも、今わたしが思ってることは、本当なんだと思う,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,あとでどう思っても、こうやって今感じてることは嘘じゃない,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,......シノが撮った写真,<PLEASE_TRANSLATE>
+shino2-4,natsuno,natsuno,いつか、誰かに届いたらいいなって、思うよ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,......ありがと,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,じゃあ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,またね,<PLEASE_TRANSLATE>
 shino2-4,natsuno,natsuno,......,......
-shino2-4,natsuno,natsuno,......うん,......Yeah
+shino2-4,natsuno,natsuno,......うん,<PLEASE_TRANSLATE>
 shino2-4,survivor00,survivor00,right-right,right-right
-shino2-4,natsuno,natsuno,またね、シノ,Well then
-shino2-4,shino,shino,また会おうね。ナツノちゃん！,See you
+shino2-4,natsuno,natsuno,またね、シノ,<PLEASE_TRANSLATE>
+shino2-4,shino,shino,また会おうね。ナツノちゃん！,<PLEASE_TRANSLATE>
 shino2-4,1,1,,
 shino2-4,survivor02,survivor02,2.0,2.0
 shino2-4,2,2,,
 shino2-4,shino,shino,,
 shino2-4,ending,ending,shino2,shino2
 -,,,,
+,,,,
