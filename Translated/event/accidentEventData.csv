@@ -1,0 +1,6 @@
+id,reality,speakArg,executeType,executeArg,type,sound
+damage00,0,damage,damage,30,surprise,damage00
+lostItem00,0,lostItem,lostItem,,surprise,breakWood00
+explosion00,0,explode,damage,40,explosion,damage00
+broken00,-1,broken,damage,40,broken,damage00
+-,,,,,,

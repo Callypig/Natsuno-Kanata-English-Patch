@@ -1,191 +1,190 @@
-id,_arg0<jpn>,arg0<eng>,_arg1<jpn>,arg1<eng>
--,,,,
-sub-natsuno1-1,scenario00,scenario00,,
-sub-natsuno1-1,survivor00,survivor00,right-right,right-right
-sub-natsuno1-1,character00,character00,,
-sub-natsuno1-1,natsuno,natsuno,......料理、したくないなぁ,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,めんどいなぁ......,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,......,......
-sub-natsuno1-1,survivor00,survivor00,right-right,right-right
-sub-natsuno1-1,natsuno,natsuno,やってくんない？,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,......ってわけにも、いかないよねぇ,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,......うーん,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,めんどい......,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,あ、そだ,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,なんか、料理本とかある？,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,それ見たら、ちょっとはやる気出るかも,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,ある？,<PLEASE_TRANSLATE>
-sub-natsuno1-1,yes,yes,input_any,input_any
-sub-natsuno1-1,input_any,input_any,,
-sub-natsuno1-1,natsuno,natsuno,......,......
-sub-natsuno1-1,natsuno,natsuno,......や,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,......やっぱいいや,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,どうせ、軽量カップとかないし,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,見たって、ちゃんとできないや,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,あーあ,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,こんななら、ちゃんと母さんの手伝いとか、しとけばよかったかも,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,こんな状況になって、一人きりになって、初めてちゃんと料理とかしたから,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,全部、自分流なんだよね,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,あんま、おいしくない,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,......もう慣れちゃったけど,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,......,......
-sub-natsuno1-1,natsuno,natsuno,......ま,<PLEASE_TRANSLATE>
-sub-natsuno1-1,survivor00,survivor00,right-right,right-right
-sub-natsuno1-1,natsuno,natsuno,こんなことになるなんて......,<PLEASE_TRANSLATE>
-sub-natsuno1-1,natsuno,natsuno,どんなにがんばっても、想像できなかっただろうけど,<PLEASE_TRANSLATE>
-sub-natsuno1-1,questSuccess,questSuccess,,
--,,,,
-sub-kiko1-1,,,,
-sub-kiko1-1,scenario00,scenario00,,
-sub-kiko1-1,character01,character01,,
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,kiko,kiko,......あの,<PLEASE_TRANSLATE>
-sub-kiko1-1,survivor01,survivor01,right-right,right-right
-sub-kiko1-1,kiko,kiko,......き、聞こえてます？,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,ナツノさん、どこか行っちゃったみたいで......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,テーブルの上にスマホだけあって......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......それで,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,kiko,kiko,............,............
-sub-kiko1-1,kiko,kiko,........................,........................
-sub-kiko1-1,kiko,kiko,......あの,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,どこか、遠く......こんなことになってない、平和なところにいるんだって聞きました,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,ナツノさんから,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,それで......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......ペット、飼ってたりしますか？,<PLEASE_TRANSLATE>
-sub-kiko1-1,yes,yes,input_yes,input_yes
-sub-kiko1-1,input_yes,input_yes,,
-sub-kiko1-1,kiko,kiko,！！,<PLEASE_TRANSLATE>
-sub-kiko1-1,survivor01,survivor01,right-right,right-right
-sub-kiko1-1,kiko,kiko,そうなんですね......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,いいなぁ......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,confluence,confluence,,
-sub-kiko1-1,input_no,input_no,,
-sub-kiko1-1,kiko,kiko,そうですか......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,confluence,confluence,,
-sub-kiko1-1,confluence,confluence,,
-sub-kiko1-1,survivor01,survivor01,right-right,right-right
-sub-kiko1-1,kiko,kiko,......あたし、犬、飼ってたんです,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......あはは。知ってますよね,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,ミノタローっていうんです,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,生まれた頃から一緒で,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,大好きで,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,大事な家族で......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,kiko,kiko,でも、こんなことになって、キャンプを飛び出して一人で歩き回ったりしてて,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,最近、ふと思うんです,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,飼われてたミノタローたちは......,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,人の都合でペットにされてた動物たちって、幸せだったのかなぁって,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,野生の動物とか、もともとはペットだったのかもしれないけど、人からはぐれて野生に戻った動物を見ると,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,なんだか、そっちの方がずっと生き生きして見えて,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,kiko,kiko,............,............
-sub-kiko1-1,kiko,kiko,......何言ってるんだろ、あたし,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,ごめんなさい,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,変な話して,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,困っちゃいますよね,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,......忘れてください,<PLEASE_TRANSLATE>
-sub-kiko1-1,survivor01,survivor01,1.0,1.0
-sub-kiko1-1,kiko,kiko,......,......
-sub-kiko1-1,kiko,kiko,............,............
-sub-kiko1-1,kiko,kiko,......ミノタローは,<PLEASE_TRANSLATE>
-sub-kiko1-1,kiko,kiko,幸せだったのかなぁ......,<PLEASE_TRANSLATE>
-sub-kiko1-1,questSuccess,questSuccess,,
--,,,,
-sub-shino1-1,,,,
-sub-shino1-1,scenario00,scenario00,,
-sub-shino1-1,character02,character02,,
-sub-shino1-1,survivor02,survivor02,right-right,right-right
-sub-shino1-1,shino,shino,ね！,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,そこ、いる？,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,いる、よね！,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,ナツノちゃん、スマホ置いてどっか行っちゃったみたいでさ,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,へへへ,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,ちょっとお話してみたかったんだよね,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,ナツノちゃんのいないとこで,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,ずばり,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,ナツノちゃんとは、どんな関係なの？,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,もしかして、付き合ってる？,<PLEASE_TRANSLATE>
-sub-shino1-1,yes,yes,input_yes,input_yes
-sub-shino1-1,input_yes,input_yes,,
-sub-shino1-1,shino,shino,やっぱり！,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,そうなんじゃないかなーって思ってたんだよね,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,......,......
-sub-shino1-1,shino,shino,......なーんて,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,わかってるよ,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,冗談でしょ？,<PLEASE_TRANSLATE>
-sub-shino1-1,confluence,confluence,,
-sub-shino1-1,input_no,input_no,,
-sub-shino1-1,shino,shino,えー？,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,なんだ、つまんないの,<PLEASE_TRANSLATE>
-sub-shino1-1,confluence,confluence,,
-sub-shino1-1,confluence,confluence,,
-sub-shino1-1,shino,shino,......,......
-sub-shino1-1,shino,shino,え、あたし？,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,あたしはねー......,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,なんとー......,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,......,......
-sub-shino1-1,shino,shino,......誰もあたしのことなんか訊いてないって？,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,いいもん,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,訊かれなくたって話しちゃうもんね,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,あたしは......,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,こう見えて、今まで誰かと付き合ったこととか、ないんだよね,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,意外でしょ？,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,あはは,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,ま、小さな町で育ったし,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,こっちに来てからも、どーしてか、そういうのとは無縁だったなー,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,悲しいような,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,そうでもないような,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,人を好きになるって、結局、なんかよくわかんないんだよね,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,よく話する男の子とかいたけど,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,好きっていうのとは違うような,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,そんな情熱的になれないというか,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,なんなんだろうね,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,付き合ってる友達とかもいたけど......,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,わかんないなー,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,......,......
-sub-shino1-1,survivor02,survivor02,right-right,right-right
-sub-shino1-1,shino,shino,......みんな,<PLEASE_TRANSLATE>
-sub-shino1-1,shino,shino,今ごろ......何してるかな,<PLEASE_TRANSLATE>
-sub-shino1-1,questSuccess,questSuccess,,
--,,,,
-sub-endless1-1,scenario11,scenario11,,
-sub-endless1-1,character00,character00,,
-sub-endless1-1,natsuno,natsuno,あ......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,これ......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,カメラ......？,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,見たことないかたちしてるけど......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,......,......
-sub-endless1-1,natsuno,natsuno,......あ,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,..あれかな,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,撮ったらすぐ写真がべーって出てくるやつ,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,べーって,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,......,......
-sub-endless1-1,natsuno,natsuno,フィルムもある......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,えーと......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,インスタントカメラってやつであってるっぽい,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,電池入ってるし、使えそう,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,......,......
-sub-endless1-1,natsuno,natsuno,......カメラ、かぁ,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,うまく使えるかわかんないけど,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,せっかくだし,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,もらっていこうかな,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,......,......
-sub-endless1-1,natsuno,natsuno,何、撮ろう......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,うーん,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,なんも思いつかない,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,......,......
-sub-endless1-1,natsuno,natsuno,......こういうとき,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,あなたが横にいてくれたらな、って思っちゃうよね,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,あなたがここにいてくれたら......,<PLEASE_TRANSLATE>
-sub-endless1-1,natsuno,natsuno,写真くらい、撮らせてくれるよね？,<PLEASE_TRANSLATE>
-sub-endless1-1,1,1,,
-sub-endless1-1,film00,film00,,
-sub-endless1-1,film00,film00,,
-sub-endless1-1,film00,film00,,
-sub-endless1-1,camera00,camera00,,
-sub-endless1-1,questSuccess,questSuccess,,
--,,,,
-,,,,
+id,command,arg0<jpn>,arg1<jpn>,arg2,arg3
+-,,,,,
+sub-natsuno1-1,bg,scenario00,,,
+sub-natsuno1-1,fg,survivor00,right-right,0,serious
+sub-natsuno1-1,playBgm,character00,,,
+sub-natsuno1-1,talk,natsuno,......I don't feel like cooking,,
+sub-natsuno1-1,talk,natsuno,I can't be bothered......,,
+sub-natsuno1-1,talk,natsuno,......,,
+sub-natsuno1-1,fg,survivor00,right-right,0.5,default
+sub-natsuno1-1,talk,natsuno,Can't you do it for me?,,
+sub-natsuno1-1,talk,natsuno,......I can't exactly ask you to， though,,
+sub-natsuno1-1,talk,natsuno,......Hmm,,
+sub-natsuno1-1,talk,natsuno,I can't be bothered......,,
+sub-natsuno1-1,talk,natsuno,Oh， that's right,,
+sub-natsuno1-1,talk,natsuno,Do you have， like， a cookbook or something?,,
+sub-natsuno1-1,talk,natsuno,If I looked through one， maybe I'd feel a little more motivated,,
+sub-natsuno1-1,talk,natsuno,Do you?,,
+sub-natsuno1-1,waitCall,yes,input_any,input_any,
+sub-natsuno1-1,label,input_any,,,
+sub-natsuno1-1,talk,natsuno,......,,
+sub-natsuno1-1,talk,natsuno,......Oh,,
+sub-natsuno1-1,talk,natsuno,......Never mind,,
+sub-natsuno1-1,talk,natsuno,It's not like I have a measuring cup or anything,,
+sub-natsuno1-1,talk,natsuno,Even if I looked at it， I couldn't follow the recipe properly,,
+sub-natsuno1-1,talk,natsuno,Ugh,,
+sub-natsuno1-1,talk,natsuno,I guess I should've helped Mom out with cooking more when I had the chance,,
+sub-natsuno1-1,talk,natsuno,It wasn't until things ended up like this and I was all alone that I actually started cooking properly,,
+sub-natsuno1-1,talk,natsuno,I've just been making everything my own way,,
+sub-natsuno1-1,talk,natsuno,It's not very good,,
+sub-natsuno1-1,talk,natsuno,......But I've gotten used to it by now,,
+sub-natsuno1-1,talk,natsuno,......,,
+sub-natsuno1-1,talk,natsuno,......Well,,
+sub-natsuno1-1,fg,survivor00,right-right,0.5,serious
+sub-natsuno1-1,talk,natsuno,I never could've imagined things would end up like this......,,
+sub-natsuno1-1,talk,natsuno,No matter how hard I tried， I don't think I ever could've imagined it,,
+sub-natsuno1-1,end,questSuccess,,,
+-,,,,,
+sub-kiko1-1,fgClear,,,,
+sub-kiko1-1,bg,scenario00,,,
+sub-kiko1-1,playBgm,character01,,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,talk,kiko,......Um,,
+sub-kiko1-1,fg,survivor01,right-right,0.5,
+sub-kiko1-1,talk,kiko,......C-can you hear me?,,
+sub-kiko1-1,talk,kiko,It looks like Natsuno-san went somewhere......,,
+sub-kiko1-1,talk,kiko,There's just her smartphone sitting on the table......,,
+sub-kiko1-1,talk,kiko,......So,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,talk,kiko,............,,
+sub-kiko1-1,talk,kiko,........................,,
+sub-kiko1-1,talk,kiko,......Um,,
+sub-kiko1-1,talk,kiko,I heard you're somewhere far away...... Somewhere peaceful where none of this happened,,
+sub-kiko1-1,talk,kiko,Natsuno-san told me,,
+sub-kiko1-1,talk,kiko,And......,,
+sub-kiko1-1,talk,kiko,......Do you have a pet?,,
+sub-kiko1-1,waitCall,yes,input_yes,input_no,
+sub-kiko1-1,label,input_yes,,,
+sub-kiko1-1,talk,kiko,!!,,
+sub-kiko1-1,fg,survivor01,right-right,0.5,smile
+sub-kiko1-1,talk,kiko,I see......,,
+sub-kiko1-1,talk,kiko,That must be nice......,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,jump,confluence,,,
+sub-kiko1-1,label,input_no,,,
+sub-kiko1-1,talk,kiko,I see......,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,jump,confluence,,,
+sub-kiko1-1,label,confluence,,,
+sub-kiko1-1,fg,survivor01,right-right,0.5,default
+sub-kiko1-1,talk,kiko,......I had a dog,,
+sub-kiko1-1,talk,kiko,......Ahaha. You know that， right?,,
+sub-kiko1-1,talk,kiko,His name was Minotaro,,
+sub-kiko1-1,talk,kiko,We'd been together since he was born,,
+sub-kiko1-1,talk,kiko,I loved him so much,,
+sub-kiko1-1,talk,kiko,He was my precious family......,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,talk,kiko,But after all this happened， I ran away from the camp and started wandering around on my own,,
+sub-kiko1-1,talk,kiko,Lately， I've been thinking about it,,
+sub-kiko1-1,talk,kiko,Minotaro and all the other pets......,,
+sub-kiko1-1,talk,kiko,I wonder if animals that were made into pets because it was convenient for people were really happy,,
+sub-kiko1-1,talk,kiko,I see wild animals sometimes， and they might've originally been pets too， but when I see animals that lost their master and went back to the wild,,
+sub-kiko1-1,talk,kiko,Somehow， they seem so much more full of life,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,talk,kiko,............,,
+sub-kiko1-1,talk,kiko,......What am I even talking about?,,
+sub-kiko1-1,talk,kiko,I'm sorry,,
+sub-kiko1-1,talk,kiko,For talking about something so weird,,
+sub-kiko1-1,talk,kiko,This must be awkward for you,,
+sub-kiko1-1,talk,kiko,......Please forget I said anything,,
+sub-kiko1-1,fgRemove,survivor01,1.0,,
+sub-kiko1-1,talk,kiko,......,,
+sub-kiko1-1,talk,kiko,............,,
+sub-kiko1-1,talk,kiko,......I wonder if Minotaro,,
+sub-kiko1-1,talk,kiko,Was happy......,,
+sub-kiko1-1,end,questSuccess,,,
+-,,,,,
+sub-shino1-1,fgClear,,,,
+sub-shino1-1,bg,scenario00,,,
+sub-shino1-1,playBgm,character02,,,
+sub-shino1-1,fg,survivor02,right-right,0.5,smile
+sub-shino1-1,talk,shino,Hey!,,
+sub-shino1-1,talk,shino,You there?,,
+sub-shino1-1,talk,shino,You are， right!,,
+sub-shino1-1,talk,shino,Looks like Natsuno-chan left her phone and went somewhere,,
+sub-shino1-1,talk,shino,Hehehe,,
+sub-shino1-1,talk,shino,I kinda wanted to talk to you,,
+sub-shino1-1,talk,shino,While Natsuno-chan isn't here,,
+sub-shino1-1,talk,shino,So， straight to the point,,
+sub-shino1-1,talk,shino,What exactly is your relationship with Natsuno-chan?,,
+sub-shino1-1,talk,shino,Are you two dating， by any chance?,,
+sub-shino1-1,waitCall,yes,input_yes,input_no,
+sub-shino1-1,label,input_yes,,,
+sub-shino1-1,talk,shino,I knew it!,,
+sub-shino1-1,talk,shino,I had a feeling that's what it was,,
+sub-shino1-1,talk,shino,......,,
+sub-shino1-1,talk,shino,......Just kidding,,
+sub-shino1-1,talk,shino,I know,,
+sub-shino1-1,talk,shino,You're joking， right?,,
+sub-shino1-1,jump,confluence,,,
+sub-shino1-1,label,input_no,,,
+sub-shino1-1,talk,shino,Huh?,,
+sub-shino1-1,talk,shino,Aww， that's no fun,,
+sub-shino1-1,jump,confluence,,,
+sub-shino1-1,label,confluence,,,
+sub-shino1-1,talk,shino,......,,
+sub-shino1-1,talk,shino,Huh， me?,,
+sub-shino1-1,talk,shino,Well， me......,,
+sub-shino1-1,talk,shino,Let's see......,,
+sub-shino1-1,talk,shino,......,,
+sub-shino1-1,talk,shino,......You didn't ask about me， you say?,,
+sub-shino1-1,talk,shino,Whatever,,
+sub-shino1-1,talk,shino,I'll tell you anyway， even if you didn't ask,,
+sub-shino1-1,talk,shino,Me......,,
+sub-shino1-1,talk,shino,Believe it or not， I've never actually dated anyone,,
+sub-shino1-1,talk,shino,Surprised?,,
+sub-shino1-1,talk,shino,Ahaha,,
+sub-shino1-1,talk,shino,Well， I grew up in a small town,,
+sub-shino1-1,talk,shino,And even after I came here， somehow， I never really had anything to do with that kind of thing,,
+sub-shino1-1,talk,shino,It's kind of sad,,
+sub-shino1-1,talk,shino,Or maybe it isn't,,
+sub-shino1-1,talk,shino,I guess I don't really understand what it means to fall in love with someone,,
+sub-shino1-1,talk,shino,There were boys I talked to a lot,,
+sub-shino1-1,talk,shino,But I don't think it was the same as actually liking them,,
+sub-shino1-1,talk,shino,It's more like I could never get that passionate about someone,,
+sub-shino1-1,talk,shino,I wonder what that's all about,,
+sub-shino1-1,talk,shino,I had friends who were dating too......,,
+sub-shino1-1,talk,shino,I dunno......,,
+sub-shino1-1,talk,shino,......,,
+sub-shino1-1,fg,survivor02,right-right,0.5,default
+sub-shino1-1,talk,shino,......Everyone,,
+sub-shino1-1,talk,shino,I wonder what they're doing right now......,,
+sub-shino1-1,end,questSuccess,,,
+-,,,,,
+sub-endless1-1,bg,scenario11,,,
+sub-endless1-1,playBgm,character00,,,
+sub-endless1-1,talk,natsuno,Ah......,,
+sub-endless1-1,talk,natsuno,This......,,
+sub-endless1-1,talk,natsuno,A camera......?,,
+sub-endless1-1,talk,natsuno,I've never seen one shaped like this before......,,
+sub-endless1-1,talk,natsuno,......,,
+sub-endless1-1,talk,natsuno,......Oh,,
+sub-endless1-1,talk,natsuno,..Could that be it?,,
+sub-endless1-1,talk,natsuno,The kind where the photo comes sliding right out as soon as you take it,,
+sub-endless1-1,talk,natsuno,Sliding right out,,
+sub-endless1-1,talk,natsuno,......,,
+sub-endless1-1,talk,natsuno,There's film too......,,
+sub-endless1-1,talk,natsuno,Let's see......,,
+sub-endless1-1,talk,natsuno,Looks like it's an instant camera,,
+sub-endless1-1,talk,natsuno,There's a battery in it， so it should work,,
+sub-endless1-1,talk,natsuno,......,,
+sub-endless1-1,talk,natsuno,......A camera， huh,,
+sub-endless1-1,talk,natsuno,I don't know if I can figure out how to use it,,
+sub-endless1-1,talk,natsuno,Since I found it anyway,,
+sub-endless1-1,talk,natsuno,Maybe I'll take it with me,,
+sub-endless1-1,talk,natsuno,......,,
+sub-endless1-1,talk,natsuno,What should I take a picture of......,,
+sub-endless1-1,talk,natsuno,Hmm,,
+sub-endless1-1,talk,natsuno,I can't think of anything,,
+sub-endless1-1,talk,natsuno,......,,
+sub-endless1-1,talk,natsuno,......At times like this,,
+sub-endless1-1,talk,natsuno,I can't help wishing you were here beside me,,
+sub-endless1-1,talk,natsuno,If only you were here......,,
+sub-endless1-1,talk,natsuno,You'd let me take at least one picture of you， right?,,
+sub-endless1-1,wait,1,,,
+sub-endless1-1,pushItemHouse,film00,,,
+sub-endless1-1,pushItemHouse,film00,,,
+sub-endless1-1,pushItemHouse,film00,,,
+sub-endless1-1,pushItemHouse,camera00,,,
+sub-endless1-1,end,questSuccess,,,
+-,,,,,

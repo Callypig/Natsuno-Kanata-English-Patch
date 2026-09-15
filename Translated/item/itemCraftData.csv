@@ -1,71 +1,71 @@
-﻿id,_name<jpn>,name<eng>,_additionalDescription<jpn>,additionalDescription<eng>
-heal00,包帯,Bandage,-,-
--,,,,
-cooking00,サンドイッチ,Sandwich,-,-
-cooking01,ハンバーグ,Hamburger,-,-
-cooking02,串焼き肉,Skewered Meat,-,-
-cooking03,コンソメスープ,Clear soup​ ,-,-
-cooking04,おにぎり,Onigiri,-,-
-cooking05,焼きおにぎり,Grilled Onigiri,-,-
-cooking06,オムレツ,Omelet,-,-
-cooking07,たまごサンド,Egg Sandwich,-,-
-cooking08,肉煮込み,Stewed Meat,-,-
-cooking09,玉ねぎスープ,Onion Soup,-,-
-cooking10,焼き魚,Grilled Fish,-,-
-cooking11,白身魚のオーブン蒸し,Oven-Steamed White Fish,-,-
-cooking12,ホットサンド,Toasted Sandwich,-,-
-cooking13,オニオンリング,Onion Rings,-,-
-cooking14,フライドポテト,French Fries,-,-
-cooking15,たまごかけごはん,Egg over Rice,-,-
-cooking16,ハムエッグ,Ham and Eggs,-,-
-cooking17,魚のコンソメ煮,Fish in Celar Soup,-,-
-cooking18,ピザトースト,Pizza Toast,-,-
-cooking19,肉巻きチーズ,Cheese-Wrapped Meat,-,-
-cooking20,チーズサンド,Cheese Sandwich,-,-
-cooking21,じゃがいものポタージュ,Potato Potage,-,-
-cooking22,じゃがチーズ焼き,Cheesy Potatoes,-,-
-cooking23,肉じゃが,Nikujaga,-,-
-cooking24,ポテトサラダ,Potato Salad,-,-
--,,,,
-hammer01,クギバット,Nail Bat,-,-
-hammer06,お手製の槍,Handmade Spear,-,-
-hammer09,お手製スラッパー,Handmade Slapper,-,-
--,,,,
-gun00,ハンドガン（特徴なし）,Handgun (No Trait),「初心者向けの」「壊れやすい」などの<red>特徴</red>がつかない道具がクラフトされます。<br>補正値は、材料の中から最大のものが引き継がれます。,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
-gun01,ショットガン（特徴なし）,Shotgun (No Trait),「初心者向けの」「壊れやすい」などの<red>特徴</red>がつかない道具がクラフトされます。<br>補正値は、材料の中から最大のものが引き継がれます。,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
-gun03,ライフル（特徴なし）,Rifle (No Trait),「初心者向けの」「壊れやすい」などの<red>特徴</red>がつかない道具がクラフトされます。<br>補正値は、材料の中から最大のものが引き継がれます。,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
-gun04,サブマシンガン（特徴なし）,Submachine Gun (No Trait),「初心者向けの」「壊れやすい」などの<red>特徴</red>がつかない道具がクラフトされます。<br>補正値は、材料の中から最大のものが引き継がれます。,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
--,,,,
-ammo00,ハンドガンの弾,Handgun Ammo,-,-
-ammo01,ショットガンの弾,Shotgun Ammo,-,-
--,,,,
-armor00,軍手,Work Gloves,-,-
-armor01,甲手,Kote,-,-
--,,,,
-tool02,キーピック,Lockpick,-,-
-tool03,釣り竿,Fishing Rod,-,-
-dismantle00,分解キット,Disassembly Kit,-,-
--,,,,
-attack00,火炎瓶,Molotov Cocktail,-,-
-attack01,手製爆弾,Homemade Bomb,-,-
-bell02,電子ブザー,Electronic Buzzer,-,-
-trap00,くくり罠,Snare Trap,-,-
-trap01,まきびし,Caltrops,-,-
--,,,,
-bag01,手づくりナップサック,Handmade Backpack,-,-
--,,,,
-memory-any00,頭の大きな木彫りの羊,Wooden Sheep with a Large Head,-,-
-memory-any01,三毛猫のぬいぐるみ,Calico Cat Plushie,-,-
-memory-any02,電子オルゴールの木箱,Electronic Music Box in a Wooden Case,-,-
--,,,,
--,,,,
-dismantle-gun00,ハンドガン,Handgun,-,-
-dismantle-gun01,ショットガン,Shotgun,-,-
-dismantle-gun03,ライフル,Rifle,-,-
-dismantle-gun04,サブマシンガン,Submachine Gun,-,-
-dismantle-cookingTool00,ダッチオーブン,Dutch Oven,-,-
-dismantle-cookingTool01,スキレット,Skillet,-,-
-dismantle-cookingTool02,ホットサンドメーカー,Sandwich Toaster​ ,-,-
-dismantle-craft00,携帯工作台,Portable Workbench,-,-
-dismantle-craft01,携帯調理器,Portable Cooker,-,-
--,,,,
+id,name<jpn>,type,item,variable,accessory,count,material0,material1,material2,material3,material4,recipe,selectMaterial,description,dismantleable,sound,additionalDescription<jpn>
+heal00,Bandage,craft,heal00,-,-,1,material02,material02,,,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,
+cooking00,Sandwich,cooking,cooking00,-,-,1,food06,food04,,,,-,false,item,false,cook00,-
+cooking01,Hamburger,cooking,cooking01,-,-,1,food00,food05,,,,-,false,item,false,cook00,-
+cooking02,Skewered Meat,cooking,cooking02,-,-,1,food00,,,,,-,false,item,false,cook00,-
+cooking03,Clear soup​ ,cooking,cooking03,-,-,1,food01,,,,,-,false,item,false,cook00,-
+cooking04,Onigiri,cooking,cooking04,-,-,1,food02,,,,,-,false,item,false,cook00,-
+cooking05,Grilled Onigiri,cooking,cooking05,-,-,1,food02,cookingTool01,,,,-,false,item,false,cook00,-
+cooking06,Omelet,cooking,cooking06,-,-,1,food03,,,,,-,false,item,false,cook00,-
+cooking07,Egg Sandwich,cooking,cooking07,-,-,1,food06,food03,,,,-,false,item,false,cook00,-
+cooking08,Stewed Meat,cooking,cooking08,-,-,1,food00,cookingTool00,,,,-,false,item,false,cook00,-
+cooking09,Onion Soup,cooking,cooking09,-,-,1,food05,food01,,,,-,false,item,false,cook00,-
+cooking10,Grilled Fish,cooking,cooking10,-,-,1,food07,,,,,-,false,item,false,cook00,-
+cooking11,Oven-Steamed White Fish,cooking,cooking11,-,-,1,food07,cookingTool00,,,,-,false,item,false,cook00,-
+cooking12,Toasted Sandwich,cooking,cooking12,-,-,1,food06,food04,cookingTool02,,,-,false,item,false,cook00,-
+cooking13,Onion Rings,cooking,cooking13,-,-,1,food05,,,,,-,false,item,false,cook00,-
+cooking14,French Fries,cooking,cooking14,-,-,1,food09,,,,,-,false,item,false,cook00,-
+cooking15,Egg over Rice,cooking,cooking15,-,-,1,food03,food02,,,,-,false,item,false,cook00,-
+cooking16,Ham and Eggs,cooking,cooking16,-,-,1,food04,food03,,,,-,false,item,false,cook00,-
+cooking17,Fish in Celar Soup,cooking,cooking17,-,-,1,food07,food01,,,,-,false,item,false,cook00,-
+cooking18,Pizza Toast,cooking,cooking18,-,-,1,food06,food08,,,,-,false,item,false,cook00,-
+cooking19,Cheese-Wrapped Meat,cooking,cooking19,-,-,1,food00,food08,,,,-,false,item,false,cook00,-
+cooking20,Cheese Sandwich,cooking,cooking20,-,-,1,food08,biscuit00,,,,-,false,item,false,cook00,-
+cooking21,Potato Potage,cooking,cooking21,-,-,1,food09,food01,,,,-,false,item,false,cook00,-
+cooking22,Cheesy Baked Potatoes,cooking,cooking22,-,-,1,food09,food08,,,,-,false,item,false,cook00,-
+cooking23,Meat and Potatoes,cooking,cooking23,-,-,1,food00,food09,,,,-,false,item,false,cook00,-
+cooking24,Potato Salad,cooking,cooking24,-,-,1,food09,food05,,,,-,false,item,false,cook00,-
+-,,,,,,,,,,,,,,,,,
+hammer01,Nail Bat,craft,hammer01,-,-,1,material00,material01,,,,-,false,item,true,craft00,-
+hammer06,Handmade Spear,craft,hammer06,-,-,1,hammer05,material00,,,,-,false,item,true,craft00,-
+hammer09,Handmade Slapper,craft,hammer09,-,-,1,material02,material02,material01,,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,
+gun00,Handgun (No Trait),craft,gun00,select_max,none,1,gun00,gun00,,,,-,true,item,false,craft00,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
+gun01,Shotgun (No Trait),craft,gun01,select_max,none,1,gun01,gun01,,,,-,true,item,false,craft00,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
+gun03,Rifle (No Trait),craft,gun03,select_max,none,1,gun03,gun03,,,,-,true,item,false,craft00,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
+gun04,Submachine Gun (No Trait),craft,gun04,select_max,none,1,gun04,gun04,,,,-,true,item,false,craft00,"Items will be crafted without a <red>trait</red> such as ""Beginner-friendly"" or ""About to Break"" will be crafted.<br>The highest modifier value among the materials will be inherited."
+-,,,,,,,,,,,,,,,,,
+ammo00,Handgun Ammo,craft,ammo00,-,-,5,material01,material04,,,,-,false,item,false,craft00,-
+ammo01,Shotgun Ammo,craft,ammo01,-,-,4,material01,material04,material04,,,-,false,item,false,craft00,-
+-,,,,,,,,,,,,,,,,,
+armor00,Work Gloves,craft,armor00,-,-,1,material01,material02,,,,-,false,item,true,craft00,-
+armor01,Kote,craft,armor01,-,-,1,material01,material02,material02,,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,
+tool02,Lockpick,craft,tool02,-,-,1,material01,material01,,,,-,false,item,true,craft00,-
+tool03,Fishing Rod,craft,tool03,-,-,1,material00,material12,,,,-,false,item,true,craft00,-
+dismantle00,Disassembly Kit,craft,dismantle00,-,-,1,material01,material03,,,,-,false,item,false,craft00,-
+-,,,,,,,,,,,,,,,,,
+attack00,Molotov Cocktail,craft,attack00,-,-,1,bell01,material02,material11,,,-,false,item,true,craft00,-
+attack01,Homemade Bomb,craft,attack01,-,-,1,hammer04,material04,,,,-,false,item,true,craft00,-
+bell02,Electronic Buzzer,craft,bell02,-,-,1,material03,material03,,,,-,false,item,true,craft00,-
+trap00,Snare Trap,craft,trap00,-,-,1,material13,material13,,,,-,false,item,true,craft00,-
+trap01,Caltrops,craft,trap01,-,-,1,hammer04,hammer04,,,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,
+bag01,Handmade Backpack,craft,bag01,-,-,1,material02,material12,material13,,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,
+memory-any00,Wooden Sheep with a Large Head,craft,memory-any00,-,-,1,material00,material00,material01,material01,,-,false,item,true,craft00,-
+memory-any01,Calico Cat Plushie,craft,memory-any01,-,-,1,material02,material02,material12,material12,,-,false,item,true,craft00,-
+memory-any02,Electronic Music Box in a Wooden Case,craft,memory-any02,-,-,1,material03,material03,material00,material00,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,
+-,,,,,,,,,,,,,,,,,
+dismantle-gun00,Handgun,dismantle,gun00,-,-,1,material01,material01,,,,-,false,item,true,craft00,-
+dismantle-gun01,Shotgun,dismantle,gun01,-,-,1,material01,material00,,,,-,false,item,true,craft00,-
+dismantle-gun03,Rifle,dismantle,gun03,-,-,1,material01,material01,material00,,,-,false,item,true,craft00,-
+dismantle-gun04,Submachine Gun,dismantle,gun04,-,-,1,material01,material01,material01,,,-,false,item,true,craft00,-
+dismantle-cookingTool00,Dutch Oven,dismantle,cookingTool00,-,-,1,material01,,,,,-,false,item,true,craft00,-
+dismantle-cookingTool01,Skillet,dismantle,cookingTool01,-,-,1,material01,,,,,-,false,item,true,craft00,-
+dismantle-cookingTool02,Sandwich Toaster​ ,dismantle,cookingTool02,-,-,1,material01,,,,,-,false,item,true,craft00,-
+dismantle-craft00,Portable Workbench,dismantle,craft00,-,-,1,material01,material00,,,,-,false,item,true,craft00,-
+dismantle-craft01,Portable Cooker,dismantle,craft01,-,-,1,material01,material11,,,,-,false,item,true,craft00,-
+-,,,,,,,,,,,,,,,,,

@@ -1,35 +1,35 @@
-id,_chapter<jpn>,chapter<eng>,_title<jpn>,title<eng>
-main0,プロローグ,Prologue,知らない夏の少女,The Unknown Summer Girl
-main1,エピソード 1,Episodes 1,聞こえてくる声,The Voices I Hear
-main2,エピソード 2,<PLEASE_TRANSLATE>,語りかけるもの,<PLEASE_TRANSLATE>
-main3,エピソード 3,<PLEASE_TRANSLATE>,原因,<PLEASE_TRANSLATE>
-main4,エピソード 4,<PLEASE_TRANSLATE>,別れ,<PLEASE_TRANSLATE>
-main5,エピソード 5,<PLEASE_TRANSLATE>,一年ぶりの夏,<PLEASE_TRANSLATE>
-main6,エピソード 6,<PLEASE_TRANSLATE>,再会,<PLEASE_TRANSLATE>
-main7,エピソード 7,<PLEASE_TRANSLATE>,謎の少女,<PLEASE_TRANSLATE>
-main8,エピソード 8,<PLEASE_TRANSLATE>,コンピュータの中の世界,<PLEASE_TRANSLATE>
-main9,エピソード 9,<PLEASE_TRANSLATE>,つくられた世界,<PLEASE_TRANSLATE>
-main10,エピソード 10,<PLEASE_TRANSLATE>,物語,<PLEASE_TRANSLATE>
-main11,エピソード 11,<PLEASE_TRANSLATE>,違和感,<PLEASE_TRANSLATE>
-main12,エピソード 12,<PLEASE_TRANSLATE>,偶然,<PLEASE_TRANSLATE>
-main13,エピソード 13,<PLEASE_TRANSLATE>,消えてしまったらいいのに,<PLEASE_TRANSLATE>
-main14,エピソード 14,<PLEASE_TRANSLATE>,眠りの中,<PLEASE_TRANSLATE>
-main15,エピソード 15,<PLEASE_TRANSLATE>,夢の中で,<PLEASE_TRANSLATE>
-main16,エピソード 16,<PLEASE_TRANSLATE>,夏の彼方,<PLEASE_TRANSLATE>
--,,,,
-kiko1,キャラクターエピソード,<PLEASE_TRANSLATE>,キコ,<PLEASE_TRANSLATE>
-shino1,キャラクターエピソード,<PLEASE_TRANSLATE>,シノ,<PLEASE_TRANSLATE>
-akane1,キャラクターエピソード,<PLEASE_TRANSLATE>,アカネ,<PLEASE_TRANSLATE>
-minamo1,キャラクターエピソード,<PLEASE_TRANSLATE>,ミナモ,<PLEASE_TRANSLATE>
-hinase1,キャラクターエピソード,<PLEASE_TRANSLATE>,ヒナセ,<PLEASE_TRANSLATE>
-itsuka1,キャラクターエピソード,<PLEASE_TRANSLATE>,イツカ,<PLEASE_TRANSLATE>
-meguru1,キャラクターエピソード,<PLEASE_TRANSLATE>,メグル,<PLEASE_TRANSLATE>
--,,,,
-kiko2,キャラクターエピソード,<PLEASE_TRANSLATE>,キコ 2,<PLEASE_TRANSLATE>
-shino2,キャラクターエピソード,<PLEASE_TRANSLATE>,シノ 2,<PLEASE_TRANSLATE>
-akane2,キャラクターエピソード,<PLEASE_TRANSLATE>,アカネ 2,<PLEASE_TRANSLATE>
-minamo2,キャラクターエピソード,<PLEASE_TRANSLATE>,ミナモ 2,<PLEASE_TRANSLATE>
-hinase2,キャラクターエピソード,<PLEASE_TRANSLATE>,ヒナセ 2,<PLEASE_TRANSLATE>
-itsuka2,キャラクターエピソード,<PLEASE_TRANSLATE>,イツカ 2,<PLEASE_TRANSLATE>
-meguru2,キャラクターエピソード,<PLEASE_TRANSLATE>,メグル 2,<PLEASE_TRANSLATE>
--,,,,
+id,chapter<jpn>,title<jpn>,image
+main0,Prologue,The Unknown Summer Girl,scenario00
+main1,Episodes 1,The Voices I Hear,scenario02
+main2,エピソード 2,語りかけるもの,scenario03
+main3,エピソード 3,原因,computer00
+main4,エピソード 4,別れ,scenario01
+main5,エピソード 5,一年ぶりの夏,scenario01
+main6,エピソード 6,再会,scenario30
+main7,エピソード 7,謎の少女,scenario31
+main8,エピソード 8,コンピュータの中の世界,scenario19
+main9,エピソード 9,つくられた世界,computer00
+main10,エピソード 10,物語,computer00
+main11,エピソード 11,違和感,scenario24
+main12,エピソード 12,偶然,scenario23
+main13,エピソード 13,消えてしまったらいいのに,scenario24
+main14,エピソード 14,眠りの中,scenario23
+main15,エピソード 15,夢の中で,scenario24
+main16,エピソード 16,夏の彼方,scenario01
+-,,,
+kiko1,キャラクターエピソード,キコ,scenario10
+shino1,キャラクターエピソード,シノ,scenario04
+akane1,キャラクターエピソード,アカネ,scenario13
+minamo1,キャラクターエピソード,ミナモ,scenario25
+hinase1,キャラクターエピソード,ヒナセ,scenario28
+itsuka1,キャラクターエピソード,イツカ,scenario35
+meguru1,キャラクターエピソード,メグル,scenario16
+-,,,
+kiko2,キャラクターエピソード,キコ 2,scenario10
+shino2,キャラクターエピソード,シノ 2,scenario04
+akane2,キャラクターエピソード,アカネ 2,scenario00
+minamo2,キャラクターエピソード,ミナモ 2,scenario25
+hinase2,キャラクターエピソード,ヒナセ 2,scenario28
+itsuka2,キャラクターエピソード,イツカ 2,scenario35
+meguru2,キャラクターエピソード,メグル 2,scenario16
+-,,,

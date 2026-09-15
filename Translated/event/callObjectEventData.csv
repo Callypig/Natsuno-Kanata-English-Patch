@@ -1,0 +1,8 @@
+id,input,type,eventType,skill
+search00,search,search,SearchEvent,-
+look00,look,search,SearchEvent,-
+open00,open,search,SearchEvent,-
+pick00,pick,search,SearchEvent,-
+avoid00,avoid,avoid,AvoidEvent,-
+hide00,hide,hide,HideEvent,-
+observe00,observe,observe,ObserveEvent,timidity

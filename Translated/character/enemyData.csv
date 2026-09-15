@@ -1,44 +1,44 @@
-﻿id,_name<jpn>,name<eng>
-enemy00,スーツ姿の感染者,Infected in a suit
-enemy01,片腕の感染者,One-armed infected
-enemy02,白目をむいた感染者,Infected with rolled-back eyes
-enemy03,焼けただれた感染者,Burned infected
-enemy04,猫背の感染者,Hunched-over infected
-enemy05,老いた感染者,Old infected
-enemy06,巨体の感染者,Huge infected
-enemy07,バールを持った感染者,Infected with a crowbar
-enemy08,片腕が肥大化した感染者,Infected with a swollen arm
-enemy09,肩からパイプが飛び出した感染者,Infected with a pipe in his shoulder 
-enemy10,全身を蔓に覆われた感染者,Infected covered with vines
-enemy11,硬い爪の伸びた感染者,Infected with grown-out hard claws
-enemy12,頭からCDが飛び出た感染者,Infected with a CD sticking out of it's head
-enemy13,腕が木の根のようになった感染者,Infected with tree roots as an arm
-enemy14,両目から鱗粉の流れる感染者,Infected with scales dusting from both eyes
-enemy15,腹に大穴があいた感染者,Infected with a large hole in its abdomen
-enemy16,口から綿毛を吐く感染者,Infected with fluff from its mouth
--,,
-enemy50,右半身の腐った感染者,Infected with a rotten right side
-enemy51,緑の作業服の感染者,Infected in green work clothes
-enemy52,ヘルメットを被った感染者,Helmeted infected
-enemy53,四つん這いの感染者,Four-legged infected
-enemy54,顎から上がない感染者,Infected with only the jaw remaining
-enemy55,口から砂を吐き続ける感染者,Infected that continually spits sand from its mouth
-enemy56,胸から水晶の生えた感染者,Infected with crystals growing from its chest
-enemy57,無数のケーブルが生えた感染者,Infected with countless cables growing from its body
-enemy58,身体が葉で覆われた感染者,Infected covered in leaves
-enemy59,全身から淡い光が漏れる感染者,Infected with a faint light leaking from its entire body
--,,
-enemyBoss00,両腕が岩のようになった感染者,Infected with both stone arms
-enemyBoss01,巨大な花の生えた感染者,Infected with a giant flower growing from its body
-enemyBoss02,全身から針のような毛の生えた感染者,Infected with needle-like hair growing all over its body
-enemyBoss03,身体が青白く点滅している感染者,Infected with a body that flashes bluish-white
--,,
-enemyBoss50,頭からアンテナの生えた感染者,Infected with antennas growing from its head
-enemyBoss51,腕が蔓に覆われた感染者,Infected with arms covered in vines
-enemyBoss52,胸にタービンが埋まった感染者,Infected with a turbine embedded in its chest
-enemyBoss53,身体中から長い指が生えた感染者,Infected with long fingers growing all over its body
-enemyBoss54,背中に肉の翼が生えた感染者,Infected with fleshy wings growing from its back
--,,
-enemyBoss100,赤い服を着た感染者,Infected in red clothes
-enemyBoss101,ミナモ,Minamo
--,,
+﻿id,name<jpn>,type,context,area,level,ratio,hp,stamina,speed,atk,def,distance,attackTypes[],sound,defeatedEventRatio,defeatedSpeak,defeatedEvent,fg,fgType,fgPosition
+enemy00,Infected in a suit,default,enemy,-,1,0.3,15,0,1,25,2,1,EnemyAttack/EnemyAttackWait,enemy00,0.5,itemDropEnemy,itemGetMaterial00,-,-,-
+enemy01,One-armed infected,default,enemy,-,1,0.3,20,0,1,25,0,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetAmmo00,-,-,-
+enemy02,Infected with rolled-back eyes,default,enemy,-,1,0.3,15,0,2,15,2,1,EnemyAttack/EnemyAttackWait,enemy00,0.5,itemDropEnemy,itemGetFood00,-,-,-
+enemy03,Burned infected,default,enemy,-,5,0.3,20,0,1,30,0,1,EnemyAttack,enemy00,0,-,-,-,-,-
+enemy04,Hunched-over infected,default,enemy,-,5,0.3,25,0,2,20,0,1,EnemyAttack,enemy00,0,-,-,-,-,-
+enemy05,Old infected,default,enemy,-,5,0.3,30,0,1,15,0,1,EnemyAttack/EnemyAttackWait,enemy00,0,-,-,-,-,-
+enemy06,Huge infected,default,enemy,-,10,0.4,35,0,1,20,3,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGet00,-,-,-
+enemy07,Infected with a crowbar,default,enemy,-,10,0.4,35,0,1,25,0,1,EnemyAttack,enemy00,0.8,itemDropEnemy,itemGetIdHammer03,-,-,-
+enemy08,Infected with a swollen arm,default,enemy,-,15,0.4,40,0,1,30,1,1,EnemyAttack/EnemyAttackWait,enemy00,0,-,-,-,-,-
+enemy09,Infected with a pipe in his shoulder ,default,enemy,-,18,0.4,45,0,2,10,0,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetIdHammer02,-,-,-
+enemy10,Infected covered with vines,default,enemy,-,20,0.4,50,0,1,15,0,1,EnemyAttack/EnemyAttackWait/EnemyAttackSmashCharge,enemy00,0,-,-,-,-,-
+enemy11,Infected with grown-out hard claws,default,enemy,-,25,0.5,60,0,2,10,0,1,EnemyAttack/EnemyAttackWait,enemy00,0,-,-,-,-,-
+enemy12,Infected with a CD sticking out of it's head,default,enemy,-,28,0.5,65,0,1,15,1,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetAmmo00,-,-,-
+enemy13,Infected with tree roots as an arm,default,enemy,-,30,0.5,65,0,1,15,0,1,EnemyAttack,enemy00,0,-,-,-,-,-
+enemy14,Infected with scales dusting from both eyes,default,enemy,-,35,0.5,70,0,1,12,2,1,EnemyAttack/EnemyAttackWait,enemy00,0.5,itemDropEnemy,itemGetFood00,-,-,-
+enemy15,Infected with a large hole in its abdomen,default,enemy,-,40,0.5,70,0,1,15,1,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetGun01,-,-,-
+enemy16,Infected with fluff from its mouth,default,enemy,-,45,0.5,80,0,1,20,0,1,EnemyAttack/EnemyAttackWait,enemy00,0.5,itemDropEnemy,itemGet00,-,-,-
+-,,,,,,,,,,,,,,,,,,,,
+enemy50,Infected with a rotten right side,default,enemy,endless,1,0.1,20,0,1,20,2,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetAmmo00,-,-,-
+enemy51,Infected in green work clothes,default,enemy,endless,1,0.1,30,0,1,15,0,1,EnemyAttack/EnemyAttackWait,enemy00,1,itemDropEnemy,itemGetFood00,-,-,-
+enemy52,Helmeted infected,default,enemy,endless,1,0.1,25,0,2,10,0,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetGun01,-,-,-
+enemy53,Four-legged infected,default,enemy,endless,5,0.1,30,0,1,15,5,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetAmmo00,-,-,-
+enemy54,Infected with only the jaw remaining,default,enemy,endless,5,0.1,35,0,1,25,2,1,EnemyAttack/EnemyAttackWait,enemy00,0.5,itemDropEnemy,itemGetAmmo00,-,-,-
+enemy55,Infected that continually spits sand from its mouth,default,enemy,endless,10,0.1,40,0,1,25,0,1,EnemyAttack,enemy00,0,-,-,-,-,-
+enemy56,Infected with crystals growing from its chest,default,enemy,endless,15,0.1,40,0,2,25,0,1,EnemyAttack/EnemyAttackWait,enemy00,0.5,itemDropEnemy,itemGetBox00,-,-,-
+enemy57,Infected with countless cables growing from its body,default,enemy,endless,20,0.1,50,0,1,30,3,1,EnemyAttack,enemy00,0.5,itemDropEnemy,itemGetBox00,-,-,-
+enemy58,Infected covered in leaves,default,enemy,endless,25,0.1,60,0,1,30,0,1,EnemyAttack/EnemyAttackWait/EnemyAttackSmashCharge,enemy00,0.5,itemDropEnemy,itemGet00,-,-,-
+enemy59,Infected with a faint light leaking from its entire body,default,enemy,endless,30,0.1,70,0,1,35,2,1,EnemyAttack/EnemyAttackWait,enemy00,0,-,-,-,-,-
+-,,,,,,,,,,,,,,,,,,,,
+enemyBoss00,Infected with both stone arms,boss,enemy,-,8,0.5,50,0,1,15,1,1,EnemyAttack/EnemyAttackWait/EnemyAttackSmashCharge,enemy02,1.0,itemDropEnemy,itemGetBox00,-,-,-
+enemyBoss01,Infected with a giant flower growing from its body,boss,enemy,-,12,0.5,150,0,1,15,1,1,EnemyAttack/EnemyAttackSmashCharge/EnemyAttackWait,enemy02,1.0,itemDropEnemy,itemGetIdBag00,-,-,-
+enemyBoss02,Infected with needle-like hair growing all over its body,boss,enemy,-,20,0.5,100,0,1,16,3,1,EnemyAttack/EnemyAttackSmashCharge/EnemyAttackWait,enemy02,1.0,itemDropEnemy,itemGetIdBag00,-,-,-
+enemyBoss03,Infected with a body that flashes bluish-white,boss,enemy,-,30,0.5,160,0,1,18,3,1,EnemyAttack/EnemyAttackSmashCharge/EnemyAttackWait,enemy02,1.0,itemDropEnemy,itemGetBox00,-,-,-
+-,,,,,,,,,,,,,,,,,,,,
+enemyBoss50,Infected with antennas growing from its head,boss,enemy,endless,10,1,160,0,2,15,1,1,EnemyAttack/EnemyAttackSmashCharge/EnemyAttackWait,enemy02,1.0,itemDropEnemy,itemGetIdCoin00,-,-,-
+enemyBoss51,Infected with arms covered in vines,boss,enemy,endless,20,1,250,0,1,25,2,1,EnemyAttack/EnemyAttackSteal/EnemyAttack,enemy02,1.0,itemDropEnemy,itemGetIdCoin00,-,-,-
+enemyBoss52,Infected with a turbine embedded in its chest,boss,enemy,endless,30,1,320,0,1,25,3,1,EnemyAttack/EnemyAttackSmashCharge/EnemyAttackWait,enemy02,1.0,itemDropEnemy,itemGetIdCoin00,-,-,-
+enemyBoss53,Infected with long fingers growing all over its body,boss,enemy,endless,40,1,380,0,1,30,2,1,EnemyAttack/EnemyAttackSteal/EnemyAttackSmashCharge,enemy02,1.0,itemDropEnemy,itemGetIdCoin00,-,-,-
+enemyBoss54,Infected with fleshy wings growing from its back,boss,enemy,endless,50,1,460,0,1,30,2,1,EnemyAttack/EnemyAttackSmashCharge/EnemyAttackWait,enemy02,1.0,itemDropEnemy,itemGetIdCoin00,-,-,-
+-,,,,,,,,,,,,,,,,,,,,
+enemyBoss100,Infected in red clothes,boss,enemy,-,20,0,80,0,1,8,1,1,EnemyAttack/EnemyAttackWait/EnemyAttackSmashCharge,enemy02,1.0,itemDropEnemy,itemGetCollectionId100,-,-,-
+enemyBoss101,Minamo,boss,minamo,-,30,0,50,0,1,16,1,0,EnemyAttackSpeak/EnemyAttackWaitSpeak,-,0,-,-,survivor05,,right-left
+-,,,,,,,,,,,,,,,,,,,,

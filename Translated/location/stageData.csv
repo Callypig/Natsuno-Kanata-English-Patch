@@ -1,247 +1,247 @@
-id,_name<jpn>,name<eng>,_bridge<jpn>,bridge<eng>
-talk00,-,-,-,-
--,,,,
-minamo00,道場,Dojo,道場,<PLEASE_TRANSLATE>
--,,,,
-firstApartmen00-00,狭い部屋,Small room,狭い部屋,<PLEASE_TRANSLATE>
-firstApartmen00-01,廊下,Hallway,廊下,<PLEASE_TRANSLATE>
-firstApartmen00-02,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
--,,,,
-endApartmen00-00,狭い部屋,Small room,狭い部屋,<PLEASE_TRANSLATE>
-endApartmen00-01,廊下,Hallway,廊下,<PLEASE_TRANSLATE>
-endApartmen00-02,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
--,,,,
-marble00,何もないところ,Empty area,ここではないところ,<PLEASE_TRANSLATE>
-marble01,何もないところ,Empty area,ここではないところ,<PLEASE_TRANSLATE>
-marble02,何もないところ,Empty area,ここではないところ,<PLEASE_TRANSLATE>
--,,,,
-apartment00,リビング,Living room,リビング,<PLEASE_TRANSLATE>
-apartment01,子供部屋,Child's room,子供部屋,<PLEASE_TRANSLATE>
-apartment02,寝室,Bedroom,寝室,<PLEASE_TRANSLATE>
-apartment03,書斎,Study,書斎,<PLEASE_TRANSLATE>
-apartment04,細い廊下,Narrow hallway,細い廊下,<PLEASE_TRANSLATE>
-apartment05,外廊下,Outdoor hallway,外廊下,<PLEASE_TRANSLATE>
-apartment06,バスルーム,Bathroom,バスルーム,<PLEASE_TRANSLATE>
-apartment07,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
--,,,,
-hut00,小さな部屋,Small room,小さな部屋,<PLEASE_TRANSLATE>
-hut01,屋根裏部屋,Attic,屋根裏部屋,<PLEASE_TRANSLATE>
-hut02,作業部屋,Workshop,作業部屋,<PLEASE_TRANSLATE>
-hut03,物置,Storage room,物置,<PLEASE_TRANSLATE>
--,,,,
-shop01,食品売り場,Grocery section,食品売り場,<PLEASE_TRANSLATE>
-shop02,雑貨売り場,General goods section,雑貨売り場,<PLEASE_TRANSLATE>
-shop03,書棚,Bookshelves,書棚,<PLEASE_TRANSLATE>
-shop04,バックヤード,Back room,バックヤード,<PLEASE_TRANSLATE>
-shop05,スタッフ用の部屋,Staff room,スタッフ用の部屋,<PLEASE_TRANSLATE>
-shop06,搬入口,Loading entrance,搬入口,<PLEASE_TRANSLATE>
--,,,,
-office00,控室,Waiting room,控室,<PLEASE_TRANSLATE>
-office01,誰もいない更衣室,Empty changing room,誰もいない更衣室,<PLEASE_TRANSLATE>
-office02,オフィス,Office,オフィス,<PLEASE_TRANSLATE>
-office03,事務室,Office,事務室,<PLEASE_TRANSLATE>
-office04,資料室,Records room,資料室,<PLEASE_TRANSLATE>
-office05,会議室,Meeting room,会議室,<PLEASE_TRANSLATE>
-office06,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
-office08,短い廊下,Short hallway,短い廊下,<PLEASE_TRANSLATE>
-office07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-office09,機材置き場,Equipment storage,機材置き場,<PLEASE_TRANSLATE>
--,,,,
-palace00,広いホール,Large hall,広いホール,<PLEASE_TRANSLATE>
-palace01,暗い広間,Dark hall,暗い広間,<PLEASE_TRANSLATE>
-palace02,長い廊下,Long hallway,長い廊下,<PLEASE_TRANSLATE>
-palace03,薄暗い通路,Dimly lit passage,薄暗い通路,<PLEASE_TRANSLATE>
-palace04,書斎,Study,書斎,<PLEASE_TRANSLATE>
-palace05,寝室,Bedroom,寝室,<PLEASE_TRANSLATE>
-palace06,応接間,Reception room,応接間,<PLEASE_TRANSLATE>
-palace07,アトリエ,Atelier,アトリエ,<PLEASE_TRANSLATE>
-palace08,地下倉庫,Basement storage,地下倉庫,<PLEASE_TRANSLATE>
-palace09,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
--,,,,
-village00,広い交差点,Wide intersection,広い交差点,<PLEASE_TRANSLATE>
-village01,小さな交差路,Small crossroads,小さな交差路,<PLEASE_TRANSLATE>
-village02,広場,Plaza,広場,<PLEASE_TRANSLATE>
-village03,細い路地,Narrow alley,細い路地,<PLEASE_TRANSLATE>
-village04,大通り,Main street,大通り,<PLEASE_TRANSLATE>
-village05,家の並ぶ道,Residential street,家の並ぶ道,<PLEASE_TRANSLATE>
-village06,民家の庭,House garden,民家の庭,<PLEASE_TRANSLATE>
-village07,屋敷の前庭,Mansion front garden,屋敷の前庭,<PLEASE_TRANSLATE>
--,,,,
-camp00,一人用のテント,One-person tent,一人用のテント,<PLEASE_TRANSLATE>
-camp01,大きなテント,Large tent,大きなテント,<PLEASE_TRANSLATE>
-camp02,崩れかけのテント,Collapsing tent,崩れかけのテント,<PLEASE_TRANSLATE>
-camp03,芝生の広場,Grassy plaza,芝生の広場,<PLEASE_TRANSLATE>
-camp04,芝生のキャンプサイト,Grassy campsite,芝生のキャンプサイト,<PLEASE_TRANSLATE>
-camp05,川辺,Riverside,川辺,<PLEASE_TRANSLATE>
-camp06,穏やかな川,Calm river,穏やかな川,<PLEASE_TRANSLATE>
-camp07,物置小屋,Storage shed,物置小屋,<PLEASE_TRANSLATE>
-camp08,コンクリートの倉庫,Concrete warehouse,コンクリートの倉庫,<PLEASE_TRANSLATE>
--,,,,
-seaside00,広い砂浜,Wide beach,広い砂浜,<PLEASE_TRANSLATE>
-seaside01,人の痕跡がある浜,Beach with traces of people,人の痕跡がある浜,<PLEASE_TRANSLATE>
-seaside02,砂浜のキャンプ跡,Beach campsite remains,砂浜のキャンプ跡,<PLEASE_TRANSLATE>
-seaside03,波打ち際,Water's edge,波打ち際,<PLEASE_TRANSLATE>
-seaside04,波の打ちつける岩場,Rocky shore battered by waves,波の打ちつける岩場,<PLEASE_TRANSLATE>
-seaside05,小さなテント,Small tent,小さなテント,<PLEASE_TRANSLATE>
-seaside06,頑丈なテント,Sturdy tent,頑丈なテント,<PLEASE_TRANSLATE>
-seaside07,レンガの倉庫,Brick warehouse,レンガの倉庫,<PLEASE_TRANSLATE>
-seaside08,木造の小屋,Wooden shed,木造の小屋,<PLEASE_TRANSLATE>
--,,,,
-hotel00,シングルルーム,Single room,シングルルーム,<PLEASE_TRANSLATE>
-hotel01,ツインの客室,Twin room,ツインの客室,<PLEASE_TRANSLATE>
-hotel02,家族向けの客室,Family room,家族向けの客室,<PLEASE_TRANSLATE>
-hotel03,細い廊下,Narrow hallway,細い廊下,<PLEASE_TRANSLATE>
-hotel04,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
-hotel05,バスルーム,Bathroom,バスルーム,<PLEASE_TRANSLATE>
-hotel06,豪勢な浴室,Luxurious bathroom,豪勢な浴室,<PLEASE_TRANSLATE>
-hotel07,物置,Storage room,物置,<PLEASE_TRANSLATE>
-hotel08,資料室,Records room,資料室,<PLEASE_TRANSLATE>
-hotel09,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
-hotel10,エレベーターホール,Elevator hall,エレベーターホール,<PLEASE_TRANSLATE>
-hotel11,事務室,Office,事務室,<PLEASE_TRANSLATE>
-hotel12,更衣室,Changing room,更衣室,<PLEASE_TRANSLATE>
-hotel13,狭い給湯室,Small kitchenette,狭い給湯室,<PLEASE_TRANSLATE>
-hotel14,広い厨房,Large kitchen,広い厨房,<PLEASE_TRANSLATE>
--,,,,
-library00,文庫本の棚,Paperback shelves,文庫本の棚,<PLEASE_TRANSLATE>
-library01,図鑑の棚,Reference book shelves,図鑑の棚,<PLEASE_TRANSLATE>
-library02,雑誌の棚,Magazine shelves,雑誌の棚,<PLEASE_TRANSLATE>
-library03,歯抜けになった書架,Partially empty bookshelves,歯抜けになった書架,<PLEASE_TRANSLATE>
-library04,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
-library05,催事場,Event hall,催事場,<PLEASE_TRANSLATE>
-library06,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-library07,機材置き場,Equipment storage,機材置き場,<PLEASE_TRANSLATE>
-library08,事務室,Office,事務室,<PLEASE_TRANSLATE>
-library09,受付,Reception,受付,<PLEASE_TRANSLATE>
--,,,,
-factory00,加工室,Processing room,加工室,<PLEASE_TRANSLATE>
-factory01,機械の並ぶ部屋,Room lined with machines,機械の並ぶ部屋,<PLEASE_TRANSLATE>
-factory02,広い機械室,Large machine room,広い機械室,<PLEASE_TRANSLATE>
-factory03,事務室,Office,事務室,<PLEASE_TRANSLATE>
-factory04,休憩室,Break room,休憩室,<PLEASE_TRANSLATE>
-factory05,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-factory06,資材置き場,Materials storage,資材置き場,<PLEASE_TRANSLATE>
-factory07,搬入口,Loading entrance,搬入口,<PLEASE_TRANSLATE>
--,,,,
-homeCenter00,植木売り場,Garden supplies section,植木売り場,<PLEASE_TRANSLATE>
-homeCenter01,工具売り場,Tools section,工具売り場,<PLEASE_TRANSLATE>
-homeCenter02,家財売り場,Household goods section,家財売り場,<PLEASE_TRANSLATE>
-homeCenter03,バックヤード,Back room,バックヤード,<PLEASE_TRANSLATE>
-homeCenter04,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-homeCenter05,控室,Waiting room,控室,<PLEASE_TRANSLATE>
-homeCenter06,更衣室,Changing room,更衣室,<PLEASE_TRANSLATE>
-homeCenter07,搬入口,Loading entrance,搬入口,<PLEASE_TRANSLATE>
-homeCenter08,広い駐車場,Large parking lot,広い駐車場,<PLEASE_TRANSLATE>
-homeCenter09,地下駐車場,Underground parking lot,地下駐車場,<PLEASE_TRANSLATE>
-homeCenter10,店舗裏の駐車場,Rear parking lot,店舗裏の駐車場,<PLEASE_TRANSLATE>
--,,,,
-museum00,化石の展示された部屋,Fossil exhibit room,化石の展示された部屋,<PLEASE_TRANSLATE>
-museum01,剥製の展示された部屋,Taxidermy exhibit room,剥製の展示された部屋,<PLEASE_TRANSLATE>
-museum02,模型の展示室,Model exhibit room,模型の展示室,<PLEASE_TRANSLATE>
-museum03,古い書物の展示室,Ancient book exhibit room,古い書物の展示室,<PLEASE_TRANSLATE>
-museum04,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
-museum05,イベントホール,Event hall,イベントホール,<PLEASE_TRANSLATE>
-museum06,事務室,Office,事務室,<PLEASE_TRANSLATE>
-museum07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-museum08,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
-museum09,静かな廊下,Quiet hallway,静かな廊下,<PLEASE_TRANSLATE>
--,,,,
-amusementPark00,止まった観覧車,Stopped Ferris wheel,観覧車,<PLEASE_TRANSLATE>
-amusementPark01,動かないメリーゴーランド,Motionless carousel,メリーゴーランド,<PLEASE_TRANSLATE>
-amusementPark02,無人のジェットコースター,Abandoned roller coaster,ジェットコースター,<PLEASE_TRANSLATE>
-amusementPark03,異臭のするパンダカー,Go-kart with a foul smell,パンダの乗り物,<PLEASE_TRANSLATE>
-amusementPark04,ブロンズ像の広場,Bronze statue plaza,開けたところ,<PLEASE_TRANSLATE>
-amusementPark05,噴水広場,Fountain plaza,噴水広場,<PLEASE_TRANSLATE>
-amusementPark06,事務所,Office,事務所,<PLEASE_TRANSLATE>
-amusementPark07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
--,,,,
-school00,一年生の教室,First-year classroom,一年生の教室,<PLEASE_TRANSLATE>
-school01,二年生の教室,Second-year classroom,二年生の教室,<PLEASE_TRANSLATE>
-school02,三年生の教室,Third-year classroom,三年生の教室,<PLEASE_TRANSLATE>
-school03,空き教室,Empty classroom,空き教室,<PLEASE_TRANSLATE>
-school04,職員室,Staff room,職員室,<PLEASE_TRANSLATE>
-school05,教材室,Teaching materials room,教材室,<PLEASE_TRANSLATE>
-school06,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-school07,玄関ホール,Entrance hall,玄関ホール,<PLEASE_TRANSLATE>
--,,,,
-underpass00,暗い道,Dark road,暗い道,<PLEASE_TRANSLATE>
-underpass01,ポスターばかりの道,Road covered in posters,ポスターばかりの道,<PLEASE_TRANSLATE>
-underpass02,タイル張りの道,Tiled road,タイル張りの道,<PLEASE_TRANSLATE>
-underpass03,天井の低い道,Low-ceilinged road,天井の低い道,<PLEASE_TRANSLATE>
-underpass04,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-underpass05,資材置き場,Materials storage,資材置き場,<PLEASE_TRANSLATE>
-underpass06,スタッフルーム,Staff room,スタッフルーム,<PLEASE_TRANSLATE>
-underpass07,機械室,Machine room,機械室,<PLEASE_TRANSLATE>
--,,,,
-cafe00,ボックス席,Booth seating,ボックス席,<PLEASE_TRANSLATE>
-cafe01,カウンター,Counter,カウンター,<PLEASE_TRANSLATE>
-cafe02,雑貨売り場,General goods section,雑貨売り場,<PLEASE_TRANSLATE>
-cafe03,菓子売り場,Confectionery section,菓子売り場,<PLEASE_TRANSLATE>
-cafe04,厨房,Kitchen,厨房,<PLEASE_TRANSLATE>
-cafe05,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
-cafe06,事務所,Drink server,事務所,<PLEASE_TRANSLATE>
-cafe07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
--,,,,
-station00,改札前,In front of the ticket gates,改札前,<PLEASE_TRANSLATE>
-station01,コンコース,Concourse,コンコース,<PLEASE_TRANSLATE>
-station02,待合室,Waiting room,待合室,<PLEASE_TRANSLATE>
-station03,連絡通路,Connecting passage,連絡通路,<PLEASE_TRANSLATE>
-station04,自由通路,Public passage,自由通路,<PLEASE_TRANSLATE>
-station05,駅員室,Station staff room,駅員室,<PLEASE_TRANSLATE>
-station06,事務所,Office,事務所,<PLEASE_TRANSLATE>
-station07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
--,,,,
-restaurant00,カウンター,Counter,カウンター,<PLEASE_TRANSLATE>
-restaurant01,テーブル席,Table seating,テーブル席,<PLEASE_TRANSLATE>
-restaurant02,ボックス席,Booth seating,ボックス席,<PLEASE_TRANSLATE>
-restaurant03,ホール,Hall,ホール,<PLEASE_TRANSLATE>
-restaurant04,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
-restaurant05,厨房,Kitchen,厨房,<PLEASE_TRANSLATE>
-restaurant06,ドリンクサーバー,Drink server,ドリンクサーバー,<PLEASE_TRANSLATE>
-restaurant07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
--,,,,
-prison00,待合室,Waiting room,待合室,<PLEASE_TRANSLATE>
-prison01,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
-prison02,薄暗い廊下,Dimly lit hallway,薄暗い廊下,<PLEASE_TRANSLATE>
-prison03,広い廊下,Wide hallway,広い廊下,<PLEASE_TRANSLATE>
-prison04,窓のない通路,Windowless passage,窓のない通路,<PLEASE_TRANSLATE>
-prison05,事務室,Office,事務室,<PLEASE_TRANSLATE>
-prison06,受付,Reception,受付,<PLEASE_TRANSLATE>
-prison07,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
-prison08,物置,Storage room,物置,<PLEASE_TRANSLATE>
--,,,,
-storehouse00,A列と書かれた棚,Shelf marked A,A列と書かれた棚,<PLEASE_TRANSLATE>
-storehouse01,B列と書かれた棚,Shelf marked B,B列と書かれた棚,<PLEASE_TRANSLATE>
-storehouse02,C列と書かれた棚,Shelf marked C,C列と書かれた棚,<PLEASE_TRANSLATE>
-storehouse03,D列と書かれた棚,Shelf marked D,D列と書かれた棚,<PLEASE_TRANSLATE>
-storehouse04,事務所,Office,事務所,<PLEASE_TRANSLATE>
-storehouse05,細い廊下,Narrow hallway,細い廊下,<PLEASE_TRANSLATE>
--,,,,
-hospital00,待合室,Waiting room,待合室,<PLEASE_TRANSLATE>
-hospital01,診察室,Examination room,診察室,<PLEASE_TRANSLATE>
-hospital02,病室,Patient room,病室,<PLEASE_TRANSLATE>
-hospital03,静かな廊下,Quiet hallway,静かな廊下,<PLEASE_TRANSLATE>
-hospital04,事務室,Office,事務室,<PLEASE_TRANSLATE>
-hospital05,キッチン,Kitchen,キッチン,<PLEASE_TRANSLATE>
-hospital06,倉庫,Warehouse,倉庫,<PLEASE_TRANSLATE>
--,,,,
-theater00,エントランスホール,Entrance hall,エントランスホール,<PLEASE_TRANSLATE>
-theater01,広いホール,Large hall,広いホール,<PLEASE_TRANSLATE>
-theater02,薄暗い廊下,Dimly lit hallway,薄暗い廊下,<PLEASE_TRANSLATE>
-theater03,事務所,Office,事務所,<PLEASE_TRANSLATE>
-theater04,控室,Waiting room,控室,<PLEASE_TRANSLATE>
--,,,,
-foodStorage00,Aと書かれた部屋,Room marked A,Aと書かれた部屋,<PLEASE_TRANSLATE>
-foodStorage01,Bと書かれた部屋,Room marked B,Bと書かれた部屋,<PLEASE_TRANSLATE>
-foodStorage02,Cと書かれた部屋,Room marked C,Cと書かれた部屋,<PLEASE_TRANSLATE>
-foodStorage03,Dと書かれた倉庫,Warehouse marked D,Dと書かれた倉庫,<PLEASE_TRANSLATE>
-foodStorage04,Eと書かれた倉庫,Warehouse marked E,Eと書かれた倉庫,<PLEASE_TRANSLATE>
--,,,,
-armoury00,Aと書かれた部屋,Room marked A,Aと書かれた部屋,<PLEASE_TRANSLATE>
-armoury01,Bと書かれた部屋,Room marked B,Bと書かれた部屋,<PLEASE_TRANSLATE>
-armoury02,Cと書かれた部屋,Room marked C,Cと書かれた部屋,<PLEASE_TRANSLATE>
-armoury03,Dと書かれた倉庫,Warehouse marked D,Dと書かれた倉庫,<PLEASE_TRANSLATE>
-armoury04,Eと書かれた倉庫,Warehouse marked E,Eと書かれた倉庫,<PLEASE_TRANSLATE>
--,,,,
-baseCamp00,開けたところ,Open area,開けたところ,<PLEASE_TRANSLATE>
--,,,,
+﻿id,type,describe,objectTypes[],objectTags[],prioritizeItemTag,bridgeCount,obstacleRatio,options[],overwriteSearchResults[],name<jpn>,bridge<jpn>
+talk00,talk,,-,-,-,0,0,-,-,-,-
+-,,,,,,,,,,,
+minamo00,minamo00,-,-,-,-,1,0,-,-,Dojo,dojo
+-,,,,,,,,,,,
+firstApartmen00-00,firstApartmen00,room,furniture/electric,house,ammo,1,0,-,-,Small room,small room
+firstApartmen00-01,firstApartmen00,corridor,shelf/storage,house,ammo,1,0,-,-,Hallway,hallway
+firstApartmen00-02,firstApartmen00,kitchen,kitchenware/electric,kitchen,food,1,0,-,-,Kitchen,kitchen
+-,,,,,,,,,,,
+endApartmen00-00,endApartmen00,room,furniture/electric,house,ammo,1,0,-,-,Small room,small room
+endApartmen00-01,endApartmen00,corridor,shelf/storage,house,ammo,1,0,-,-,Hallway,hallway
+endApartmen00-02,endApartmen00,kitchen,kitchenware/electric,kitchen,food,1,0,-,-,Kitchen,kitchen
+-,,,,,,,,,,,
+marble00,marble,marble,strangeSound,marble,-,1,0,StageOptionIgnoreConfirm,-,Empty area,empty area
+marble01,marble,marble,strangeSound,marble,-,1,0,StageOptionIgnoreConfirm,-,Empty area,empty area
+marble02,marble,marble,strangeSound,marble,-,1,0,StageOptionIgnoreConfirm,-,Empty area,empty area
+-,,,,,,,,,,,
+apartment00,apartment,room,furniture/electric/security/instrument,house,food,2,0.02,-,-,Living room,living room
+apartment01,apartment,room,furniture/toy,house,ammo,1,0.02,-,-,Child's room,child's room
+apartment02,apartment,room,furniture/clothes/picture,house,ammo,1,0.02,-,-,Bedroom,bedroom
+apartment03,apartment,room,room/shelf/document,house,ammo,1,0.02,-,-,Study,study
+apartment04,apartment,corridor,storage/picture,house,ammo,2,0.02,-,-,Narrow hallway,narrow hallway
+apartment05,apartment,corridor,storage/container,house,cookingTool,2,0.02,-,-,Outdoor hallway,outdoor hallway
+apartment06,apartment,bath,bathware,house,ammo,1,0.02,-,-,Bathroom,bathroom
+apartment07,apartment,kitchen,kitchenware/tableware/food,kitchen,food,2,0.02,-,-,Kitchen,kitchen
+-,,,,,,,,,,,
+hut00,hut,hutRoom,container/furniture/garbage,antique,cookingTool,2,0.05,-,-,Small room,small room
+hut01,hut,hutRoom,room/garbage,antique,material,1,0.05,-,-,Attic,attic
+hut02,hut,hutRoom,shelf/tools,antique,material,2,0.05,-,-,Workshop,workshop
+hut03,hut,warehouse,shelf/storage,antique,cookingTool,1,0.05,-,-,Storage room,storage room
+-,,,,,,,,,,,
+shop01,shop,shop,shelf/storage/garbage,shop,food,2,0.02,-,-,Grocery section,grocery section
+shop02,shop,shop,toy/container,shop,cookingTool,2,0.02,-,-,General goods section,general goods section
+shop03,shop,shop,bookshelf/storage,shop,tool,2,0.02,-,-,Bookshelves,bookshelves
+shop04,shop,warehouse,shelf/garbage/document,shop,food,1,0.02,-,-,Back room,back room
+shop05,shop,staffRoom,furniture/electric,office,food,1,0.02,-,-,Staff room,staff room
+shop06,shop,carryIn,storage/container,shop,tool,2,0.02,-,-,Loading entrance,loading entrance
+-,,,,,,,,,,,
+office00,office,staffRoom,furniture/storage,office,tool,1,0.02,-,-,Waiting room,waiting room
+office01,office,staffRoom,storage/garbage/clothes,office,tool,1,0.02,-,-,Empty changing room,empty changing room
+office02,office,office,furniture/shelf/officeSupply,office,tool,2,0.02,-,-,Office,office
+office03,office,office,officeSupply/shelf/stationery,office,tool,2,0.02,-,-,Office,office
+office04,office,office,document/officeSupply/security,office,tool,1,0.02,-,-,Records room,records room
+office05,office,office,officeSupply/furniture/planter,office,tool,1,0.02,-,-,Meeting room,meeting room
+office06,office,corridor,container/statue/planter,office,tool,2,0.02,-,-,Wide hallway,wide hallway
+office08,office,corridor,container/picture,office,tool,2,0.02,-,-,Short hallway,short hallway
+office07,office,warehouse,shelf/storage/security,office,tool,1,0.02,-,-,Warehouse,warehouse
+office09,office,warehouse,tools/container,office,tool,1,0.02,-,-,Equipment storage,equipment storage
+-,,,,,,,,,,,
+palace00,palace,hall,light/picture/planter,luxury,gun,2,0.02,-,-,Large hall,large hall
+palace01,palace,hall,statue/picture,luxury,gun,2,0.02,-,-,Dark hall,dark hall
+palace02,palace,corridor,shelf/container,luxury,food,2,0.02,-,-,Long hallway,long hallway
+palace03,palace,corridor,storage/statue,antique,food,1,0.02,-,-,Dimly lit passage,dimly lit passage
+palace04,palace,room,furniture/instrument/bookshelf,luxury,gun,1,0.02,-,-,Study,study
+palace05,palace,room,furniture/storage,luxury,gun,1,0.02,-,-,Bedroom,bedroom
+palace06,palace,room,furniture/room,luxury,food,1,0.02,-,-,Reception room,reception room
+palace07,palace,room,picture/tools/planter,luxury,gun,1,0.02,-,-,Atelier,atelier
+palace08,palace,warehouse,storage/garbage,antique,food,1,0.02,-,-,Basement storage,basement storage
+palace09,palace,kitchen,kitchenware/tableware/food,luxury,food,1,0.02,-,-,Kitchen,kitchen
+-,,,,,,,,,,,
+village00,village,square,vehicle/shopmachine/civil,city,material,3,0.02,-,-,Wide intersection,wide intersection
+village01,village,square,vehicle/shopmachine/civil,city,material,2,0.02,-,-,Small crossroads,small crossroads
+village02,village,square,vehicle/shopmachine,city,material,2,0.02,-,-,Plaza,plaza
+village03,village,road,building/field/civil,city,material,1,0.02,-,-,Narrow alley,narrow alley
+village04,village,road,building/civil,city,material,2,0.02,-,-,Main street,main street
+village05,village,road,building/civil,city,material,1,0.02,-,-,Residential street,residential street
+village06,village,garden,exterior/vehicle/planter,house,material,1,0.02,-,-,House garden,house garden
+village07,village,garden,exterior/statue,luxury,material,1,0.02,-,-,Mansion front garden,mansion front garden
+-,,,,,,,,,,,
+camp00,camp,tent,container/clothes,camp,food,1,0.02,-,-,One-person tent,one-person tent
+camp01,camp,tent,campware/garbage/tableware,camp,food,1,0.02,-,-,Large tent,large tent
+camp02,camp,tent,light/garbage,camp,food,1,0.02,-,-,Collapsing tent,collapsing tent
+camp03,camp,grassland,field/container/vehicle,camp,food,2,0.02,-,-,Grassy plaza,grassy plaza
+camp04,camp,grassland,campware/container/field,camp,food,2,0.02,-,-,Grassy campsite,grassy campsite
+camp05,camp,riverside,river/container,camp,food,2,0.02,-,-,Riverside,riverside
+camp06,camp,riverside,river/nature,camp,food,2,0.02,-,-,Calm river,calm river
+camp07,camp,warehouse,storage/shelf/security,camp,cookingTool,1,0.02,-,-,Storage shed,storage shed
+camp08,camp,warehouse,garbage/container/tools,camp,cookingTool,1,0.02,-,-,Concrete warehouse,concrete warehouse
+-,,,,,,,,,,,
+seaside00,seaside,beach,sea/amusement,sea,cookingTool,2,0.02,-,-,Wide beach,wide beach
+seaside01,seaside,beach,sea/clothes/garbage,sea,cookingTool,2,0.02,-,-,Beach with traces of people,beach with traces of people
+seaside02,seaside,beach,sea/campware,sea,food,2,0.02,-,-,Beach campsite remains,beach campsite remains
+seaside03,seaside,shore,sea/nature/amusement,sea,cookingTool,1,0.02,-,-,Water's edge,water's edge
+seaside04,seaside,shore,sea/container,sea,food,1,0.02,-,-,Rocky shore battered by waves,rocky shore battered by waves
+seaside05,seaside,tent,tableware/kitchenware,sea,food,1,0.02,-,-,Small tent,small tent
+seaside06,seaside,tent,campware/electric,sea,food,1,0.02,-,-,Sturdy tent,sturdy tent
+seaside07,seaside,warehouse,shelf/storage/tools,sea,food,1,0.02,-,-,Brick warehouse,brick warehouse
+seaside08,seaside,warehouse,furniture/garbage,sea,food,1,0.02,-,-,Wooden shed,wooden shed
+-,,,,,,,,,,,
+hotel00,hotel,guestRoom,furniture/storage,inn,food,1,0.05,-,-,Single room,single room
+hotel01,hotel,guestRoom,furniture/storage,inn,food,1,0.05,-,-,Twin room,twin room
+hotel02,hotel,guestRoom,furniture/electric/container,inn,food,1,0.05,-,-,Family room,family room
+hotel03,hotel,corridor,container/picture,inn,material,2,0.05,-,-,Narrow hallway,narrow hallway
+hotel04,hotel,corridor,container/shelf/statue,luxury,material,2,0.05,-,-,Wide hallway,wide hallway
+hotel05,hotel,bath,bathware/clothes,inn,material,1,0.05,-,-,Bathroom,bathroom
+hotel06,hotel,bath,bathware/clothes,luxury,material,1,0.05,-,-,Luxurious bathroom,luxurious bathroom
+hotel07,hotel,warehouse,storage/tools,inn,food,1,0.05,-,-,Storage room,storage room
+hotel08,hotel,warehouse,storage/document/bookshelf,inn,material,1,0.05,-,-,Records room,records room
+hotel09,hotel,hall,light/picture,luxury,material,3,0.05,-,-,Entrance hall,entrance hall
+hotel10,hotel,hall,light/picture/container,inn,material,2,0.05,-,-,Elevator hall,elevator hall
+hotel11,hotel,staffRoom,bookshelf/stationery/furniture,office,material,1,0.05,-,-,Office,office
+hotel12,hotel,staffRoom,storage/planter/clothes,office,material,1,0.05,-,-,Changing room,changing room
+hotel13,hotel,kitchen,tableware/kitchenware,kitchen,food,1,0.05,-,-,Small kitchenette,small kitchenette
+hotel14,hotel,kitchen,tableware/kitchenware/electric,kitchen,food,1,0.05,-,-,Large kitchen,large kitchen
+-,,,,,,,,,,,
+library00,library,library,bookshelf/container,shop,material,1,0.05,-,-,Paperback shelves,paperback shelves
+library01,library,library,bookshelf/shelf,shop,material,2,0.05,-,-,Reference book shelves,reference book shelves
+library02,library,library,bookshelf/picture,shop,material,1,0.05,-,-,Magazine shelves,magazine shelves
+library03,library,library,bookshelf/garbage,shop,material,1,0.05,-,-,Partially empty bookshelves,partially empty bookshelves
+library04,library,hall,statue/storage,shop,material,2,0.05,-,-,Entrance hall,entrance hall
+library05,library,hall,toy/furniture/electric,shop,map,2,0.05,-,-,Event hall,event hall
+library06,library,warehouse,storage/garbage/instrument,shop,map,1,0.05,-,-,Warehouse,warehouse
+library07,library,warehouse,electric/storage,office,map,1,0.05,-,-,Equipment storage,equipment storage
+library08,library,staffRoom,officeSupply/electric/stationery,office,map,1,0.05,-,-,Office,office
+library09,library,staffRoom,document/electric,office,map,1,0.05,-,-,Reception,reception
+-,,,,,,,,,,,
+factory00,factory,machineRoom,machine/garbage,factory,material,1,0.02,-,-,Processing room,processing room
+factory01,factory,machineRoom,machine/storage,factory,material,2,0.02,-,-,Room lined with machines,room lined with machines
+factory02,factory,machineRoom,machine/container,factory,material,2,0.02,-,-,Large machine room,large machine room
+factory03,factory,office,document/stationery/furniture,office,material,1,0.02,-,-,Office,office
+factory04,factory,staffRoom,shopmachine/storage,office,material,1,0.02,-,-,Break room,break room
+factory05,factory,warehouse,shelf/storage,factory,material,1,0.02,-,-,Warehouse,warehouse
+factory06,factory,warehouse,shelf/tools,factory,material,1,0.02,-,-,Materials storage,materials storage
+factory07,factory,carryIn,storage/container,factory,material,2,0.02,-,-,Loading entrance,loading entrance
+-,,,,,,,,,,,
+homeCenter00,homeCenter,shop,planter/shelf,shop,hammer,2,0.02,-,-,Garden supplies section,garden supplies section
+homeCenter01,homeCenter,shop,tools/shelf,shop,hammer,2,0.02,-,-,Tools section,tools section
+homeCenter02,homeCenter,shop,furniture/shelf,shop,hammer,2,0.02,-,-,Household goods section,household goods section
+homeCenter03,homeCenter,warehouse,storage/container/electric,shop,hammer,1,0.02,-,-,Back room,back room
+homeCenter04,homeCenter,warehouse,furniture/electric,shop,hammer,1,0.02,-,-,Warehouse,warehouse
+homeCenter05,homeCenter,staffRoom,picture/storage,office,hammer,1,0.02,-,-,Waiting room,waiting room
+homeCenter06,homeCenter,staffRoom,storage/garbage,office,hammer,1,0.02,-,-,Changing room,changing room
+homeCenter07,homeCenter,carryIn,container/garbage,shop,hammer,2,0.02,-,-,Loading entrance,loading entrance
+homeCenter08,homeCenter,parking,vehicle/shopmachine,shop,hammer,2,0.02,-,-,Large parking lot,large parking lot
+homeCenter09,homeCenter,parking,vehicle/tools,shop,hammer,2,0.02,-,-,Underground parking lot,underground parking lot
+homeCenter10,homeCenter,parking,vehicle/garbage,shop,hammer,2,0.02,-,-,Rear parking lot,rear parking lot
+-,,,,,,,,,,,
+museum00,museum,gallery,storage/container,gallery,tool,1,0.05,-,-,Fossil exhibit room,fossil exhibit room
+museum01,museum,gallery,container/statue,gallery,tool,2,0.05,-,-,Taxidermy exhibit room,taxidermy exhibit room
+museum02,museum,gallery,storage/tools,gallery,tool,1,0.05,-,-,Model exhibit room,model exhibit room
+museum03,museum,gallery,statue/storage,gallery,tool,2,0.05,-,-,Ancient book exhibit room,ancient book exhibit room
+museum04,museum,hall,furniture/light/shelf,gallery,tool,2,0.05,-,-,Entrance hall,entrance hall
+museum05,museum,hall,picture/bookshelf/container,gallery,tool,1,0.05,-,-,Event hall,event hall
+museum06,museum,office,officeSupply/electric/stationery,office,tool,1,0.05,-,-,Office,office
+museum07,museum,warehouse,storage/tools,office,tool,1,0.05,-,-,Warehouse,warehouse
+museum08,museum,corridor,storage/planter,gallery,tool,2,0.05,-,-,Wide hallway,wide hallway
+museum09,museum,corridor,container/document,gallery,tool,1,0.05,-,-,Quiet hallway,quiet hallway
+-,,,,,,,,,,,
+amusementPark00,amusementPark,attractions,amusement/shopmachine/storage,park,tool,2,0.02,-,-,Stopped Ferris wheel,stopped ferris wheel
+amusementPark01,amusementPark,attractions,amusement/shopmachine,park,tool,1,0.02,-,-,Motionless carousel,motionless carousel
+amusementPark02,amusementPark,attractions,amusement/shopmachine/civil,park,tool,2,0.02,-,-,Abandoned roller coaster,abandoned roller coaster
+amusementPark03,amusementPark,attractions,amusement/shopmachine,park,tool,2,0.02,-,-,Go-kart with a foul smell,go-kart with a foul smell
+amusementPark04,amusementPark,square,statue/civil/container,park,tool,3,0.02,-,-,Bronze statue plaza,bronze statue plaza
+amusementPark05,amusementPark,square,civil/container,park,tool,1,0.02,-,-,Fountain plaza,fountain plaza
+amusementPark06,amusementPark,office,storage/furniture/clothes,office,tool,1,0.02,-,-,Office,office
+amusementPark07,amusementPark,warehouse,container/tools/storage,park,tool,1,0.02,-,-,Warehouse,warehouse
+-,,,,,,,,,,,
+school00,school,classroom,stationery/tools/school,school,hammer,2,0.02,-,-,First-year classroom,first-year classroom
+school01,school,classroom,stationery/tools/school,school,hammer,2,0.02,-,-,Second-year classroom,second-year classroom
+school02,school,classroom,stationery/tools/school,school,hammer,2,0.02,-,-,Third-year classroom,third-year classroom
+school03,school,classroom,stationery/tools/school,school,hammer,2,0.02,-,-,Empty classroom,empty classroom
+school04,school,office,security/shelf/officeSupply,school,hammer,1,0.02,-,-,Staff room,staff room
+school05,school,warehouse,bookshelf/storage/garbage/document,school,hammer,1,0.02,-,-,Teaching materials room,teaching materials room
+school06,school,warehouse,tools/storage/garbage,school,hammer,1,0.02,-,-,Warehouse,warehouse
+school07,school,hall,light/picture,school,hammer,3,0.02,-,-,Entrance hall,entrance hall
+-,,,,,,,,,,,
+underpass00,underpass,underpass,container/garbage/shopmachine,underpass,material,1,0.02,-,-,Dark road,dark road
+underpass01,underpass,underpass,container/garbage/shopmachine,underpass,material,1,0.02,-,-,Road covered in posters,road covered in posters
+underpass02,underpass,underpass,container/tools/shopmachine,underpass,material,1,0.02,-,-,Tiled road,tiled road
+underpass03,underpass,underpass,container/tools/shopmachine,underpass,material,1,0.02,-,-,Low-ceilinged road,low-ceilinged road
+underpass04,underpass,warehouse,shelf/container,underpass,material,1,0.02,-,-,Warehouse,warehouse
+underpass05,underpass,warehouse,shelf/container,underpass,material,1,0.02,-,-,Materials storage,materials storage
+underpass06,underpass,staffRoom,security/shelf/garbage,underpass,material,1,0.02,-,-,Staff room,staff room
+underpass07,underpass,machineRoom,tools/garbage,underpass,material,1,0.02,-,-,Machine room,machine room
+-,,,,,,,,,,,
+cafe00,cafe,dining,tableware/food,shop,food,2,0.02,-,-,Booth seating,booth seating
+cafe01,cafe,dining,tableware/food,shop,food,2,0.02,-,-,Counter,counter
+cafe02,cafe,shop,toy/container,shop,food,1,0.02,-,-,General goods section,general goods section
+cafe03,cafe,shop,food/container,shop,food,1,0.02,-,-,Confectionery section,confectionery section
+cafe04,cafe,kitchen,kitchenware/tableware/food,shop,food,1,0.02,-,-,Kitchen,kitchen
+cafe05,cafe,kitchen,kitchenware/tableware/food,shop,food,1,0.02,-,-,Kitchen,kitchen
+cafe06,cafe,office,furniture/shelf/stationery,shop,food,1,0.02,-,-,Drink server,drink server
+cafe07,cafe,warehouse,storage/tools/garbage,shop,food,1,0.02,-,-,Warehouse,warehouse
+-,,,,,,,,,,,
+station00,station,hall,statue/light/picture,station,material,2,0.02,-,-,In front of the ticket gates,in front of the ticket gates
+station01,station,hall,statue/light/picture,station,material,2,0.02,-,-,Concourse,concourse
+station02,station,hall,statue/light/picture,station,material,2,0.02,-,-,Waiting room,waiting room
+station03,station,corridor,storage/planter,station,material,1,0.02,-,-,Connecting passage,connecting passage
+station04,station,corridor,storage/planter,station,material,1,0.02,-,-,Public passage,public passage
+station05,station,office,furniture/shelf/electric,station,material,1,0.02,-,-,Station staff room,station staff room
+station06,station,office,officeSupply/furniture/planter,station,material,1,0.02,-,-,Office,office
+station07,station,warehouse,tools/garbage,station,material,1,0.02,-,-,Warehouse,warehouse
+-,,,,,,,,,,,
+restaurant00,restaurant,dining,tableware/food/container,shop,food,2,0.02,-,-,Counter,counter
+restaurant01,restaurant,dining,tableware/food/garbage,shop,food,2,0.02,-,-,Table seating,table seating
+restaurant02,restaurant,dining,tableware/food/picture,shop,food,2,0.02,-,-,Booth seating,booth seating
+restaurant03,restaurant,dining,tableware/food/planter,shop,food,2,0.02,-,-,Hall,hall
+restaurant04,restaurant,kitchen,kitchenware/tableware/food,shop,food,1,0.02,-,-,Kitchen,kitchen
+restaurant05,restaurant,kitchen,kitchenware/tableware/food,shop,food,1,0.02,-,-,Kitchen,kitchen
+restaurant06,restaurant,kitchen,kitchenware/tableware/food,shop,food,1,0.02,-,-,Drink server,drink server
+restaurant07,restaurant,warehouse,storage/tools/garbage,shop,food,1,0.02,-,-,Warehouse,warehouse
+-,,,,,,,,,,,
+prison00,prison,hall,bookshelf/container/document,prison,ammo,2,0.02,-,-,Waiting room,waiting room
+prison01,prison,hall,bookshelf/container/document,prison,ammo,2,0.02,-,-,Entrance hall,entrance hall
+prison02,prison,corridor,container/garbage,prison,ammo,2,0.02,-,-,Dimly lit hallway,dimly lit hallway
+prison03,prison,corridor,container/document,prison,ammo,2,0.02,-,-,Wide hallway,wide hallway
+prison04,prison,corridor,container/bookshelf,prison,ammo,2,0.02,-,-,Windowless passage,windowless passage
+prison05,prison,office,stationery/furniture,office,ammo,1,0.02,-,-,Office,office
+prison06,prison,office,stationery/document,office,ammo,1,0.02,-,-,Reception,reception
+prison07,prison,warehouse,storage/tools,antique,ammo,1,0.02,-,-,Warehouse,warehouse
+prison08,prison,warehouse,storage/tools/clothes,antique,ammo,1,0.02,-,-,Storage room,storage room
+-,,,,,,,,,,,
+storehouse00,storehouse,warehouse,container/storage,factory,material,1,0.05,-,-,Shelf marked A,shelf marked A
+storehouse01,storehouse,warehouse,container/storage,factory,material,1,0.05,-,-,Shelf marked B,shelf marked B
+storehouse02,storehouse,warehouse,container/storage,factory,material,1,0.05,-,-,Shelf marked C,shelf marked C
+storehouse03,storehouse,warehouse,container/storage,factory,material,1,0.05,-,-,Shelf marked D,shelf marked D
+storehouse04,storehouse,office,stationery/furniture/tools,office,material,1,0.05,-,-,Office,office
+storehouse05,storehouse,corridor,garbage/shelf,factory,material,2,0.05,-,-,Narrow hallway,narrow hallway
+-,,,,,,,,,,,
+hospital00,hospital,hall,picture/container,hospital,medicine,2,0,-,-,Waiting room,waiting room
+hospital01,hospital,hospitalRoom,shelf/stationery/container,hospital,medicine,2,0,-,-,Examination room,examination room
+hospital02,hospital,hospitalRoom,shelf/storage,hospital,medicine,1,0,-,-,Patient room,patient room
+hospital03,hospital,corridor,picture/planter,hospital,medicine,1,0,-,-,Quiet hallway,quiet hallway
+hospital04,hospital,office,stationery/furniture/shelf,hospital,medicine,1,0,-,-,Office,office
+hospital05,hospital,kitchen,tableware/kitchenware,hospital,medicine,1,0,-,-,Kitchen,kitchen
+hospital06,hospital,warehouse,container/storage,hospital,medicine,1,0,-,-,Warehouse,warehouse
+-,,,,,,,,,,,
+theater00,theater,hall,picture/container,gallery,document,2,0,-,-,Entrance hall,entrance hall
+theater01,theater,hall,picture/bookshelf,gallery,document,2,0,-,-,Large hall,large hall
+theater02,theater,corridor,picture/planter,gallery,document,1,0,-,-,Dimly lit hallway,dimly lit hallway
+theater03,theater,office,stationery/furniture/shelf,office,document,1,0,-,-,Office,office
+theater04,theater,office,clothes/electric/instrument,office,document,1,0,-,-,Waiting room,waiting room
+-,,,,,,,,,,,
+foodStorage00,foodStorage,room,shelf/container/storage,food,-,2,0,StageOptionNoBattle,itemGetFood00/itemGetFood00/itemGetCookingTool00/itemGetIdBox00/itemGetFood00,Room marked A,room marked A
+foodStorage01,foodStorage,room,shelf/container/storage,food,-,2,0,StageOptionNoBattle,itemGetFood00/itemGetFood00/itemGetCookingTool00/itemGetIdBox00/itemGetFood00,Room marked B,room marked B
+foodStorage02,foodStorage,room,shelf/container/storage,food,-,2,0,StageOptionNoBattle,itemGetFood00/itemGetFood00/itemGetCookingTool00/itemGetIdBox00/itemGetFood00,Room marked C,room marked C
+foodStorage03,foodStorage,warehouse,shelf/container/storage,food,-,2,0,StageOptionNoBattle,itemGetFood00/itemGetFood00/itemGetCookingTool00/itemGetIdBox00/itemGetFood00,Warehouse marked D,warehouse marked D
+foodStorage04,foodStorage,warehouse,shelf/container/storage,food,-,2,0,StageOptionNoBattle,itemGetFood00/itemGetFood00/itemGetCookingTool00/itemGetIdBox00/itemGetFood00,Warehouse marked E,warehouse marked E
+-,,,,,,,,,,,
+armoury00,armoury,room,shelf/container/storage,weapon,-,2,0,StageOptionNoBattle,itemGetGun01/itemGetAmmo00/itemGetAmmo00/itemGetIdBox00/itemGetGun01,Room marked A,room marked A
+armoury01,armoury,room,shelf/container/storage,weapon,-,2,0,StageOptionNoBattle,itemGetGun01/itemGetAmmo00/itemGetAmmo00/itemGetIdBox00/itemGetGun01,Room marked B,room marked B
+armoury02,armoury,room,shelf/container/storage,weapon,-,2,0,StageOptionNoBattle,itemGetGun01/itemGetAmmo00/itemGetAmmo00/itemGetIdBox00/itemGetGun01,Room marked C,room marked C
+armoury03,armoury,warehouse,shelf/container/storage,weapon,-,2,0,StageOptionNoBattle,itemGetGun01/itemGetAmmo00/itemGetAmmo00/itemGetIdBox00/itemGetGun01,Warehouse marked D,warehouse marked D
+armoury04,armoury,warehouse,shelf/container/storage,weapon,-,2,0,StageOptionNoBattle,itemGetGun01/itemGetAmmo00/itemGetAmmo00/itemGetIdBox00/itemGetGun01,Warehouse marked E,warehouse marked E
+-,,,,,,,,,,,
+baseCamp00,baseCamp,baseCamp,baseCamp,baseCamp,-,1,0,StageOptionNoBattle,-,Open area,open area
+-,,,,,,,,,,,
