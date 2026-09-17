@@ -38,6 +38,16 @@ Feedback is very welcome. The translation is still under review and may not be c
 
 
 
+##### Debug instalation
+
+1. Install app.debug.asar in [Released](https://github.com/Callypig/Natsuno-Kanata-English-Patch/releases)
+
+2. Rename it app.asar and put it in the resources folder of your game's path.
+
+3. Once you're ingame, to activate debug mode, you need to click on the top left of the screen.
+
+
+
 ## Informations
 
 ##### what this patch does
