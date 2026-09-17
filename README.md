@@ -31,7 +31,7 @@ Feedback is very welcome. The translation is still under review and may not be c
    
   
   
- <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
+
 1.In [Released](https://github.com/Callypig/Natsuno-Kanata-English-Patch/releases) download the app.asar game file
 
 
@@ -51,7 +51,7 @@ Feedback is very welcome. The translation is still under review and may not be c
 ![](https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/DebugExemple.gif)
 
 
-
+ <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
 ## Informations
 
 ##### what this patch does
