@@ -71,4 +71,4 @@ discord: calypig
 
 you must pray for me.
 
-[Natsuno Kanata website](https://natsuno-kanata.online)
+[Natsuno Kanata website](https://natsuno-kanata.online) 
