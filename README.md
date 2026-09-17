@@ -51,8 +51,9 @@ Feedback is very welcome. The translation is still under review and may not be c
 ![](https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/DebugExemple.gif)
 
 
- <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
-## Informations
+
+ 
+## Informations <img src="https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/Akane.png" align="right" width="70">
 
 ##### what this patch does
 
