@@ -9,6 +9,8 @@ this patch is currently only available for the original version of the game, ano
 
 This patch contains only a few episodes translated, others chapters will come in a few days.
 
+The original debugged version of the game is also included in this patch, which can be used to create mods or your own translation.
+
 Feedback is very welcome. The translation is still under review and may not be completely accurate for now.
 
 ## Install
@@ -45,6 +47,8 @@ Feedback is very welcome. The translation is still under review and may not be c
 2. Rename it app.asar and put it in the resources folder of your game's path.
 
 3. Once you're ingame, to activate debug mode, you need to click on the top left of the screen.
+
+![](https://raw.githubusercontent.com/Callypig/Natsuno-Kanata-English-Patch/main/ress/DebugExemple.gif)
 
 
 
